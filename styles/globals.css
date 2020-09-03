@@ -14,3 +14,21 @@ a {
 * {
   box-sizing: border-box;
 }
+
+h1 {
+  font-size: 5em;
+  text-align: center;
+}
+
+.characters {
+  display: grid;
+  grid-gap: 1em;
+  max-width: 50em;
+  margin: auto;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+footer {
+  padding-block: 2em;
+  text-align: center;
+}
