@@ -12,11 +12,14 @@ export default function Home() {
       <main>
         <h1>Charmap</h1>
         <div className='characters'>
-          <Character char='&copy;' entity='&copy;' css='/0021' type='symbol' />
-          <Character char='&copy;' entity='&copy;' css='/0021' type='symbol' />
-          <Character char='&copy;' entity='&copy;' css='/0021' type='symbol' />
-          <Character char='&copy;' entity='&copy;' css='/0021' type='symbol' />
-          <Character char='&copy;' entity='&copy;' css='/0021' type='symbol' />
+          <Character entity='copy' code='/0021' type='symbol' />
+          <Character entity='gt' code='/0021' type='symbol' />
+          <Character entity='xi' code='/0021' type='symbol' />
+          <Character entity='copy' code='/0021' type='symbol' />
+          <Character entity='copy' code='/0021' type='symbol' />
+          <Character entity='copy' code='/0021' type='symbol' />
+          <Character entity='copy' code='/0021' type='symbol' />
+          <Character entity='copy' code='/0021' type='symbol' />
         </div>
       </main>
 
