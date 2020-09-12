@@ -1,5 +1,5 @@
-import styled from 'styled-components';
-import { useState } from 'react';
+import styled from "styled-components";
+import { useState } from "react";
 
 interface CardProps {
   entity: string;
@@ -22,7 +22,7 @@ const Character: React.FC<CardProps> = ({ entity, code, type }) => {
         }, 3000);
       },
       function (err) {
-        console.error('Async: Could not copy text: ', err);
+        console.error("Async: Could not copy text: ", err);
       }
     );
   }
@@ -31,16 +31,16 @@ const Character: React.FC<CardProps> = ({ entity, code, type }) => {
     <Card>
       <Letter>
         <span>{type}</span>
-        <h4 dangerouslySetInnerHTML={{ __html: `&${entity};` }} />
+        <h4 dangerouslySetInnerHTML={{ __html: `${entity}` }} />
         {copied && <div>Copied</div>}
       </Letter>
       <Code>
         <strong>HTML</strong>
         <button onClick={(e) => copyCode(e)}>
-          <pre>&{entity};</pre>
+          <pre>{entity}</pre>
         </button>
         <strong>CSS</strong>
-        <button>
+        <button onClick={(e) => copyCode(e)}>
           <pre>{code}</pre>
         </button>
       </Code>
