@@ -29,7 +29,7 @@ const Character: React.FC<CardProps> = ({ entity, code, type }) => {
 
   return (
     <Card>
-      <Letter category={type}>
+      <Letter category={type} onClick={(e) => copyCode(e)}>
         <span>{type}</span>
         <h4 dangerouslySetInnerHTML={{ __html: `${entity}` }} />
         {copied && <div>Copied</div>}

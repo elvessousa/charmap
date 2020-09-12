@@ -32,14 +32,16 @@ type LetterProps = {
   category: string;
 };
 
-export const Letter = styled.div<LetterProps>`
-  background: #000;
+export const Letter = styled.button<LetterProps>`
+  background: ${(props) => props.category && colors[props.category]};
+  border: none;
   color: #fff;
+  cursor: pointer;
   text-align: center;
+  width: 100%;
   height: 130px;
   padding: 1em;
   position: relative;
-  background-color: ${(props) => props.category && colors[props.category]};
 
   h4 {
     font-size: 5em;
@@ -55,7 +57,7 @@ export const Letter = styled.div<LetterProps>`
     position: absolute;
     top: 0;
     left: 0;
-    font-size: 0.6em;
+    font-size: 1em;
     padding: 0.5em 1em;
     text-transform: uppercase;
   }
@@ -64,7 +66,7 @@ export const Letter = styled.div<LetterProps>`
     background: #fc0;
     color: #000;
     border-radius: 0.3em;
-    font-size: 0.8em;
+    font-size: 1em;
     font-weight: bold;
     padding: 0.5em;
     position: absolute;
