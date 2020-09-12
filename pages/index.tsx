@@ -1,29 +1,56 @@
-import Head from 'next/head';
-import Character from '../components/Character';
+import { GetStaticProps, NextPage } from "next";
+import Head from "next/head";
+import Character from "../components/Character";
 
-export default function Home() {
+interface PageProps {
+  chars: Character[];
+}
+
+interface Character {
+  char: string;
+  code: string;
+  css: string;
+  type: string;
+  name: string;
+}
+
+const Home: NextPage<PageProps> = ({ chars }) => {
+  const symbols = chars.filter((char) => char.type === "symbol");
+
   return (
     <div>
       <Head>
         <title>Character Map</title>
-        <link rel='icon' href='/favicon.ico' />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1>Charmap</h1>
-        <div className='characters'>
-          <Character entity='copy' code='/0021' type='symbol' />
-          <Character entity='gt' code='/0021' type='symbol' />
-          <Character entity='xi' code='/0021' type='symbol' />
-          <Character entity='copy' code='/0021' type='symbol' />
-          <Character entity='copy' code='/0021' type='symbol' />
-          <Character entity='copy' code='/0021' type='symbol' />
-          <Character entity='copy' code='/0021' type='symbol' />
-          <Character entity='copy' code='/0021' type='symbol' />
+        <div className="characters">
+          {symbols.map((char: Character) => (
+            <Character
+              key={char.code}
+              entity={char.code}
+              code={char.css}
+              type={char.type}
+            />
+          ))}
         </div>
       </main>
 
       <footer>Elves Sousa &copy; 2020</footer>
     </div>
   );
-}
+};
+
+export const getStaticProps: GetStaticProps = async () => {
+  const data = await import(`../data/chars.json`);
+
+  return {
+    props: {
+      chars: data.characters,
+    },
+  };
+};
+
+export default Home;
