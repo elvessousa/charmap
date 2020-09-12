@@ -1,0 +1,8320 @@
+{
+  "characters": [
+    {
+      "char": "tab",
+      "code": "&Tab;",
+      "css": "-",
+      "type": "space",
+      "name": "Tab"
+    },
+    {
+      "char": "newline",
+      "code": "&NewLine;",
+      "css": "-",
+      "type": "space",
+      "name": "New line"
+    },
+    {
+      "char": "!",
+      "code": "&excl;",
+      "css": "!",
+      "type": "punctuation",
+      "name": "Exclamation mark"
+    },
+    {
+      "char": "&quot;",
+      "code": "&quot;",
+      "css": "&",
+      "type": "punctuation",
+      "name": "Quote"
+    },
+    {
+      "char": "#",
+      "code": "&num;",
+      "css": "#",
+      "type": "symbol",
+      "name": "Number / Sharp"
+    },
+    {
+      "char": "$",
+      "code": "&dollar;",
+      "css": "$",
+      "type": "symbol",
+      "name": "Dollar"
+    },
+    {
+      "char": "%",
+      "code": "&percnt;",
+      "css": "%",
+      "type": "math",
+      "name": "Percent"
+    },
+    {
+      "char": "&",
+      "code": "&amp;",
+      "css": "&",
+      "type": "symbol",
+      "name": "Ampersand"
+    },
+    {
+      "char": "'",
+      "code": "&apos;",
+      "css": "'",
+      "type": "punctuation",
+      "name": "Apostrophe"
+    },
+    {
+      "char": "(",
+      "code": "&lpar;",
+      "css": "(",
+      "type": "punctuation",
+      "name": "Left parenthesis"
+    },
+    {
+      "char": ")",
+      "code": "&rpar;",
+      "css": ")",
+      "type": "punctuation",
+      "name": "Right parenthesis"
+    },
+    {
+      "char": "*",
+      "code": "&ast;",
+      "css": "*",
+      "type": "math",
+      "name": "Asterisk"
+    },
+    {
+      "char": "+",
+      "code": "&plus;",
+      "css": "+",
+      "type": "math",
+      "name": "Plus"
+    },
+    {
+      "char": "",
+      "code": "",
+      "css": "&comma;",
+      "type": "",
+      "name": ""
+    },
+    {
+      "char": ".",
+      "code": "&period;",
+      "css": ".",
+      "type": "punctuation",
+      "name": "Period"
+    },
+    {
+      "char": "/",
+      "code": "&sol;",
+      "css": "/",
+      "type": "punctuation",
+      "name": "Slash"
+    },
+    {
+      "char": ":",
+      "code": "&colon;",
+      "css": ":",
+      "type": "punctuation",
+      "name": "Colon"
+    },
+    {
+      "char": ";",
+      "code": "&semi;",
+      "css": ";",
+      "type": "punctuation",
+      "name": "Semicolon"
+    },
+    {
+      "char": "<",
+      "code": "&lt;",
+      "css": "<",
+      "type": "math",
+      "name": "Less than"
+    },
+    {
+      "char": "=",
+      "code": "&equals;",
+      "css": "=",
+      "type": "math",
+      "name": "Equals"
+    },
+    {
+      "char": ">",
+      "code": "&gt;",
+      "css": ">",
+      "type": "math",
+      "name": "Greather than"
+    },
+    {
+      "char": "?",
+      "code": "&quest;",
+      "css": "?",
+      "type": "punctuation",
+      "name": "Question mark"
+    },
+    {
+      "char": "@",
+      "code": "&commat;",
+      "css": "@",
+      "type": "symbol",
+      "name": "At"
+    },
+    {
+      "char": "[",
+      "code": "&lsqb;",
+      "css": "[",
+      "type": "punctuation",
+      "name": "Left brackets"
+    },
+    {
+      "char": "\\",
+      "code": "&bsol;",
+      "css": "\\\\",
+      "type": "punctuation",
+      "name": "Backwards slash"
+    },
+    {
+      "char": "]",
+      "code": "&rsqb;",
+      "css": "]",
+      "type": "punctuation",
+      "name": "Right brackets"
+    },
+    {
+      "char": "^",
+      "code": "&Hat;",
+      "css": "^",
+      "type": "diacritic",
+      "name": "Hat"
+    },
+    {
+      "char": "_",
+      "code": "&lowbar;",
+      "css": "_",
+      "type": "symbol",
+      "name": "Low bar"
+    },
+    {
+      "char": "`",
+      "code": "&grave;",
+      "css": "`",
+      "type": "diacritic",
+      "name": "name"
+    },
+    {
+      "char": "{",
+      "code": "&lcub;",
+      "css": "{",
+      "type": "math",
+      "name": "Left curly brackets"
+    },
+    {
+      "char": "|",
+      "code": "&verbar;",
+      "css": "|",
+      "type": "typography",
+      "name": "Vertical bar / Pipe"
+    },
+    {
+      "char": "}",
+      "code": "&rcub;",
+      "css": "}",
+      "type": "symbol",
+      "name": "Right curly brackets"
+    },
+    {
+      "char": " ",
+      "code": "&nbsp;",
+      "css": " ",
+      "type": "symbol",
+      "name": "Non-breaking space"
+    },
+    {
+      "char": "¡",
+      "code": "&iexcl;",
+      "css": "\\00A1",
+      "type": "punctuation",
+      "name": "Inverted exclamation mark"
+    },
+    {
+      "char": "¢",
+      "code": "&cent;",
+      "css": "\\00A2",
+      "type": "currency",
+      "name": "Cents"
+    },
+    {
+      "char": "£",
+      "code": "&pound;",
+      "css": "\\00A3",
+      "type": "currency",
+      "name": "Pounds"
+    },
+    {
+      "char": "¤",
+      "code": "&curren;",
+      "css": "\\00A4",
+      "type": "currency",
+      "name": "Currency"
+    },
+    {
+      "char": "¥",
+      "code": "&yen;",
+      "css": "\\00A5",
+      "type": "currency",
+      "name": "Yen"
+    },
+    {
+      "char": "¦",
+      "code": "&brvbar;",
+      "css": "\\00A6",
+      "type": "typography",
+      "name": "Broken bar"
+    },
+    {
+      "char": "§",
+      "code": "&sect;",
+      "css": "\\00A7",
+      "type": "typography",
+      "name": "Section sign"
+    },
+    {
+      "char": "¨",
+      "code": "&Dot;",
+      "css": "\\00A8",
+      "type": "diacritic",
+      "name": "Diaeresis"
+    },
+    {
+      "char": "©",
+      "code": "&copy;",
+      "css": "\\00A9",
+      "type": "symbol",
+      "name": "Copyright sign"
+    },
+    {
+      "char": "ª",
+      "code": "&ordf;",
+      "css": "\\00AA",
+      "type": "typography",
+      "name": "Feminine ordinal indicator"
+    },
+    {
+      "char": "«",
+      "code": "&laquo;",
+      "css": "\\00AB",
+      "type": "punctuation",
+      "name": "Left double angle quotation mark"
+    },
+    {
+      "char": "¬",
+      "code": "&not;",
+      "css": "\\00AC",
+      "type": "symbol",
+      "name": "Not straightepsilon"
+    },
+    {
+      "char": "shy",
+      "code": "&shy;",
+      "css": "s",
+      "type": "symbol",
+      "name": "Soft hyphen"
+    },
+    {
+      "char": "®",
+      "code": "&reg;",
+      "css": "\\00AE",
+      "type": "symbol",
+      "name": "Registered sign"
+    },
+    {
+      "char": "¯",
+      "code": "&macr;",
+      "css": "\\00AF",
+      "type": "diacritic",
+      "name": "Macron / Over bar"
+    },
+    {
+      "char": "°",
+      "code": "&deg;",
+      "css": "\\00B0",
+      "type": "symbol",
+      "name": "Degree"
+    },
+    {
+      "char": "±",
+      "code": "&plusmn;",
+      "css": "\\00B1",
+      "type": "math",
+      "name": "Plus-minus sign"
+    },
+    {
+      "char": "²",
+      "code": "&sup2;",
+      "css": "\\00B2",
+      "type": "math",
+      "name": "Superscript two / Square"
+    },
+    {
+      "char": "³",
+      "code": "&sup3;",
+      "css": "\\00B3",
+      "type": "math",
+      "name": "Superscript three / Cube"
+    },
+    {
+      "char": "´",
+      "code": "&acute;",
+      "css": "\\00B4",
+      "type": "diacritic",
+      "name": "Acute"
+    },
+    {
+      "char": "µ",
+      "code": "&micro;",
+      "css": "\\00B5",
+      "type": "symbol",
+      "name": "Micro sign"
+    },
+    {
+      "char": "¶",
+      "code": "&para;",
+      "css": "\\00B6",
+      "type": "typography",
+      "name": "Paragraph"
+    },
+    {
+      "char": "·",
+      "code": "&middot;",
+      "css": "\\00B7",
+      "type": "typography",
+      "name": "Middle dot"
+    },
+    {
+      "char": "¸",
+      "code": "&cedil;",
+      "css": "\\00B8",
+      "type": "diacritic",
+      "name": "Cedilla"
+    },
+    {
+      "char": "¹",
+      "code": "&sup1;",
+      "css": "\\00B9",
+      "type": "math",
+      "name": "Superscript one"
+    },
+    {
+      "char": "º",
+      "code": "&ordm;",
+      "css": "\\00BA",
+      "type": "math",
+      "name": "Masculine ordinal indicator"
+    },
+    {
+      "char": "»",
+      "code": "&raquo;",
+      "css": "\\00BB",
+      "type": "punctuation",
+      "name": "Left double angle quotation mark"
+    },
+    {
+      "char": "¼",
+      "code": "&frac14;",
+      "css": "\\00BC",
+      "type": "math",
+      "name": "One quarter"
+    },
+    {
+      "char": "½",
+      "code": "&frac12;",
+      "css": "\\00BD",
+      "type": "math",
+      "name": "One half"
+    },
+    {
+      "char": "¾",
+      "code": "&frac34;",
+      "css": "\\00BE",
+      "type": "math",
+      "name": "Three quarters"
+    },
+    {
+      "char": "¿",
+      "code": "&iquest;",
+      "css": "\\00BF",
+      "type": "punctuation",
+      "name": "Inverted question mark"
+    },
+    {
+      "char": "À",
+      "code": "&Agrave;",
+      "css": "\\00C0",
+      "type": "extended",
+      "name": "A with grave"
+    },
+    {
+      "char": "Á",
+      "code": "&Aacute;",
+      "css": "\\00C1",
+      "type": "extended",
+      "name": "A with acute"
+    },
+    {
+      "char": "Â",
+      "code": "&Acirc;",
+      "css": "\\00C2",
+      "type": "extended",
+      "name": "A with circumflex"
+    },
+    {
+      "char": "Ã",
+      "code": "&Atilde;",
+      "css": "\\00C3",
+      "type": "extended",
+      "name": "A with tilde"
+    },
+    {
+      "char": "Ä",
+      "code": "&Auml;",
+      "css": "\\00C4",
+      "type": "extended",
+      "name": "A with diaeresis"
+    },
+    {
+      "char": "Å",
+      "code": "&Aring;",
+      "css": "\\00C5",
+      "type": "extended",
+      "name": "A with ring"
+    },
+    {
+      "char": "Æ",
+      "code": "&AElig;",
+      "css": "\\00C6",
+      "type": "extended",
+      "name": "Æ letter"
+    },
+    {
+      "char": "Ç",
+      "code": "&Ccedil;",
+      "css": "\\00C7",
+      "type": "extended",
+      "name": "C cedilla"
+    },
+    {
+      "char": "È",
+      "code": "&Egrave;",
+      "css": "\\00C8",
+      "type": "extended",
+      "name": "E with grave"
+    },
+    {
+      "char": "É",
+      "code": "&Eacute;",
+      "css": "\\00C9",
+      "type": "extended",
+      "name": "E with acute"
+    },
+    {
+      "char": "Ê",
+      "code": "&Ecirc;",
+      "css": "\\00CA",
+      "type": "extended",
+      "name": "E with circumflex"
+    },
+    {
+      "char": "Ë",
+      "code": "&Euml;",
+      "css": "\\00CB",
+      "type": "extended",
+      "name": "E with diaeresis"
+    },
+    {
+      "char": "Ì",
+      "code": "&Igrave;",
+      "css": "\\00CC",
+      "type": "extended",
+      "name": "I with grave"
+    },
+    {
+      "char": "Í",
+      "code": "&Iacute;",
+      "css": "\\00CD",
+      "type": "extended",
+      "name": "I with acute"
+    },
+    {
+      "char": "Î",
+      "code": "&Icirc;",
+      "css": "\\00CE",
+      "type": "extended",
+      "name": "I with circumflex"
+    },
+    {
+      "char": "Ï",
+      "code": "&Iuml;",
+      "css": "\\00CF",
+      "type": "extended",
+      "name": "I with diaeresis"
+    },
+    {
+      "char": "Ð",
+      "code": "&ETH;",
+      "css": "\\00D0",
+      "type": "extended",
+      "name": "Eth"
+    },
+    {
+      "char": "Ñ",
+      "code": "&Ntilde;",
+      "css": "\\00D1",
+      "type": "extended",
+      "name": "N with tilde"
+    },
+    {
+      "char": "Ò",
+      "code": "&Ograve;",
+      "css": "\\00D2",
+      "type": "extended",
+      "name": "O with grave"
+    },
+    {
+      "char": "Ó",
+      "code": "&Oacute;",
+      "css": "\\00D3",
+      "type": "extended",
+      "name": "O with acute"
+    },
+    {
+      "char": "Ô",
+      "code": "&Ocirc;",
+      "css": "\\00D4",
+      "type": "extended",
+      "name": "O with circumflex"
+    },
+    {
+      "char": "Õ",
+      "code": "&Otilde;",
+      "css": "\\00D5",
+      "type": "extended",
+      "name": "O with tilde"
+    },
+    {
+      "char": "Ö",
+      "code": "&Ouml;",
+      "css": "\\00D6",
+      "type": "extended",
+      "name": "O with diaeresis"
+    },
+    {
+      "char": "×",
+      "code": "&times;",
+      "css": "\\00D7",
+      "type": "math",
+      "name": "Times"
+    },
+    {
+      "char": "Ø",
+      "code": "&Oslash;",
+      "css": "\\00D8",
+      "type": "extended",
+      "name": "O with stroke"
+    },
+    {
+      "char": "Ù",
+      "code": "&Ugrave;",
+      "css": "\\00D9",
+      "type": "extended",
+      "name": "U with grave"
+    },
+    {
+      "char": "Ú",
+      "code": "&Uacute;",
+      "css": "\\00DA",
+      "type": "extended",
+      "name": "U with acute"
+    },
+    {
+      "char": "Û",
+      "code": "&Ucirc;",
+      "css": "\\00DB",
+      "type": "extended",
+      "name": "U with circumflex"
+    },
+    {
+      "char": "Ü",
+      "code": "&Uuml;",
+      "css": "\\00DC",
+      "type": "extended",
+      "name": "U with diaeresis"
+    },
+    {
+      "char": "Ý",
+      "code": "&Yacute;",
+      "css": "\\00DD",
+      "type": "extended",
+      "name": "Y with acute"
+    },
+    {
+      "char": "Þ",
+      "code": "&THORN;",
+      "css": "\\00DE",
+      "type": "extended",
+      "name": "Thorn"
+    },
+    {
+      "char": "ß",
+      "code": "&szlig;",
+      "css": "\\00DF",
+      "type": "extended",
+      "name": "Sharp S / German S"
+    },
+    {
+      "char": "à",
+      "code": "&agrave;",
+      "css": "\\00E0",
+      "type": "extended",
+      "name": "a with grade"
+    },
+    {
+      "char": "á",
+      "code": "&aacute;",
+      "css": "\\00E1",
+      "type": "extended",
+      "name": "a with acute"
+    },
+    {
+      "char": "â",
+      "code": "&acirc;",
+      "css": "\\00E2",
+      "type": "extended",
+      "name": "a with circumflex"
+    },
+    {
+      "char": "ã",
+      "code": "&atilde;",
+      "css": "\\00E3",
+      "type": "extended",
+      "name": "a with tilde"
+    },
+    {
+      "char": "ä",
+      "code": "&auml;",
+      "css": "\\00E4",
+      "type": "extended",
+      "name": "a with diaeresis"
+    },
+    {
+      "char": "å",
+      "code": "&aring;",
+      "css": "\\00E5",
+      "type": "extended",
+      "name": "a with ring"
+    },
+    {
+      "char": "æ",
+      "code": "&aelig;",
+      "css": "\\00E6",
+      "type": "extended",
+      "name": "small letter æ"
+    },
+    {
+      "char": "ç",
+      "code": "&ccedil;",
+      "css": "\\00E7",
+      "type": "extended",
+      "name": "c cedilla"
+    },
+    {
+      "char": "è",
+      "code": "&egrave;",
+      "css": "\\00E8",
+      "type": "extended",
+      "name": "e with grave"
+    },
+    {
+      "char": "é",
+      "code": "&eacute;",
+      "css": "\\00E9",
+      "type": "extended",
+      "name": "e with acute"
+    },
+    {
+      "char": "ê",
+      "code": "&ecirc;",
+      "css": "\\00EA",
+      "type": "extended",
+      "name": "e with circumflex"
+    },
+    {
+      "char": "ë",
+      "code": "&euml;",
+      "css": "\\00EB",
+      "type": "extended",
+      "name": "e with diaeresis"
+    },
+    {
+      "char": "ì",
+      "code": "&igrave;",
+      "css": "\\00EC",
+      "type": "extended",
+      "name": "i with grave"
+    },
+    {
+      "char": "í",
+      "code": "&iacute;",
+      "css": "\\00ED",
+      "type": "extended",
+      "name": "i with acute"
+    },
+    {
+      "char": "î",
+      "code": "&icirc;",
+      "css": "\\00EE",
+      "type": "extended",
+      "name": "i with circumflex"
+    },
+    {
+      "char": "ï",
+      "code": "&iuml;",
+      "css": "\\00EF",
+      "type": "extended",
+      "name": "i with diaeresis"
+    },
+    {
+      "char": "ð",
+      "code": "&eth;",
+      "css": "\\00F0",
+      "type": "extended",
+      "name": "Small letter eth"
+    },
+    {
+      "char": "ñ",
+      "code": "&ntilde;",
+      "css": "\\00F1",
+      "type": "extended",
+      "name": "n with tilde"
+    },
+    {
+      "char": "ò",
+      "code": "&ograve;",
+      "css": "\\00F2",
+      "type": "extended",
+      "name": "o with grave"
+    },
+    {
+      "char": "ó",
+      "code": "&oacute;",
+      "css": "\\00F3",
+      "type": "extended",
+      "name": "o with acute"
+    },
+    {
+      "char": "ô",
+      "code": "&ocirc;",
+      "css": "\\00F4",
+      "type": "extended",
+      "name": "o with circumflex"
+    },
+    {
+      "char": "õ",
+      "code": "&otilde;",
+      "css": "\\00F5",
+      "type": "extended",
+      "name": "o with tilde"
+    },
+    {
+      "char": "ö",
+      "code": "&ouml;",
+      "css": "\\00F6",
+      "type": "extended",
+      "name": "o with diaeresis"
+    },
+    {
+      "char": "÷",
+      "code": "&div;",
+      "css": "\\00F7",
+      "type": "math",
+      "name": "Divided"
+    },
+    {
+      "char": "ø",
+      "code": "&oslash;",
+      "css": "\\00F8",
+      "type": "extended",
+      "name": "o with stroke"
+    },
+    {
+      "char": "ù",
+      "code": "&ugrave;",
+      "css": "\\00F9",
+      "type": "extended",
+      "name": "u with grave"
+    },
+    {
+      "char": "ú",
+      "code": "&uacute;",
+      "css": "\\00FA",
+      "type": "extended",
+      "name": "u with acute"
+    },
+    {
+      "char": "û",
+      "code": "&ucirc;",
+      "css": "\\00FB",
+      "type": "extended",
+      "name": "u with circumflex"
+    },
+    {
+      "char": "ü",
+      "code": "&uuml;",
+      "css": "\\00FC",
+      "type": "extended",
+      "name": "u with diaeresis"
+    },
+    {
+      "char": "ý",
+      "code": "&yacute;",
+      "css": "\\00FD",
+      "type": "extended",
+      "name": "y with acute"
+    },
+    {
+      "char": "þ",
+      "code": "&thorn;",
+      "css": "\\00FE",
+      "type": "extended",
+      "name": "small letter thorn"
+    },
+    {
+      "char": "ÿ",
+      "code": "&yuml;",
+      "css": "\\00FF",
+      "type": "extended",
+      "name": "y with diaeresis"
+    },
+    {
+      "char": "Ā",
+      "code": "&Amacr;",
+      "css": "\\0100",
+      "type": "extended",
+      "name": "A with macron"
+    },
+    {
+      "char": "ā",
+      "code": "&amacr;",
+      "css": "\\0101",
+      "type": "extended",
+      "name": "a with macron"
+    },
+    {
+      "char": "Ă",
+      "code": "&Abreve;",
+      "css": "\\0102",
+      "type": "extended",
+      "name": "A with breve"
+    },
+    {
+      "char": "ă",
+      "code": "&abreve;",
+      "css": "\\0103",
+      "type": "extended",
+      "name": "a with breve"
+    },
+    {
+      "char": "Ą",
+      "code": "&Aogon;",
+      "css": "\\0104",
+      "type": "extended",
+      "name": "A with ogonek"
+    },
+    {
+      "char": "ą",
+      "code": "&aogon;",
+      "css": "\\0105",
+      "type": "extended",
+      "name": "a with ogonek"
+    },
+    {
+      "char": "Ć",
+      "code": "&Cacute;",
+      "css": "\\0106",
+      "type": "extended",
+      "name": "C with acute"
+    },
+    {
+      "char": "ć",
+      "code": "&cacute;",
+      "css": "\\0107",
+      "type": "extended",
+      "name": "c with acute"
+    },
+    {
+      "char": "Ĉ",
+      "code": "&Ccirc;",
+      "css": "\\0108",
+      "type": "extended",
+      "name": "C with circumflex"
+    },
+    {
+      "char": "ĉ",
+      "code": "&ccirc;",
+      "css": "\\0109",
+      "type": "extended",
+      "name": "c with circumflex"
+    },
+    {
+      "char": "Ċ",
+      "code": "&Cdot;",
+      "css": "\\010A",
+      "type": "extended",
+      "name": "C with dot"
+    },
+    {
+      "char": "ċ",
+      "code": "&cdot;",
+      "css": "\\010B",
+      "type": "extended",
+      "name": "c with dot"
+    },
+    {
+      "char": "Č",
+      "code": "&Ccaron;",
+      "css": "\\010C",
+      "type": "extended",
+      "name": "C with caron"
+    },
+    {
+      "char": "č",
+      "code": "&ccaron;",
+      "css": "\\010D",
+      "type": "extended",
+      "name": "c with caron"
+    },
+    {
+      "char": "Ď",
+      "code": "&Dcaron;",
+      "css": "\\010E",
+      "type": "extended",
+      "name": "D with caron"
+    },
+    {
+      "char": "ď",
+      "code": "&dcaron;",
+      "css": "\\010F",
+      "type": "extended",
+      "name": "d with caron"
+    },
+    {
+      "char": "Đ",
+      "code": "&Dstrok;",
+      "css": "\\0110",
+      "type": "extended",
+      "name": "D with stroke"
+    },
+    {
+      "char": "đ",
+      "code": "&dstrok;",
+      "css": "\\0111",
+      "type": "extended",
+      "name": "d with stroke"
+    },
+    {
+      "char": "Ē",
+      "code": "&Emacr;",
+      "css": "\\0112",
+      "type": "extended",
+      "name": "E with macron"
+    },
+    {
+      "char": "ē",
+      "code": "&emacr;",
+      "css": "\\0113",
+      "type": "extended",
+      "name": "e with macron"
+    },
+    {
+      "char": "Ė",
+      "code": "&Edot;",
+      "css": "\\0116",
+      "type": "extended",
+      "name": "E with dot"
+    },
+    {
+      "char": "ė",
+      "code": "&edot;",
+      "css": "\\0117",
+      "type": "extended",
+      "name": "e with dot"
+    },
+    {
+      "char": "Ę",
+      "code": "&Eogon;",
+      "css": "\\0118",
+      "type": "extended",
+      "name": "E with ogonek"
+    },
+    {
+      "char": "ę",
+      "code": "&eogon;",
+      "css": "\\0119",
+      "type": "extended",
+      "name": "e with ogonek"
+    },
+    {
+      "char": "Ě",
+      "code": "&Ecaron;",
+      "css": "\\011A",
+      "type": "extended",
+      "name": "E with caron"
+    },
+    {
+      "char": "ě",
+      "code": "&ecaron;",
+      "css": "\\011B",
+      "type": "extended",
+      "name": "e with caron"
+    },
+    {
+      "char": "Ĝ",
+      "code": "&Gcirc;",
+      "css": "\\011C",
+      "type": "extended",
+      "name": "G with circumflex"
+    },
+    {
+      "char": "ĝ",
+      "code": "&gcirc;",
+      "css": "\\011D",
+      "type": "extended",
+      "name": "g with circumflex"
+    },
+    {
+      "char": "Ğ",
+      "code": "&Gbreve;",
+      "css": "\\011E",
+      "type": "extended",
+      "name": "G with breve"
+    },
+    {
+      "char": "ğ",
+      "code": "&gbreve;",
+      "css": "\\011F",
+      "type": "extended",
+      "name": "g with breve"
+    },
+    {
+      "char": "Ġ",
+      "code": "&Gdot;",
+      "css": "\\0120",
+      "type": "extended",
+      "name": "G with dot"
+    },
+    {
+      "char": "ġ",
+      "code": "&gdot;",
+      "css": "\\0121",
+      "type": "extended",
+      "name": "g with dot"
+    },
+    {
+      "char": "Ģ",
+      "code": "&Gcedil;",
+      "css": "\\0122",
+      "type": "extended",
+      "name": "G with cedilla"
+    },
+    {
+      "char": "Ĥ",
+      "code": "&Hcirc;",
+      "css": "\\0124",
+      "type": "extended",
+      "name": "H with circumflex"
+    },
+    {
+      "char": "ĥ",
+      "code": "&hcirc;",
+      "css": "\\0125",
+      "type": "extended",
+      "name": "h with circumflex"
+    },
+    {
+      "char": "Ħ",
+      "code": "&Hstrok;",
+      "css": "\\0126",
+      "type": "extended",
+      "name": "H with stroke"
+    },
+    {
+      "char": "ħ",
+      "code": "&hstrok;",
+      "css": "\\0127",
+      "type": "extended",
+      "name": "h with stroke"
+    },
+    {
+      "char": "Ĩ",
+      "code": "&Itilde;",
+      "css": "\\0128",
+      "type": "extended",
+      "name": "I with tilde"
+    },
+    {
+      "char": "ĩ",
+      "code": "&itilde;",
+      "css": "\\0129",
+      "type": "extended",
+      "name": "i with tilde"
+    },
+    {
+      "char": "Ī",
+      "code": "&Imacr;",
+      "css": "\\012A",
+      "type": "extended",
+      "name": "I with macron"
+    },
+    {
+      "char": "ī",
+      "code": "&imacr;",
+      "css": "\\012B",
+      "type": "extended",
+      "name": "i with macron"
+    },
+    {
+      "char": "Į",
+      "code": "&Iogon;",
+      "css": "\\012E",
+      "type": "extended",
+      "name": "I with ogonek"
+    },
+    {
+      "char": "į",
+      "code": "&iogon;",
+      "css": "\\012F",
+      "type": "extended",
+      "name": "i with ogonek"
+    },
+    {
+      "char": "İ",
+      "code": "&Idot;",
+      "css": "\\0130",
+      "type": "extended",
+      "name": "I with dot"
+    },
+    {
+      "char": "ı",
+      "code": "&inodot;",
+      "css": "\\0131",
+      "type": "extended",
+      "name": "Dotless i"
+    },
+    {
+      "char": "Ĳ",
+      "code": "&IJlig;",
+      "css": "\\0132",
+      "type": "extended",
+      "name": "IJ ligature"
+    },
+    {
+      "char": "ĳ",
+      "code": "&ijlig;",
+      "css": "\\0133",
+      "type": "extended",
+      "name": "ij ligatureme"
+    },
+    {
+      "char": "Ĵ",
+      "code": "&Jcirc;",
+      "css": "\\0134",
+      "type": "extended",
+      "name": "J with circumflex"
+    },
+    {
+      "char": "ĵ",
+      "code": "&jcirc;",
+      "css": "\\0135",
+      "type": "extended",
+      "name": "j with circumflex"
+    },
+    {
+      "char": "Ķ",
+      "code": "&Kcedil;",
+      "css": "\\0136",
+      "type": "extended",
+      "name": "K with cedilla"
+    },
+    {
+      "char": "ķ",
+      "code": "&kcedil;",
+      "css": "\\0137",
+      "type": "extended",
+      "name": "k with cedilla"
+    },
+    {
+      "char": "ĸ",
+      "code": "&kgreen;",
+      "css": "\\0138",
+      "type": "extended",
+      "name": "Small letter kra"
+    },
+    {
+      "char": "Ĺ",
+      "code": "&Lacute;",
+      "css": "\\0139",
+      "type": "extended",
+      "name": "L with acute"
+    },
+    {
+      "char": "ĺ",
+      "code": "&lacute;",
+      "css": "\\013A",
+      "type": "extended",
+      "name": "l with acute"
+    },
+    {
+      "char": "Ļ",
+      "code": "&Lcedil;",
+      "css": "\\013B",
+      "type": "extended",
+      "name": "L with cedilla"
+    },
+    {
+      "char": "ļ",
+      "code": "&lcedil;",
+      "css": "\\013C",
+      "type": "extended",
+      "name": "l with cedilla"
+    },
+    {
+      "char": "Ľ",
+      "code": "&Lcaron;",
+      "css": "\\013D",
+      "type": "extended",
+      "name": "L with caron"
+    },
+    {
+      "char": "ľ",
+      "code": "&lcaron;",
+      "css": "\\013E",
+      "type": "extended",
+      "name": "l with caron"
+    },
+    {
+      "char": "Ŀ",
+      "code": "&Lmidot;",
+      "css": "\\013F",
+      "type": "extended",
+      "name": "L with middle dot"
+    },
+    {
+      "char": "ŀ",
+      "code": "&lmidot;",
+      "css": "\\0140",
+      "type": "extended",
+      "name": "l with middle dot"
+    },
+    {
+      "char": "Ł",
+      "code": "&Lstrok;",
+      "css": "\\0141",
+      "type": "extended",
+      "name": "L with stroke"
+    },
+    {
+      "char": "ł",
+      "code": "&lstrok;",
+      "css": "\\0142",
+      "type": "extended",
+      "name": "l with stroke"
+    },
+    {
+      "char": "Ń",
+      "code": "&Nacute;",
+      "css": "\\0143",
+      "type": "extended",
+      "name": "N with acute"
+    },
+    {
+      "char": "ń",
+      "code": "&nacute;",
+      "css": "\\0144",
+      "type": "extended",
+      "name": "n with acute"
+    },
+    {
+      "char": "Ņ",
+      "code": "&Ncedil;",
+      "css": "\\0145",
+      "type": "extended",
+      "name": "N with cedilla"
+    },
+    {
+      "char": "ņ",
+      "code": "&ncedil;",
+      "css": "\\0146",
+      "type": "extended",
+      "name": "n with cedilla"
+    },
+    {
+      "char": "Ň",
+      "code": "&Ncaron;",
+      "css": "\\0147",
+      "type": "extended",
+      "name": "N with caron"
+    },
+    {
+      "char": "ň",
+      "code": "&ncaron;",
+      "css": "\\0148",
+      "type": "extended",
+      "name": "n with caron"
+    },
+    {
+      "char": "ŉ",
+      "code": "&napos;",
+      "css": "\\0149",
+      "type": "extended",
+      "name": "N apostrophe"
+    },
+    {
+      "char": "Ŋ",
+      "code": "&ENG;",
+      "css": "\\014A",
+      "type": "extended",
+      "name": "Letter eng"
+    },
+    {
+      "char": "ŋ",
+      "code": "&eng;",
+      "css": "\\014B",
+      "type": "extended",
+      "name": "Small letter eng"
+    },
+    {
+      "char": "Ō",
+      "code": "&Omacr;",
+      "css": "\\014C",
+      "type": "extended",
+      "name": "O with macron"
+    },
+    {
+      "char": "ō",
+      "code": "&omacr;",
+      "css": "\\014D",
+      "type": "extended",
+      "name": "o with macron"
+    },
+    {
+      "char": "Ő",
+      "code": "&Odblac;",
+      "css": "\\0150",
+      "type": "extended",
+      "name": "O with double acute"
+    },
+    {
+      "char": "ő",
+      "code": "&odblac;",
+      "css": "\\0151",
+      "type": "extended",
+      "name": "o with double acute"
+    },
+    {
+      "char": "Œ",
+      "code": "&OElig;",
+      "css": "\\0152",
+      "type": "extended",
+      "name": "OE ligature"
+    },
+    {
+      "char": "œ",
+      "code": "&oelig;",
+      "css": "\\0153",
+      "type": "extended",
+      "name": "oe ligature"
+    },
+    {
+      "char": "Ŕ",
+      "code": "&Racute;",
+      "css": "\\0154",
+      "type": "extended",
+      "name": "R with acute"
+    },
+    {
+      "char": "ŕ",
+      "code": "&racute;",
+      "css": "\\0155",
+      "type": "extended",
+      "name": "r with acute"
+    },
+    {
+      "char": "Ŗ",
+      "code": "&Rcedil;",
+      "css": "\\0156",
+      "type": "extended",
+      "name": "R with cedilla"
+    },
+    {
+      "char": "ŗ",
+      "code": "&rcedil;",
+      "css": "\\0157",
+      "type": "extended",
+      "name": "r with cedilla"
+    },
+    {
+      "char": "Ř",
+      "code": "&Rcaron;",
+      "css": "\\0158",
+      "type": "extended",
+      "name": "R with caron"
+    },
+    {
+      "char": "ř",
+      "code": "&rcaron;",
+      "css": "\\0159",
+      "type": "extended",
+      "name": "r with caron"
+    },
+    {
+      "char": "Ś",
+      "code": "&Sacute;",
+      "css": "\\015A",
+      "type": "extended",
+      "name": "S with acute"
+    },
+    {
+      "char": "ś",
+      "code": "&sacute;",
+      "css": "\\015B",
+      "type": "extended",
+      "name": "s with acute"
+    },
+    {
+      "char": "Ŝ",
+      "code": "&Scirc;",
+      "css": "\\015C",
+      "type": "extended",
+      "name": "S with circumflex"
+    },
+    {
+      "char": "ŝ",
+      "code": "&scirc;",
+      "css": "\\015D",
+      "type": "extended",
+      "name": "s with circumflex"
+    },
+    {
+      "char": "Ş",
+      "code": "&Scedil;",
+      "css": "\\015E",
+      "type": "extended",
+      "name": "S with cedilla"
+    },
+    {
+      "char": "ş",
+      "code": "&scedil;",
+      "css": "\\015F",
+      "type": "extended",
+      "name": "s with cedilla"
+    },
+    {
+      "char": "Š",
+      "code": "&Scaron;",
+      "css": "\\0160",
+      "type": "extended",
+      "name": "S with caron"
+    },
+    {
+      "char": "š",
+      "code": "&scaron;",
+      "css": "\\0161",
+      "type": "extended",
+      "name": "s with caron"
+    },
+    {
+      "char": "Ţ",
+      "code": "&Tcedil;",
+      "css": "\\0162",
+      "type": "extended",
+      "name": "T with cedilla"
+    },
+    {
+      "char": "ţ",
+      "code": "&tcedil;",
+      "css": "\\0163",
+      "type": "extended",
+      "name": "t with cedilla"
+    },
+    {
+      "char": "Ť",
+      "code": "&Tcaron;",
+      "css": "\\0164",
+      "type": "extended",
+      "name": "T with caron"
+    },
+    {
+      "char": "ť",
+      "code": "&tcaron;",
+      "css": "\\0165",
+      "type": "extended",
+      "name": "t with caron"
+    },
+    {
+      "char": "Ŧ",
+      "code": "&Tstrok;",
+      "css": "\\0166",
+      "type": "extended",
+      "name": "T with stroke"
+    },
+    {
+      "char": "ŧ",
+      "code": "&tstrok;",
+      "css": "\\0167",
+      "type": "extended",
+      "name": "t with stroke"
+    },
+    {
+      "char": "Ũ",
+      "code": "&Utilde;",
+      "css": "\\0168",
+      "type": "extended",
+      "name": "U with tilde"
+    },
+    {
+      "char": "ũ",
+      "code": "&utilde;",
+      "css": "\\0169",
+      "type": "extended",
+      "name": "u with tilde"
+    },
+    {
+      "char": "Ū",
+      "code": "&Umacr;",
+      "css": "\\016A",
+      "type": "extended",
+      "name": "U with macron"
+    },
+    {
+      "char": "ū",
+      "code": "&umacr;",
+      "css": "\\016B",
+      "type": "extended",
+      "name": "u with macron"
+    },
+    {
+      "char": "Ŭ",
+      "code": "&Ubreve;",
+      "css": "\\016C",
+      "type": "extended",
+      "name": "U with breve"
+    },
+    {
+      "char": "ŭ",
+      "code": "&ubreve;",
+      "css": "\\016D",
+      "type": "extended",
+      "name": "u with breve"
+    },
+    {
+      "char": "Ů",
+      "code": "&Uring;",
+      "css": "\\016E",
+      "type": "extended",
+      "name": "U with ring"
+    },
+    {
+      "char": "ů",
+      "code": "&uring;",
+      "css": "\\016F",
+      "type": "extended",
+      "name": "u with ring"
+    },
+    {
+      "char": "Ű",
+      "code": "&Udblac;",
+      "css": "\\0170",
+      "type": "extended",
+      "name": "U with double acute"
+    },
+    {
+      "char": "ű",
+      "code": "&udblac;",
+      "css": "\\0171",
+      "type": "extended",
+      "name": "u with double acute"
+    },
+    {
+      "char": "Ų",
+      "code": "&Uogon;",
+      "css": "\\0172",
+      "type": "extended",
+      "name": "U with ogonek"
+    },
+    {
+      "char": "ų",
+      "code": "&uogon;",
+      "css": "\\0173",
+      "type": "extended",
+      "name": "u with ogonek"
+    },
+    {
+      "char": "Ŵ",
+      "code": "&Wcirc;",
+      "css": "\\0174",
+      "type": "extended",
+      "name": "W with circumflex"
+    },
+    {
+      "char": "ŵ",
+      "code": "&wcirc;",
+      "css": "\\0175",
+      "type": "extended",
+      "name": "w with circumflex"
+    },
+    {
+      "char": "Ŷ",
+      "code": "&Ycirc;",
+      "css": "\\0176",
+      "type": "extended",
+      "name": "Y with circumflex"
+    },
+    {
+      "char": "ŷ",
+      "code": "&ycirc;",
+      "css": "\\0177",
+      "type": "extended",
+      "name": "y with circumflex"
+    },
+    {
+      "char": "Ÿ",
+      "code": "&Yuml;",
+      "css": "\\0178",
+      "type": "extended",
+      "name": "Y with diaeresis"
+    },
+    {
+      "char": "Ź",
+      "code": "&Zacute;",
+      "css": "\\0179",
+      "type": "extended",
+      "name": "Z with acute"
+    },
+    {
+      "char": "ź",
+      "code": "&zacute;",
+      "css": "\\017A",
+      "type": "extended",
+      "name": "z with acute"
+    },
+    {
+      "char": "Ż",
+      "code": "&Zdot;",
+      "css": "\\017B",
+      "type": "extended",
+      "name": "Z with dot"
+    },
+    {
+      "char": "ż",
+      "code": "&zdot;",
+      "css": "\\017C",
+      "type": "extended",
+      "name": "z with dot"
+    },
+    {
+      "char": "Ž",
+      "code": "&Zcaron;",
+      "css": "\\017D",
+      "type": "extended",
+      "name": "Z with caron"
+    },
+    {
+      "char": "ž",
+      "code": "&zcaron;",
+      "css": "\\017E",
+      "type": "extended",
+      "name": "z with caron"
+    },
+    {
+      "char": "ƒ",
+      "code": "&fnof;",
+      "css": "\\0192",
+      "type": "extended",
+      "name": "f with hook"
+    },
+    {
+      "char": "Ƶ",
+      "code": "&imped;",
+      "css": "\\01B5",
+      "type": "extended",
+      "name": "Z with stroke"
+    },
+    {
+      "char": "ǵ",
+      "code": "&gacute;",
+      "css": "\\01F5",
+      "type": "extended",
+      "name": "g with acute"
+    },
+    {
+      "char": "ȷ",
+      "code": "&jmath;",
+      "css": "\\0237",
+      "type": "extended",
+      "name": "Dotless j"
+    },
+    {
+      "char": "ˆ",
+      "code": "&circ;",
+      "css": "\\02C6",
+      "type": "diacritic",
+      "name": "Circumflex"
+    },
+    {
+      "char": "ˇ",
+      "code": "&caron;",
+      "css": "\\02C7",
+      "type": "diacritic",
+      "name": "Caron"
+    },
+    {
+      "char": "˘",
+      "code": "&breve;",
+      "css": "\\02D8",
+      "type": "diacritic",
+      "name": "Breve"
+    },
+    {
+      "char": "˙",
+      "code": "&dot;",
+      "css": "\\02D9",
+      "type": "diacritic",
+      "name": "Dot"
+    },
+    {
+      "char": "˚",
+      "code": "&ring;",
+      "css": "\\02DA",
+      "type": "diacritic",
+      "name": "Ring"
+    },
+    {
+      "char": "˛",
+      "code": "&ogon;",
+      "css": "\\02DB",
+      "type": "diacritic",
+      "name": "Ogonek"
+    },
+    {
+      "char": "˜",
+      "code": "&tilde;",
+      "css": "\\02DC",
+      "type": "diacritic",
+      "name": "Tilde"
+    },
+    {
+      "char": "˝",
+      "code": "&dblac;",
+      "css": "\\02DD",
+      "type": "diacritic",
+      "name": "Double acute"
+    },
+    {
+      "char": "̑",
+      "code": "&DownBreve;",
+      "css": "\\0311",
+      "type": "diacritic",
+      "name": "Down breve"
+    },
+    {
+      "char": "̲",
+      "code": "&UnderBar;",
+      "css": "\\0332",
+      "type": "symbol",
+      "name": "Under bar"
+    },
+    {
+      "char": "Α",
+      "code": "&Alpha;",
+      "css": "\\0391",
+      "type": "greek",
+      "name": "Alpha"
+    },
+    {
+      "char": "Β",
+      "code": "&Beta;",
+      "css": "\\0392",
+      "type": "greek",
+      "name": "Beta"
+    },
+    {
+      "char": "Γ",
+      "code": "&Gamma;",
+      "css": "\\0393",
+      "type": "greek",
+      "name": "Gamma"
+    },
+    {
+      "char": "Δ",
+      "code": "&Delta;",
+      "css": "\\0394",
+      "type": "greek",
+      "name": "Delta"
+    },
+    {
+      "char": "Ε",
+      "code": "&Epsilon;",
+      "css": "\\0395",
+      "type": "greek",
+      "name": "Epsilon"
+    },
+    {
+      "char": "Ζ",
+      "code": "&Zeta;",
+      "css": "\\0396",
+      "type": "greek",
+      "name": "Zeta"
+    },
+    {
+      "char": "Η",
+      "code": "&Eta;",
+      "css": "\\0397",
+      "type": "greek",
+      "name": "Eta"
+    },
+    {
+      "char": "Θ",
+      "code": "&Theta;",
+      "css": "\\0398",
+      "type": "greek",
+      "name": "Theta"
+    },
+    {
+      "char": "Ι",
+      "code": "&Iota;",
+      "css": "\\0399",
+      "type": "greek",
+      "name": "Iota"
+    },
+    {
+      "char": "Κ",
+      "code": "&Kappa;",
+      "css": "\\039A",
+      "type": "greek",
+      "name": "Kappa"
+    },
+    {
+      "char": "Λ",
+      "code": "&Lambda;",
+      "css": "\\039B",
+      "type": "greek",
+      "name": "Lambda"
+    },
+    {
+      "char": "Μ",
+      "code": "&Mu;",
+      "css": "\\039C",
+      "type": "greek",
+      "name": "Mu"
+    },
+    {
+      "char": "Ν",
+      "code": "&Nu;",
+      "css": "\\039D",
+      "type": "greek",
+      "name": "Nu"
+    },
+    {
+      "char": "Ξ",
+      "code": "&Xi;",
+      "css": "\\039E",
+      "type": "greek",
+      "name": "Xi"
+    },
+    {
+      "char": "Ο",
+      "code": "&Omicron;",
+      "css": "\\039F",
+      "type": "greek",
+      "name": "Omicron"
+    },
+    {
+      "char": "Π",
+      "code": "&Pi;",
+      "css": "\\03A0",
+      "type": "greek",
+      "name": "Pi"
+    },
+    {
+      "char": "Ρ",
+      "code": "&Rho;",
+      "css": "\\03A1",
+      "type": "greek",
+      "name": "Rho"
+    },
+    {
+      "char": "Σ",
+      "code": "&Sigma;",
+      "css": "\\03A3",
+      "type": "greek",
+      "name": "Sigma"
+    },
+    {
+      "char": "Τ",
+      "code": "&Tau;",
+      "css": "\\03A4",
+      "type": "greek",
+      "name": "Tau"
+    },
+    {
+      "char": "Υ",
+      "code": "&Upsilon;",
+      "css": "\\03A5",
+      "type": "greek",
+      "name": "Upsilon"
+    },
+    {
+      "char": "Φ",
+      "code": "&Phi;",
+      "css": "\\03A6",
+      "type": "greek",
+      "name": "Phi"
+    },
+    {
+      "char": "Χ",
+      "code": "&Chi;",
+      "css": "\\03A7",
+      "type": "greek",
+      "name": "Chi"
+    },
+    {
+      "char": "Ψ",
+      "code": "&Psi;",
+      "css": "\\03A8",
+      "type": "greek",
+      "name": "Psi"
+    },
+    {
+      "char": "Ω",
+      "code": "&Omega;",
+      "css": "\\03A9",
+      "type": "greek",
+      "name": "Omega"
+    },
+    {
+      "char": "α",
+      "code": "&alpha;",
+      "css": "\\03B1",
+      "type": "greek",
+      "name": "Alpha"
+    },
+    {
+      "char": "β",
+      "code": "&beta;",
+      "css": "\\03B2",
+      "type": "greek",
+      "name": "Beta"
+    },
+    {
+      "char": "γ",
+      "code": "&gamma;",
+      "css": "\\03B3",
+      "type": "greek",
+      "name": "Gamma"
+    },
+    {
+      "char": "δ",
+      "code": "&delta;",
+      "css": "\\03B4",
+      "type": "greek",
+      "name": "Delta"
+    },
+    {
+      "char": "ε",
+      "code": "&epsiv;",
+      "css": "\\03B5",
+      "type": "greek",
+      "name": "Epsilon"
+    },
+    {
+      "char": "ζ",
+      "code": "&zeta;",
+      "css": "\\03B6",
+      "type": "greek",
+      "name": "Zeta"
+    },
+    {
+      "char": "η",
+      "code": "&eta;",
+      "css": "\\03B7",
+      "type": "greek",
+      "name": "Eta"
+    },
+    {
+      "char": "θ",
+      "code": "&theta;",
+      "css": "\\03B8",
+      "type": "greek",
+      "name": "Theta"
+    },
+    {
+      "char": "ι",
+      "code": "&iota;",
+      "css": "\\03B9",
+      "type": "greek",
+      "name": "Iota"
+    },
+    {
+      "char": "κ",
+      "code": "&kappa;",
+      "css": "\\03BA",
+      "type": "greek",
+      "name": "Kappa"
+    },
+    {
+      "char": "λ",
+      "code": "&lambda;",
+      "css": "\\03BB",
+      "type": "greek",
+      "name": "Lambda"
+    },
+    {
+      "char": "μ",
+      "code": "&mu;",
+      "css": "\\03BC",
+      "type": "greek",
+      "name": "Mu"
+    },
+    {
+      "char": "ν",
+      "code": "&nu;",
+      "css": "\\03BD",
+      "type": "greek",
+      "name": "Nu"
+    },
+    {
+      "char": "ξ",
+      "code": "&xi;",
+      "css": "\\03BE",
+      "type": "greek",
+      "name": "Xi"
+    },
+    {
+      "char": "ο",
+      "code": "&omicron;",
+      "css": "\\03BF",
+      "type": "greek",
+      "name": "Omicron"
+    },
+    {
+      "char": "π",
+      "code": "&pi;",
+      "css": "\\03C0",
+      "type": "greek",
+      "name": "Pi"
+    },
+    {
+      "char": "ρ",
+      "code": "&rho;",
+      "css": "\\03C1",
+      "type": "greek",
+      "name": "Rho"
+    },
+    {
+      "char": "ς",
+      "code": "&sigmav;",
+      "css": "\\03C2",
+      "type": "greek",
+      "name": "Final sigma"
+    },
+    {
+      "char": "σ",
+      "code": "&sigma;",
+      "css": "\\03C3",
+      "type": "greek",
+      "name": "Sigma"
+    },
+    {
+      "char": "τ",
+      "code": "&tau;",
+      "css": "\\03C4",
+      "type": "greek",
+      "name": "Tau"
+    },
+    {
+      "char": "υ",
+      "code": "&upsi;",
+      "css": "\\03C5",
+      "type": "greek",
+      "name": "Upsilon"
+    },
+    {
+      "char": "φ",
+      "code": "&phi;",
+      "css": "\\03C6",
+      "type": "greek",
+      "name": "Phi"
+    },
+    {
+      "char": "χ",
+      "code": "&chi;",
+      "css": "\\03C7",
+      "type": "greek",
+      "name": "Chi"
+    },
+    {
+      "char": "ψ",
+      "code": "&psi;",
+      "css": "\\03C8",
+      "type": "greek",
+      "name": "Psi"
+    },
+    {
+      "char": "ω",
+      "code": "&omega;",
+      "css": "\\03C9",
+      "type": "greek",
+      "name": "Omega"
+    },
+    {
+      "char": "ϑ",
+      "code": "&thetav;",
+      "css": "\\03D1",
+      "type": "symbol",
+      "name": "Theta symbol"
+    },
+    {
+      "char": "ϒ",
+      "code": "&Upsi;",
+      "css": "\\03D2",
+      "type": "symbol",
+      "name": "Upsilon with hook"
+    },
+    {
+      "char": "ϕ",
+      "code": "&straightphi;",
+      "css": "\\03D5",
+      "type": "symbol",
+      "name": "Phi symbol"
+    },
+    {
+      "char": "ϖ",
+      "code": "&piv;",
+      "css": "\\03D6",
+      "type": "symbol",
+      "name": "Pi symbol"
+    },
+    {
+      "char": "Ϝ",
+      "code": "&Gammad;",
+      "css": "\\03DC",
+      "type": "symbol",
+      "name": "Digamma"
+    },
+    {
+      "char": "ϝ",
+      "code": "&gammad;",
+      "css": "\\03DD",
+      "type": "symbol",
+      "name": "Digamma"
+    },
+    {
+      "char": "ϰ",
+      "code": "&kappav;",
+      "css": "\\03F0",
+      "type": "symbol",
+      "name": "Kappa symbol"
+    },
+    {
+      "char": "ϱ",
+      "code": "&rhov;",
+      "css": "\\03F1",
+      "type": "symbol",
+      "name": "Rho symbol"
+    },
+    {
+      "char": "ϵ",
+      "code": "&epsi;",
+      "css": "\\03F5",
+      "type": "symbol",
+      "name": "Epsilon symbol"
+    },
+    {
+      "char": "϶",
+      "code": "&bepsi;",
+      "css": "\\03F6",
+      "type": "symbol",
+      "name": "Backwards epsilon symbol"
+    },
+    {
+      "char": "Ё",
+      "code": "&IOcy;",
+      "css": "\\0401",
+      "type": "cyrillic",
+      "name": "Cyrillic Io"
+    },
+    {
+      "char": "Ђ",
+      "code": "&DJcy;",
+      "css": "\\0402",
+      "type": "cyrillic",
+      "name": "Cyrillic Dje"
+    },
+    {
+      "char": "Ѓ",
+      "code": "&GJcy;",
+      "css": "\\0403",
+      "type": "cyrillic",
+      "name": "Cyrillic Gje"
+    },
+    {
+      "char": "Є",
+      "code": "&Jukcy;",
+      "css": "\\0404",
+      "type": "cyrillic",
+      "name": "Cyrillic Ie"
+    },
+    {
+      "char": "Ѕ",
+      "code": "&DScy;",
+      "css": "\\0405",
+      "type": "cyrillic",
+      "name": "Cyrillic Dze"
+    },
+    {
+      "char": "І",
+      "code": "&Iukcy;",
+      "css": "\\0406",
+      "type": "cyrillic",
+      "name": "Cyrillic I"
+    },
+    {
+      "char": "Ї",
+      "code": "&YIcy;",
+      "css": "\\0407",
+      "type": "cyrillic",
+      "name": "Cyrillic Yi"
+    },
+    {
+      "char": "Ј",
+      "code": "&Jsercy;",
+      "css": "\\0408",
+      "type": "cyrillic",
+      "name": "Cyrillic Je"
+    },
+    {
+      "char": "Љ",
+      "code": "&LJcy;",
+      "css": "\\0409",
+      "type": "cyrillic",
+      "name": "Cyrillic Lje"
+    },
+    {
+      "char": "Њ",
+      "code": "&NJcy;",
+      "css": "\\040A",
+      "type": "cyrillic",
+      "name": "Cyrillic Nje"
+    },
+    {
+      "char": "Ћ",
+      "code": "&TSHcy;",
+      "css": "\\040B",
+      "type": "cyrillic",
+      "name": "Cyrillic Tshe"
+    },
+    {
+      "char": "Ќ",
+      "code": "&KJcy;",
+      "css": "\\040C",
+      "type": "cyrillic",
+      "name": "Cyrillic Kje"
+    },
+    {
+      "char": "Ў",
+      "code": "&Ubrcy;",
+      "css": "\\040E",
+      "type": "cyrillic",
+      "name": "Cyrillic Short U"
+    },
+    {
+      "char": "Џ",
+      "code": "&DZcy;",
+      "css": "\\040F",
+      "type": "cyrillic",
+      "name": "Cyrillic Dzhe"
+    },
+    {
+      "char": "А",
+      "code": "&Acy;",
+      "css": "\\0410",
+      "type": "cyrillic",
+      "name": "Cyrillic A"
+    },
+    {
+      "char": "Б",
+      "code": "&Bcy;",
+      "css": "\\0411",
+      "type": "cyrillic",
+      "name": "Cyrillic Be"
+    },
+    {
+      "char": "В",
+      "code": "&Vcy;",
+      "css": "\\0412",
+      "type": "cyrillic",
+      "name": "Cyrillic Ve"
+    },
+    {
+      "char": "Г",
+      "code": "&Gcy;",
+      "css": "\\0413",
+      "type": "cyrillic",
+      "name": "Cyrillic Ghe"
+    },
+    {
+      "char": "Д",
+      "code": "&Dcy;",
+      "css": "\\0414",
+      "type": "cyrillic",
+      "name": "Cyrillic De"
+    },
+    {
+      "char": "Е",
+      "code": "&IEcy;",
+      "css": "\\0415",
+      "type": "cyrillic",
+      "name": "Cyrillic Ie"
+    },
+    {
+      "char": "Ж",
+      "code": "&ZHcy;",
+      "css": "\\0416",
+      "type": "cyrillic",
+      "name": "Cyrillic Zhe"
+    },
+    {
+      "char": "З",
+      "code": "&Zcy;",
+      "css": "\\0417",
+      "type": "cyrillic",
+      "name": "Cyrillic Ze"
+    },
+    {
+      "char": "И",
+      "code": "&Icy;",
+      "css": "\\0418",
+      "type": "cyrillic",
+      "name": "Cyrillic I"
+    },
+    {
+      "char": "Й",
+      "code": "&Jcy;",
+      "css": "\\0419",
+      "type": "cyrillic",
+      "name": "Cyrillic Short I"
+    },
+    {
+      "char": "К",
+      "code": "&Kcy;",
+      "css": "\\041A",
+      "type": "cyrillic",
+      "name": "Cyrillic Ka"
+    },
+    {
+      "char": "Л",
+      "code": "&Lcy;",
+      "css": "\\041B",
+      "type": "cyrillic",
+      "name": "Cyrillic El"
+    },
+    {
+      "char": "М",
+      "code": "&Mcy;",
+      "css": "\\041C",
+      "type": "cyrillic",
+      "name": "Cyrillic Em"
+    },
+    {
+      "char": "Н",
+      "code": "&Ncy;",
+      "css": "\\041D",
+      "type": "cyrillic",
+      "name": "Cyrillic En"
+    },
+    {
+      "char": "О",
+      "code": "&Ocy;",
+      "css": "\\041E",
+      "type": "cyrillic",
+      "name": "Cyrillic O"
+    },
+    {
+      "char": "П",
+      "code": "&Pcy;",
+      "css": "\\041F",
+      "type": "cyrillic",
+      "name": "Cyrillic Pe"
+    },
+    {
+      "char": "Р",
+      "code": "&Rcy;",
+      "css": "\\0420",
+      "type": "cyrillic",
+      "name": "Cyrillic Er"
+    },
+    {
+      "char": "С",
+      "code": "&Scy;",
+      "css": "\\0421",
+      "type": "cyrillic",
+      "name": "Cyrillic Es"
+    },
+    {
+      "char": "Т",
+      "code": "&Tcy;",
+      "css": "\\0422",
+      "type": "cyrillic",
+      "name": "Cyrillic Te"
+    },
+    {
+      "char": "У",
+      "code": "&Ucy;",
+      "css": "\\0423",
+      "type": "cyrillic",
+      "name": "Cyrillic U"
+    },
+    {
+      "char": "Ф",
+      "code": "&Fcy;",
+      "css": "\\0424",
+      "type": "cyrillic",
+      "name": "Cyrillic Ef"
+    },
+    {
+      "char": "Х",
+      "code": "&KHcy;",
+      "css": "\\0425",
+      "type": "cyrillic",
+      "name": "Cyrillic Ha"
+    },
+    {
+      "char": "Ц",
+      "code": "&TScy;",
+      "css": "\\0426",
+      "type": "cyrillic",
+      "name": "Cyrillic Tse"
+    },
+    {
+      "char": "Ч",
+      "code": "&CHcy;",
+      "css": "\\0427",
+      "type": "cyrillic",
+      "name": "Cyrillic Che"
+    },
+    {
+      "char": "Ш",
+      "code": "&SHcy;",
+      "css": "\\0428",
+      "type": "cyrillic",
+      "name": "Cyrillic Sha"
+    },
+    {
+      "char": "Щ",
+      "code": "&SHCHcy;",
+      "css": "\\0429",
+      "type": "cyrillic",
+      "name": "Cyrillic Shcha"
+    },
+    {
+      "char": "Ъ",
+      "code": "&HARDcy;",
+      "css": "\\042A",
+      "type": "cyrillic",
+      "name": "Cyrillic hard sign"
+    },
+    {
+      "char": "Ы",
+      "code": "&Ycy;",
+      "css": "\\042B",
+      "type": "cyrillic",
+      "name": "Cyrillic Yeru"
+    },
+    {
+      "char": "Ь",
+      "code": "&SOFTcy;",
+      "css": "\\042C",
+      "type": "cyrillic",
+      "name": "Cyrillic soft sign"
+    },
+    {
+      "char": "Э",
+      "code": "&Ecy;",
+      "css": "\\042D",
+      "type": "cyrillic",
+      "name": "Cyrillic E"
+    },
+    {
+      "char": "Ю",
+      "code": "&YUcy;",
+      "css": "\\042E",
+      "type": "cyrillic",
+      "name": "Cyrillic Yu"
+    },
+    {
+      "char": "Я",
+      "code": "&YAcy;",
+      "css": "\\042F",
+      "type": "cyrillic",
+      "name": "Cyrillic Ya"
+    },
+    {
+      "char": "а",
+      "code": "&acy;",
+      "css": "\\0430",
+      "type": "cyrillic",
+      "name": "Cyrillic A"
+    },
+    {
+      "char": "б",
+      "code": "&bcy;",
+      "css": "\\0431",
+      "type": "cyrillic",
+      "name": "Cyrillic Be"
+    },
+    {
+      "char": "в",
+      "code": "&vcy;",
+      "css": "\\0432",
+      "type": "cyrillic",
+      "name": "Cyrillic Ve"
+    },
+    {
+      "char": "г",
+      "code": "&gcy;",
+      "css": "\\0433",
+      "type": "cyrillic",
+      "name": "Cyrillic Ghe"
+    },
+    {
+      "char": "д",
+      "code": "&dcy;",
+      "css": "\\0434",
+      "type": "cyrillic",
+      "name": "Cyrillic De"
+    },
+    {
+      "char": "е",
+      "code": "&iecy;",
+      "css": "\\0435",
+      "type": "cyrillic",
+      "name": "Cyrillic Ie"
+    },
+    {
+      "char": "ж",
+      "code": "&zhcy;",
+      "css": "\\0436",
+      "type": "cyrillic",
+      "name": "Cyrillic Zhe"
+    },
+    {
+      "char": "з",
+      "code": "&zcy;",
+      "css": "\\0437",
+      "type": "cyrillic",
+      "name": "Cyrillic Ze"
+    },
+    {
+      "char": "и",
+      "code": "&icy;",
+      "css": "\\0438",
+      "type": "cyrillic",
+      "name": "Cyrillic I"
+    },
+    {
+      "char": "й",
+      "code": "&jcy;",
+      "css": "\\0439",
+      "type": "cyrillic",
+      "name": "Cyrillic Short I"
+    },
+    {
+      "char": "к",
+      "code": "&kcy;",
+      "css": "\\043A",
+      "type": "cyrillic",
+      "name": "Cyrillic Ka"
+    },
+    {
+      "char": "л",
+      "code": "&lcy;",
+      "css": "\\043B",
+      "type": "cyrillic",
+      "name": "Cyrillic El"
+    },
+    {
+      "char": "м",
+      "code": "&mcy;",
+      "css": "\\043C",
+      "type": "cyrillic",
+      "name": "Cyrillic Em"
+    },
+    {
+      "char": "н",
+      "code": "&ncy;",
+      "css": "\\043D",
+      "type": "cyrillic",
+      "name": "Cyrillic En"
+    },
+    {
+      "char": "о",
+      "code": "&ocy;",
+      "css": "\\043E",
+      "type": "cyrillic",
+      "name": "Cyrillic O"
+    },
+    {
+      "char": "п",
+      "code": "&pcy;",
+      "css": "\\043F",
+      "type": "cyrillic",
+      "name": "Cyrillic Pe"
+    },
+    {
+      "char": "р",
+      "code": "&rcy;",
+      "css": "\\0440",
+      "type": "cyrillic",
+      "name": "Cyrillic Er"
+    },
+    {
+      "char": "с",
+      "code": "&scy;",
+      "css": "\\0441",
+      "type": "cyrillic",
+      "name": "Cyrillic Es"
+    },
+    {
+      "char": "т",
+      "code": "&tcy;",
+      "css": "\\0442",
+      "type": "cyrillic",
+      "name": "Cyrillic Te"
+    },
+    {
+      "char": "у",
+      "code": "&ucy;",
+      "css": "\\0443",
+      "type": "cyrillic",
+      "name": "Cyrillic U"
+    },
+    {
+      "char": "ф",
+      "code": "&fcy;",
+      "css": "\\0444",
+      "type": "cyrillic",
+      "name": "Cyrillic Ef"
+    },
+    {
+      "char": "х",
+      "code": "&khcy;",
+      "css": "\\0445",
+      "type": "cyrillic",
+      "name": "Cyrillic Ha"
+    },
+    {
+      "char": "ц",
+      "code": "&tscy;",
+      "css": "\\0446",
+      "type": "cyrillic",
+      "name": "Cyrillic Tse"
+    },
+    {
+      "char": "ч",
+      "code": "&chcy;",
+      "css": "\\0447",
+      "type": "cyrillic",
+      "name": "Cyrillic Che"
+    },
+    {
+      "char": "ш",
+      "code": "&shcy;",
+      "css": "\\0448",
+      "type": "cyrillic",
+      "name": "Cyrillic Sha"
+    },
+    {
+      "char": "щ",
+      "code": "&shchcy;",
+      "css": "\\0449",
+      "type": "cyrillic",
+      "name": "Cyrillic Shcha"
+    },
+    {
+      "char": "ъ",
+      "code": "&hardcy;",
+      "css": "\\044A",
+      "type": "cyrillic",
+      "name": "Cyrillic hard sign"
+    },
+    {
+      "char": "ы",
+      "code": "&ycy;",
+      "css": "\\044B",
+      "type": "cyrillic",
+      "name": "Cyrillic Yeru"
+    },
+    {
+      "char": "ь",
+      "code": "&softcy;",
+      "css": "\\044C",
+      "type": "cyrillic",
+      "name": "Cyrillic soft sign"
+    },
+    {
+      "char": "э",
+      "code": "&ecy;",
+      "css": "\\044D",
+      "type": "cyrillic",
+      "name": "Cyrillic E"
+    },
+    {
+      "char": "ю",
+      "code": "&yucy;",
+      "css": "\\044E",
+      "type": "cyrillic",
+      "name": "Cyrillic Yu"
+    },
+    {
+      "char": "я",
+      "code": "&yacy;",
+      "css": "\\044F",
+      "type": "cyrillic",
+      "name": "Cyrillic Ya"
+    },
+    {
+      "char": "ё",
+      "code": "&iocy;",
+      "css": "\\0451",
+      "type": "cyrillic",
+      "name": "Cyrillic Io"
+    },
+    {
+      "char": "ђ",
+      "code": "&djcy;",
+      "css": "\\0452",
+      "type": "cyrillic",
+      "name": "Cyrillic Dje"
+    },
+    {
+      "char": "ѓ",
+      "code": "&gjcy;",
+      "css": "\\0453",
+      "type": "cyrillic",
+      "name": "Cyrillic Gje"
+    },
+    {
+      "char": "є",
+      "code": "&jukcy;",
+      "css": "\\0454",
+      "type": "cyrillic",
+      "name": "Cyrillic Ie (Ukrainian)"
+    },
+    {
+      "char": "ѕ",
+      "code": "&dscy;",
+      "css": "\\0455",
+      "type": "cyrillic",
+      "name": "Cyrillic Dze"
+    },
+    {
+      "char": "і",
+      "code": "&iukcy;",
+      "css": "\\0456",
+      "type": "cyrillic",
+      "name": "Cyrillic I"
+    },
+    {
+      "char": "ї",
+      "code": "&yicy;",
+      "css": "\\0457",
+      "type": "cyrillic",
+      "name": "Cyrillic Yi"
+    },
+    {
+      "char": "ј",
+      "code": "&jsercy;",
+      "css": "\\0458",
+      "type": "cyrillic",
+      "name": "Cyrillic Je"
+    },
+    {
+      "char": "љ",
+      "code": "&ljcy;",
+      "css": "\\0459",
+      "type": "cyrillic",
+      "name": "Cyrillic Lje"
+    },
+    {
+      "char": "њ",
+      "code": "&njcy;",
+      "css": "\\045A",
+      "type": "cyrillic",
+      "name": "Cyrillic Nje"
+    },
+    {
+      "char": "ћ",
+      "code": "&tshcy;",
+      "css": "\\045B",
+      "type": "cyrillic",
+      "name": "Cyrillic Tshe"
+    },
+    {
+      "char": "ќ",
+      "code": "&kjcy;",
+      "css": "\\045C",
+      "type": "cyrillic",
+      "name": "Cyrillic Kje"
+    },
+    {
+      "char": "ў",
+      "code": "&ubrcy;",
+      "css": "\\045E",
+      "type": "cyrillic",
+      "name": "Cyrillic short U"
+    },
+    {
+      "char": "џ",
+      "code": "&dzcy;",
+      "css": "\\045F",
+      "type": "cyrillic",
+      "name": "Cyrillic Dzhe"
+    },
+    {
+      "char": " ",
+      "code": "&ensp;",
+      "css": "\\2002",
+      "type": "space",
+      "name": "En space"
+    },
+    {
+      "char": " ",
+      "code": "&emsp;",
+      "css": "\\2003",
+      "type": "space",
+      "name": "Em space"
+    },
+    {
+      "char": " ",
+      "code": "&emsp13;",
+      "css": "\\2004",
+      "type": "space",
+      "name": "Three-per-em space"
+    },
+    {
+      "char": " ",
+      "code": "&emsp14;",
+      "css": "\\2005",
+      "type": "space",
+      "name": "Four-per-em space"
+    },
+    {
+      "char": " ",
+      "code": "&numsp;",
+      "css": "\\2007",
+      "type": "space",
+      "name": "Figure space"
+    },
+    {
+      "char": " ",
+      "code": "&puncsp;",
+      "css": "\\2008",
+      "type": "space",
+      "name": "Punctuation space"
+    },
+    {
+      "char": " ",
+      "code": "&thinsp;",
+      "css": "\\2009",
+      "type": "space",
+      "name": "Thin space"
+    },
+    {
+      "char": " ",
+      "code": "&hairsp;",
+      "css": "\\200A",
+      "type": "space",
+      "name": "Very thin space"
+    },
+    {
+      "char": "​",
+      "code": "&ZeroWidthSpace;",
+      "css": "\\200B",
+      "type": "space",
+      "name": "Zero width space"
+    },
+    {
+      "char": "‌",
+      "code": "&zwnj;",
+      "css": "\\200C",
+      "type": "space",
+      "name": "Zero width non-joiner"
+    },
+    {
+      "char": "‍",
+      "code": "&zwj;",
+      "css": "\\200D",
+      "type": "space",
+      "name": "Zero width non-joiner"
+    },
+    {
+      "char": "‎",
+      "code": "&lrm;",
+      "css": "\\200E",
+      "type": "space",
+      "name": "Left-to-right mark"
+    },
+    {
+      "char": "‏",
+      "code": "&rlm;",
+      "css": "\\200F",
+      "type": "space",
+      "name": "Right-to-left mark"
+    },
+    {
+      "char": "‐",
+      "code": "&hyphen;",
+      "css": "\\2010",
+      "type": "symbol",
+      "name": "Hyphen / Dash"
+    },
+    {
+      "char": "–",
+      "code": "&ndash;",
+      "css": "\\2013",
+      "type": "typography",
+      "name": "En dash"
+    },
+    {
+      "char": "—",
+      "code": "&mdash;",
+      "css": "\\2014",
+      "type": "typography",
+      "name": "Em dash"
+    },
+    {
+      "char": "―",
+      "code": "&horbar;",
+      "css": "\\2015",
+      "type": "typography",
+      "name": "Horizontal bar"
+    },
+    {
+      "char": "‖",
+      "code": "&Verbar;",
+      "css": "\\2016",
+      "type": "typography",
+      "name": "Double vertical line"
+    },
+    {
+      "char": "‘",
+      "code": "&lsquo;",
+      "css": "\\2018",
+      "type": "typography",
+      "name": "Left single quotation mark"
+    },
+    {
+      "char": "’",
+      "code": "&rsquo;",
+      "css": "\\2019",
+      "type": "typography",
+      "name": "Right single quotation mark"
+    },
+    {
+      "char": "‚",
+      "code": "&lsquor;",
+      "css": "\\201A",
+      "type": "typography",
+      "name": "Single low-9 quotation mark"
+    },
+    {
+      "char": "“",
+      "code": "&ldquo;",
+      "css": "\\201C",
+      "type": "typography",
+      "name": "Left double quotation mark"
+    },
+    {
+      "char": "”",
+      "code": "&rdquo;",
+      "css": "\\201D",
+      "type": "typography",
+      "name": "Right double quotation mark"
+    },
+    {
+      "char": "„",
+      "code": "&ldquor; &bdquo;",
+      "css": "\\201E",
+      "type": "typography",
+      "name": "Double low-9 quotation mark"
+    },
+    {
+      "char": "†",
+      "code": "&dagger;",
+      "css": "\\2020",
+      "type": "typography",
+      "name": "Dagger"
+    },
+    {
+      "char": "‡",
+      "code": "&Dagger;",
+      "css": "\\2021",
+      "type": "typography",
+      "name": "Double dagger"
+    },
+    {
+      "char": "•",
+      "code": "&bull;",
+      "css": "\\2022",
+      "type": "typography",
+      "name": "Bullet"
+    },
+    {
+      "char": "‥",
+      "code": "&nldr;",
+      "css": "\\2025",
+      "type": "typography",
+      "name": "Two dot leader"
+    },
+    {
+      "char": "…",
+      "code": "&hellip;",
+      "css": "\\2026",
+      "type": "typography",
+      "name": "Horizontal ellipsis"
+    },
+    {
+      "char": "‰",
+      "code": "&permil;",
+      "css": "\\2030",
+      "type": "math",
+      "name": "Per mille sign"
+    },
+    {
+      "char": "‱",
+      "code": "&pertenk;",
+      "css": "\\2031",
+      "type": "math",
+      "name": "Per ten thousand sign"
+    },
+    {
+      "char": "′",
+      "code": "&prime;",
+      "css": "\\2032",
+      "type": "typography",
+      "name": "Prime"
+    },
+    {
+      "char": "″",
+      "code": "&Prime;",
+      "css": "\\2033",
+      "type": "typography",
+      "name": "Double prime / Ditto mark"
+    },
+    {
+      "char": "‴",
+      "code": "&tprime;",
+      "css": "\\2034",
+      "type": "typography",
+      "name": "Triple prime"
+    },
+    {
+      "char": "⁗",
+      "code": "&qprime;",
+      "css": "\\2057",
+      "type": "symbol",
+      "name": "Quadruple prime"
+    },
+    {
+      "char": "‵",
+      "code": "&bprime;",
+      "css": "\\2035",
+      "type": "typography",
+      "name": "Reversed prime"
+    },
+    {
+      "char": "‹",
+      "code": "&lsaquo;",
+      "css": "\\2039",
+      "type": "typography",
+      "name": "Single left-pointing quotation mark"
+    },
+    {
+      "char": "›",
+      "code": "&rsaquo;",
+      "css": "\\203A",
+      "type": "typography",
+      "name": "Single right-pointing quotation mark"
+    },
+    {
+      "char": "‾",
+      "code": "&oline;",
+      "css": "\\203E",
+      "type": "typography",
+      "name": "Overline"
+    },
+    {
+      "char": "⁁",
+      "code": "&caret;",
+      "css": "\\2041",
+      "type": "typography",
+      "name": "Caret"
+    },
+    {
+      "char": "⁃",
+      "code": "&hybull;",
+      "css": "\\2043",
+      "type": "typography",
+      "name": "Hyphen bullet"
+    },
+    {
+      "char": "⁄",
+      "code": "&frasl;",
+      "css": "\\2044",
+      "type": "math",
+      "name": "Fraction slash"
+    },
+    {
+      "char": "⁏",
+      "code": "&bsemi;",
+      "css": "\\204F",
+      "type": "typography",
+      "name": "Reversed semicolon"
+    },
+    {
+      "char": " ",
+      "code": "&MediumSpace;",
+      "css": "\\205F",
+      "type": "symbol",
+      "name": "Medium mathematical space"
+    },
+    {
+      "char": "⁠",
+      "code": "&NoBreak;",
+      "css": "\\2060",
+      "type": "symbol",
+      "name": "Word joiner"
+    },
+    {
+      "char": "⁡",
+      "code": "&af;",
+      "css": "\\2061",
+      "type": "math",
+      "name": "Function aplication"
+    },
+    {
+      "char": "⁢",
+      "code": "&it;",
+      "css": "\\2062",
+      "type": "math",
+      "name": "Invisible times"
+    },
+    {
+      "char": "⁣",
+      "code": "&ic;",
+      "css": "\\2063",
+      "type": "math",
+      "name": "Invisible comma"
+    },
+    {
+      "char": "€",
+      "code": "&euro;",
+      "css": "\\20AC",
+      "type": "currency",
+      "name": "Euro sign"
+    },
+    {
+      "char": "⃛",
+      "code": "&tdot;",
+      "css": "\\20DB",
+      "type": "math",
+      "name": "Three dots"
+    },
+    {
+      "char": "⃜",
+      "code": "&DotDot;",
+      "css": "\\20DC",
+      "type": "math",
+      "name": "Combining four dots"
+    },
+    {
+      "char": "ℂ",
+      "code": "&Copf;",
+      "css": "\\2102",
+      "type": "math",
+      "name": "Complexes"
+    },
+    {
+      "char": "℅",
+      "code": "&incare;",
+      "css": "\\2105",
+      "type": "typography",
+      "name": "Care of"
+    },
+    {
+      "char": "ℊ",
+      "code": "&gscr;",
+      "css": "\\210A",
+      "type": "typography",
+      "name": "G script"
+    },
+    {
+      "char": "ℋ",
+      "code": "&Hscr;",
+      "css": "\\210B",
+      "type": "typography",
+      "name": "H script"
+    },
+    {
+      "char": "ℌ",
+      "code": "&Hfr;",
+      "css": "\\210C",
+      "type": "typography",
+      "name": "Black-letter H"
+    },
+    {
+      "char": "ℍ",
+      "code": "&quaternions;",
+      "css": "\\210D",
+      "type": "math",
+      "name": "Quaternions"
+    },
+    {
+      "char": "ℎ",
+      "code": "&planckh;",
+      "css": "\\210E",
+      "type": "math",
+      "name": "Planck constant"
+    },
+    {
+      "char": "ℏ",
+      "code": "&planck;",
+      "css": "\\210F",
+      "type": "math",
+      "name": " Planck constant over two pi"
+    },
+    {
+      "char": "ℐ",
+      "code": "&Iscr;",
+      "css": "\\2110",
+      "type": "symbol",
+      "name": "I script"
+    },
+    {
+      "char": "ℑ",
+      "code": "&image;",
+      "css": "\\2111",
+      "type": "typography",
+      "name": "I script / Image"
+    },
+    {
+      "char": "ℒ",
+      "code": "&Lscr;",
+      "css": "\\2112",
+      "type": "math",
+      "name": "L script / Laplace"
+    },
+    {
+      "char": "ℓ",
+      "code": "&ell;",
+      "css": "\\2113",
+      "type": "symbol",
+      "name": "L script"
+    },
+    {
+      "char": "ℕ",
+      "code": "&naturals;",
+      "css": "\\2115",
+      "type": "math",
+      "name": "Natural numbers"
+    },
+    {
+      "char": "№",
+      "code": "&numero;",
+      "css": "\\2116",
+      "type": "typography",
+      "name": "Numero"
+    },
+    {
+      "char": "℗",
+      "code": "&copysr;",
+      "css": "\\2117",
+      "type": "symbol",
+      "name": "Sound recording copyright"
+    },
+    {
+      "char": "℘",
+      "code": "&wp;",
+      "css": "\\2118",
+      "type": "symbol",
+      "name": "P script"
+    },
+    {
+      "char": "ℙ",
+      "code": "&primes;",
+      "css": "\\2119",
+      "type": "math",
+      "name": "Prime numbers"
+    },
+    {
+      "char": "ℚ",
+      "code": "&rationals;",
+      "css": "\\211A",
+      "type": "math",
+      "name": "Rational numbers"
+    },
+    {
+      "char": "ℛ",
+      "code": "&Rscr;",
+      "css": "\\211B",
+      "type": "symbol",
+      "name": "R Script"
+    },
+    {
+      "char": "ℜ",
+      "code": "&real;",
+      "css": "\\211C",
+      "type": "math",
+      "name": "Real part of complex number"
+    },
+    {
+      "char": "ℝ",
+      "code": "&reals;",
+      "css": "\\211D",
+      "type": "math",
+      "name": "Real numbers"
+    },
+    {
+      "char": "℞",
+      "code": "&rx;",
+      "css": "\\211E",
+      "type": "symbol",
+      "name": "Prescription take"
+    },
+    {
+      "char": "™",
+      "code": "&trade;",
+      "css": "\\2122",
+      "type": "symbol",
+      "name": "Trade mark sign"
+    },
+    {
+      "char": "ℤ",
+      "code": "&integers;",
+      "css": "\\2124",
+      "type": "math",
+      "name": "Integers"
+    },
+    {
+      "char": "Ω",
+      "code": "&ohm;",
+      "css": "\\03A9",
+      "type": "symbol",
+      "name": "Ohm sign"
+    },
+    {
+      "char": "℧",
+      "code": "&mho;",
+      "css": "\\2127",
+      "type": "symbol",
+      "name": "Inverted ohm sign"
+    },
+    {
+      "char": "ℨ",
+      "code": "&Zfr;",
+      "css": "\\2128",
+      "type": "typography",
+      "name": "Black-letter z"
+    },
+    {
+      "char": "℩",
+      "code": "&iiota;",
+      "css": "\\2129",
+      "type": "symbol",
+      "name": "Turned greek iota"
+    },
+    {
+      "char": "Å",
+      "code": "&angst;",
+      "css": "\\00C5",
+      "type": "symbol",
+      "name": "Angstrom sign"
+    },
+    {
+      "char": "ℬ",
+      "code": "&Bscr;",
+      "css": "\\212C",
+      "type": "symbol",
+      "name": "B script"
+    },
+    {
+      "char": "ℭ",
+      "code": "&Cfr;",
+      "css": "\\212D",
+      "type": "symbol",
+      "name": "Black-letter C"
+    },
+    {
+      "char": "ℯ",
+      "code": "&escr;",
+      "css": "\\212F",
+      "type": "math",
+      "name": "Elementary charge / E script"
+    },
+    {
+      "char": "ℰ",
+      "code": "&Escr;",
+      "css": "\\2130",
+      "type": "typography",
+      "name": "E script"
+    },
+    {
+      "char": "ℱ",
+      "code": "&Fscr; ",
+      "css": "\\2131",
+      "type": "typography",
+      "name": "F script"
+    },
+    {
+      "char": "ℳ",
+      "code": "&Mscr;",
+      "css": "\\2133",
+      "type": "typography",
+      "name": "M script"
+    },
+    {
+      "char": "ℴ",
+      "code": "&oscr;",
+      "css": "\\2134",
+      "type": "typography",
+      "name": "o script"
+    },
+    {
+      "char": "ℵ",
+      "code": "&alefsym;",
+      "css": "\\2135",
+      "type": "hebrew",
+      "name": "Alef"
+    },
+    {
+      "char": "ℶ",
+      "code": "&beth;",
+      "css": "\\2136",
+      "type": "hebrew",
+      "name": "Beth"
+    },
+    {
+      "char": "ℷ",
+      "code": "&gimel;",
+      "css": "\\2137",
+      "type": "hebrew",
+      "name": "Gimmel"
+    },
+    {
+      "char": "ℸ",
+      "code": "&daleth;",
+      "css": "\\2138",
+      "type": "hebrew",
+      "name": "Daleth"
+    },
+    {
+      "char": "ⅅ",
+      "code": "&DD;",
+      "css": "\\2145",
+      "type": "math",
+      "name": "Differential"
+    },
+    {
+      "char": "ⅆ",
+      "code": "&dd;",
+      "css": "\\2146",
+      "type": "math",
+      "name": "Differential"
+    },
+    {
+      "char": "ⅇ",
+      "code": "&ee;",
+      "css": "\\2147",
+      "type": "math",
+      "name": "Exponential e"
+    },
+    {
+      "char": "ⅈ",
+      "code": "&ii;",
+      "css": "\\2148",
+      "type": "math",
+      "name": "Imaginary i"
+    },
+    {
+      "char": "⅓",
+      "code": "&frac13;",
+      "css": "\\2153",
+      "type": "typography",
+      "name": "1/3 fraction"
+    },
+    {
+      "char": "⅔",
+      "code": "&frac23;",
+      "css": "\\2154",
+      "type": "typography",
+      "name": "2/3 fraction"
+    },
+    {
+      "char": "⅕",
+      "code": "&frac15;",
+      "css": "\\2155",
+      "type": "typography",
+      "name": "1/5 fraction"
+    },
+    {
+      "char": "⅖",
+      "code": "&frac25;",
+      "css": "\\2156",
+      "type": "typography",
+      "name": "2/5 fraction"
+    },
+    {
+      "char": "⅗",
+      "code": "&frac35;",
+      "css": "\\2157",
+      "type": "typography",
+      "name": "3/5 fraction"
+    },
+    {
+      "char": "⅘",
+      "code": "&frac45;",
+      "css": "\\2158",
+      "type": "typography",
+      "name": "4/5 fraction"
+    },
+    {
+      "char": "⅙",
+      "code": "&frac16;",
+      "css": "\\2159",
+      "type": "typography",
+      "name": "1/6 fraction"
+    },
+    {
+      "char": "⅚",
+      "code": "&frac56;",
+      "css": "\\215A",
+      "type": "typography",
+      "name": "5/6 fraction"
+    },
+    {
+      "char": "⅛",
+      "code": "&frac18;",
+      "css": "\\215B",
+      "type": "typography",
+      "name": "1/8 fraction"
+    },
+    {
+      "char": "⅜",
+      "code": "&frac38;",
+      "css": "\\215C",
+      "type": "typography",
+      "name": "3/8 fraction"
+    },
+    {
+      "char": "⅝",
+      "code": "&frac58;",
+      "css": "\\215D",
+      "type": "typography",
+      "name": "5/8 fraction"
+    },
+    {
+      "char": "⅞",
+      "code": "&frac78;",
+      "css": "\\215E",
+      "type": "typography",
+      "name": "7/8 fraction"
+    },
+    {
+      "char": "←",
+      "code": "&larr;",
+      "css": "\\2190",
+      "type": "arrow",
+      "name": "Left arrow"
+    },
+    {
+      "char": "↑",
+      "code": "&uarr;",
+      "css": "\\2191",
+      "type": "arrow",
+      "name": "name"
+    },
+    {
+      "char": "→",
+      "code": "&rarr;",
+      "css": "\\2192",
+      "type": "arrow",
+      "name": "Short right arrow"
+    },
+    {
+      "char": "↓",
+      "code": "&darr;",
+      "css": "\\2193",
+      "type": "arrow",
+      "name": "Down arrow"
+    },
+    {
+      "char": "↔",
+      "code": "&harr;",
+      "css": "\\2194",
+      "type": "arrow",
+      "name": "Left right arrow"
+    },
+    {
+      "char": "↕",
+      "code": "&varr;",
+      "css": "\\2195",
+      "type": "arrow",
+      "name": "Up down arrow"
+    },
+    {
+      "char": "↖",
+      "code": "&nwarr;",
+      "css": "\\2196",
+      "type": "arrow",
+      "name": "Upper left arrow"
+    },
+    {
+      "char": "↗",
+      "code": "&nearr;",
+      "css": "\\2197",
+      "type": "arrow",
+      "name": "Upper right arrow"
+    },
+    {
+      "char": "↘",
+      "code": "&searr;",
+      "css": "\\2198",
+      "type": "arrow",
+      "name": "Lower right arrow"
+    },
+    {
+      "char": "↙",
+      "code": "&swarr;",
+      "css": "\\2199",
+      "type": "arrow",
+      "name": "Lower left arrow"
+    },
+    {
+      "char": "↚",
+      "code": "&nlarr;",
+      "css": "\\219A",
+      "type": "arrow",
+      "name": "Left arrow with stroke"
+    },
+    {
+      "char": "↛",
+      "code": "&nrarr;",
+      "css": "\\219B",
+      "type": "arrow",
+      "name": "Right arrow with stroke"
+    },
+    {
+      "char": "↝",
+      "code": "&rarrw;",
+      "css": "\\219D",
+      "type": "arrow",
+      "name": "Wavy right arrow"
+    },
+    {
+      "char": "↞",
+      "code": "&Larr;",
+      "css": "\\219E",
+      "type": "arrow",
+      "name": "Two-head left arrow"
+    },
+    {
+      "char": "↟",
+      "code": "&Uarr;",
+      "css": "\\219F",
+      "type": "arrow",
+      "name": "Two-head up arrow"
+    },
+    {
+      "char": "↠",
+      "code": "&Rarr;",
+      "css": "\\21A0",
+      "type": "arrow",
+      "name": "Two-head right arrow"
+    },
+    {
+      "char": "↡",
+      "code": "&Darr;",
+      "css": "\\21A1",
+      "type": "arrow",
+      "name": "Two-head down arrow"
+    },
+    {
+      "char": "↢",
+      "code": "&larrtl;",
+      "css": "\\21A2",
+      "type": "arrow",
+      "name": "Left arrow with tail"
+    },
+    {
+      "char": "↣",
+      "code": "&rarrtl;",
+      "css": "\\21A3",
+      "type": "arrow",
+      "name": "Right arrow with tail"
+    },
+    {
+      "char": "↤",
+      "code": "&mapstoleft;",
+      "css": "\\21A4",
+      "type": "arrow",
+      "name": "Left arrow from bar"
+    },
+    {
+      "char": "↥",
+      "code": "&mapstoup;",
+      "css": "\\21A5",
+      "type": "arrow",
+      "name": "Up arrow from bar"
+    },
+    {
+      "char": "↦",
+      "code": "&map;",
+      "css": "\\21A6",
+      "type": "arrow",
+      "name": "Right arrow from bar"
+    },
+    {
+      "char": "↧",
+      "code": "&mapstodown;",
+      "css": "\\21A7",
+      "type": "arrow",
+      "name": "Down arrow from bar"
+    },
+    {
+      "char": "↩",
+      "code": "&larrhk;",
+      "css": "\\21A9",
+      "type": "arrow",
+      "name": "Turn left"
+    },
+    {
+      "char": "↪",
+      "code": "&rarrhk;",
+      "css": "\\21AA",
+      "type": "arrow",
+      "name": "Turn right"
+    },
+    {
+      "char": "↫",
+      "code": "&larrlp;",
+      "css": "\\21AB",
+      "type": "arrow",
+      "name": "Loop left"
+    },
+    {
+      "char": "↬",
+      "code": "&rarrlp;",
+      "css": "\\21AC",
+      "type": "arrow",
+      "name": "Loop right"
+    },
+    {
+      "char": "↭",
+      "code": "&harrw;",
+      "css": "\\21AD",
+      "type": "arrow",
+      "name": "Left right wave arrow"
+    },
+    {
+      "char": "↮",
+      "code": "&nharr;",
+      "css": "\\21AE",
+      "type": "arrow",
+      "name": "Left right with stroke"
+    },
+    {
+      "char": "↰",
+      "code": "&lsh;",
+      "css": "\\21B0",
+      "type": "arrow",
+      "name": "Upward arrow with tip leftwards"
+    },
+    {
+      "char": "↱",
+      "code": "&rsh;",
+      "css": "\\21B1",
+      "type": "arrow",
+      "name": "Upward arrow with tip rightwards"
+    },
+    {
+      "char": "↲",
+      "code": "&ldsh;",
+      "css": "\\21B2",
+      "type": "arrow",
+      "name": "Downward arrow with tip leftwards"
+    },
+    {
+      "char": "↳",
+      "code": "&rdsh;",
+      "css": "\\21B3",
+      "type": "arrow",
+      "name": "Downward arrow with tip rightwards"
+    },
+    {
+      "char": "↵",
+      "code": "&crarr;",
+      "css": "\\21B5",
+      "type": "arrow",
+      "name": "Downward arrow with corner leftwards"
+    },
+    {
+      "char": "↶",
+      "code": "&cularr;",
+      "css": "\\21B6",
+      "type": "arrow",
+      "name": "Left curve"
+    },
+    {
+      "char": "↷",
+      "code": "&curarr;",
+      "css": "\\21B7",
+      "type": "arrow",
+      "name": "Right curve"
+    },
+    {
+      "char": "↺",
+      "code": "&olarr;",
+      "css": "\\21BA",
+      "type": "arrow",
+      "name": "Counter clockwise"
+    },
+    {
+      "char": "↻",
+      "code": "&orarr;",
+      "css": "\\21BB",
+      "type": "arrow",
+      "name": "Clockwise"
+    },
+    {
+      "char": "↼",
+      "code": "&lharu;",
+      "css": "\\21BC",
+      "type": "arrow",
+      "name": "Left vector"
+    },
+    {
+      "char": "↽",
+      "code": "&lhard;",
+      "css": "\\21BD",
+      "type": "arrow",
+      "name": "Left down vector"
+    },
+    {
+      "char": "↾",
+      "code": "&uharr;",
+      "css": "\\21BE",
+      "type": "arrow",
+      "name": "Up right vector"
+    },
+    {
+      "char": "↿",
+      "code": "&uharl;",
+      "css": "\\21BF",
+      "type": "arrow",
+      "name": "Up left vector"
+    },
+    {
+      "char": "⇀",
+      "code": "&rharu;",
+      "css": "\\21C0",
+      "type": "arrow",
+      "name": "Right vector"
+    },
+    {
+      "char": "⇁",
+      "code": "&rhard;",
+      "css": "\\21C1",
+      "type": "arrow",
+      "name": "Right down vector"
+    },
+    {
+      "char": "⇂",
+      "code": "&dharr;",
+      "css": "\\21C2",
+      "type": "arrow",
+      "name": "Down right vector"
+    },
+    {
+      "char": "⇃",
+      "code": "&dharl;",
+      "css": "\\21C3",
+      "type": "arrow",
+      "name": "Down left vector"
+    },
+    {
+      "char": "⇄",
+      "code": "&rlarr;",
+      "css": "\\21C4",
+      "type": "arrow",
+      "name": "Right left arrows"
+    },
+    {
+      "char": "⇅",
+      "code": "&udarr;",
+      "css": "\\21C5",
+      "type": "arrow",
+      "name": "Up down arrows"
+    },
+    {
+      "char": "⇆",
+      "code": "&lrarr;",
+      "css": "\\21C6",
+      "type": "arrow",
+      "name": "Left right arrows"
+    },
+    {
+      "char": "⇇",
+      "code": "&llarr;",
+      "css": "\\21C7",
+      "type": "arrow",
+      "name": "Double left arrows"
+    },
+    {
+      "char": "⇈",
+      "code": "&uuarr;",
+      "css": "\\21C8",
+      "type": "arrow",
+      "name": "Double up arrows"
+    },
+    {
+      "char": "⇉",
+      "code": "&rrarr;",
+      "css": "\\21C9",
+      "type": "arrow",
+      "name": "Double right arrows"
+    },
+    {
+      "char": "⇊",
+      "code": "&ddarr;",
+      "css": "\\21CA",
+      "type": "arrow",
+      "name": "Double down arrows"
+    },
+    {
+      "char": "⇋",
+      "code": "&lrhar;",
+      "css": "\\21CB",
+      "type": "arrow",
+      "name": "Reverse equilibrium"
+    },
+    {
+      "char": "⇌",
+      "code": "&rlhar;",
+      "css": "\\21CC",
+      "type": "arrow",
+      "name": "Equilibrium"
+    },
+    {
+      "char": "⇍",
+      "code": "&nlArr;",
+      "css": "\\21CD",
+      "type": "arrow",
+      "name": "Left double arrow with stroke"
+    },
+    {
+      "char": "⇎",
+      "code": "&nhArr;",
+      "css": "\\21CE",
+      "type": "arrow",
+      "name": "Left right double arrow with stroke"
+    },
+    {
+      "char": "⇏",
+      "code": "&nrArr;",
+      "css": "\\21CF",
+      "type": "arrow",
+      "name": "Right double arrow with stroke"
+    },
+    {
+      "char": "⇐",
+      "code": "&lArr;",
+      "css": "\\21D0",
+      "type": "arrow",
+      "name": "Left double arrow"
+    },
+    {
+      "char": "⇑",
+      "code": "&uArr;",
+      "css": "\\21D1",
+      "type": "arrow",
+      "name": "Up double arrow"
+    },
+    {
+      "char": "⇒",
+      "code": "&rArr; ",
+      "css": "\\21D2",
+      "type": "arrow",
+      "name": "Right double arrow / Implies"
+    },
+    {
+      "char": "⇓",
+      "code": "&dArr;",
+      "css": "\\21D3",
+      "type": "arrow",
+      "name": "Down double arrow"
+    },
+    {
+      "char": "⇔",
+      "code": "&hArr;",
+      "css": "\\21D4",
+      "type": "arrow",
+      "name": "Left right double arrow"
+    },
+    {
+      "char": "⇕",
+      "code": "&vArr;",
+      "css": "\\21D5",
+      "type": "arrow",
+      "name": "Up down double arrow"
+    },
+    {
+      "char": "⇖",
+      "code": "&nwArr;",
+      "css": "\\21D6",
+      "type": "arrow",
+      "name": "Northwest double arrow"
+    },
+    {
+      "char": "⇗",
+      "code": "&neArr;",
+      "css": "\\21D7",
+      "type": "arrow",
+      "name": "Northeast double arrow"
+    },
+    {
+      "char": "⇘",
+      "code": "&seArr;",
+      "css": "\\21D8",
+      "type": "arrow",
+      "name": "Southeast double arrow"
+    },
+    {
+      "char": "⇙",
+      "code": "&swArr;",
+      "css": "\\21D9",
+      "type": "arrow",
+      "name": "Southwest double arrow"
+    },
+    {
+      "char": "⇚",
+      "code": "&lAarr;",
+      "css": "\\21DA",
+      "type": "arrow",
+      "name": "Left triple arrow"
+    },
+    {
+      "char": "⇛",
+      "code": "&rAarr;",
+      "css": "\\21DB",
+      "type": "arrow",
+      "name": "Right triple arrow"
+    },
+    {
+      "char": "⇝",
+      "code": "&zigrarr;",
+      "css": "\\21DD",
+      "type": "arrow",
+      "name": "Right wave arrow"
+    },
+    {
+      "char": "⇤",
+      "code": "&larrb;",
+      "css": "\\21E4",
+      "type": "arrow",
+      "name": "Left arrow to bar"
+    },
+    {
+      "char": "⇥",
+      "code": "&rarrb;",
+      "css": "\\21E5",
+      "type": "arrow",
+      "name": "Right arrow to bar"
+    },
+    {
+      "char": "⇵",
+      "code": "&duarr;",
+      "css": "\\21F5",
+      "type": "arrow",
+      "name": "Up down arrows"
+    },
+    {
+      "char": "⇽",
+      "code": "&loarr;",
+      "css": "\\21FD",
+      "type": "arrow",
+      "name": "Open left arrow"
+    },
+    {
+      "char": "⇾",
+      "code": "&roarr;",
+      "css": "\\21FE",
+      "type": "arrow",
+      "name": "Open right arrow"
+    },
+    {
+      "char": "⇿",
+      "code": "&hoarr;",
+      "css": "\\21FF",
+      "type": "arrow",
+      "name": "Open left right arrow"
+    },
+    {
+      "char": "∀",
+      "code": "&forall;",
+      "css": "\\2200",
+      "type": "math",
+      "name": "For all"
+    },
+    {
+      "char": "∁",
+      "code": "&comp;",
+      "css": "\\2201",
+      "type": "math",
+      "name": "Complement"
+    },
+    {
+      "char": "∂",
+      "code": "&part;",
+      "css": "\\2202",
+      "type": "math",
+      "name": "Partial d"
+    },
+    {
+      "char": "∃",
+      "code": "&exist;",
+      "css": "\\2203",
+      "type": "math",
+      "name": "Exists"
+    },
+    {
+      "char": "∄",
+      "code": "&nexist;",
+      "css": "\\2204",
+      "type": "math",
+      "name": "Not exists"
+    },
+    {
+      "char": "∅",
+      "code": "&empty;",
+      "css": "\\2205",
+      "type": "math",
+      "name": "Empty"
+    },
+    {
+      "char": "∇",
+      "code": "&nabla;",
+      "css": "\\2207",
+      "type": "math",
+      "name": "Nabla"
+    },
+    {
+      "char": "∈",
+      "code": "&in;",
+      "css": "\\2208",
+      "type": "math",
+      "name": "Is in"
+    },
+    {
+      "char": "∉",
+      "code": "&notin;",
+      "css": "\\2209",
+      "type": "math",
+      "name": "Not in"
+    },
+    {
+      "char": "∋",
+      "code": "&niv;",
+      "css": "\\220B",
+      "type": "math",
+      "name": "Contains / Such that"
+    },
+    {
+      "char": "∌",
+      "code": "&notni;",
+      "css": "\\220C",
+      "type": "math",
+      "name": "Not contain"
+    },
+    {
+      "char": "∏",
+      "code": "&prod;",
+      "css": "\\220F",
+      "type": "math",
+      "name": "Product"
+    },
+    {
+      "char": "∐",
+      "code": "&coprod;",
+      "css": "\\2210",
+      "type": "math",
+      "name": "Coproduct"
+    },
+    {
+      "char": "∑",
+      "code": "&sum;",
+      "css": "\\2211",
+      "type": "math",
+      "name": "Sum"
+    },
+    {
+      "char": "−",
+      "code": "&minus;",
+      "css": "\\2212",
+      "type": "math",
+      "name": "Minus"
+    },
+    {
+      "char": "∓",
+      "code": "&mp;",
+      "css": "\\2213",
+      "type": "math",
+      "name": "Minus plus"
+    },
+    {
+      "char": "∔",
+      "code": "&dotplus;",
+      "css": "\\2214",
+      "type": "math",
+      "name": "Dot plus"
+    },
+    {
+      "char": "∖",
+      "code": "&setminus;",
+      "css": "\\2216",
+      "type": "math",
+      "name": "Set minus"
+    },
+    {
+      "char": "∗",
+      "code": "&lowast;",
+      "css": "\\2217",
+      "type": "math",
+      "name": "Asterisk operator"
+    },
+    {
+      "char": "∘",
+      "code": "&compfn; &SmallCircle;",
+      "css": "\\2218",
+      "type": "math",
+      "name": "Ring operator"
+    },
+    {
+      "char": "√",
+      "code": "&radic;",
+      "css": "\\221A",
+      "type": "math",
+      "name": "Square root"
+    },
+    {
+      "char": "∝",
+      "code": "&prop;",
+      "css": "\\221D",
+      "type": "math",
+      "name": "Proportional to"
+    },
+    {
+      "char": "∞",
+      "code": "&infin;",
+      "css": "\\221E",
+      "type": "math",
+      "name": "Infinite"
+    },
+    {
+      "char": "∟",
+      "code": "&angrt;",
+      "css": "\\221F",
+      "type": "math",
+      "name": "Right angle"
+    },
+    {
+      "char": "∠",
+      "code": "&ang;",
+      "css": "\\2220",
+      "type": "math",
+      "name": "Angle"
+    },
+    {
+      "char": "∡",
+      "code": "&angmsd;",
+      "css": "\\2221",
+      "type": "math",
+      "name": "Measured angle"
+    },
+    {
+      "char": "∢",
+      "code": "&angsph;",
+      "css": "\\2222",
+      "type": "math",
+      "name": "Spherical angle"
+    },
+    {
+      "char": "∣",
+      "code": "&mid;",
+      "css": "\\2223",
+      "type": "math",
+      "name": "Vertical bar"
+    },
+    {
+      "char": "∤",
+      "code": "&nmid;",
+      "css": "\\2224",
+      "type": "math",
+      "name": "Not vertical bar"
+    },
+    {
+      "char": "∥",
+      "code": "&par;",
+      "css": "\\2225",
+      "type": "math",
+      "name": "Parallel"
+    },
+    {
+      "char": "∦",
+      "code": "&npar;",
+      "css": "\\2226",
+      "type": "math",
+      "name": "Not parallel"
+    },
+    {
+      "char": "∧",
+      "code": "&and;",
+      "css": "\\2227",
+      "type": "math",
+      "name": "And"
+    },
+    {
+      "char": "∨",
+      "code": "&or;",
+      "css": "\\2228",
+      "type": "math",
+      "name": "Or"
+    },
+    {
+      "char": "∩",
+      "code": "&cap;",
+      "css": "\\2229",
+      "type": "math",
+      "name": "Intersection"
+    },
+    {
+      "char": "∪",
+      "code": "&cup;",
+      "css": "\\222A",
+      "type": "math",
+      "name": "Union"
+    },
+    {
+      "char": "∫",
+      "code": "&int;",
+      "css": "\\222B",
+      "type": "math",
+      "name": "Integral"
+    },
+    {
+      "char": "∬",
+      "code": "&Int;",
+      "css": "\\222C",
+      "type": "math",
+      "name": "Double integral"
+    },
+    {
+      "char": "∭",
+      "code": "&tint;",
+      "css": "\\222D",
+      "type": "math",
+      "name": "Triple integral"
+    },
+    {
+      "char": "∮",
+      "code": "&conint;",
+      "css": "\\222E",
+      "type": "math",
+      "name": "Contour integral"
+    },
+    {
+      "char": "∯",
+      "code": "&Conint;",
+      "css": "\\222F",
+      "type": "math",
+      "name": "Surface integral"
+    },
+    {
+      "char": "∰",
+      "code": "&Cconint;",
+      "css": "\\2230",
+      "type": "math",
+      "name": "Volume integral"
+    },
+    {
+      "char": "∱",
+      "code": "&cwint;",
+      "css": "\\2231",
+      "type": "math",
+      "name": "Clockwise integral"
+    },
+    {
+      "char": "∲",
+      "code": "&cwconint;",
+      "css": "\\2232",
+      "type": "math",
+      "name": "Clockwise  contour integral"
+    },
+    {
+      "char": "∳",
+      "code": "&awconint;",
+      "css": "\\2233",
+      "type": "math",
+      "name": "Counter clockwise contour integral"
+    },
+    {
+      "char": "∴",
+      "code": "&there4;",
+      "css": "\\2234",
+      "type": "math",
+      "name": "Therefore"
+    },
+    {
+      "char": "∵",
+      "code": "&because;",
+      "css": "\\2235",
+      "type": "math",
+      "name": "Because"
+    },
+    {
+      "char": "∶",
+      "code": "&ratio;",
+      "css": "\\2236",
+      "type": "math",
+      "name": "Ratio"
+    },
+    {
+      "char": "∷",
+      "code": "&Colon;;",
+      "css": "\\2237",
+      "type": "math",
+      "name": "Proportion"
+    },
+    {
+      "char": "∸",
+      "code": "&minusd;",
+      "css": "\\2238",
+      "type": "math",
+      "name": "Dot minus"
+    },
+    {
+      "char": "∺",
+      "code": "&mDDot;",
+      "css": "\\223A",
+      "type": "math",
+      "name": "Geometric proportion"
+    },
+    {
+      "char": "∻",
+      "code": "&homtht;",
+      "css": "\\223B",
+      "type": "math",
+      "name": "Homothetic"
+    },
+    {
+      "char": "∼",
+      "code": "&Tilde;",
+      "css": "\\223C",
+      "type": "math",
+      "name": "Tilde operator"
+    },
+    {
+      "char": "∽",
+      "code": "&bsim;",
+      "css": "\\223D",
+      "type": "math",
+      "name": "Reverse tilde operator"
+    },
+    {
+      "char": "∾",
+      "code": "&ac;",
+      "css": "\\223E",
+      "type": "math",
+      "name": "Inverted lazy S"
+    },
+    {
+      "char": "∿",
+      "code": "&acd;",
+      "css": "\\223F",
+      "type": "math",
+      "name": "Sine wave"
+    },
+    {
+      "char": "≀",
+      "code": "&wr;",
+      "css": "\\2240",
+      "type": "math",
+      "name": "Wreath product"
+    },
+    {
+      "char": "≁",
+      "code": "&nsim;",
+      "css": "\\2241",
+      "type": "math",
+      "name": "Not tilde"
+    },
+    {
+      "char": "≂",
+      "code": "&esim;",
+      "css": "\\2242",
+      "type": "math",
+      "name": "Equal tilde"
+    },
+    {
+      "char": "≃",
+      "code": "&sime;",
+      "css": "\\2243",
+      "type": "math",
+      "name": "Tilde equal"
+    },
+    {
+      "char": "≄",
+      "code": "&nsime;",
+      "css": "\\2244",
+      "type": "math",
+      "name": "Not asymptotically equal to"
+    },
+    {
+      "char": "≅",
+      "code": "&cong;",
+      "css": "\\2245",
+      "type": "math",
+      "name": "Aproximately equal to"
+    },
+    {
+      "char": "≆",
+      "code": "&simne;",
+      "css": "\\2246",
+      "type": "math",
+      "name": "Aproximately but not equal to"
+    },
+    {
+      "char": "≇",
+      "code": "&ncong;",
+      "css": "\\2247",
+      "type": "math",
+      "name": "Neither Aproximately nor equal to"
+    },
+    {
+      "char": "≈",
+      "code": "&ap;",
+      "css": "\\2248",
+      "type": "math",
+      "name": "Almost equal to"
+    },
+    {
+      "char": "≉",
+      "code": "&nap;",
+      "css": "\\2249",
+      "type": "math",
+      "name": "Not almost equal to"
+    },
+    {
+      "char": "≊",
+      "code": "&ape;",
+      "css": "\\224A",
+      "type": "math",
+      "name": "Almost equal or equal to"
+    },
+    {
+      "char": "≋",
+      "code": "&apid;",
+      "css": "\\224B",
+      "type": "math",
+      "name": "Triple tilde"
+    },
+    {
+      "char": "≌",
+      "code": "&bcong;",
+      "css": "\\224C",
+      "type": "math",
+      "name": "All equal to"
+    },
+    {
+      "char": "≍",
+      "code": "&asympeq;",
+      "css": "\\224D",
+      "type": "math",
+      "name": "Equivalent to"
+    },
+    {
+      "char": "≎",
+      "code": "&bump;",
+      "css": "\\224E",
+      "type": "math",
+      "name": "Geometrically equivalent to"
+    },
+    {
+      "char": "≏",
+      "code": "&bumpe;",
+      "css": "\\224F",
+      "type": "math",
+      "name": "Diffence between"
+    },
+    {
+      "char": "≐",
+      "code": "&doteq;",
+      "css": "\\2250",
+      "type": "math",
+      "name": "Approaches the limit"
+    },
+    {
+      "char": "≑",
+      "code": "&eDot;",
+      "css": "\\2251",
+      "type": "math",
+      "name": "Geometrically equal to"
+    },
+    {
+      "char": "≒",
+      "code": "&efDot;",
+      "css": "\\2252",
+      "type": "math",
+      "name": "Aproximately equal to or the image of"
+    },
+    {
+      "char": "≓",
+      "code": "&erDot;",
+      "css": "\\2253",
+      "type": "math",
+      "name": "Image of or aproximately equal to"
+    },
+    {
+      "char": "≔",
+      "code": "&colone;",
+      "css": "\\2254",
+      "type": "math",
+      "name": "Colon equals"
+    },
+    {
+      "char": "≕",
+      "code": "&ecolon;",
+      "css": "\\2255",
+      "type": "math",
+      "name": "Equals color"
+    },
+    {
+      "char": "≖",
+      "code": "&ecir;",
+      "css": "\\2256",
+      "type": "math",
+      "name": "Ring in equal to"
+    },
+    {
+      "char": "≗",
+      "code": "&cire;",
+      "css": "\\2257",
+      "type": "math",
+      "name": "Ring equal to"
+    },
+    {
+      "char": "≙",
+      "code": "&wedgeq;",
+      "css": "\\2259",
+      "type": "math",
+      "name": "Estimates"
+    },
+    {
+      "char": "≚",
+      "code": "&veeeq;",
+      "css": "\\225A",
+      "type": "math",
+      "name": "Equiangular to"
+    },
+    {
+      "char": "≜",
+      "code": "&trie;",
+      "css": "\\225C",
+      "type": "math",
+      "name": "Delta equal to"
+    },
+    {
+      "char": "≟",
+      "code": "&equest;",
+      "css": "\\225F",
+      "type": "math",
+      "name": "Questioned equal to"
+    },
+    {
+      "char": "≠",
+      "code": "&ne;",
+      "css": "\\2260",
+      "type": "math",
+      "name": "Not equal to"
+    },
+    {
+      "char": "≡",
+      "code": "&equiv;",
+      "css": "\\2261",
+      "type": "math",
+      "name": "Identical to"
+    },
+    {
+      "char": "≢",
+      "code": "&nequiv;",
+      "css": "\\2262",
+      "type": "math",
+      "name": "Not identical to"
+    },
+    {
+      "char": "≤",
+      "code": "&le;",
+      "css": "\\2264",
+      "type": "math",
+      "name": "Less-than or equal to"
+    },
+    {
+      "char": "≥",
+      "code": "&ge;",
+      "css": "\\2265",
+      "type": "math",
+      "name": "More-than or equal to"
+    },
+    {
+      "char": "≦",
+      "code": "&lE;",
+      "css": "\\2266",
+      "type": "math",
+      "name": "Less-than over equal to"
+    },
+    {
+      "char": "≧",
+      "code": "&gE;",
+      "css": "\\2267",
+      "type": "math",
+      "name": "More-than over equal to"
+    },
+    {
+      "char": "≨",
+      "code": "&lnE;",
+      "css": "\\2268",
+      "type": "math",
+      "name": "Less-than but not equal to"
+    },
+    {
+      "char": "≩",
+      "code": "&gnE;",
+      "css": "\\2269",
+      "type": "math",
+      "name": "More-than but not equal to"
+    },
+    {
+      "char": "≪",
+      "code": "&Lt;",
+      "css": "\\226A",
+      "type": "math",
+      "name": "Much less-than"
+    },
+    {
+      "char": "≫",
+      "code": "&Gt;",
+      "css": "\\226B",
+      "type": "math",
+      "name": "Much more-than"
+    },
+    {
+      "char": "≬",
+      "code": "&between;",
+      "css": "\\226C",
+      "type": "math",
+      "name": "Between"
+    },
+    {
+      "char": "≭",
+      "code": "&NotCupCap;",
+      "css": "\\226D",
+      "type": "math",
+      "name": "No equivalent to"
+    },
+    {
+      "char": "≮",
+      "code": "&nlt;",
+      "css": "\\226E",
+      "type": "math",
+      "name": "Not less-than"
+    },
+    {
+      "char": "≯",
+      "code": "&ngt;",
+      "css": "\\226F",
+      "type": "math",
+      "name": "Not more-than"
+    },
+    {
+      "char": "≰",
+      "code": "&nle;",
+      "css": "\\2270",
+      "type": "math",
+      "name": "Neither less-than nor equal to"
+    },
+    {
+      "char": "≱",
+      "code": "&nge;",
+      "css": "\\2271",
+      "type": "math",
+      "name": "Neither more-than nor equal to"
+    },
+    {
+      "char": "≲",
+      "code": "&lsim;",
+      "css": "\\2272",
+      "type": "math",
+      "name": "Less-than or equivalent to"
+    },
+    {
+      "char": "≳",
+      "code": "&gsim;",
+      "css": "\\2273",
+      "type": "math",
+      "name": "More-than or equivalent to"
+    },
+    {
+      "char": "≴",
+      "code": "&nlsim;",
+      "css": "\\2274",
+      "type": "math",
+      "name": "Neither less-than nor equivalent to"
+    },
+    {
+      "char": "≵",
+      "code": "&ngsim;",
+      "css": "\\2275",
+      "type": "math",
+      "name": "Neither more-than nor equivalent to"
+    },
+    {
+      "char": "≶",
+      "code": "&lg;",
+      "css": "\\2276",
+      "type": "math",
+      "name": "Less-than or greater-than"
+    },
+    {
+      "char": "≷",
+      "code": "&gl;",
+      "css": "\\2277",
+      "type": "math",
+      "name": "Greater-than or less-than"
+    },
+    {
+      "char": "≸",
+      "code": "&ntlg;",
+      "css": "\\2278",
+      "type": "math",
+      "name": "Neither less-than nor greater-than"
+    },
+    {
+      "char": "≹",
+      "code": "&ntgl;",
+      "css": "\\2279",
+      "type": "math",
+      "name": "Neither greater-than nor less-than"
+    },
+    {
+      "char": "≺",
+      "code": "&pr;",
+      "css": "\\227A",
+      "type": "math",
+      "name": "Precedes"
+    },
+    {
+      "char": "≻",
+      "code": "&sc;",
+      "css": "\\227B",
+      "type": "math",
+      "name": "Succedes"
+    },
+    {
+      "char": "≼",
+      "code": "&prcue;",
+      "css": "\\227C",
+      "type": "math",
+      "name": "Precedes or equal to"
+    },
+    {
+      "char": "≽",
+      "code": "&sccue;",
+      "css": "\\227D",
+      "type": "math",
+      "name": "Succedes or equal to"
+    },
+    {
+      "char": "≾",
+      "code": "&prsim;",
+      "css": "\\227E",
+      "type": "math",
+      "name": "Precedes or equivalent to"
+    },
+    {
+      "char": "≿",
+      "code": "&scsim;",
+      "css": "\\227F",
+      "type": "math",
+      "name": "Succedes or equivalent to"
+    },
+    {
+      "char": "⊀",
+      "code": "&npr;",
+      "css": "\\2280",
+      "type": "math",
+      "name": "Not precedes"
+    },
+    {
+      "char": "⊁",
+      "code": "&nsc;",
+      "css": "\\2281",
+      "type": "math",
+      "name": "Not succedes"
+    },
+    {
+      "char": "⊂",
+      "code": "&sub;",
+      "css": "\\2282",
+      "type": "math",
+      "name": "Subset of"
+    },
+    {
+      "char": "⊃",
+      "code": "&sup;",
+      "css": "\\2283",
+      "type": "math",
+      "name": "Superset of"
+    },
+    {
+      "char": "⊄",
+      "code": "&nsub;",
+      "css": "\\2284",
+      "type": "math",
+      "name": "Not a subset of"
+    },
+    {
+      "char": "⊅",
+      "code": "&nsup;",
+      "css": "\\2285",
+      "type": "math",
+      "name": "Not a superset of"
+    },
+    {
+      "char": "⊆",
+      "code": "&sube;",
+      "css": "\\2286",
+      "type": "math",
+      "name": "Subset of or equal to"
+    },
+    {
+      "char": "⊇",
+      "code": "&supe;",
+      "css": "\\2287",
+      "type": "math",
+      "name": "Superset of or equal to"
+    },
+    {
+      "char": "⊈",
+      "code": "&nsube;",
+      "css": "\\2288",
+      "type": "math",
+      "name": "Neither a subset of nor equal to"
+    },
+    {
+      "char": "⊉",
+      "code": "&nsupe;",
+      "css": "\\2289",
+      "type": "math",
+      "name": "Neither a superset of nor equal to"
+    },
+    {
+      "char": "⊊",
+      "code": "&subne;",
+      "css": "\\228A",
+      "type": "math",
+      "name": "Subset of with not equal to"
+    },
+    {
+      "char": "⊋",
+      "code": "&supne;",
+      "css": "\\228B",
+      "type": "math",
+      "name": "Superset of with not equal to"
+    },
+    {
+      "char": "⊍",
+      "code": "&cupdot;",
+      "css": "\\228D",
+      "type": "math",
+      "name": "Multiset multiplication"
+    },
+    {
+      "char": "⊎",
+      "code": "&uplus;",
+      "css": "\\228E",
+      "type": "math",
+      "name": "Multiset union"
+    },
+    {
+      "char": "⊏",
+      "code": "&sqsub;",
+      "css": "\\228F",
+      "type": "math",
+      "name": "Square image of"
+    },
+    {
+      "char": "⊐",
+      "code": "&sqsup;",
+      "css": "\\2290",
+      "type": "math",
+      "name": "Square original of"
+    },
+    {
+      "char": "⊑",
+      "code": "&sqsube;",
+      "css": "\\2291",
+      "type": "math",
+      "name": "Square image of or equal to"
+    },
+    {
+      "char": "⊒",
+      "code": "&sqsupe;",
+      "css": "\\2292",
+      "type": "math",
+      "name": "Square original of or equal to"
+    },
+    {
+      "char": "⊓",
+      "code": "&sqcap;",
+      "css": "\\2293",
+      "type": "math",
+      "name": "Square cap"
+    },
+    {
+      "char": "⊔",
+      "code": "&sqcup;",
+      "css": "\\2294",
+      "type": "math",
+      "name": "Square cup"
+    },
+    {
+      "char": "⊕",
+      "code": "&oplus;",
+      "css": "\\2295",
+      "type": "math",
+      "name": "Circled plus"
+    },
+    {
+      "char": "⊖",
+      "code": "&ominus;",
+      "css": "\\2296",
+      "type": "math",
+      "name": "Circled minus"
+    },
+    {
+      "char": "⊗",
+      "code": "&otimes;",
+      "css": "\\2297",
+      "type": "math",
+      "name": "Circled times"
+    },
+    {
+      "char": "⊘",
+      "code": "&osol;",
+      "css": "\\2298",
+      "type": "math",
+      "name": "Circled division slash"
+    },
+    {
+      "char": "⊙",
+      "code": "&odot;",
+      "css": "\\2299",
+      "type": "math",
+      "name": "Circled dot"
+    },
+    {
+      "char": "⊚",
+      "code": "&ocir;",
+      "css": "\\229A",
+      "type": "math",
+      "name": "Circled ring"
+    },
+    {
+      "char": "⊛",
+      "code": "&oast;",
+      "css": "\\229B",
+      "type": "math",
+      "name": "Circled asterisk"
+    },
+    {
+      "char": "⊝",
+      "code": "&odash;",
+      "css": "\\229D",
+      "type": "math",
+      "name": "Circled dash"
+    },
+    {
+      "char": "⊞",
+      "code": "&plusb;",
+      "css": "\\229E",
+      "type": "math",
+      "name": "Squared plus"
+    },
+    {
+      "char": "⊟",
+      "code": "&minusb;",
+      "css": "\\229F",
+      "type": "math",
+      "name": "Squared minus"
+    },
+    {
+      "char": "⊠",
+      "code": "&timesb;",
+      "css": "\\22A0",
+      "type": "math",
+      "name": "Squared times"
+    },
+    {
+      "char": "⊡",
+      "code": "&sdotb;",
+      "css": "\\22A1",
+      "type": "math",
+      "name": "Squared dot"
+    },
+    {
+      "char": "⊢",
+      "code": "&vdash;",
+      "css": "\\22A2",
+      "type": "math",
+      "name": "Right tack"
+    },
+    {
+      "char": "⊣",
+      "code": "&dashv;",
+      "css": "\\22A3",
+      "type": "math",
+      "name": "Left tack"
+    },
+    {
+      "char": "⊤",
+      "code": "&top;;",
+      "css": "\\22A4",
+      "type": "math",
+      "name": "Down tack"
+    },
+    {
+      "char": "⊥",
+      "code": "&bottom;",
+      "css": "\\22A5",
+      "type": "math",
+      "name": "Up tack"
+    },
+    {
+      "char": "⊧",
+      "code": "&models;",
+      "css": "\\22A7",
+      "type": "math",
+      "name": "Models"
+    },
+    {
+      "char": "⊨",
+      "code": "&vDash;",
+      "css": "\\22A8",
+      "type": "math",
+      "name": "True"
+    },
+    {
+      "char": "⊩",
+      "code": "&Vdash;",
+      "css": "\\22A9",
+      "type": "math",
+      "name": "Forces"
+    },
+    {
+      "char": "⊪",
+      "code": "&Vvdash;",
+      "css": "\\22AA",
+      "type": "math",
+      "name": "Triple vertical bar right turnstile"
+    },
+    {
+      "char": "⊫",
+      "code": "&VDash;",
+      "css": "\\22AB",
+      "type": "math",
+      "name": "Double vertical bar double right turnstile"
+    },
+    {
+      "char": "⊬",
+      "code": "&nvdash;",
+      "css": "\\22AC",
+      "type": "math",
+      "name": "Does not prove"
+    },
+    {
+      "char": "⊭",
+      "code": "&nvDash;",
+      "css": "\\22AD",
+      "type": "math",
+      "name": "Not true"
+    },
+    {
+      "char": "⊮",
+      "code": "&nVdash;",
+      "css": "\\22AE",
+      "type": "math",
+      "name": "Does not force"
+    },
+    {
+      "char": "⊯",
+      "code": "&nVDash;",
+      "css": "\\22AF",
+      "type": "math",
+      "name": "Negated double vertical bar double right turnstile"
+    },
+    {
+      "char": "⊰",
+      "code": "&prurel;",
+      "css": "\\22B0",
+      "type": "math",
+      "name": "Precedes under relation"
+    },
+    {
+      "char": "⊲",
+      "code": "&vltri;",
+      "css": "\\22B2",
+      "type": "math",
+      "name": "Normal subgroup of"
+    },
+    {
+      "char": "⊳",
+      "code": "&vrtri;",
+      "css": "\\22B3",
+      "type": "math",
+      "name": "Contains as normal subgroup"
+    },
+    {
+      "char": "⊴",
+      "code": "&ltrie;",
+      "css": "\\22B4",
+      "type": "math",
+      "name": "Normal subgroup of or equal to"
+    },
+    {
+      "char": "⊵",
+      "code": "&rtrie;",
+      "css": "\\22B5",
+      "type": "math",
+      "name": "Contains as normal subgroup or equal to"
+    },
+    {
+      "char": "⊶",
+      "code": "&origof;",
+      "css": "\\22B6",
+      "type": "math",
+      "name": "Original of"
+    },
+    {
+      "char": "⊷",
+      "code": "&imof;",
+      "css": "\\22B7",
+      "type": "math",
+      "name": "Image of"
+    },
+    {
+      "char": "⊸",
+      "code": "&mumap;",
+      "css": "\\22B8",
+      "type": "math",
+      "name": "Multimap"
+    },
+    {
+      "char": "⊹",
+      "code": "&hercon;",
+      "css": "\\22B9",
+      "type": "math",
+      "name": "Hermitian conjugate matrix"
+    },
+    {
+      "char": "⊺",
+      "code": "&intcal;",
+      "css": "\\22BA",
+      "type": "math",
+      "name": "Intercalate"
+    },
+    {
+      "char": "⊻",
+      "code": "&veebar;",
+      "css": "\\22BB",
+      "type": "math",
+      "name": "XOR"
+    },
+    {
+      "char": "⊽",
+      "code": "&barvee;",
+      "css": "\\22BD",
+      "type": "math",
+      "name": "Nor"
+    },
+    {
+      "char": "⊾",
+      "code": "&angrtvb;",
+      "css": "\\22BE",
+      "type": "math",
+      "name": "Right angle with ark"
+    },
+    {
+      "char": "⊿",
+      "code": "&lrtri;",
+      "css": "\\22BF",
+      "type": "math",
+      "name": "Right triangle"
+    },
+    {
+      "char": "⋀",
+      "code": "&xwedge;",
+      "css": "\\22C0",
+      "type": "math",
+      "name": "N-ary logical and"
+    },
+    {
+      "char": "⋁",
+      "code": "&xvee;",
+      "css": "\\22C1",
+      "type": "math",
+      "name": "N-ary logical or"
+    },
+    {
+      "char": "⋂",
+      "code": "&xcap;",
+      "css": "\\22C2",
+      "type": "math",
+      "name": "N-ary intersection"
+    },
+    {
+      "char": "⋃",
+      "code": "&xcup;",
+      "css": "\\22C3",
+      "type": "math",
+      "name": "N-ary union"
+    },
+    {
+      "char": "⋄",
+      "code": "&diam;",
+      "css": "\\22C4",
+      "type": "math",
+      "name": "Diamond operator"
+    },
+    {
+      "char": "⋅",
+      "code": "&sdot;",
+      "css": "\\22C5",
+      "type": "math",
+      "name": "Dot operator"
+    },
+    {
+      "char": "⋆",
+      "code": "&Star;",
+      "css": "\\22C6",
+      "type": "math",
+      "name": "Star operator"
+    },
+    {
+      "char": "⋇",
+      "code": "&divonx;",
+      "css": "\\22C7",
+      "type": "math",
+      "name": "Division times"
+    },
+    {
+      "char": "⋈",
+      "code": "&bowtie;",
+      "css": "\\22C8",
+      "type": "math",
+      "name": "Bowtie"
+    },
+    {
+      "char": "⋉",
+      "code": "&ltimes;",
+      "css": "\\22C9",
+      "type": "math",
+      "name": "Left normal factor semidirect product"
+    },
+    {
+      "char": "⋊",
+      "code": "&rtimes;",
+      "css": "\\22CA",
+      "type": "math",
+      "name": "Right normal factor semidirect product"
+    },
+    {
+      "char": "⋋",
+      "code": "&lthree;",
+      "css": "\\22CB",
+      "type": "math",
+      "name": "Left semidirect product"
+    },
+    {
+      "char": "⋌",
+      "code": "&rthree;",
+      "css": "\\22CC",
+      "type": "math",
+      "name": "Right semidirect product"
+    },
+    {
+      "char": "⋍",
+      "code": "&bsime;",
+      "css": "\\22CD",
+      "type": "math",
+      "name": "Reversed tilde equals"
+    },
+    {
+      "char": "⋎",
+      "code": "&cuvee;",
+      "css": "\\22CE",
+      "type": "math",
+      "name": "Curly logical or"
+    },
+    {
+      "char": "⋏",
+      "code": "&cuwed;",
+      "css": "\\22CF",
+      "type": "math",
+      "name": "Curly logical and"
+    },
+    {
+      "char": "⋐",
+      "code": "&Sub;",
+      "css": "\\22D0",
+      "type": "math",
+      "name": "Double subset"
+    },
+    {
+      "char": "⋑",
+      "code": "&Sup;",
+      "css": "\\22D1",
+      "type": "math",
+      "name": "Double superset"
+    },
+    {
+      "char": "⋒",
+      "code": "&Cap;",
+      "css": "\\22D2",
+      "type": "math",
+      "name": "Double intersection"
+    },
+    {
+      "char": "⋓",
+      "code": "&Cup;",
+      "css": "\\22D3",
+      "type": "math",
+      "name": "Double union"
+    },
+    {
+      "char": "⋔",
+      "code": "&fork;",
+      "css": "\\22D4",
+      "type": "math",
+      "name": "Pitchfork"
+    },
+    {
+      "char": "⋕",
+      "code": "&epar;",
+      "css": "\\22D5",
+      "type": "math",
+      "name": "Equal and parallel to"
+    },
+    {
+      "char": "⋖",
+      "code": "&ltdot;",
+      "css": "\\22D6",
+      "type": "math",
+      "name": "Less-than with dot"
+    },
+    {
+      "char": "⋗",
+      "code": "&gtdot;",
+      "css": "\\22D7",
+      "type": "math",
+      "name": "More-than with dot"
+    },
+    {
+      "char": "⋘",
+      "code": "&Ll;",
+      "css": "\\22D8",
+      "type": "math",
+      "name": "Very much less-than"
+    },
+    {
+      "char": "⋙",
+      "code": "&Gg;",
+      "css": "\\22D9",
+      "type": "math",
+      "name": "Very much more-than"
+    },
+    {
+      "char": "⋚",
+      "code": "&leg;",
+      "css": "\\22DA",
+      "type": "math",
+      "name": "Less-than equal to or greater-than"
+    },
+    {
+      "char": "⋛",
+      "code": "&gel;",
+      "css": "\\22DB",
+      "type": "math",
+      "name": "Greater-than equal to or less-than"
+    },
+    {
+      "char": "⋞",
+      "code": "&cuepr;",
+      "css": "\\22DE",
+      "type": "math",
+      "name": "Equal to or Precedes"
+    },
+    {
+      "char": "⋟",
+      "code": "&cuesc;",
+      "css": "\\22DF",
+      "type": "math",
+      "name": "Equal to or Succedes"
+    },
+    {
+      "char": "⋠",
+      "code": "&nprcue;",
+      "css": "\\22E0",
+      "type": "math",
+      "name": "Does not Precedes or equal"
+    },
+    {
+      "char": "⋡",
+      "code": "&nsccue;",
+      "css": "\\22E1",
+      "type": "math",
+      "name": "Does not Succedes or equal"
+    },
+    {
+      "char": "⋢",
+      "code": "&nsqsube;",
+      "css": "\\22E2",
+      "type": "math",
+      "name": "Not square image or equal to"
+    },
+    {
+      "char": "⋣",
+      "code": "&nsqsupe;",
+      "css": "\\22E3",
+      "type": "math",
+      "name": "Not square original or equal to"
+    },
+    {
+      "char": "⋦",
+      "code": "&lnsim;",
+      "css": "\\22E6",
+      "type": "math",
+      "name": "Less-than but not equivalent to"
+    },
+    {
+      "char": "⋧",
+      "code": "&gnsim;",
+      "css": "\\22E7",
+      "type": "math",
+      "name": "More-than but not equivalent to"
+    },
+    {
+      "char": "⋨",
+      "code": "&prnsim;",
+      "css": "\\22E8",
+      "type": "math",
+      "name": "Precedes but not equivalent to"
+    },
+    {
+      "char": "⋩",
+      "code": "&scnsim;",
+      "css": "\\22E9",
+      "type": "math",
+      "name": "Succeeds but not equivalent to"
+    },
+    {
+      "char": "⋪",
+      "code": "&nltri;",
+      "css": "\\22EA",
+      "type": "math",
+      "name": "Not normal subgroup of or equal to"
+    },
+    {
+      "char": "⋫",
+      "code": "&nrtri;",
+      "css": "\\22EB",
+      "type": "math",
+      "name": "Does not contain as normal subgroup"
+    },
+    {
+      "char": "⋬",
+      "code": "&nltrie;",
+      "css": "\\22EC",
+      "type": "math",
+      "name": "Not normal subgroup of or equal to"
+    },
+    {
+      "char": "⋭",
+      "code": "&nrtrie;",
+      "css": "\\22ED",
+      "type": "math",
+      "name": "Does not contain as normal subgroup or equal"
+    },
+    {
+      "char": "⋮",
+      "code": "&vellip;",
+      "css": "\\22EE",
+      "type": "typography",
+      "name": "Vertical ellipsis"
+    },
+    {
+      "char": "⋯",
+      "code": "&ctdot;",
+      "css": "\\22EF",
+      "type": "typography",
+      "name": "Mid line horizontal ellipsis"
+    },
+    {
+      "char": "⋰",
+      "code": "&utdot;",
+      "css": "\\22F0",
+      "type": "typography",
+      "name": "Up right diagonal ellipsis"
+    },
+    {
+      "char": "⋱",
+      "code": "&dtdot;",
+      "css": "\\22F1",
+      "type": "typography",
+      "name": "Down right diagonal ellipsis"
+    },
+    {
+      "char": "⋲",
+      "code": "&disin;",
+      "css": "\\22F2",
+      "type": "math",
+      "name": "Element of"
+    },
+    {
+      "char": "⋳",
+      "code": "&isinsv;",
+      "css": "\\22F3",
+      "type": "math",
+      "name": "Element of"
+    },
+    {
+      "char": "⋴",
+      "code": "&isins;",
+      "css": "\\22F4",
+      "type": "math",
+      "name": "Element of"
+    },
+    {
+      "char": "⋵",
+      "code": "&isindot;",
+      "css": "\\22F5",
+      "type": "math",
+      "name": "Element of"
+    },
+    {
+      "char": "⋶",
+      "code": "&notinvc;",
+      "css": "\\22F6",
+      "type": "math",
+      "name": "Element of"
+    },
+    {
+      "char": "⋷",
+      "code": "&notinvb;",
+      "css": "\\22F7",
+      "type": "math",
+      "name": "Element of"
+    },
+    {
+      "char": "⋹",
+      "code": "&isinE;",
+      "css": "\\22F9",
+      "type": "math",
+      "name": "Element of"
+    },
+    {
+      "char": "⋺",
+      "code": "&nisd;",
+      "css": "\\22FA",
+      "type": "math",
+      "name": "Contains"
+    },
+    {
+      "char": "⋻",
+      "code": "&xnis;",
+      "css": "\\22FB",
+      "type": "math",
+      "name": "Contains"
+    },
+    {
+      "char": "⋼",
+      "code": "&nis;",
+      "css": "\\22FC",
+      "type": "math",
+      "name": "Contains"
+    },
+    {
+      "char": "⋽",
+      "code": "&notnivc;",
+      "css": "\\22FD",
+      "type": "math",
+      "name": "Contains"
+    },
+    {
+      "char": "⋾",
+      "code": "&notnivb;",
+      "css": "\\22FE",
+      "type": "math",
+      "name": "Contains"
+    },
+    {
+      "char": "⌅",
+      "code": "&barwed;",
+      "css": "\\2305",
+      "type": "math",
+      "name": "Projective"
+    },
+    {
+      "char": "⌆",
+      "code": "&Barwed;",
+      "css": "\\2306",
+      "type": "math",
+      "name": "Perspective"
+    },
+    {
+      "char": "⌈",
+      "code": "&lceil;",
+      "css": "\\2308",
+      "type": "math",
+      "name": "Left ceiling"
+    },
+    {
+      "char": "⌉",
+      "code": "&rceil;",
+      "css": "\\2309",
+      "type": "math",
+      "name": "Right ceiling"
+    },
+    {
+      "char": "⌊",
+      "code": "&lfloor;",
+      "css": "\\230A",
+      "type": "math",
+      "name": "Left floor"
+    },
+    {
+      "char": "⌋",
+      "code": "&rfloor;",
+      "css": "\\230B",
+      "type": "math",
+      "name": "Right floor"
+    },
+    {
+      "char": "⌌",
+      "code": "&drcrop;",
+      "css": "\\230C",
+      "type": "typography",
+      "name": "Bottom right crop mark"
+    },
+    {
+      "char": "⌍",
+      "code": "&dlcrop;",
+      "css": "\\230D",
+      "type": "typography",
+      "name": "Bottom left crop mark"
+    },
+    {
+      "char": "⌎",
+      "code": "&urcrop;",
+      "css": "\\230E",
+      "type": "typography",
+      "name": "Top right crop mark"
+    },
+    {
+      "char": "⌏",
+      "code": "&ulcrop;",
+      "css": "\\230F",
+      "type": "typography",
+      "name": "Top left crop mark"
+    },
+    {
+      "char": "⌐",
+      "code": "&bnot;",
+      "css": "\\2310",
+      "type": "math",
+      "name": "Reversed not sign"
+    },
+    {
+      "char": "⌒",
+      "code": "&profline;",
+      "css": "\\2312",
+      "type": "math",
+      "name": "Arc"
+    },
+    {
+      "char": "⌓",
+      "code": "&profsurf;",
+      "css": "\\2313",
+      "type": "math",
+      "name": "Segment"
+    },
+    {
+      "char": "⌕",
+      "code": "&telrec;",
+      "css": "\\2315",
+      "type": "symbol",
+      "name": "Telephone recorder"
+    },
+    {
+      "char": "⌖",
+      "code": "&target;",
+      "css": "\\2316",
+      "type": "symbol",
+      "name": "Position indicator / Target"
+    },
+    {
+      "char": "⌜",
+      "code": "&ulcorn;",
+      "css": "\\231C",
+      "type": "typography",
+      "name": "Top left corner"
+    },
+    {
+      "char": "⌝",
+      "code": "&urcorn;",
+      "css": "\\231D",
+      "type": "typography",
+      "name": "Top right corner"
+    },
+    {
+      "char": "⌞",
+      "code": "&dlcorn;",
+      "css": "\\231E",
+      "type": "typography",
+      "name": "Bottom left corner"
+    },
+    {
+      "char": "⌟",
+      "code": "&drcorn;",
+      "css": "\\231F",
+      "type": "typography",
+      "name": "Bottom right corner"
+    },
+    {
+      "char": "⌢",
+      "code": "&frown;",
+      "css": "\\2322",
+      "type": "typography",
+      "name": "Frown"
+    },
+    {
+      "char": "⌣",
+      "code": "&smile;",
+      "css": "\\2323",
+      "type": "typography",
+      "name": "Smile"
+    },
+    {
+      "char": "⌭",
+      "code": "&cylcty;",
+      "css": "\\232D",
+      "type": "math",
+      "name": "Cilindricity"
+    },
+    {
+      "char": "⌮",
+      "code": "&profalar;",
+      "css": "\\232E",
+      "type": "math",
+      "name": "All around profile"
+    },
+    {
+      "char": "⌶",
+      "code": "&topbot;",
+      "css": "\\2336",
+      "type": "math",
+      "name": "I-Beam"
+    },
+    {
+      "char": "⌽",
+      "code": "&ovbar;",
+      "css": "\\233D",
+      "type": "math",
+      "name": "Circle Stile"
+    },
+    {
+      "char": "⌿",
+      "code": "&solbar;",
+      "css": "\\233F",
+      "type": "math",
+      "name": "Slash bar"
+    },
+    {
+      "char": "⍼",
+      "code": "&angzarr;",
+      "css": "\\237C",
+      "type": "math",
+      "name": "Right angle with downwards zig-zag arrow"
+    },
+    {
+      "char": "⎰",
+      "code": "&lmoust;",
+      "css": "\\23B0",
+      "type": "math",
+      "name": "Curly bracket section"
+    },
+    {
+      "char": "⎱",
+      "code": "&rmoust;",
+      "css": "\\23B1",
+      "type": "math",
+      "name": "Curly bracket section"
+    },
+    {
+      "char": "⎴",
+      "code": "&tbrk;",
+      "css": "\\23B4",
+      "type": "math",
+      "name": "Top square bracket"
+    },
+    {
+      "char": "⎵",
+      "code": "&bbrk;",
+      "css": "\\23B5",
+      "type": "math",
+      "name": "Bottom square bracket"
+    },
+    {
+      "char": "⎶",
+      "code": "&bbrktbrk;",
+      "css": "\\23B6",
+      "type": "math",
+      "name": "Bottom square bracket over top square bracket"
+    },
+    {
+      "char": "⏜",
+      "code": "&OverParenthesis;",
+      "css": "\\23DC",
+      "type": "math",
+      "name": "Top parenthesis"
+    },
+    {
+      "char": "⏝",
+      "code": "&UnderParenthesis;",
+      "css": "\\23DD",
+      "type": "math",
+      "name": "Bottom parenthesis"
+    },
+    {
+      "char": "⏞",
+      "code": "&OverBrace;",
+      "css": "\\23DE",
+      "type": "math",
+      "name": "Top curly bracket"
+    },
+    {
+      "char": "⏟",
+      "code": "&UnderBrace;",
+      "css": "\\23DF",
+      "type": "math",
+      "name": "Bottom curly bracket"
+    },
+    {
+      "char": "⏢",
+      "code": "&trpezium;",
+      "css": "\\23E2",
+      "type": "math",
+      "name": "White trapezium"
+    },
+    {
+      "char": "⏧",
+      "code": "&elinters;",
+      "css": "\\23E7",
+      "type": "math",
+      "name": "Electrical intersection"
+    },
+    {
+      "char": "␣",
+      "code": "&blank;",
+      "css": "\\2423",
+      "type": "symbol",
+      "name": "Open box"
+    },
+    {
+      "char": "Ⓢ",
+      "code": "&oS;",
+      "css": "\\24C8",
+      "type": "typography",
+      "name": "Circled S"
+    },
+    {
+      "char": "─",
+      "code": "&boxh;",
+      "css": "\\2500",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "│",
+      "code": "&boxv;",
+      "css": "\\2502",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "┌",
+      "code": "&boxdr;",
+      "css": "\\250C",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "┐",
+      "code": "&boxdl;",
+      "css": "\\2510",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "└",
+      "code": "&boxur;",
+      "css": "\\2514",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "┘",
+      "code": "&boxul;",
+      "css": "\\2518",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "├",
+      "code": "&boxvr;",
+      "css": "\\251C",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "┤",
+      "code": "&boxvl;",
+      "css": "\\2524",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "┬",
+      "code": "&boxhd;",
+      "css": "\\252C",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "┴",
+      "code": "&boxhu;",
+      "css": "\\2534",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "┼",
+      "code": "&boxvh;",
+      "css": "\\253C",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "═",
+      "code": "&boxH;",
+      "css": "\\2550",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "║",
+      "code": "&boxV;",
+      "css": "\\2551",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╒",
+      "code": "&boxdR;",
+      "css": "\\2552",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╓",
+      "code": "&boxDr;",
+      "css": "\\2553",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╔",
+      "code": "&boxDR;",
+      "css": "\\2554",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╕",
+      "code": "&boxdL;",
+      "css": "\\2555",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╖",
+      "code": "&boxDl;",
+      "css": "\\2556",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╗",
+      "code": "&boxDL;",
+      "css": "\\2557",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╘",
+      "code": "&boxuR;",
+      "css": "\\2558",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╙",
+      "code": "&boxUr;",
+      "css": "\\2559",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╚",
+      "code": "&boxUR;",
+      "css": "\\255A",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╛",
+      "code": "&boxuL;",
+      "css": "\\255B",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╜",
+      "code": "&boxUl;",
+      "css": "\\255C",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╝",
+      "code": "&boxUL;",
+      "css": "\\255D",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╞",
+      "code": "&boxvR;",
+      "css": "\\255E",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╟",
+      "code": "&boxVr;",
+      "css": "\\255F",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╠",
+      "code": "&boxVR;",
+      "css": "\\2560",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╡",
+      "code": "&boxvL;",
+      "css": "\\2561",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╢",
+      "code": "&boxVl;",
+      "css": "\\2562",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╣",
+      "code": "&boxVL;",
+      "css": "\\2563",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╤",
+      "code": "&boxHd;",
+      "css": "\\2564",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╥",
+      "code": "&boxhD;",
+      "css": "\\2565",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╦",
+      "code": "&boxHD;",
+      "css": "\\2566",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╧",
+      "code": "&boxHu;",
+      "css": "\\2567",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╨",
+      "code": "&boxhU;",
+      "css": "\\2568",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╩",
+      "code": "&boxHU;",
+      "css": "\\2569",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╪",
+      "code": "&boxvH;",
+      "css": "\\256A",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╫",
+      "code": "&boxVh;",
+      "css": "\\256B",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "╬",
+      "code": "&boxVH;",
+      "css": "\\256C",
+      "type": "box",
+      "name": "Box drawing"
+    },
+    {
+      "char": "▀",
+      "code": "&uhblk;",
+      "css": "\\2580",
+      "type": "box",
+      "name": "Upper half block"
+    },
+    {
+      "char": "▄",
+      "code": "&lhblk;",
+      "css": "\\2584",
+      "type": "box",
+      "name": "Lower half block"
+    },
+    {
+      "char": "█",
+      "code": "&block;",
+      "css": "\\2588",
+      "type": "box",
+      "name": "Full block"
+    },
+    {
+      "char": "░",
+      "code": "&blk14;",
+      "css": "\\2591",
+      "type": "box",
+      "name": "Light shade"
+    },
+    {
+      "char": "▒",
+      "code": "&blk12;",
+      "css": "\\2592",
+      "type": "box",
+      "name": "Medium shade"
+    },
+    {
+      "char": "▓",
+      "code": "&blk34;",
+      "css": "\\2593",
+      "type": "box",
+      "name": "Dark shade"
+    },
+    {
+      "char": "□",
+      "code": "&squ;",
+      "css": "\\25A1",
+      "type": "symbol",
+      "name": "Square"
+    },
+    {
+      "char": "▪",
+      "code": "&squf;",
+      "css": "\\25AA",
+      "type": "symbol",
+      "name": "Small square"
+    },
+    {
+      "char": "▫",
+      "code": "&EmptyVerySmallSquare;",
+      "css": "\\25AB",
+      "type": "symbol",
+      "name": "White small square"
+    },
+    {
+      "char": "▭",
+      "code": "&rect;",
+      "css": "\\25AD",
+      "type": "symbol",
+      "name": "Rectangle"
+    },
+    {
+      "char": "▮",
+      "code": "&marker;",
+      "css": "\\25AE",
+      "type": "symbol",
+      "name": "Black vertical rectangle / Marker"
+    },
+    {
+      "char": "▱",
+      "code": "&fltns;",
+      "css": "\\25B1",
+      "type": "symbol",
+      "name": "White parallelogram"
+    },
+    {
+      "char": "△",
+      "code": "&xutri;",
+      "css": "\\25B3",
+      "type": "symbol",
+      "name": "White up-pointing triangle"
+    },
+    {
+      "char": "▴",
+      "code": "&utrif;",
+      "css": "\\25B4",
+      "type": "symbol",
+      "name": "Black up-pointing small triangle"
+    },
+    {
+      "char": "▵",
+      "code": "&utri;",
+      "css": "\\25B5",
+      "type": "symbol",
+      "name": "White up-pointing small triangle"
+    },
+    {
+      "char": "▸",
+      "code": "&rtrif;",
+      "css": "\\25B8",
+      "type": "symbol",
+      "name": "Black right-pointing small triangle"
+    },
+    {
+      "char": "▹",
+      "code": "&rtri;",
+      "css": "\\25B9",
+      "type": "symbol",
+      "name": "White right-pointing small triangle"
+    },
+    {
+      "char": "▽",
+      "code": "&xdtri;",
+      "css": "\\25BD",
+      "type": "symbol",
+      "name": "White down-pointing triangle"
+    },
+    {
+      "char": "▾",
+      "code": "&dtrif;",
+      "css": "\\25BE",
+      "type": "symbol",
+      "name": "Black down-pointing triangle"
+    },
+    {
+      "char": "▿",
+      "code": "&dtri;",
+      "css": "\\25BF",
+      "type": "symbol",
+      "name": "White down-pointing small triangle"
+    },
+    {
+      "char": "◂",
+      "code": "&ltrif;",
+      "css": "\\25C2",
+      "type": "symbol",
+      "name": "Black left-pointing small triangle"
+    },
+    {
+      "char": "◃",
+      "code": "&ltri;",
+      "css": "\\25C3",
+      "type": "symbol",
+      "name": "White left-pointing small triangle"
+    },
+    {
+      "char": "◊",
+      "code": "&loz;",
+      "css": "\\25CA",
+      "type": "symbol",
+      "name": "Lozenge"
+    },
+    {
+      "char": "○",
+      "code": "&cir;",
+      "css": "\\25CB",
+      "type": "symbol",
+      "name": "Circle"
+    },
+    {
+      "char": "◬",
+      "code": "&tridot;",
+      "css": "\\25EC",
+      "type": "symbol",
+      "name": "Triangle with dot"
+    },
+    {
+      "char": "◯",
+      "code": "&xcirc;",
+      "css": "\\25EF",
+      "type": "symbol",
+      "name": "Large circle"
+    },
+    {
+      "char": "◸",
+      "code": "&ultri;",
+      "css": "\\25F8",
+      "type": "symbol",
+      "name": "Upper left triangle"
+    },
+    {
+      "char": "◹",
+      "code": "&urtri;",
+      "css": "\\25F9",
+      "type": "symbol",
+      "name": "Upper right triangle"
+    },
+    {
+      "char": "◺",
+      "code": "&lltri;",
+      "css": "\\25FA",
+      "type": "symbol",
+      "name": "Down left triangle"
+    },
+    {
+      "char": "◻",
+      "code": "&EmptySmallSquare;",
+      "css": "\\25FB",
+      "type": "symbol",
+      "name": "Empty small square"
+    },
+    {
+      "char": "◼",
+      "code": "&FilledSmallSquare;",
+      "css": "\\25FC",
+      "type": "symbol",
+      "name": "Filled small square"
+    },
+    {
+      "char": "★",
+      "code": "&starf;",
+      "css": "\\2605",
+      "type": "symbol",
+      "name": "Filled star"
+    },
+    {
+      "char": "☆",
+      "code": "&star;",
+      "css": "\\2606",
+      "type": "symbol",
+      "name": "Star"
+    },
+    {
+      "char": "☎",
+      "code": "&phone;",
+      "css": "\\260E",
+      "type": "symbol",
+      "name": "Phone"
+    },
+    {
+      "char": "♀",
+      "code": "&female;",
+      "css": "\\2640",
+      "type": "symbol",
+      "name": "Female"
+    },
+    {
+      "char": "♂",
+      "code": "&male;",
+      "css": "\\2642",
+      "type": "symbol",
+      "name": "Male"
+    },
+    {
+      "char": "♠",
+      "code": "&spades;",
+      "css": "\\2660",
+      "type": "symbol",
+      "name": "Spades"
+    },
+    {
+      "char": "♣",
+      "code": "&clubs;",
+      "css": "\\2663",
+      "type": "symbol",
+      "name": "Clubs"
+    },
+    {
+      "char": "♥",
+      "code": "&hearts;",
+      "css": "\\2665",
+      "type": "symbol",
+      "name": "Hearts"
+    },
+    {
+      "char": "♦",
+      "code": "&diams;",
+      "css": "\\2666",
+      "type": "symbol",
+      "name": "Diamonds"
+    },
+    {
+      "char": "♪",
+      "code": "&sung;",
+      "css": "\\266A",
+      "type": "symbol",
+      "name": "Eighth note"
+    },
+    {
+      "char": "♭",
+      "code": "&flat;",
+      "css": "\\266D",
+      "type": "symbol",
+      "name": "Flat sign"
+    },
+    {
+      "char": "♮",
+      "code": "&natural;",
+      "css": "\\266E",
+      "type": "symbol",
+      "name": "Natural sign"
+    },
+    {
+      "char": "♯",
+      "code": "&sharp;",
+      "css": "\\266F",
+      "type": "symbol",
+      "name": "Sharp sign"
+    },
+    {
+      "char": "✓",
+      "code": "&check;",
+      "css": "\\2713",
+      "type": "symbol",
+      "name": "Check mark"
+    },
+    {
+      "char": "✗",
+      "code": "&cross;",
+      "css": "\\2717",
+      "type": "symbol",
+      "name": "Ballot X"
+    },
+    {
+      "char": "✠",
+      "code": "&malt;",
+      "css": "\\2720",
+      "type": "symbol",
+      "name": "Maltese cross"
+    },
+    {
+      "char": "✶",
+      "code": "&sext;",
+      "css": "\\2736",
+      "type": "symbol",
+      "name": "Six pointed black star"
+    },
+    {
+      "char": "❘",
+      "code": "&VerticalSeparator;",
+      "css": "\\2758",
+      "type": "symbol",
+      "name": "Vertical separator"
+    },
+    {
+      "char": "❲",
+      "code": "&lbbrk;",
+      "css": "\\2772",
+      "type": "math",
+      "name": "Left tortoise shell bracket"
+    },
+    {
+      "char": "❳",
+      "code": "&rbbrk;",
+      "css": "\\2773",
+      "type": "math",
+      "name": "Right tortoise shell bracket"
+    },
+    {
+      "char": "⟦",
+      "code": "&lobrk;",
+      "css": "\\27E6",
+      "type": "math",
+      "name": "Left double bracket"
+    },
+    {
+      "char": "⟧",
+      "code": "&robrk;",
+      "css": "\\27E7",
+      "type": "math",
+      "name": "Right double bracket"
+    },
+    {
+      "char": "⟨",
+      "code": "&lang;",
+      "css": "\\27E8",
+      "type": "math",
+      "name": "Left angle bracket"
+    },
+    {
+      "char": "⟩",
+      "code": "&rang;",
+      "css": "\\27E9",
+      "type": "math",
+      "name": "Right angle bracket"
+    },
+    {
+      "char": "⟪",
+      "code": "&Lang;",
+      "css": "\\27EA",
+      "type": "symbol",
+      "name": "Left double angle bracket"
+    },
+    {
+      "char": "⟫",
+      "code": "&Rang;",
+      "css": "\\27EB",
+      "type": "symbol",
+      "name": "Right double angle bracket"
+    },
+    {
+      "char": "⟬",
+      "code": "&loang;",
+      "css": "\\27EC",
+      "type": "symbol",
+      "name": "Left double tortoise shell bracket"
+    },
+    {
+      "char": "⟭",
+      "code": "&roang;",
+      "css": "\\27ED",
+      "type": "symbol",
+      "name": "Right double tortoise shell bracket"
+    },
+    {
+      "char": "⟵",
+      "code": "&xlarr;",
+      "css": "\\27F5",
+      "type": "arrow",
+      "name": "Left long arrow"
+    },
+    {
+      "char": "⟶",
+      "code": "&xrarr;",
+      "css": "\\27F6",
+      "type": "arrow",
+      "name": "Right long arrow"
+    },
+    {
+      "char": "⟷",
+      "code": "&xharr;",
+      "css": "\\27F7",
+      "type": "arrow",
+      "name": "Left right long arrow"
+    },
+    {
+      "char": "⟸",
+      "code": "&xlArr;",
+      "css": "\\27F8",
+      "type": "arrow",
+      "name": "Left double long arrow"
+    },
+    {
+      "char": "⟹",
+      "code": "&xrArr;",
+      "css": "\\27F9",
+      "type": "arrow",
+      "name": "Right double long arrow"
+    },
+    {
+      "char": "⟺",
+      "code": "&xhArr;",
+      "css": "\\27FA",
+      "type": "arrow",
+      "name": "Left right long double arrow"
+    },
+    {
+      "char": "⟼",
+      "code": "&xmap;",
+      "css": "\\27FC",
+      "type": "arrow",
+      "name": "Long rightwards arrow from bar"
+    },
+    {
+      "char": "⟿",
+      "code": "&dzigrarr;",
+      "css": "\\27FF",
+      "type": "arrow",
+      "name": "Long rightwards squiggle arrow"
+    },
+    {
+      "char": "⤂",
+      "code": "&nvlArr;",
+      "css": "\\2902",
+      "type": "arrow",
+      "name": "Leftwards double arrow with stroke"
+    },
+    {
+      "char": "⤃",
+      "code": "&nvrArr;",
+      "css": "\\2903",
+      "type": "arrow",
+      "name": "Rightwards double arrow with stroke"
+    },
+    {
+      "char": "⤄",
+      "code": "&nvHarr;",
+      "css": "\\2904",
+      "type": "arrow",
+      "name": "Left right double arrow with stroke"
+    },
+    {
+      "char": "⤅",
+      "code": "&Map;",
+      "css": "\\2905",
+      "type": "arrow",
+      "name": "Rightwards two headed arrow from bar"
+    },
+    {
+      "char": "⤌",
+      "code": "&lbarr;",
+      "css": "\\290C",
+      "type": "arrow",
+      "name": "Left double dash arrow"
+    },
+    {
+      "char": "⤍",
+      "code": "&rbarr;",
+      "css": "\\290D",
+      "type": "arrow",
+      "name": "Right double dash arrow"
+    },
+    {
+      "char": "⤎",
+      "code": "&lBarr;",
+      "css": "\\290E",
+      "type": "arrow",
+      "name": "Left triple dash arrow"
+    },
+    {
+      "char": "⤏",
+      "code": "&rBarr;",
+      "css": "\\290F",
+      "type": "arrow",
+      "name": "Right triple dash arrow"
+    },
+    {
+      "char": "⤐",
+      "code": "&RBarr;",
+      "css": "\\2910",
+      "type": "arrow",
+      "name": "Left triple dash double headed arrow"
+    },
+    {
+      "char": "⤑",
+      "code": "&DDotrahd;",
+      "css": "\\2911",
+      "type": "arrow",
+      "name": "Rightwards dotted arrow"
+    },
+    {
+      "char": "⤒",
+      "code": "&UpArrowBar;",
+      "css": "\\2912",
+      "type": "arrow",
+      "name": "Upwards arrow from bar"
+    },
+    {
+      "char": "⤓",
+      "code": "&DownArrowBar;",
+      "css": "\\2913",
+      "type": "arrow",
+      "name": "Downwards arrow from bar"
+    },
+    {
+      "char": "⤖",
+      "code": "&Rarrtl;",
+      "css": "\\2916",
+      "type": "arrow",
+      "name": "Rightwards double headed arrow with tail"
+    },
+    {
+      "char": "⤙",
+      "code": "&latail;",
+      "css": "\\2919",
+      "type": "arrow",
+      "name": "Leftwards arrow tail"
+    },
+    {
+      "char": "⤚",
+      "code": "&ratail;",
+      "css": "\\291A",
+      "type": "arrow",
+      "name": "Rightwards arrow tail"
+    },
+    {
+      "char": "⤛",
+      "code": "&lAtail;",
+      "css": "\\291B",
+      "type": "arrow",
+      "name": "Leftwards double arrow tail"
+    },
+    {
+      "char": "⤜",
+      "code": "&rAtail;",
+      "css": "\\291C",
+      "type": "arrow",
+      "name": "Rightwards double arrow tail"
+    },
+    {
+      "char": "⤝",
+      "code": "&larrfs;",
+      "css": "\\291D",
+      "type": "arrow",
+      "name": "Leftwards arrow to black diamond"
+    },
+    {
+      "char": "⤞",
+      "code": "&rarrfs;",
+      "css": "\\291E",
+      "type": "arrow",
+      "name": "Rightwards arrow to black diamond"
+    },
+    {
+      "char": "⤟",
+      "code": "&larrbfs;",
+      "css": "\\291F",
+      "type": "arrow",
+      "name": "Leftwards arrow to black diamond from bar"
+    },
+    {
+      "char": "⤠",
+      "code": "&rarrbfs;",
+      "css": "\\2920",
+      "type": "arrow",
+      "name": "Rightwards arrow to black diamond from bar"
+    },
+    {
+      "char": "⤣",
+      "code": "&nwarhk;",
+      "css": "\\2923",
+      "type": "arrow",
+      "name": "Arrow with hook"
+    },
+    {
+      "char": "⤤",
+      "code": "&nearhk;",
+      "css": "\\2924",
+      "type": "arrow",
+      "name": "Arrow with hook"
+    },
+    {
+      "char": "⤥",
+      "code": "&searhk;",
+      "css": "\\2925",
+      "type": "arrow",
+      "name": "Arrow with hook"
+    },
+    {
+      "char": "⤦",
+      "code": "&swarhk;",
+      "css": "\\2926",
+      "type": "arrow",
+      "name": "Arrow with hook"
+    },
+    {
+      "char": "⤧",
+      "code": "&nwnear;",
+      "css": "\\2927",
+      "type": "arrow",
+      "name": "Crossed arrows top"
+    },
+    {
+      "char": "⤨",
+      "code": "&toea;",
+      "css": "\\2928",
+      "type": "arrow",
+      "name": "Crossed arrows right"
+    },
+    {
+      "char": "⤩",
+      "code": "&tosa;",
+      "css": "\\2929",
+      "type": "arrow",
+      "name": "Crossed arrows down"
+    },
+    {
+      "char": "⤪",
+      "code": "&swnwar;",
+      "css": "\\292A",
+      "type": "arrow",
+      "name": "Crossed arrows left"
+    },
+    {
+      "char": "⤳",
+      "code": "&rarrc;",
+      "css": "\\2933",
+      "type": "arrow",
+      "name": "Wave arrow"
+    },
+    {
+      "char": "⤵",
+      "code": "&cudarrr;",
+      "css": "\\2935",
+      "type": "arrow",
+      "name": "Curved arrow"
+    },
+    {
+      "char": "⤶",
+      "code": "&ldca;",
+      "css": "\\2936",
+      "type": "arrow",
+      "name": "Curved arrow"
+    },
+    {
+      "char": "⤷",
+      "code": "&rdca;",
+      "css": "\\2937",
+      "type": "arrow",
+      "name": "Curved arrow"
+    },
+    {
+      "char": "⤸",
+      "code": "&cudarrl;",
+      "css": "\\2938",
+      "type": "arrow",
+      "name": "Curved arrow"
+    },
+    {
+      "char": "⤹",
+      "code": "&larrpl;",
+      "css": "\\2939",
+      "type": "arrow",
+      "name": "Curved arrow"
+    },
+    {
+      "char": "⤼",
+      "code": "&curarrm;",
+      "css": "\\293C",
+      "type": "arrow",
+      "name": "Arc arrow with minus"
+    },
+    {
+      "char": "⤽",
+      "code": "&cularrp;",
+      "css": "\\293D",
+      "type": "arrow",
+      "name": "Arc arrow with plus"
+    },
+    {
+      "char": "⥅",
+      "code": "&rarrpl;",
+      "css": "\\2945",
+      "type": "arrow",
+      "name": "Arrow with plus"
+    },
+    {
+      "char": "⥈",
+      "code": "&harrcir;",
+      "css": "\\2948",
+      "type": "arrow",
+      "name": "Arrows with circle"
+    },
+    {
+      "char": "⥉",
+      "code": "&Uarrocir;",
+      "css": "\\2949",
+      "type": "arrow",
+      "name": "Two headed arrow from circle"
+    },
+    {
+      "char": "⥊",
+      "code": "&lurdshar;",
+      "css": "\\294A",
+      "type": "arrow",
+      "name": "Left right vector"
+    },
+    {
+      "char": "⥋",
+      "code": "&ldrushar;",
+      "css": "\\294B",
+      "type": "arrow",
+      "name": "Right left vector"
+    },
+    {
+      "char": "⥎",
+      "code": "&LeftRightVector;",
+      "css": "\\294E",
+      "type": "arrow",
+      "name": "Left right vector"
+    },
+    {
+      "char": "⥏",
+      "code": "&RightUpDownVector;",
+      "css": "\\294F",
+      "type": "arrow",
+      "name": "Right up down vector"
+    },
+    {
+      "char": "⥐",
+      "code": "&DownLeftRightVector;",
+      "css": "\\2950",
+      "type": "arrow",
+      "name": "Down left right Vector"
+    },
+    {
+      "char": "⥑",
+      "code": "&LeftUpDownVector;",
+      "css": "\\2951",
+      "type": "arrow",
+      "name": "Left down up vector"
+    },
+    {
+      "char": "⥒",
+      "code": "&LeftVectorBar;",
+      "css": "\\2952",
+      "type": "arrow",
+      "name": "Left vector bar"
+    },
+    {
+      "char": "⥓",
+      "code": "&RightVectorBar;",
+      "css": "\\2953",
+      "type": "arrow",
+      "name": "Right vector bar"
+    },
+    {
+      "char": "⥔",
+      "code": "&RightUpVectorBar;",
+      "css": "\\2954",
+      "type": "arrow",
+      "name": "Right up vector bar"
+    },
+    {
+      "char": "⥕",
+      "code": "&RightDownVectorBar;",
+      "css": "\\2955",
+      "type": "arrow",
+      "name": "Right down vector bar"
+    },
+    {
+      "char": "⥖",
+      "code": "&DownLeftVectorBar;",
+      "css": "\\2956",
+      "type": "arrow",
+      "name": "Down left vector bar"
+    },
+    {
+      "char": "⥗",
+      "code": "&DownRightVectorBar;",
+      "css": "\\2957",
+      "type": "arrow",
+      "name": "Down right vector bar"
+    },
+    {
+      "char": "⥘",
+      "code": "&LeftUpVectorBar;",
+      "css": "\\2958",
+      "type": "arrow",
+      "name": "Left up vector bar"
+    },
+    {
+      "char": "⥙",
+      "code": "&LeftDownVectorBar;",
+      "css": "\\2959",
+      "type": "arrow",
+      "name": "Left down vector bar"
+    },
+    {
+      "char": "⥚",
+      "code": "&LeftTeeVector;",
+      "css": "\\295A",
+      "type": "arrow",
+      "name": "Left tee vector"
+    },
+    {
+      "char": "⥛",
+      "code": "&RightTeeVector;",
+      "css": "\\295B",
+      "type": "arrow",
+      "name": "Right tee vector"
+    },
+    {
+      "char": "⥜",
+      "code": "&RightUpTeeVector;",
+      "css": "\\295C",
+      "type": "arrow",
+      "name": "Right up tee vector"
+    },
+    {
+      "char": "⥝",
+      "code": "&RightDownTeeVector;",
+      "css": "\\295D",
+      "type": "arrow",
+      "name": "Right down tee vector"
+    },
+    {
+      "char": "⥞",
+      "code": "&DownLeftTeeVector;",
+      "css": "\\295E",
+      "type": "arrow",
+      "name": "Down left tee vector"
+    },
+    {
+      "char": "⥟",
+      "code": "&DownRightTeeVector;",
+      "css": "\\295F",
+      "type": "arrow",
+      "name": "Down right tee vector"
+    },
+    {
+      "char": "⥠",
+      "code": "&LeftUpTeeVector;",
+      "css": "\\2960",
+      "type": "arrow",
+      "name": "Left up tee vector"
+    },
+    {
+      "char": "⥡",
+      "code": "&LeftDownTeeVector;",
+      "css": "\\2961",
+      "type": "arrow",
+      "name": "Left down tee vector"
+    },
+    {
+      "char": "⥢",
+      "code": "&lHar;",
+      "css": "\\2962",
+      "type": "arrow",
+      "name": "Left harpoon"
+    },
+    {
+      "char": "⥣",
+      "code": "&uHar;",
+      "css": "\\2963",
+      "type": "arrow",
+      "name": "Up harpoon"
+    },
+    {
+      "char": "⥤",
+      "code": "&rHar;",
+      "css": "\\2964",
+      "type": "arrow",
+      "name": "Right harpoon"
+    },
+    {
+      "char": "⥥",
+      "code": "&dHar;",
+      "css": "\\2965",
+      "type": "arrow",
+      "name": "Down harpoon"
+    },
+    {
+      "char": "⥦",
+      "code": "&luruhar;",
+      "css": "\\2966",
+      "type": "arrow",
+      "name": "Double harpoon"
+    },
+    {
+      "char": "⥧",
+      "code": "&ldrdhar;",
+      "css": "\\2967",
+      "type": "arrow",
+      "name": "Double harpoon"
+    },
+    {
+      "char": "⥨",
+      "code": "&ruluhar;",
+      "css": "\\2968",
+      "type": "arrow",
+      "name": "Double harpoon"
+    },
+    {
+      "char": "⥩",
+      "code": "&rdldhar;",
+      "css": "\\2969",
+      "type": "arrow",
+      "name": "Double harpoon"
+    },
+    {
+      "char": "⥪",
+      "code": "&lharul;",
+      "css": "\\296A",
+      "type": "arrow",
+      "name": "Harpoon with line"
+    },
+    {
+      "char": "⥫",
+      "code": "&llhard;",
+      "css": "\\296B",
+      "type": "arrow",
+      "name": "Harpoon with line"
+    },
+    {
+      "char": "⥬",
+      "code": "&rharul;",
+      "css": "\\296C",
+      "type": "arrow",
+      "name": "Harpoon with line"
+    },
+    {
+      "char": "⥭",
+      "code": "&lrhard;",
+      "css": "\\296D",
+      "type": "arrow",
+      "name": "Harpoon with line"
+    },
+    {
+      "char": "⥮",
+      "code": "&udhar;",
+      "css": "\\296E",
+      "type": "arrow",
+      "name": "Up down harpoon"
+    },
+    {
+      "char": "⥯",
+      "code": "&duhar;",
+      "css": "\\296F",
+      "type": "arrow",
+      "name": "Down up harpoon"
+    },
+    {
+      "char": "⥰",
+      "code": "&RoundImplies;",
+      "css": "\\2970",
+      "type": "arrow",
+      "name": "Round implies"
+    },
+    {
+      "char": "⥱",
+      "code": "&erarr;",
+      "css": "\\2971",
+      "type": "arrow",
+      "name": "Right arrow with equal"
+    },
+    {
+      "char": "⥲",
+      "code": "&simrarr;",
+      "css": "\\2972",
+      "type": "arrow",
+      "name": "Right arrow with tilde"
+    },
+    {
+      "char": "⥳",
+      "code": "&larrsim;",
+      "css": "\\2973",
+      "type": "arrow",
+      "name": "Left arrow with tilde"
+    },
+    {
+      "char": "⥴",
+      "code": "&rarrsim;",
+      "css": "\\2974",
+      "type": "arrow",
+      "name": "Right arrow with tilde"
+    },
+    {
+      "char": "⥵",
+      "code": "&rarrap;",
+      "css": "\\2975",
+      "type": "arrow",
+      "name": "Right arrow with  double tilde"
+    },
+    {
+      "char": "⥶",
+      "code": "&ltlarr;",
+      "css": "\\2976",
+      "type": "arrow",
+      "name": "Left arrow with less-than"
+    },
+    {
+      "char": "⥸",
+      "code": "&gtrarr;",
+      "css": "\\2978",
+      "type": "arrow",
+      "name": "Right arrow with greater-than"
+    },
+    {
+      "char": "⥹",
+      "code": "&subrarr;",
+      "css": "\\2979",
+      "type": "arrow",
+      "name": "Right arrow with subset"
+    },
+    {
+      "char": "⥻",
+      "code": "&suplarr;",
+      "css": "\\297B",
+      "type": "arrow",
+      "name": "Left arrow with superset"
+    },
+    {
+      "char": "⥼",
+      "code": "&lfisht;",
+      "css": "\\297C",
+      "type": "arrow",
+      "name": "Left fish tail"
+    },
+    {
+      "char": "⥽",
+      "code": "&rfisht;",
+      "css": "\\297D",
+      "type": "arrow",
+      "name": "Right fish tail"
+    },
+    {
+      "char": "⥾",
+      "code": "&ufisht;",
+      "css": "\\297E",
+      "type": "arrow",
+      "name": "Up fish tail"
+    },
+    {
+      "char": "⥿",
+      "code": "&dfisht;",
+      "css": "\\297F",
+      "type": "arrow",
+      "name": "Down fish tail"
+    },
+    {
+      "char": "⦅",
+      "code": "&lopar;",
+      "css": "\\2985",
+      "type": "symbol",
+      "name": "White parenthesis"
+    },
+    {
+      "char": "⦆",
+      "code": "&ropar;",
+      "css": "\\2986",
+      "type": "symbol",
+      "name": "White parenthesis"
+    },
+    {
+      "char": "⦋",
+      "code": "&lbrke;",
+      "css": "\\298B",
+      "type": "symbol",
+      "name": "Square bracket with underline"
+    },
+    {
+      "char": "⦌",
+      "code": "&rbrke;",
+      "css": "\\298C",
+      "type": "symbol",
+      "name": "Square bracket with underline"
+    },
+    {
+      "char": "⦍",
+      "code": "&lbrkslu;",
+      "css": "\\298D",
+      "type": "symbol",
+      "name": "Square bracket with tick"
+    },
+    {
+      "char": "⦎",
+      "code": "&rbrksld;",
+      "css": "\\298E",
+      "type": "symbol",
+      "name": "Square bracket with tick"
+    },
+    {
+      "char": "⦏",
+      "code": "&lbrksld;",
+      "css": "\\298F",
+      "type": "symbol",
+      "name": "Square bracket with tick"
+    },
+    {
+      "char": "⦐",
+      "code": "&rbrkslu;",
+      "css": "\\2990",
+      "type": "symbol",
+      "name": "Square bracket with tick"
+    },
+    {
+      "char": "⦑",
+      "code": "&langd;",
+      "css": "\\2991",
+      "type": "symbol",
+      "name": "Angle with dot"
+    },
+    {
+      "char": "⦒",
+      "code": "&rangd;",
+      "css": "\\2992",
+      "type": "symbol",
+      "name": "Angle with dot"
+    },
+    {
+      "char": "⦓",
+      "code": "&lparlt;",
+      "css": "\\2993",
+      "type": "symbol",
+      "name": "Parenthesis with less-than"
+    },
+    {
+      "char": "⦔",
+      "code": "&rpargt;",
+      "css": "\\2994",
+      "type": "symbol",
+      "name": "Parenthesis with greater-than"
+    },
+    {
+      "char": "⦕",
+      "code": "&gtlPar;",
+      "css": "\\2995",
+      "type": "symbol",
+      "name": "Parenthesis with greater-than"
+    },
+    {
+      "char": "⦖",
+      "code": "&ltrPar;",
+      "css": "\\2996",
+      "type": "symbol",
+      "name": "Parenthesis with less-than"
+    },
+    {
+      "char": "⦚",
+      "code": "&vzigzag;",
+      "css": "\\299A",
+      "type": "symbol",
+      "name": "Zig-zag"
+    },
+    {
+      "char": "⦜",
+      "code": "&vangrt;",
+      "css": "\\299C",
+      "type": "symbol",
+      "name": "Angle"
+    },
+    {
+      "char": "⦝",
+      "code": "&angrtvbd;",
+      "css": "\\299D",
+      "type": "symbol",
+      "name": "Angle with dot"
+    },
+    {
+      "char": "⦤",
+      "code": "&ange;",
+      "css": "\\29A4",
+      "type": "symbol",
+      "name": "Angle with underbar"
+    },
+    {
+      "char": "⦥",
+      "code": "&range;",
+      "css": "\\29A5",
+      "type": "symbol",
+      "name": "Angle with underbar"
+    },
+    {
+      "char": "⦦",
+      "code": "&dwangle;",
+      "css": "\\29A6",
+      "type": "symbol",
+      "name": "Oblique angle"
+    },
+    {
+      "char": "⦧",
+      "code": "&uwangle;",
+      "css": "\\29A7",
+      "type": "symbol",
+      "name": "Oblique angle"
+    },
+    {
+      "char": "⦨",
+      "code": "&angmsdaa;",
+      "css": "\\29A8",
+      "type": "symbol",
+      "name": "Measured angle"
+    },
+    {
+      "char": "⦩",
+      "code": "&angmsdab;",
+      "css": "\\29A9",
+      "type": "symbol",
+      "name": "Measured angle"
+    },
+    {
+      "char": "⦪",
+      "code": "&angmsdac;",
+      "css": "\\29AA",
+      "type": "symbol",
+      "name": "Measured angle"
+    },
+    {
+      "char": "⦫",
+      "code": "&angmsdad;",
+      "css": "\\29AB",
+      "type": "symbol",
+      "name": "Measured angle"
+    },
+    {
+      "char": "⦬",
+      "code": "&angmsdae;",
+      "css": "\\29AC",
+      "type": "symbol",
+      "name": "Measured angle"
+    },
+    {
+      "char": "⦭",
+      "code": "&angmsdaf;",
+      "css": "\\29AD",
+      "type": "symbol",
+      "name": "Measured angle"
+    },
+    {
+      "char": "⦮",
+      "code": "&angmsdag;",
+      "css": "\\29AE",
+      "type": "symbol",
+      "name": "Measured angle"
+    },
+    {
+      "char": "⦯",
+      "code": "&angmsdah;",
+      "css": "\\29AF",
+      "type": "symbol",
+      "name": "Measured angle"
+    },
+    {
+      "char": "⦰",
+      "code": "&bemptyv;",
+      "css": "\\29B0",
+      "type": "symbol",
+      "name": "Empty"
+    },
+    {
+      "char": "⦱",
+      "code": "&demptyv;",
+      "css": "\\29B1",
+      "type": "symbol",
+      "name": "Empty"
+    },
+    {
+      "char": "⦲",
+      "code": "&cemptyv;",
+      "css": "\\29B2",
+      "type": "symbol",
+      "name": "Empty"
+    },
+    {
+      "char": "⦳",
+      "code": "&raemptyv;",
+      "css": "\\29B3",
+      "type": "symbol",
+      "name": "Empty"
+    },
+    {
+      "char": "⦴",
+      "code": "&laemptyv;",
+      "css": "\\29B4",
+      "type": "symbol",
+      "name": "Empty"
+    },
+    {
+      "char": "⦵",
+      "code": "&ohbar;",
+      "css": "\\29B5",
+      "type": "symbol",
+      "name": "Circle with bar"
+    },
+    {
+      "char": "⦶",
+      "code": "&omid;",
+      "css": "\\29B6",
+      "type": "symbol",
+      "name": "Circle with bar"
+    },
+    {
+      "char": "⦷",
+      "code": "&opar;",
+      "css": "\\29B7",
+      "type": "symbol",
+      "name": "Circled parallel"
+    },
+    {
+      "char": "⦹",
+      "code": "&operp;",
+      "css": "\\29B9",
+      "type": "symbol",
+      "name": "Circled perpendicular"
+    },
+    {
+      "char": "⦻",
+      "code": "&olcross;",
+      "css": "\\29BB",
+      "type": "symbol",
+      "name": "Circled with X"
+    },
+    {
+      "char": "⦼",
+      "code": "&odsold;",
+      "css": "\\29BC",
+      "type": "symbol",
+      "name": "Circled division sign"
+    },
+    {
+      "char": "⦾",
+      "code": "&olcir;",
+      "css": "\\29BE",
+      "type": "symbol",
+      "name": "Circle with bullet"
+    },
+    {
+      "char": "⦿",
+      "code": "&ofcir;",
+      "css": "\\29BF",
+      "type": "symbol",
+      "name": "Circle with bullet"
+    },
+    {
+      "char": "⧀",
+      "code": "&olt;",
+      "css": "\\29C0",
+      "type": "symbol",
+      "name": "Circle less-than"
+    },
+    {
+      "char": "⧁",
+      "code": "&ogt;",
+      "css": "\\29C1",
+      "type": "symbol",
+      "name": "Circle greater-than"
+    },
+    {
+      "char": "⧂",
+      "code": "&cirscir;",
+      "css": "\\29C2",
+      "type": "symbol",
+      "name": "Circle with small circle"
+    },
+    {
+      "char": "⧃",
+      "code": "&cirE;",
+      "css": "\\29C3",
+      "type": "symbol",
+      "name": "Circle with horizontal strokes"
+    },
+    {
+      "char": "⧄",
+      "code": "&solb;",
+      "css": "\\29C4",
+      "type": "symbol",
+      "name": "Square with diagonal"
+    },
+    {
+      "char": "⧅",
+      "code": "&bsolb;",
+      "css": "\\29C5",
+      "type": "symbol",
+      "name": "Square with diagonal"
+    },
+    {
+      "char": "⧉",
+      "code": "&boxbox;",
+      "css": "\\29C9",
+      "type": "symbol",
+      "name": "Joined squares"
+    },
+    {
+      "char": "⧍",
+      "code": "&trisb;",
+      "css": "\\29CD",
+      "type": "symbol",
+      "name": "Triangle with serif"
+    },
+    {
+      "char": "⧎",
+      "code": "&rtriltri;",
+      "css": "\\29CE",
+      "type": "symbol",
+      "name": "name"
+    },
+    {
+      "char": "⧏",
+      "code": "&LeftTriangleBar;",
+      "css": "\\29CF",
+      "type": "symbol",
+      "name": "Triange with bar"
+    },
+    {
+      "char": "⧐",
+      "code": "&RightTriangleBar;",
+      "css": "\\29D0",
+      "type": "symbol",
+      "name": "Triange with bar"
+    },
+    {
+      "char": "⧚",
+      "code": "&race;",
+      "css": "\\29DA",
+      "type": "symbol",
+      "name": "Double wiggly fence"
+    },
+    {
+      "char": "⧜",
+      "code": "&iinfin;",
+      "css": "\\29DC",
+      "type": "symbol",
+      "name": "Incomplete infinity"
+    },
+    {
+      "char": "⧝",
+      "code": "&infintie;",
+      "css": "\\29DD",
+      "type": "symbol",
+      "name": "Tie over infinite"
+    },
+    {
+      "char": "⧞",
+      "code": "&nvinfin;",
+      "css": "\\29DE",
+      "type": "symbol",
+      "name": "Infinity negated"
+    },
+    {
+      "char": "⧣",
+      "code": "&eparsl;",
+      "css": "\\29E3",
+      "type": "symbol",
+      "name": "Slated parallel"
+    },
+    {
+      "char": "⧤",
+      "code": "&smeparsl;",
+      "css": "\\29E4",
+      "type": "symbol",
+      "name": "Slated parallel"
+    },
+    {
+      "char": "⧥",
+      "code": "&eqvparsl;",
+      "css": "\\29E5",
+      "type": "symbol",
+      "name": "Slated parallel"
+    },
+    {
+      "char": "⧫",
+      "code": "&lozf;",
+      "css": "\\29EB",
+      "type": "symbol",
+      "name": "Black lozenge"
+    },
+    {
+      "char": "⧴",
+      "code": "&RuleDelayed;",
+      "css": "\\29F4",
+      "type": "symbol",
+      "name": "Rule delayed"
+    },
+    {
+      "char": "⧶",
+      "code": "&dsol;",
+      "css": "\\29F6",
+      "type": "symbol",
+      "name": "Solidus with overbar"
+    },
+    {
+      "char": "⨀",
+      "code": "&xodot;",
+      "css": "\\2A00",
+      "type": "symbol",
+      "name": "Circled dot operator"
+    },
+    {
+      "char": "⨁",
+      "code": "&xoplus;",
+      "css": "\\2A01",
+      "type": "symbol",
+      "name": "Circled plus operator"
+    },
+    {
+      "char": "⨂",
+      "code": "&xotime;",
+      "css": "\\2A02",
+      "type": "symbol",
+      "name": "Circled times operator"
+    },
+    {
+      "char": "⨄",
+      "code": "&xuplus;",
+      "css": "\\2A04",
+      "type": "symbol",
+      "name": "Union operator with plus"
+    },
+    {
+      "char": "⨆",
+      "code": "&xsqcup;",
+      "css": "\\2A06",
+      "type": "symbol",
+      "name": "Square union operator"
+    },
+    {
+      "char": "⨌",
+      "code": "&qint;",
+      "css": "\\2A0C",
+      "type": "symbol",
+      "name": "Quadruple integral"
+    },
+    {
+      "char": "⨍",
+      "code": "&fpartint;",
+      "css": "\\2A0D",
+      "type": "symbol",
+      "name": "Partial function"
+    },
+    {
+      "char": "⨐",
+      "code": "&cirfnint;",
+      "css": "\\2A10",
+      "type": "symbol",
+      "name": "Circulation function"
+    },
+    {
+      "char": "⨑",
+      "code": "&awint;",
+      "css": "\\2A11",
+      "type": "symbol",
+      "name": "CCW function"
+    },
+    {
+      "char": "⨒",
+      "code": "&rppolint;",
+      "css": "\\2A12",
+      "type": "symbol",
+      "name": "integral"
+    },
+    {
+      "char": "⨓",
+      "code": "&scpolint;",
+      "css": "\\2A13",
+      "type": "symbol",
+      "name": "integral"
+    },
+    {
+      "char": "⨔",
+      "code": "&npolint;",
+      "css": "\\2A14",
+      "type": "symbol",
+      "name": "integral"
+    },
+    {
+      "char": "⨕",
+      "code": "&pointint;",
+      "css": "\\2A15",
+      "type": "symbol",
+      "name": "Integral around a point"
+    },
+    {
+      "char": "⨖",
+      "code": "&quatint;",
+      "css": "\\2A16",
+      "type": "symbol",
+      "name": "Quaternion integral"
+    },
+    {
+      "char": "⨗",
+      "code": "&intlarhk;",
+      "css": "\\2A17",
+      "type": "symbol",
+      "name": "Left arrow integral"
+    },
+    {
+      "char": "⨢",
+      "code": "&pluscir;",
+      "css": "\\2A22",
+      "type": "symbol",
+      "name": "Plus with circle"
+    },
+    {
+      "char": "⨣",
+      "code": "&plusacir;",
+      "css": "\\2A23",
+      "type": "symbol",
+      "name": "Plus with circumflex"
+    },
+    {
+      "char": "⨤",
+      "code": "&simplus;",
+      "css": "\\2A24",
+      "type": "symbol",
+      "name": "Plus with tilde"
+    },
+    {
+      "char": "⨥",
+      "code": "&plusdu;",
+      "css": "\\2A25",
+      "type": "symbol",
+      "name": "Plus with dot"
+    },
+    {
+      "char": "⨦",
+      "code": "&plussim;",
+      "css": "\\2A26",
+      "type": "symbol",
+      "name": "Plus with tilde"
+    },
+    {
+      "char": "⨧",
+      "code": "&plustwo;",
+      "css": "\\2A27",
+      "type": "symbol",
+      "name": "Plus with two"
+    },
+    {
+      "char": "⨩",
+      "code": "&mcomma;",
+      "css": "\\2A29",
+      "type": "symbol",
+      "name": "Minus with comma"
+    },
+    {
+      "char": "⨪",
+      "code": "&minusdu;",
+      "css": "\\2A2A",
+      "type": "symbol",
+      "name": "Minus with dot"
+    },
+    {
+      "char": "⨭",
+      "code": "&loplus;",
+      "css": "\\2A2D",
+      "type": "symbol",
+      "name": "Half circle with plus"
+    },
+    {
+      "char": "⨮",
+      "code": "&roplus;",
+      "css": "\\2A2E",
+      "type": "symbol",
+      "name": "Half circle with plus"
+    },
+    {
+      "char": "⨯",
+      "code": "&Cross;",
+      "css": "\\2A2F",
+      "type": "symbol",
+      "name": "Cross"
+    },
+    {
+      "char": "⨰",
+      "code": "&timesd;",
+      "css": "\\2A30",
+      "type": "symbol",
+      "name": "Times with dot"
+    },
+    {
+      "char": "⨱",
+      "code": "&timesbar;",
+      "css": "\\2A31",
+      "type": "symbol",
+      "name": "name"
+    },
+    {
+      "char": "⨳",
+      "code": "&smashp;",
+      "css": "\\2A33",
+      "type": "symbol",
+      "name": "Smash product"
+    },
+    {
+      "char": "⨴",
+      "code": "&lotimes;",
+      "css": "\\2A34",
+      "type": "symbol",
+      "name": "Half circle with times"
+    },
+    {
+      "char": "⨵",
+      "code": "&rotimes;",
+      "css": "\\2A35",
+      "type": "symbol",
+      "name": "Half circle with times"
+    },
+    {
+      "char": "⨶",
+      "code": "&otimesas;",
+      "css": "\\2A36",
+      "type": "symbol",
+      "name": "Circled multiplication with circumflex"
+    },
+    {
+      "char": "⨷",
+      "code": "&Otimes;",
+      "css": "\\2A37",
+      "type": "symbol",
+      "name": "Circled times"
+    },
+    {
+      "char": "⨸",
+      "code": "&odiv;",
+      "css": "\\2A38",
+      "type": "symbol",
+      "name": "Circled division"
+    },
+    {
+      "char": "⨹",
+      "code": "&triplus;",
+      "css": "\\2A39",
+      "type": "symbol",
+      "name": "Triangle with plus"
+    },
+    {
+      "char": "⨺",
+      "code": "&triminus;",
+      "css": "\\2A3A",
+      "type": "symbol",
+      "name": "Triangle with minus"
+    },
+    {
+      "char": "⨻",
+      "code": "&tritime;",
+      "css": "\\2A3B",
+      "type": "symbol",
+      "name": "Triangle with times"
+    },
+    {
+      "char": "⨼",
+      "code": "&iprod;",
+      "css": "\\2A3C",
+      "type": "symbol",
+      "name": "Interior product"
+    },
+    {
+      "char": "⨿",
+      "code": "&amalg;",
+      "css": "\\2A3F",
+      "type": "symbol",
+      "name": "Amalgamation or co-product"
+    },
+    {
+      "char": "⩀",
+      "code": "&capdot;",
+      "css": "\\2A40",
+      "type": "symbol",
+      "name": "Intersection with dot"
+    },
+    {
+      "char": "⩂",
+      "code": "&ncup;",
+      "css": "\\2A42",
+      "type": "symbol",
+      "name": "Union with bar"
+    },
+    {
+      "char": "⩃",
+      "code": "&ncap;",
+      "css": "\\2A43",
+      "type": "symbol",
+      "name": "Intersection with bar"
+    },
+    {
+      "char": "⩄",
+      "code": "&capand;",
+      "css": "\\2A44",
+      "type": "symbol",
+      "name": "Intersection And"
+    },
+    {
+      "char": "⩅",
+      "code": "&cupor;",
+      "css": "\\2A45",
+      "type": "symbol",
+      "name": "Union Or"
+    },
+    {
+      "char": "⩆",
+      "code": "&cupcap;",
+      "css": "\\2A46",
+      "type": "symbol",
+      "name": "Union above intersection"
+    },
+    {
+      "char": "⩇",
+      "code": "&capcup;",
+      "css": "\\2A47",
+      "type": "symbol",
+      "name": "Intersection above union"
+    },
+    {
+      "char": "⩈",
+      "code": "&cupbrcap;",
+      "css": "\\2A48",
+      "type": "symbol",
+      "name": "Union above intersection with bar"
+    },
+    {
+      "char": "⩉",
+      "code": "&capbrcup;",
+      "css": "\\2A49",
+      "type": "symbol",
+      "name": "Intersection above union"
+    },
+    {
+      "char": "⩊",
+      "code": "&cupcup;",
+      "css": "\\2A4A",
+      "type": "symbol",
+      "name": "name"
+    },
+    {
+      "char": "⩋",
+      "code": "&capcap;",
+      "css": "\\2A4B",
+      "type": "symbol",
+      "name": "name"
+    },
+    {
+      "char": "⩌",
+      "code": "&ccups;",
+      "css": "\\2A4C",
+      "type": "symbol",
+      "name": "Closed union"
+    },
+    {
+      "char": "⩍",
+      "code": "&ccaps;",
+      "css": "\\2A4D",
+      "type": "symbol",
+      "name": "Closed intersection"
+    },
+    {
+      "char": "⩐",
+      "code": "&ccupssm;",
+      "css": "\\2A50",
+      "type": "symbol",
+      "name": "Closed union with smash product"
+    },
+    {
+      "char": "⩓",
+      "code": "&And;",
+      "css": "\\2A53",
+      "type": "symbol",
+      "name": "Double And"
+    },
+    {
+      "char": "⩔",
+      "code": "&Or;",
+      "css": "\\2A54",
+      "type": "symbol",
+      "name": "Double Or"
+    },
+    {
+      "char": "⩕",
+      "code": "&andand;",
+      "css": "\\2A55",
+      "type": "symbol",
+      "name": "And And"
+    },
+    {
+      "char": "⩖",
+      "code": "&oror;",
+      "css": "\\2A56",
+      "type": "symbol",
+      "name": "Or Or"
+    },
+    {
+      "char": "⩗",
+      "code": "&orslope;",
+      "css": "\\2A57",
+      "type": "symbol",
+      "name": "Or slope"
+    },
+    {
+      "char": "⩘",
+      "code": "&andslope;",
+      "css": "\\2A58",
+      "type": "symbol",
+      "name": "And slope"
+    },
+    {
+      "char": "⩚",
+      "code": "&andv;",
+      "css": "\\2A5A",
+      "type": "symbol",
+      "name": "Logical and with middle stem"
+    }
+  ]
+}
