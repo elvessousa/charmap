@@ -34,6 +34,12 @@ h1 {
   text-transform: uppercase;
 }
 
+h2 {
+  text-align: center;
+  font-size: 2.5em;
+  text-transform: capitalize;
+}
+
 .characters {
   display: grid;
   grid-gap: 1em;

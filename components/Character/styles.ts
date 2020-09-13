@@ -42,10 +42,17 @@ export const Letter = styled.button<LetterProps>`
   height: 130px;
   padding: 1em;
   position: relative;
+  transition: all 0.2s ease-in-out;
+
+  &:hover {
+    filter: brightness(1.1);
+  }
 
   h4 {
     font-size: 5em;
     margin: 0;
+    text-decoration: ${(props) =>
+      props.category === "space" ? "underline" : "none"};
   }
 
   span {
