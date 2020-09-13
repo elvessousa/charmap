@@ -1,0 +1,676 @@
+{
+  "characters": [
+    {
+      "char": "←",
+      "code": "&larr;",
+      "css": "\\2190",
+      "name": "Leftwards Arrow"
+    },
+    {
+      "char": "↑",
+      "code": "&uarr;",
+      "css": "\\2191",
+      "name": "Upwards Arrow"
+    },
+    {
+      "char": "→",
+      "code": "&rarr;",
+      "css": "\\2192",
+      "name": "Rightwards Arrow"
+    },
+    {
+      "char": "↓",
+      "code": "&darr;",
+      "css": "\\2193",
+      "name": "Downwards Arrow"
+    },
+    {
+      "char": "↔",
+      "code": "&harr;",
+      "css": "\\2194",
+      "name": "Left Right Arrow"
+    },
+    {
+      "char": "↕",
+      "code": "&#8597;",
+      "css": "\\2195",
+      "name": "Up Down Arrow"
+    },
+    {
+      "char": "↖",
+      "code": "&#8598;",
+      "css": "\\2196",
+      "name": "North West Arrow"
+    },
+    {
+      "char": "↗",
+      "code": "&#8599;",
+      "css": "\\2197",
+      "name": "North East Arrow"
+    },
+    {
+      "char": "↘",
+      "code": "&#8600;",
+      "css": "\\2198",
+      "name": "South East Arrow"
+    },
+    {
+      "char": "↙",
+      "code": "&#8601;",
+      "css": "\\2199",
+      "name": "South West Arrow"
+    },
+    {
+      "char": "↚",
+      "code": "&#8602;",
+      "css": "\\219A",
+      "name": "Leftwards Arrow With Stroke"
+    },
+    {
+      "char": "↛",
+      "code": "&#8603;",
+      "css": "\\219B",
+      "name": "Rightwards Arrow With Stroke"
+    },
+    {
+      "char": "↜",
+      "code": "&#8604;",
+      "css": "\\219C",
+      "name": "Leftwards Wave Arrow"
+    },
+    {
+      "char": "↝",
+      "code": "&#8605;",
+      "css": "\\219D",
+      "name": "Rightwards Wave Arrow"
+    },
+    {
+      "char": "↞",
+      "code": "&#8606;",
+      "css": "\\219E",
+      "name": "Leftwards Two Headed Arrow"
+    },
+    {
+      "char": "↟",
+      "code": "&#8607;",
+      "css": "\\219F",
+      "name": "Upwards Two Headed Arrow"
+    },
+    {
+      "char": "↠",
+      "code": "&#8608;",
+      "css": "\\21A0",
+      "name": "Rightwards Two Headed Arrow"
+    },
+    {
+      "char": "↡",
+      "code": "&#8609;",
+      "css": "\\21A1",
+      "name": "Downwards Two Headed Arrow"
+    },
+    {
+      "char": "↢",
+      "code": "&#8610;",
+      "css": "\\21A2",
+      "name": "Leftwards Arrow With Tail"
+    },
+    {
+      "char": "↣",
+      "code": "&#8611;",
+      "css": "\\21A3",
+      "name": "Rightwards Arrow With Tail"
+    },
+    {
+      "char": "↤",
+      "code": "&#8612;",
+      "css": "\\21A4",
+      "name": "Leftwards Arrow From Bar"
+    },
+    {
+      "char": "↥",
+      "code": "&#8613;",
+      "css": "\\21A5",
+      "name": "Upwards Arrow From Bar"
+    },
+    {
+      "char": "↦",
+      "code": "&#8614;",
+      "css": "\\21A6",
+      "name": "Rightwards Arrow From Bar"
+    },
+    {
+      "char": "↧",
+      "code": "&#8615;",
+      "css": "\\21A7",
+      "name": "Downwards Arrow From Bar"
+    },
+    {
+      "char": "↨",
+      "code": "&#8616;",
+      "css": "\\21A8",
+      "name": "Up Down Arrow With Base"
+    },
+    {
+      "char": "↩",
+      "code": "&#8617;",
+      "css": "\\21A9",
+      "name": "Leftwards Arrow With Hook"
+    },
+    {
+      "char": "↪",
+      "code": "&#8618;",
+      "css": "\\21AA",
+      "name": "Rightwards Arrow With Hook"
+    },
+    {
+      "char": "↫",
+      "code": "&#8619;",
+      "css": "\\21AB",
+      "name": "Leftwards Arrow With Loop"
+    },
+    {
+      "char": "↬",
+      "code": "&#8620;",
+      "css": "\\21AC",
+      "name": "Rightwards Arrow With Loop"
+    },
+    {
+      "char": "↭",
+      "code": "&#8621;",
+      "css": "\\21AD",
+      "name": "Left Right Wave Arrow"
+    },
+    {
+      "char": "↮",
+      "code": "&#8622;",
+      "css": "\\21AE",
+      "name": "Left Right Arrow With Stroke"
+    },
+    {
+      "char": "↯",
+      "code": "&#8623;",
+      "css": "\\21AF",
+      "name": "Downwards Zigzag Arrow"
+    },
+    {
+      "char": "↰",
+      "code": "&#8624;",
+      "css": "\\21B0",
+      "name": "Upwards Arrow With Tip Leftwards"
+    },
+    {
+      "char": "↱",
+      "code": "&#8625;",
+      "css": "\\21B1",
+      "name": "Upwards Arrow With Tip Rightwards"
+    },
+    {
+      "char": "↲",
+      "code": "&#8626;",
+      "css": "\\21B2",
+      "name": "Downwards Arrow With Tip Leftwards"
+    },
+    {
+      "char": "↳",
+      "code": "&#8627;",
+      "css": "\\21B3",
+      "name": "Downwards Arrow With Tip Rightwards"
+    },
+    {
+      "char": "↴",
+      "code": "&#8628;",
+      "css": "\\21B4",
+      "name": "Rightwards Arrow With Corner Downwards"
+    },
+    {
+      "char": "↵",
+      "code": "&crarr;",
+      "css": "\\21B5",
+      "name": "Downwards Arrow With Corner Leftwards"
+    },
+    {
+      "char": "↶",
+      "code": "&#8630;",
+      "css": "\\21B6",
+      "name": "Anticlockwise Top Semicircle Arrow"
+    },
+    {
+      "char": "↷",
+      "code": "&#8631;",
+      "css": "\\21B7",
+      "name": "Clockwise Top Semicircle Arrow"
+    },
+    {
+      "char": "↸",
+      "code": "&#8632;",
+      "css": "\\21B8",
+      "name": "North West Arrow To Long Bar"
+    },
+    {
+      "char": "↹",
+      "code": "&#8633;",
+      "css": "\\21B9",
+      "name": "Leftwards Arrow To Bar Over Rightwards Arrow To Bar"
+    },
+    {
+      "char": "↺",
+      "code": "&#8634;",
+      "css": "\\21BA",
+      "name": "Anticlockwise Open Circle Arrow"
+    },
+    {
+      "char": "↻",
+      "code": "&#8635;",
+      "css": "\\21BB",
+      "name": "Clockwise Open Circle Arrow"
+    },
+    {
+      "char": "↼",
+      "code": "&#8636;",
+      "css": "\\21BC",
+      "name": "Leftwards Harpoon With Barb Upwards"
+    },
+    {
+      "char": "↽",
+      "code": "&#8637;",
+      "css": "\\21BD",
+      "name": "Leftwards Harpoon With Barb Downwards"
+    },
+    {
+      "char": "↾",
+      "code": "&#8638;",
+      "css": "\\21BE",
+      "name": "Upwards Harpoon With Barb Rightwards"
+    },
+    {
+      "char": "↿",
+      "code": "&#8639;",
+      "css": "\\21BF",
+      "name": "Upwards Harpoon With Barb Leftwards"
+    },
+    {
+      "char": "⇀",
+      "code": "&#8640;",
+      "css": "\\21C0",
+      "name": "Rightwards Harpoon With Barb Upwards"
+    },
+    {
+      "char": "⇁",
+      "code": "&#8641;",
+      "css": "\\21C1",
+      "name": "Rightwards Harpoon With Barb Downwards"
+    },
+    {
+      "char": "⇂",
+      "code": "&#8642;",
+      "css": "\\21C2",
+      "name": "Downwards Harpoon With Barb Rightwards"
+    },
+    {
+      "char": "⇃",
+      "code": "&#8643;",
+      "css": "\\21C3",
+      "name": "Downwards Harpoon With Barb Leftwards"
+    },
+    {
+      "char": "⇄",
+      "code": "&#8644;",
+      "css": "\\21C4",
+      "name": "Rightwards Arrow Over Leftwards Arrow"
+    },
+    {
+      "char": "⇅",
+      "code": "&#8645;",
+      "css": "\\21C5",
+      "name": "Upwards Arrow Leftwards Of Downwards Arrow"
+    },
+    {
+      "char": "⇆",
+      "code": "&#8646;",
+      "css": "\\21C6",
+      "name": "Leftwards Arrow Over Rightwards Arrow"
+    },
+    {
+      "char": "⇇",
+      "code": "&#8647;",
+      "css": "\\21C7",
+      "name": "Leftwards Paired Arrows"
+    },
+    {
+      "char": "⇈",
+      "code": "&#8648;",
+      "css": "\\21C8",
+      "name": "Upwards Paired Arrows"
+    },
+    {
+      "char": "⇉",
+      "code": "&#8649;",
+      "css": "\\21C9",
+      "name": "Rightwards Paired Arrows"
+    },
+    {
+      "char": "⇊",
+      "code": "&#8650;",
+      "css": "\\21CA",
+      "name": "Downwards Paired Arrows"
+    },
+    {
+      "char": "⇋",
+      "code": "&#8651;",
+      "css": "\\21CB",
+      "name": "Leftwards Harpoon Over Rightwards Harpoon"
+    },
+    {
+      "char": "⇌",
+      "code": "&#8652;",
+      "css": "\\21CC",
+      "name": "Rightwards Harpoon Over Leftwards Harpoon"
+    },
+    {
+      "char": "⇍",
+      "code": "&#8653;",
+      "css": "\\21CD",
+      "name": "Leftwards Double Arrow With Stroke"
+    },
+    {
+      "char": "⇎",
+      "code": "&#8654;",
+      "css": "\\21CE",
+      "name": "Left Right Double Arrow With Stroke"
+    },
+    {
+      "char": "⇏",
+      "code": "&#8655;",
+      "css": "\\21CF",
+      "name": "Rightwards Double Arrow With Stroke"
+    },
+    {
+      "char": "⇐",
+      "code": "&lArr;",
+      "css": "\\21D0",
+      "name": "Leftwards Double Arrow"
+    },
+    {
+      "char": "⇑",
+      "code": "&uArr;",
+      "css": "\\21D1",
+      "name": "Upwards Double Arrow"
+    },
+    {
+      "char": "⇒",
+      "code": "&rArr;",
+      "css": "\\21D2",
+      "name": "Rightwards Double Arrow"
+    },
+    {
+      "char": "⇓",
+      "code": "&dArr;",
+      "css": "\\21D3",
+      "name": "Downwards Double Arrow"
+    },
+    {
+      "char": "⇔",
+      "code": "&hArr;",
+      "css": "\\21D4",
+      "name": "Left Right Double Arrow"
+    },
+    {
+      "char": "⇕",
+      "code": "&#8661;",
+      "css": "\\21D5",
+      "name": "Up Down Double Arrow"
+    },
+    {
+      "char": "⇖",
+      "code": "&#8662;",
+      "css": "\\21D6",
+      "name": "North West Double Arrow"
+    },
+    {
+      "char": "⇗",
+      "code": "&#8663;",
+      "css": "\\21D7",
+      "name": "North East Double Arrow"
+    },
+    {
+      "char": "⇘",
+      "code": "&#8664;",
+      "css": "\\21D8",
+      "name": "South East Double Arrow"
+    },
+    {
+      "char": "⇙",
+      "code": "&#8665;",
+      "css": "\\21D9",
+      "name": "South West Double Arrow"
+    },
+    {
+      "char": "⇚",
+      "code": "&#8666;",
+      "css": "\\21DA",
+      "name": "Leftwards Triple Arrow"
+    },
+    {
+      "char": "⇛",
+      "code": "&#8667;",
+      "css": "\\21DB",
+      "name": "Rightwards Triple Arrow"
+    },
+    {
+      "char": "⇜",
+      "code": "&#8668;",
+      "css": "\\21DC",
+      "name": "Leftwards Squiggle Arrow"
+    },
+    {
+      "char": "⇝",
+      "code": "&#8669;",
+      "css": "\\21DD",
+      "name": "Rightwards Squiggle Arrow"
+    },
+    {
+      "char": "⇞",
+      "code": "&#8670;",
+      "css": "\\21DE",
+      "name": "Upwards Arrow With Double Stroke"
+    },
+    {
+      "char": "⇟",
+      "code": "&#8671;",
+      "css": "\\21DF",
+      "name": "Downwards Arrow With Double Stroke"
+    },
+    {
+      "char": "⇠",
+      "code": "&#8672;",
+      "css": "\\21E0",
+      "name": "Leftwards Dashed Arrow"
+    },
+    {
+      "char": "⇡",
+      "code": "&#8673;",
+      "css": "\\21E1",
+      "name": "Upwards Dashed Arrow"
+    },
+    {
+      "char": "⇢",
+      "code": "&#8674;",
+      "css": "\\21E2",
+      "name": "Rightwards Dashed Arrow"
+    },
+    {
+      "char": "⇣",
+      "code": "&#8675;",
+      "css": "\\21E3",
+      "name": "Downwards Dashed Arrow"
+    },
+    {
+      "char": "⇤",
+      "code": "&#8676;",
+      "css": "\\21E4",
+      "name": "Leftwards Arrow To Bar"
+    },
+    {
+      "char": "⇥",
+      "code": "&#8677;",
+      "css": "\\21E5",
+      "name": "Rightwards Arrow To Bar"
+    },
+    {
+      "char": "⇦",
+      "code": "&#8678;",
+      "css": "\\21E6",
+      "name": "Leftwards White Arrow"
+    },
+    {
+      "char": "⇧",
+      "code": "&#8679;",
+      "css": "\\21E7",
+      "name": "Upwards White Arrow"
+    },
+    {
+      "char": "⇨",
+      "code": "&#8680;",
+      "css": "\\21E8",
+      "name": "Rightwards White Arrow"
+    },
+    {
+      "char": "⇩",
+      "code": "&#8681;",
+      "css": "\\21E9",
+      "name": "Downwards White Arrow"
+    },
+    {
+      "char": "⇪",
+      "code": "&#8682;",
+      "css": "\\21EA",
+      "name": "Upwards White Arrow From Bar"
+    },
+    {
+      "char": "⇫",
+      "code": "&#8683;",
+      "css": "\\21EB",
+      "name": "Upwards White Arrow On Pedestal"
+    },
+    {
+      "char": "⇬",
+      "code": "&#8684;",
+      "css": "\\21EC",
+      "name": "Upwards White Arrow On Pedestal With Horizontal Bar"
+    },
+    {
+      "char": "⇭",
+      "code": "&#8685;",
+      "css": "\\21ED",
+      "name": "Upwards White Arrow On Pedestal With Vertical Bar"
+    },
+    {
+      "char": "⇮",
+      "code": "&#8686;",
+      "css": "\\21EE",
+      "name": "Upwards White Double Arrow"
+    },
+    {
+      "char": "⇯",
+      "code": "&#8687;",
+      "css": "\\21EF",
+      "name": "Upwards White Double Arrow On Pedestal"
+    },
+    {
+      "char": "⇰",
+      "code": "&#8688;",
+      "css": "\\21F0",
+      "name": "Rightwards White Arrow From Wall"
+    },
+    {
+      "char": "⇱",
+      "code": "&#8689;",
+      "css": "\\21F1",
+      "name": "North West Arrow To Corner"
+    },
+    {
+      "char": "⇲",
+      "code": "&#8690;",
+      "css": "\\21F2",
+      "name": "South East Arrow To Corner"
+    },
+    {
+      "char": "⇳",
+      "code": "&#8691;",
+      "css": "\\21F3",
+      "name": "Up Down White Arrow"
+    },
+    {
+      "char": "⇴",
+      "code": "&#8692;",
+      "css": "\\21F4",
+      "name": "Right Arrow With Small Circle"
+    },
+    {
+      "char": "⇵",
+      "code": "&#8693;",
+      "css": "\\21F5",
+      "name": "Downwards Arrow Leftwards Of Upwards Arrow"
+    },
+    {
+      "char": "⇶",
+      "code": "&#8694;",
+      "css": "\\21F6",
+      "name": "Three Rightwards Arrows"
+    },
+    {
+      "char": "⇷",
+      "code": "&#8695;",
+      "css": "\\21F7",
+      "name": "Leftwards Arrow With Vertical Stroke"
+    },
+    {
+      "char": "⇸",
+      "code": "&#8696;",
+      "css": "\\21F8",
+      "name": "Rightwards Arrow With Vertical Stroke"
+    },
+    {
+      "char": "⇹",
+      "code": "&#8697;",
+      "css": "\\21F9",
+      "name": "Left Right Arrow With Vertical Stroke"
+    },
+    {
+      "char": "⇺",
+      "code": "&#8698;",
+      "css": "\\21FA",
+      "name": "Leftwards Arrow With Double Vertical Stroke"
+    },
+    {
+      "char": "⇻",
+      "code": "&#8699;",
+      "css": "\\21FB",
+      "name": "Rightwards Arrow With Double Vertical Stroke"
+    },
+    {
+      "char": "⇼",
+      "code": "&#8700;",
+      "css": "\\21FC",
+      "name": "Left Right Arrow With Double Vertical Stroke"
+    },
+    {
+      "char": "⇽",
+      "code": "&#8701;",
+      "css": "\\21FD",
+      "name": "Leftwards Open-Headed Arrow"
+    },
+    {
+      "char": "⇾",
+      "code": "&#8702;",
+      "css": "\\21FE",
+      "name": "Rightwards Open-Headed Arrow"
+    },
+    {
+      "char": "⇿",
+      "code": "&#8703;",
+      "css": "\\21FF",
+      "name": "Left Right Open-Headed Arrow"
+    }
+  ]
+}

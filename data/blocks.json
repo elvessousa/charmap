@@ -1,0 +1,196 @@
+{
+  "characters": [
+    {
+      "char": "▀",
+      "code": "&#9600;",
+      "css": "\\2580",
+      "name": "Upper Half Block"
+    },
+    {
+      "char": "▁",
+      "code": "&#9601;",
+      "css": "\\2581",
+      "name": "Lower One Eighth Block"
+    },
+    {
+      "char": "▂",
+      "code": "&#9602;",
+      "css": "\\2582",
+      "name": "Lower One Quarter Block"
+    },
+    {
+      "char": "▃",
+      "code": "&#9603;",
+      "css": "\\2583",
+      "name": "Lower Three Eighths Block"
+    },
+    {
+      "char": "▄",
+      "code": "&#9604;",
+      "css": "\\2584",
+      "name": "Lower Half Block"
+    },
+    {
+      "char": "▅",
+      "code": "&#9605;",
+      "css": "\\2585",
+      "name": "Lower Five Eighths Block"
+    },
+    {
+      "char": "▆",
+      "code": "&#9606;",
+      "css": "\\2586",
+      "name": "Lower Three Quarters Block"
+    },
+    {
+      "char": "▇",
+      "code": "&#9607;",
+      "css": "\\2587",
+      "name": "Lower Seven Eighths Block"
+    },
+    {
+      "char": "█",
+      "code": "&#9608;",
+      "css": "\\2588",
+      "name": "Full Block"
+    },
+    {
+      "char": "▉",
+      "code": "&#9609;",
+      "css": "\\2589",
+      "name": "Left Seven Eighths Block"
+    },
+    {
+      "char": "▊",
+      "code": "&#9610;",
+      "css": "\\258A",
+      "name": "Left Three Quarters Block"
+    },
+    {
+      "char": "▋",
+      "code": "&#9611;",
+      "css": "\\258B",
+      "name": "Left Five Eighths Block"
+    },
+    {
+      "char": "▌",
+      "code": "&#9612;",
+      "css": "\\258C",
+      "name": "Left Half Block"
+    },
+    {
+      "char": "▍",
+      "code": "&#9613;",
+      "css": "\\258D",
+      "name": "Left Three Eighths Block"
+    },
+    {
+      "char": "▎",
+      "code": "&#9614;",
+      "css": "\\258E",
+      "name": "Left One Quarter Block"
+    },
+    {
+      "char": "▏",
+      "code": "&#9615;",
+      "css": "\\258F",
+      "name": "Left One Eighth Block"
+    },
+    {
+      "char": "▐",
+      "code": "&#9616;",
+      "css": "\\2590",
+      "name": "Right Half Block"
+    },
+    {
+      "char": "░",
+      "code": "&#9617;",
+      "css": "\\2591",
+      "name": "Light Shade"
+    },
+    {
+      "char": "▒",
+      "code": "&#9618;",
+      "css": "\\2592",
+      "name": "Medium Shade"
+    },
+    {
+      "char": "▓",
+      "code": "&#9619;",
+      "css": "\\2593",
+      "name": "Dark Shade"
+    },
+    {
+      "char": "▔",
+      "code": "&#9620;",
+      "css": "\\2594",
+      "name": "Upper One Eighth Block"
+    },
+    {
+      "char": "▕",
+      "code": "&#9621;",
+      "css": "\\2595",
+      "name": "Right One Eighth Block"
+    },
+    {
+      "char": "▖",
+      "code": "&#9622;",
+      "css": "\\2596",
+      "name": "Quadrant Lower Left"
+    },
+    {
+      "char": "▗",
+      "code": "&#9623;",
+      "css": "\\2597",
+      "name": "Quadrant Lower Right"
+    },
+    {
+      "char": "▘",
+      "code": "&#9624;",
+      "css": "\\2598",
+      "name": "Quadrant Upper Left"
+    },
+    {
+      "char": "▙",
+      "code": "&#9625;",
+      "css": "\\2599",
+      "name": "Quadrant Upper Left And Lower Left And Lower Right"
+    },
+    {
+      "char": "▚",
+      "code": "&#9626;",
+      "css": "\\259A",
+      "name": "Quadrant Upper Left And Lower Right"
+    },
+    {
+      "char": "▛",
+      "code": "&#9627;",
+      "css": "\\259B",
+      "name": "Quadrant Upper Left And Upper Right And Lower Left"
+    },
+    {
+      "char": "▜",
+      "code": "&#9628;",
+      "css": "\\259C",
+      "name": "Quadrant Upper Left And Upper Right And Lower Right"
+    },
+    {
+      "char": "▝",
+      "code": "&#9629;",
+      "css": "\\259D",
+      "name": "Quadrant Upper Right"
+    },
+    {
+      "char": "▞",
+      "code": "&#9630;",
+      "css": "\\259E",
+      "name": "Quadrant Upper Right And Lower Left"
+    },
+    {
+      "char": "▟",
+      "code": "&#9631;",
+      "css": "\\259F",
+      "name": "Quadrant Upper Right And Lower Left And Lower Right"
+    }
+  ]
+}

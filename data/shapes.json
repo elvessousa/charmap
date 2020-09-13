@@ -1,0 +1,580 @@
+{
+  "characters": [
+    {
+      "char": "■",
+      "code": "&#9632;",
+      "css": "\\25A0",
+      "name": "Black Square"
+    },
+    {
+      "char": "□",
+      "code": "&#9633;",
+      "css": "\\25A1",
+      "name": "White Square"
+    },
+    {
+      "char": "▢",
+      "code": "&#9634;",
+      "css": "\\25A2",
+      "name": "White Square With Rounded Corners"
+    },
+    {
+      "char": "▣",
+      "code": "&#9635;",
+      "css": "\\25A3",
+      "name": "White Square Containing Black Small Square"
+    },
+    {
+      "char": "▤",
+      "code": "&#9636;",
+      "css": "\\25A4",
+      "name": "Square With Horizontal Fill"
+    },
+    {
+      "char": "▥",
+      "code": "&#9637;",
+      "css": "\\25A5",
+      "name": "Square With Vertical Fill"
+    },
+    {
+      "char": "▦",
+      "code": "&#9638;",
+      "css": "\\25A6",
+      "name": "Square With Orthogonal Crosshatch Fill"
+    },
+    {
+      "char": "▧",
+      "code": "&#9639;",
+      "css": "\\25A7",
+      "name": "Square With Upper Left To Lower Right Fill"
+    },
+    {
+      "char": "▨",
+      "code": "&#9640;",
+      "css": "\\25A8",
+      "name": "Square With Upper Right To Lower Left Fill"
+    },
+    {
+      "char": "▩",
+      "code": "&#9641;",
+      "css": "\\25A9",
+      "name": "Square With Diagonal Crosshatch Fill"
+    },
+    {
+      "char": "▪",
+      "code": "&#9642;",
+      "css": "\\25AA",
+      "name": "Black Small Square"
+    },
+    {
+      "char": "▫",
+      "code": "&#9643;",
+      "css": "\\25AB",
+      "name": "White Small Square"
+    },
+    {
+      "char": "▬",
+      "code": "&#9644;",
+      "css": "\\25AC",
+      "name": "Black Rectangle"
+    },
+    {
+      "char": "▭",
+      "code": "&#9645;",
+      "css": "\\25AD",
+      "name": "White Rectangle"
+    },
+    {
+      "char": "▮",
+      "code": "&#9646;",
+      "css": "\\25AE",
+      "name": "Black Vertical Rectangle"
+    },
+    {
+      "char": "▯",
+      "code": "&#9647;",
+      "css": "\\25AF",
+      "name": "White Vertical Rectangle"
+    },
+    {
+      "char": "▰",
+      "code": "&#9648;",
+      "css": "\\25B0",
+      "name": "Black Parallelogram"
+    },
+    {
+      "char": "▱",
+      "code": "&#9649;",
+      "css": "\\25B1",
+      "name": "White Parallelogram"
+    },
+    {
+      "char": "▲",
+      "code": "&#9650;",
+      "css": "\\25B2",
+      "name": "Black Up-POINTING TRIANGLE"
+    },
+    {
+      "char": "△",
+      "code": "&#9651;",
+      "css": "\\25B3",
+      "name": "White Up-POINTING TRIANGLE"
+    },
+    {
+      "char": "▴",
+      "code": "&#9652;",
+      "css": "\\25B4",
+      "name": "Black Up-POINTING SMALL TRIANGLE"
+    },
+    {
+      "char": "▵",
+      "code": "&#9653;",
+      "css": "\\25B5",
+      "name": "White Up-POINTING SMALL TRIANGLE"
+    },
+    {
+      "char": "▶",
+      "code": "&#9654;",
+      "css": "\\25B6",
+      "name": "Black Right-POINTING TRIANGLE"
+    },
+    {
+      "char": "▷",
+      "code": "&#9655;",
+      "css": "\\25B7",
+      "name": "White Right-POINTING TRIANGLE"
+    },
+    {
+      "char": "▸",
+      "code": "&#9656;",
+      "css": "\\25B8",
+      "name": "Black Right-POINTING SMALL TRIANGLE"
+    },
+    {
+      "char": "▹",
+      "code": "&#9657;",
+      "css": "\\25B9",
+      "name": "White Right-POINTING SMALL TRIANGLE"
+    },
+    {
+      "char": "►",
+      "code": "&#9658;",
+      "css": "\\25BA",
+      "name": "Black Right-POINTING POINTER"
+    },
+    {
+      "char": "▻",
+      "code": "&#9659;",
+      "css": "\\25BB",
+      "name": "White Right-POINTING POINTER"
+    },
+    {
+      "char": "▼",
+      "code": "&#9660;",
+      "css": "\\25BC",
+      "name": "Black Down-POINTING TRIANGLE"
+    },
+    {
+      "char": "▽",
+      "code": "&#9661;",
+      "css": "\\25BD",
+      "name": "White Down-POINTING TRIANGLE"
+    },
+    {
+      "char": "▾",
+      "code": "&#9662;",
+      "css": "\\25BE",
+      "name": "Black Down-POINTING SMALL TRIANGLE"
+    },
+    {
+      "char": "▿",
+      "code": "&#9663;",
+      "css": "\\25BF",
+      "name": "White Down-POINTING SMALL TRIANGLE"
+    },
+    {
+      "char": "◀",
+      "code": "&#9664;",
+      "css": "\\25C0",
+      "name": "Black Left-POINTING TRIANGLE"
+    },
+    {
+      "char": "◁",
+      "code": "&#9665;",
+      "css": "\\25C1",
+      "name": "White Left-POINTING TRIANGLE"
+    },
+    {
+      "char": "◂",
+      "code": "&#9666;",
+      "css": "\\25C2",
+      "name": "Black Left-POINTING SMALL TRIANGLE"
+    },
+    {
+      "char": "◃",
+      "code": "&#9667;",
+      "css": "\\25C3",
+      "name": "White Left-POINTING SMALL TRIANGLE"
+    },
+    {
+      "char": "◄",
+      "code": "&#9668;",
+      "css": "\\25C4",
+      "name": "Black Left-POINTING POINTER"
+    },
+    {
+      "char": "◅",
+      "code": "&#9669;",
+      "css": "\\25C5",
+      "name": "White Left-POINTING POINTER"
+    },
+    {
+      "char": "◆",
+      "code": "&#9670;",
+      "css": "\\25C6",
+      "name": "Black Diamond"
+    },
+    {
+      "char": "◇",
+      "code": "&#9671;",
+      "css": "\\25C7",
+      "name": "White Diamond"
+    },
+    {
+      "char": "◈",
+      "code": "&#9672;",
+      "css": "\\25C8",
+      "name": "White Diamond Containing Black Small Diamond"
+    },
+    {
+      "char": "◉",
+      "code": "&#9673;",
+      "css": "\\25C9",
+      "name": "Fisheye"
+    },
+    {
+      "char": "◊",
+      "code": "&loz;",
+      "css": "\\25CA",
+      "name": "Lozenge"
+    },
+    {
+      "char": "○",
+      "code": "&#9675;",
+      "css": "\\25CB",
+      "name": "White Circle"
+    },
+    {
+      "char": "◌",
+      "code": "&#9676;",
+      "css": "\\25CC",
+      "name": "Dotted Circle"
+    },
+    {
+      "char": "◍",
+      "code": "&#9677;",
+      "css": "\\25CD",
+      "name": "Circle With Vertical Fill"
+    },
+    {
+      "char": "◎",
+      "code": "&#9678;",
+      "css": "\\25CE",
+      "name": "Bullseye"
+    },
+    {
+      "char": "●",
+      "code": "&#9679;",
+      "css": "\\25CF",
+      "name": "Black Circle"
+    },
+    {
+      "char": "◐",
+      "code": "&#9680;",
+      "css": "\\25D0",
+      "name": "Circle With Left Half Black"
+    },
+    {
+      "char": "◑",
+      "code": "&#9681;",
+      "css": "\\25D1",
+      "name": "Circle With Right Half Black"
+    },
+    {
+      "char": "◒",
+      "code": "&#9682;",
+      "css": "\\25D2",
+      "name": "Circle With Lower Half Black"
+    },
+    {
+      "char": "◓",
+      "code": "&#9683;",
+      "css": "\\25D3",
+      "name": "Circle With Upper Half Black"
+    },
+    {
+      "char": "◔",
+      "code": "&#9684;",
+      "css": "\\25D4",
+      "name": "Circle With Upper Right Quadrant Black"
+    },
+    {
+      "char": "◕",
+      "code": "&#9685;",
+      "css": "\\25D5",
+      "name": "Circle With All But Upper Left Quadrant Black"
+    },
+    {
+      "char": "◖",
+      "code": "&#9686;",
+      "css": "\\25D6",
+      "name": "Left Half Black Circle"
+    },
+    {
+      "char": "◗",
+      "code": "&#9687;",
+      "css": "\\25D7",
+      "name": "Right Half Black Circle"
+    },
+    {
+      "char": "◘",
+      "code": "&#9688;",
+      "css": "\\25D8",
+      "name": "Inverse Bullet"
+    },
+    {
+      "char": "◙",
+      "code": "&#9689;",
+      "css": "\\25D9",
+      "name": "Inverse White Circle"
+    },
+    {
+      "char": "◚",
+      "code": "&#9690;",
+      "css": "\\25DA",
+      "name": "Upper Half Inverse White Circle"
+    },
+    {
+      "char": "◛",
+      "code": "&#9691;",
+      "css": "\\25DB",
+      "name": "Lower Half Inverse White Circle"
+    },
+    {
+      "char": "◜",
+      "code": "&#9692;",
+      "css": "\\25DC",
+      "name": "Upper Left Quadrant Circular Arc"
+    },
+    {
+      "char": "◝",
+      "code": "&#9693;",
+      "css": "\\25DD",
+      "name": "Upper Right Quadrant Circular Arc"
+    },
+    {
+      "char": "◞",
+      "code": "&#9694;",
+      "css": "\\25DE",
+      "name": "Lower Right Quadrant Circular Arc"
+    },
+    {
+      "char": "◟",
+      "code": "&#9695;",
+      "css": "\\25DF",
+      "name": "Lower Left Quadrant Circular Arc"
+    },
+    {
+      "char": "◠",
+      "code": "&#9696;",
+      "css": "\\25E0",
+      "name": "Upper Half Circle"
+    },
+    {
+      "char": "◡",
+      "code": "&#9697;",
+      "css": "\\25E1",
+      "name": "Lower Half Circle"
+    },
+    {
+      "char": "◢",
+      "code": "&#9698;",
+      "css": "\\25E2",
+      "name": "Black Lower Right Triangle"
+    },
+    {
+      "char": "◣",
+      "code": "&#9699;",
+      "css": "\\25E3",
+      "name": "Black Lower Left Triangle"
+    },
+    {
+      "char": "◤",
+      "code": "&#9700;",
+      "css": "\\25E4",
+      "name": "Black Upper Left Triangle"
+    },
+    {
+      "char": "◥",
+      "code": "&#9701;",
+      "css": "\\25E5",
+      "name": "Black Upper Right Triangle"
+    },
+    {
+      "char": "◦",
+      "code": "&#9702;",
+      "css": "\\25E6",
+      "name": "White Bullet"
+    },
+    {
+      "char": "◧",
+      "code": "&#9703;",
+      "css": "\\25E7",
+      "name": "Square With Left Half Black"
+    },
+    {
+      "char": "◨",
+      "code": "&#9704;",
+      "css": "\\25E8",
+      "name": "Square With Right Half Black"
+    },
+    {
+      "char": "◩",
+      "code": "&#9705;",
+      "css": "\\25E9",
+      "name": "Square With Upper Left Diagonal Half Black"
+    },
+    {
+      "char": "◪",
+      "code": "&#9706;",
+      "css": "\\25EA",
+      "name": "Square With Lower Right Diagonal Half Black"
+    },
+    {
+      "char": "◫",
+      "code": "&#9707;",
+      "css": "\\25EB",
+      "name": "White Square With Vertical Bisecting Line"
+    },
+    {
+      "char": "◬",
+      "code": "&#9708;",
+      "css": "\\25EC",
+      "name": "White Up-POINTING TRIANGLE WITH DOT"
+    },
+    {
+      "char": "◭",
+      "code": "&#9709;",
+      "css": "\\25ED",
+      "name": "Up-POINTING TRIANGLE WITH LEFT HALF BLACK"
+    },
+    {
+      "char": "◮",
+      "code": "&#9710;",
+      "css": "\\25EE",
+      "name": "Up-POINTING TRIANGLE WITH RIGHT HALF BLACK"
+    },
+    {
+      "char": "◯",
+      "code": "&#9711;",
+      "css": "\\25EF",
+      "name": "Large Circle"
+    },
+    {
+      "char": "◰",
+      "code": "&#9712;",
+      "css": "\\25F0",
+      "name": "White Square With Upper Left Quadrant"
+    },
+    {
+      "char": "◱",
+      "code": "&#9713;",
+      "css": "\\25F1",
+      "name": "White Square With Lower Left Quadrant"
+    },
+    {
+      "char": "◲",
+      "code": "&#9714;",
+      "css": "\\25F2",
+      "name": "White Square With Lower Right Quadrant"
+    },
+    {
+      "char": "◳",
+      "code": "&#9715;",
+      "css": "\\25F3",
+      "name": "White Square With Upper Right Quadrant"
+    },
+    {
+      "char": "◴",
+      "code": "&#9716;",
+      "css": "\\25F4",
+      "name": "White Circle With Upper Left Quadrant"
+    },
+    {
+      "char": "◵",
+      "code": "&#9717;",
+      "css": "\\25F5",
+      "name": "White Circle With Lower Left Quadrant"
+    },
+    {
+      "char": "◶",
+      "code": "&#9718;",
+      "css": "\\25F6",
+      "name": "White Circle With Lower Right Quadrant"
+    },
+    {
+      "char": "◷",
+      "code": "&#9719;",
+      "css": "\\25F7",
+      "name": "White Circle With Upper Right Quadrant"
+    },
+    {
+      "char": "◸",
+      "code": "&#9720;",
+      "css": "\\25F8",
+      "name": "Upper Left Triangle"
+    },
+    {
+      "char": "◹",
+      "code": "&#9721;",
+      "css": "\\25F9",
+      "name": "Upper Right Triangle"
+    },
+    {
+      "char": "◺",
+      "code": "&#9722;",
+      "css": "\\25FA",
+      "name": "Lower Left Triangle"
+    },
+    {
+      "char": "◻",
+      "code": "&#9723;",
+      "css": "\\25FB",
+      "name": "White Medium Square"
+    },
+    {
+      "char": "◼",
+      "code": "&#9724;",
+      "css": "\\25FC",
+      "name": "Black Medium Square"
+    },
+    {
+      "char": "◽",
+      "code": "&#9725;",
+      "css": "\\25FD",
+      "name": "White Medium Small Square"
+    },
+    {
+      "char": "◾",
+      "code": "&#9726;",
+      "css": "\\25FE",
+      "name": "Black Medium Small Square"
+    },
+    {
+      "char": "◿",
+      "code": "&#9727;",
+      "css": "\\25FF",
+      "name": "Lower Right Triangle"
+    }
+  ]
+}

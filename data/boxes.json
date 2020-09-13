@@ -1,0 +1,772 @@
+{
+  "characters": [
+    {
+      "char": "─",
+      "code": "&#9472;",
+      "css": "\\2500",
+      "name": "Box Drawings Light Horizontal"
+    },
+    {
+      "char": "━",
+      "code": "&#9473;",
+      "css": "\\2501",
+      "name": "Box Drawings Heavy Horizontal"
+    },
+    {
+      "char": "│",
+      "code": "&#9474;",
+      "css": "\\2502",
+      "name": "Box Drawings Light Vertical"
+    },
+    {
+      "char": "┃",
+      "code": "&#9475;",
+      "css": "\\2503",
+      "name": "Box Drawings Heavy Vertical"
+    },
+    {
+      "char": "┄",
+      "code": "&#9476;",
+      "css": "\\2504",
+      "name": "Box Drawings Light Triple Dash Horizontal"
+    },
+    {
+      "char": "┅",
+      "code": "&#9477;",
+      "css": "\\2505",
+      "name": "Box Drawings Heavy Triple Dash Horizontal"
+    },
+    {
+      "char": "┆",
+      "code": "&#9478;",
+      "css": "\\2506",
+      "name": "Box Drawings Light Triple Dash Vertical"
+    },
+    {
+      "char": "┇",
+      "code": "&#9479;",
+      "css": "\\2507",
+      "name": "Box Drawings Heavy Triple Dash Vertical"
+    },
+    {
+      "char": "┈",
+      "code": "&#9480;",
+      "css": "\\2508",
+      "name": "Box Drawings Light Quadruple Dash Horizontal"
+    },
+    {
+      "char": "┉",
+      "code": "&#9481;",
+      "css": "\\2509",
+      "name": "Box Drawings Heavy Quadruple Dash Horizontal"
+    },
+    {
+      "char": "┊",
+      "code": "&#9482;",
+      "css": "\\250A",
+      "name": "Box Drawings Light Quadruple Dash Vertical"
+    },
+    {
+      "char": "┋",
+      "code": "&#9483;",
+      "css": "\\250B",
+      "name": "Box Drawings Heavy Quadruple Dash Vertical"
+    },
+    {
+      "char": "┌",
+      "code": "&#9484;",
+      "css": "\\250C",
+      "name": "Box Drawings Light Down And Right"
+    },
+    {
+      "char": "┍",
+      "code": "&#9485;",
+      "css": "\\250D",
+      "name": "Box Drawings Down Light And Right Heavy"
+    },
+    {
+      "char": "┎",
+      "code": "&#9486;",
+      "css": "\\250E",
+      "name": "Box Drawings Down Heavy And Right Light"
+    },
+    {
+      "char": "┏",
+      "code": "&#9487;",
+      "css": "\\250F",
+      "name": "Box Drawings Heavy Down And Right"
+    },
+    {
+      "char": "┐",
+      "code": "&#9488;",
+      "css": "\\2510",
+      "name": "Box Drawings Light Down And Left"
+    },
+    {
+      "char": "┑",
+      "code": "&#9489;",
+      "css": "\\2511",
+      "name": "Box Drawings Down Light And Left Heavy"
+    },
+    {
+      "char": "┒",
+      "code": "&#9490;",
+      "css": "\\2512",
+      "name": "Box Drawings Down Heavy And Left Light"
+    },
+    {
+      "char": "┓",
+      "code": "&#9491;",
+      "css": "\\2513",
+      "name": "Box Drawings Heavy Down And Left"
+    },
+    {
+      "char": "└",
+      "code": "&#9492;",
+      "css": "\\2514",
+      "name": "Box Drawings Light Up And Right"
+    },
+    {
+      "char": "┕",
+      "code": "&#9493;",
+      "css": "\\2515",
+      "name": "Box Drawings Up Light And Right Heavy"
+    },
+    {
+      "char": "┖",
+      "code": "&#9494;",
+      "css": "\\2516",
+      "name": "Box Drawings Up Heavy And Right Light"
+    },
+    {
+      "char": "┗",
+      "code": "&#9495;",
+      "css": "\\2517",
+      "name": "Box Drawings Heavy Up And Right"
+    },
+    {
+      "char": "┘",
+      "code": "&#9496;",
+      "css": "\\2518",
+      "name": "Box Drawings Light Up And Left"
+    },
+    {
+      "char": "┙",
+      "code": "&#9497;",
+      "css": "\\2519",
+      "name": "Box Drawings Up Light And Left Heavy"
+    },
+    {
+      "char": "┚",
+      "code": "&#9498;",
+      "css": "\\251A",
+      "name": "Box Drawings Up Heavy And Left Light"
+    },
+    {
+      "char": "┛",
+      "code": "&#9499;",
+      "css": "\\251B",
+      "name": "Box Drawings Heavy Up And Left"
+    },
+    {
+      "char": "├",
+      "code": "&#9500;",
+      "css": "\\251C",
+      "name": "Box Drawings Light Vertical And Right"
+    },
+    {
+      "char": "┝",
+      "code": "&#9501;",
+      "css": "\\251D",
+      "name": "Box Drawings Vertical Light And Right Heavy"
+    },
+    {
+      "char": "┞",
+      "code": "&#9502;",
+      "css": "\\251E",
+      "name": "Box Drawings Up Heavy And Right Down Light"
+    },
+    {
+      "char": "┟",
+      "code": "&#9503;",
+      "css": "\\251F",
+      "name": "Box Drawings Down Heavy And Right Up Light"
+    },
+    {
+      "char": "┠",
+      "code": "&#9504;",
+      "css": "\\2520",
+      "name": "Box Drawings Vertical Heavy And Right Light"
+    },
+    {
+      "char": "┡",
+      "code": "&#9505;",
+      "css": "\\2521",
+      "name": "Box Drawings Down Light And Right Up Heavy"
+    },
+    {
+      "char": "┢",
+      "code": "&#9506;",
+      "css": "\\2522",
+      "name": "Box Drawings Up Light And Right Down Heavy"
+    },
+    {
+      "char": "┣",
+      "code": "&#9507;",
+      "css": "\\2523",
+      "name": "Box Drawings Heavy Vertical And Right"
+    },
+    {
+      "char": "┤",
+      "code": "&#9508;",
+      "css": "\\2524",
+      "name": "Box Drawings Light Vertical And Left"
+    },
+    {
+      "char": "┥",
+      "code": "&#9509;",
+      "css": "\\2525",
+      "name": "Box Drawings Vertical Light And Left Heavy"
+    },
+    {
+      "char": "┦",
+      "code": "&#9510;",
+      "css": "\\2526",
+      "name": "Box Drawings Up Heavy And Left Down Light"
+    },
+    {
+      "char": "┧",
+      "code": "&#9511;",
+      "css": "\\2527",
+      "name": "Box Drawings Down Heavy And Left Up Light"
+    },
+    {
+      "char": "┨",
+      "code": "&#9512;",
+      "css": "\\2528",
+      "name": "Box Drawings Vertical Heavy And Left Light"
+    },
+    {
+      "char": "┩",
+      "code": "&#9513;",
+      "css": "\\2529",
+      "name": "Box Drawings Down Light And Left Up Heavy"
+    },
+    {
+      "char": "┪",
+      "code": "&#9514;",
+      "css": "\\252A",
+      "name": "Box Drawings Up Light And Left Down Heavy"
+    },
+    {
+      "char": "┫",
+      "code": "&#9515;",
+      "css": "\\252B",
+      "name": "Box Drawings Heavy Vertical And Left"
+    },
+    {
+      "char": "┬",
+      "code": "&#9516;",
+      "css": "\\252C",
+      "name": "Box Drawings Light Down And Horizontal"
+    },
+    {
+      "char": "┭",
+      "code": "&#9517;",
+      "css": "\\252D",
+      "name": "Box Drawings Left Heavy And Right Down Light"
+    },
+    {
+      "char": "┮",
+      "code": "&#9518;",
+      "css": "\\252E",
+      "name": "Box Drawings Right Heavy And Left Down Light"
+    },
+    {
+      "char": "┯",
+      "code": "&#9519;",
+      "css": "\\252F",
+      "name": "Box Drawings Down Light And Horizontal Heavy"
+    },
+    {
+      "char": "┰",
+      "code": "&#9520;",
+      "css": "\\2530",
+      "name": "Box Drawings Down Heavy And Horizontal Light"
+    },
+    {
+      "char": "┱",
+      "code": "&#9521;",
+      "css": "\\2531",
+      "name": "Box Drawings Right Light And Left Down Heavy"
+    },
+    {
+      "char": "┲",
+      "code": "&#9522;",
+      "css": "\\2532",
+      "name": "Box Drawings Left Light And Right Down Heavy"
+    },
+    {
+      "char": "┳",
+      "code": "&#9523;",
+      "css": "\\2533",
+      "name": "Box Drawings Heavy Down And Horizontal"
+    },
+    {
+      "char": "┴",
+      "code": "&#9524;",
+      "css": "\\2534",
+      "name": "Box Drawings Light Up And Horizontal"
+    },
+    {
+      "char": "┵",
+      "code": "&#9525;",
+      "css": "\\2535",
+      "name": "Box Drawings Left Heavy And Right Up Light"
+    },
+    {
+      "char": "┶",
+      "code": "&#9526;",
+      "css": "\\2536",
+      "name": "Box Drawings Right Heavy And Left Up Light"
+    },
+    {
+      "char": "┷",
+      "code": "&#9527;",
+      "css": "\\2537",
+      "name": "Box Drawings Up Light And Horizontal Heavy"
+    },
+    {
+      "char": "┸",
+      "code": "&#9528;",
+      "css": "\\2538",
+      "name": "Box Drawings Up Heavy And Horizontal Light"
+    },
+    {
+      "char": "┹",
+      "code": "&#9529;",
+      "css": "\\2539",
+      "name": "Box Drawings Right Light And Left Up Heavy"
+    },
+    {
+      "char": "┺",
+      "code": "&#9530;",
+      "css": "\\253A",
+      "name": "Box Drawings Left Light And Right Up Heavy"
+    },
+    {
+      "char": "┻",
+      "code": "&#9531;",
+      "css": "\\253B",
+      "name": "Box Drawings Heavy Up And Horizontal"
+    },
+    {
+      "char": "┼",
+      "code": "&#9532;",
+      "css": "\\253C",
+      "name": "Box Drawings Light Vertical And Horizontal"
+    },
+    {
+      "char": "┽",
+      "code": "&#9533;",
+      "css": "\\253D",
+      "name": "Box Drawings Left Heavy And Right Vertical Light"
+    },
+    {
+      "char": "┾",
+      "code": "&#9534;",
+      "css": "\\253E",
+      "name": "Box Drawings Right Heavy And Left Vertical Light"
+    },
+    {
+      "char": "┿",
+      "code": "&#9535;",
+      "css": "\\253F",
+      "name": "Box Drawings Vertical Light And Horizontal Heavy"
+    },
+    {
+      "char": "╀",
+      "code": "&#9536;",
+      "css": "\\2540",
+      "name": "Box Drawings Up Heavy And Down Horizontal Light"
+    },
+    {
+      "char": "╁",
+      "code": "&#9537;",
+      "css": "\\2541",
+      "name": "Box Drawings Down Heavy And Up Horizontal Light"
+    },
+    {
+      "char": "╂",
+      "code": "&#9538;",
+      "css": "\\2542",
+      "name": "Box Drawings Vertical Heavy And Horizontal Light"
+    },
+    {
+      "char": "╃",
+      "code": "&#9539;",
+      "css": "\\2543",
+      "name": "Box Drawings Left Up Heavy And Right Down Light"
+    },
+    {
+      "char": "╄",
+      "code": "&#9540;",
+      "css": "\\2544",
+      "name": "Box Drawings Right Up Heavy And Left Down Light"
+    },
+    {
+      "char": "╅",
+      "code": "&#9541;",
+      "css": "\\2545",
+      "name": "Box Drawings Left Down Heavy And Right Up Light"
+    },
+    {
+      "char": "╆",
+      "code": "&#9542;",
+      "css": "\\2546",
+      "name": "Box Drawings Right Down Heavy And Left Up Light"
+    },
+    {
+      "char": "╇",
+      "code": "&#9543;",
+      "css": "\\2547",
+      "name": "Box Drawings Down Light And Up Horizontal Heavy"
+    },
+    {
+      "char": "╈",
+      "code": "&#9544;",
+      "css": "\\2548",
+      "name": "Box Drawings Up Light And Down Horizontal Heavy"
+    },
+    {
+      "char": "╉",
+      "code": "&#9545;",
+      "css": "\\2549",
+      "name": "Box Drawings Right Light And Left Vertical Heavy"
+    },
+    {
+      "char": "╊",
+      "code": "&#9546;",
+      "css": "\\254A",
+      "name": "Box Drawings Left Light And Right Vertical Heavy"
+    },
+    {
+      "char": "╋",
+      "code": "&#9547;",
+      "css": "\\254B",
+      "name": "Box Drawings Heavy Vertical And Horizontal"
+    },
+    {
+      "char": "╌",
+      "code": "&#9548;",
+      "css": "\\254C",
+      "name": "Box Drawings Light Double Dash Horizontal"
+    },
+    {
+      "char": "╍",
+      "code": "&#9549;",
+      "css": "\\254D",
+      "name": "Box Drawings Heavy Double Dash Horizontal"
+    },
+    {
+      "char": "╎",
+      "code": "&#9550;",
+      "css": "\\254E",
+      "name": "Box Drawings Light Double Dash Vertical"
+    },
+    {
+      "char": "╏",
+      "code": "&#9551;",
+      "css": "\\254F",
+      "name": "Box Drawings Heavy Double Dash Vertical"
+    },
+    {
+      "char": "═",
+      "code": "&#9552;",
+      "css": "\\2550",
+      "name": "Box Drawings Double Horizontal"
+    },
+    {
+      "char": "║",
+      "code": "&#9553;",
+      "css": "\\2551",
+      "name": "Box Drawings Double Vertical"
+    },
+    {
+      "char": "╒",
+      "code": "&#9554;",
+      "css": "\\2552",
+      "name": "Box Drawings Down Single And Right Double"
+    },
+    {
+      "char": "╓",
+      "code": "&#9555;",
+      "css": "\\2553",
+      "name": "Box Drawings Down Double And Right Single"
+    },
+    {
+      "char": "╔",
+      "code": "&#9556;",
+      "css": "\\2554",
+      "name": "Box Drawings Double Down And Right"
+    },
+    {
+      "char": "╕",
+      "code": "&#9557;",
+      "css": "\\2555",
+      "name": "Box Drawings Down Single And Left Double"
+    },
+    {
+      "char": "╖",
+      "code": "&#9558;",
+      "css": "\\2556",
+      "name": "Box Drawings Down Double And Left Single"
+    },
+    {
+      "char": "╗",
+      "code": "&#9559;",
+      "css": "\\2557",
+      "name": "Box Drawings Double Down And Left"
+    },
+    {
+      "char": "╘",
+      "code": "&#9560;",
+      "css": "\\2558",
+      "name": "Box Drawings Up Single And Right Double"
+    },
+    {
+      "char": "╙",
+      "code": "&#9561;",
+      "css": "\\2559",
+      "name": "Box Drawings Up Double And Right Single"
+    },
+    {
+      "char": "╚",
+      "code": "&#9562;",
+      "css": "\\255A",
+      "name": "Box Drawings Double Up And Right"
+    },
+    {
+      "char": "╛",
+      "code": "&#9563;",
+      "css": "\\255B",
+      "name": "Box Drawings Up Single And Left Double"
+    },
+    {
+      "char": "╜",
+      "code": "&#9564;",
+      "css": "\\255C",
+      "name": "Box Drawings Up Double And Left Single"
+    },
+    {
+      "char": "╝",
+      "code": "&#9565;",
+      "css": "\\255D",
+      "name": "Box Drawings Double Up And Left"
+    },
+    {
+      "char": "╞",
+      "code": "&#9566;",
+      "css": "\\255E",
+      "name": "Box Drawings Vertical Single And Right Double"
+    },
+    {
+      "char": "╟",
+      "code": "&#9567;",
+      "css": "\\255F",
+      "name": "Box Drawings Vertical Double And Right Single"
+    },
+    {
+      "char": "╠",
+      "code": "&#9568;",
+      "css": "\\2560",
+      "name": "Box Drawings Double Vertical And Right"
+    },
+    {
+      "char": "╡",
+      "code": "&#9569;",
+      "css": "\\2561",
+      "name": "Box Drawings Vertical Single And Left Double"
+    },
+    {
+      "char": "╢",
+      "code": "&#9570;",
+      "css": "\\2562",
+      "name": "Box Drawings Vertical Double And Left Single"
+    },
+    {
+      "char": "╣",
+      "code": "&#9571;",
+      "css": "\\2563",
+      "name": "Box Drawings Double Vertical And Left"
+    },
+    {
+      "char": "╤",
+      "code": "&#9572;",
+      "css": "\\2564",
+      "name": "Box Drawings Down Single And Horizontal Double"
+    },
+    {
+      "char": "╥",
+      "code": "&#9573;",
+      "css": "\\2565",
+      "name": "Box Drawings Down Double And Horizontal Single"
+    },
+    {
+      "char": "╦",
+      "code": "&#9574;",
+      "css": "\\2566",
+      "name": "Box Drawings Double Down And Horizontal"
+    },
+    {
+      "char": "╧",
+      "code": "&#9575;",
+      "css": "\\2567",
+      "name": "Box Drawings Up Single And Horizontal Double"
+    },
+    {
+      "char": "╨",
+      "code": "&#9576;",
+      "css": "\\2568",
+      "name": "Box Drawings Up Double And Horizontal Single"
+    },
+    {
+      "char": "╩",
+      "code": "&#9577;",
+      "css": "\\2569",
+      "name": "Box Drawings Double Up And Horizontal"
+    },
+    {
+      "char": "╪",
+      "code": "&#9578;",
+      "css": "\\256A",
+      "name": "Box Drawings Vertical Single And Horizontal Double"
+    },
+    {
+      "char": "╫",
+      "code": "&#9579;",
+      "css": "\\256B",
+      "name": "Box Drawings Vertical Double And Horizontal Single"
+    },
+    {
+      "char": "╬",
+      "code": "&#9580;",
+      "css": "\\256C",
+      "name": "Box Drawings Double Vertical And Horizontal"
+    },
+    {
+      "char": "╭",
+      "code": "&#9581;",
+      "css": "\\256D",
+      "name": "Box Drawings Light Arc Down And Right"
+    },
+    {
+      "char": "╮",
+      "code": "&#9582;",
+      "css": "\\256E",
+      "name": "Box Drawings Light Arc Down And Left"
+    },
+    {
+      "char": "╯",
+      "code": "&#9583;",
+      "css": "\\256F",
+      "name": "Box Drawings Light Arc Up And Left"
+    },
+    {
+      "char": "╰",
+      "code": "&#9584;",
+      "css": "\\2570",
+      "name": "Box Drawings Light Arc Up And Right"
+    },
+    {
+      "char": "╱",
+      "code": "&#9585;",
+      "css": "\\2571",
+      "name": "Box Drawings Light Diagonal Upper Right To Lower Left"
+    },
+    {
+      "char": "╲",
+      "code": "&#9586;",
+      "css": "\\2572",
+      "name": "Box Drawings Light Diagonal Upper Left To Lower Right"
+    },
+    {
+      "char": "╳",
+      "code": "&#9587;",
+      "css": "\\2573",
+      "name": "Box Drawings Light Diagonal Cross"
+    },
+    {
+      "char": "╴",
+      "code": "&#9588;",
+      "css": "\\2574",
+      "name": "Box Drawings Light Left"
+    },
+    {
+      "char": "╵",
+      "code": "&#9589;",
+      "css": "\\2575",
+      "name": "Box Drawings Light Up"
+    },
+    {
+      "char": "╶",
+      "code": "&#9590;",
+      "css": "\\2576",
+      "name": "Box Drawings Light Right"
+    },
+    {
+      "char": "╷",
+      "code": "&#9591;",
+      "css": "\\2577",
+      "name": "Box Drawings Light Down"
+    },
+    {
+      "char": "╸",
+      "code": "&#9592;",
+      "css": "\\2578",
+      "name": "Box Drawings Heavy Left"
+    },
+    {
+      "char": "╹",
+      "code": "&#9593;",
+      "css": "\\2579",
+      "name": "Box Drawings Heavy Up"
+    },
+    {
+      "char": "╺",
+      "code": "&#9594;",
+      "css": "\\257A",
+      "name": "Box Drawings Heavy Right"
+    },
+    {
+      "char": "╻",
+      "code": "&#9595;",
+      "css": "\\257B",
+      "name": "Box Drawings Heavy Down"
+    },
+    {
+      "char": "╼",
+      "code": "&#9596;",
+      "css": "\\257C",
+      "name": "Box Drawings Light Left And Heavy Right"
+    },
+    {
+      "char": "╽",
+      "code": "&#9597;",
+      "css": "\\257D",
+      "name": "Box Drawings Light Up And Heavy Down"
+    },
+    {
+      "char": "╾",
+      "code": "&#9598;",
+      "css": "\\257E",
+      "name": "Box Drawings Heavy Left And Light Right"
+    },
+    {
+      "char": "╿",
+      "code": "&#9599;",
+      "css": "\\257F",
+      "name": "Box Drawings Heavy Up And Light Down"
+    }
+  ]
+}

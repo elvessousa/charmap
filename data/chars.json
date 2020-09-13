@@ -3560,84 +3560,84 @@
       "char": "⅓",
       "code": "&frac13;",
       "css": "\\2153",
-      "type": "typography",
+      "type": "math",
       "name": "1/3 fraction"
     },
     {
       "char": "⅔",
       "code": "&frac23;",
       "css": "\\2154",
-      "type": "typography",
+      "type": "math",
       "name": "2/3 fraction"
     },
     {
       "char": "⅕",
       "code": "&frac15;",
       "css": "\\2155",
-      "type": "typography",
+      "type": "math",
       "name": "1/5 fraction"
     },
     {
       "char": "⅖",
       "code": "&frac25;",
       "css": "\\2156",
-      "type": "typography",
+      "type": "math",
       "name": "2/5 fraction"
     },
     {
       "char": "⅗",
       "code": "&frac35;",
       "css": "\\2157",
-      "type": "typography",
+      "type": "math",
       "name": "3/5 fraction"
     },
     {
       "char": "⅘",
       "code": "&frac45;",
       "css": "\\2158",
-      "type": "typography",
+      "type": "math",
       "name": "4/5 fraction"
     },
     {
       "char": "⅙",
       "code": "&frac16;",
       "css": "\\2159",
-      "type": "typography",
+      "type": "math",
       "name": "1/6 fraction"
     },
     {
       "char": "⅚",
       "code": "&frac56;",
       "css": "\\215A",
-      "type": "typography",
+      "type": "math",
       "name": "5/6 fraction"
     },
     {
       "char": "⅛",
       "code": "&frac18;",
       "css": "\\215B",
-      "type": "typography",
+      "type": "math",
       "name": "1/8 fraction"
     },
     {
       "char": "⅜",
       "code": "&frac38;",
       "css": "\\215C",
-      "type": "typography",
+      "type": "math",
       "name": "3/8 fraction"
     },
     {
       "char": "⅝",
       "code": "&frac58;",
       "css": "\\215D",
-      "type": "typography",
+      "type": "math",
       "name": "5/8 fraction"
     },
     {
       "char": "⅞",
       "code": "&frac78;",
       "css": "\\215E",
-      "type": "typography",
+      "type": "math",
       "name": "7/8 fraction"
     },
     {

@@ -1,0 +1,1540 @@
+{
+  "characters": [
+    {
+      "char": "☀",
+      "code": "&#9728;",
+      "css": "\\2600",
+      "name": "Black Sun With Rays"
+    },
+    {
+      "char": "☁",
+      "code": "&#9729;",
+      "css": "\\2601",
+      "name": "Cloud"
+    },
+    {
+      "char": "☂",
+      "code": "&#9730;",
+      "css": "\\2602",
+      "name": "Umbrella"
+    },
+    {
+      "char": "☃",
+      "code": "&#9731;",
+      "css": "\\2603",
+      "name": "Snowman"
+    },
+    {
+      "char": "☄",
+      "code": "&#9732;",
+      "css": "\\2604",
+      "name": "Comet"
+    },
+    {
+      "char": "★",
+      "code": "&#9733;",
+      "css": "\\2605",
+      "name": "Black Star"
+    },
+    {
+      "char": "☆",
+      "code": "&#9734;",
+      "css": "\\2606",
+      "name": "White Star"
+    },
+    {
+      "char": "☇",
+      "code": "&#9735;",
+      "css": "\\2607",
+      "name": "Lightning"
+    },
+    {
+      "char": "☈",
+      "code": "&#9736;",
+      "css": "\\2608",
+      "name": "Thunderstorm"
+    },
+    {
+      "char": "☉",
+      "code": "&#9737;",
+      "css": "\\2609",
+      "name": "Sun"
+    },
+    {
+      "char": "☊",
+      "code": "&#9738;",
+      "css": "\\260A",
+      "name": "Ascending Node"
+    },
+    {
+      "char": "☋",
+      "code": "&#9739;",
+      "css": "\\260B",
+      "name": "Descending Node"
+    },
+    {
+      "char": "☌",
+      "code": "&#9740;",
+      "css": "\\260C",
+      "name": "Conjunction"
+    },
+    {
+      "char": "☍",
+      "code": "&#9741;",
+      "css": "\\260D",
+      "name": "Opposition"
+    },
+    {
+      "char": "☎",
+      "code": "&#9742;",
+      "css": "\\260E",
+      "name": "Black Telephone"
+    },
+    {
+      "char": "☏",
+      "code": "&#9743;",
+      "css": "\\260F",
+      "name": "White Telephone"
+    },
+    {
+      "char": "☐",
+      "code": "&#9744;",
+      "css": "\\2610",
+      "name": "Ballot Box"
+    },
+    {
+      "char": "☑",
+      "code": "&#9745;",
+      "css": "\\2611",
+      "name": "Ballot Box With Check"
+    },
+    {
+      "char": "☒",
+      "code": "&#9746;",
+      "css": "\\2612",
+      "name": "Ballot Box With X"
+    },
+    {
+      "char": "☓",
+      "code": "&#9747;",
+      "css": "\\2613",
+      "name": "Saltire"
+    },
+    {
+      "char": "☔",
+      "code": "&#9748;",
+      "css": "\\2614",
+      "name": "Umbrella With Rain Drops"
+    },
+    {
+      "char": "☕",
+      "code": "&#9749;",
+      "css": "\\2615",
+      "name": "Hot Beverage"
+    },
+    {
+      "char": "☖",
+      "code": "&#9750;",
+      "css": "\\2616",
+      "name": "White Shogi Piece"
+    },
+    {
+      "char": "☗",
+      "code": "&#9751;",
+      "css": "\\2617",
+      "name": "Black Shogi Piece"
+    },
+    {
+      "char": "☘",
+      "code": "&#9752;",
+      "css": "\\2618",
+      "name": "Shamrock"
+    },
+    {
+      "char": "☙",
+      "code": "&#9753;",
+      "css": "\\2619",
+      "name": "Reversed Rotated Floral Heart Bullet"
+    },
+    {
+      "char": "☚",
+      "code": "&#9754;",
+      "css": "\\261A",
+      "name": "Black Left Pointing Index"
+    },
+    {
+      "char": "☛",
+      "code": "&#9755;",
+      "css": "\\261B",
+      "name": "Black Right Pointing Index"
+    },
+    {
+      "char": "☜",
+      "code": "&#9756;",
+      "css": "\\261C",
+      "name": "White Left Pointing Index"
+    },
+    {
+      "char": "☝",
+      "code": "&#9757;",
+      "css": "\\261D",
+      "name": "White Up Pointing Index"
+    },
+    {
+      "char": "☞",
+      "code": "&#9758;",
+      "css": "\\261E",
+      "name": "White Right Pointing Index"
+    },
+    {
+      "char": "☟",
+      "code": "&#9759;",
+      "css": "\\261F",
+      "name": "White Down Pointing Index"
+    },
+    {
+      "char": "☠",
+      "code": "&#9760;",
+      "css": "\\2620",
+      "name": "Skull And Crossbones"
+    },
+    {
+      "char": "☡",
+      "code": "&#9761;",
+      "css": "\\2621",
+      "name": "Caution Sign"
+    },
+    {
+      "char": "☢",
+      "code": "&#9762;",
+      "css": "\\2622",
+      "name": "Radioactive Sign"
+    },
+    {
+      "char": "☣",
+      "code": "&#9763;",
+      "css": "\\2623",
+      "name": "Biohazard Sign"
+    },
+    {
+      "char": "☤",
+      "code": "&#9764;",
+      "css": "\\2624",
+      "name": "Caduceus"
+    },
+    {
+      "char": "☥",
+      "code": "&#9765;",
+      "css": "\\2625",
+      "name": "Ankh"
+    },
+    {
+      "char": "☦",
+      "code": "&#9766;",
+      "css": "\\2626",
+      "name": "Orthodox Cross"
+    },
+    {
+      "char": "☧",
+      "code": "&#9767;",
+      "css": "\\2627",
+      "name": "Chi Rho"
+    },
+    {
+      "char": "☨",
+      "code": "&#9768;",
+      "css": "\\2628",
+      "name": "Cross Of Lorraine"
+    },
+    {
+      "char": "☩",
+      "code": "&#9769;",
+      "css": "\\2629",
+      "name": "Cross Of Jerusalem"
+    },
+    {
+      "char": "☪",
+      "code": "&#9770;",
+      "css": "\\262A",
+      "name": "Star And Crescent"
+    },
+    {
+      "char": "☫",
+      "code": "&#9771;",
+      "css": "\\262B",
+      "name": "Farsi Symbol"
+    },
+    {
+      "char": "☬",
+      "code": "&#9772;",
+      "css": "\\262C",
+      "name": "Khanda"
+    },
+    {
+      "char": "☭",
+      "code": "&#9773;",
+      "css": "\\262D",
+      "name": "Hammer And Sickle"
+    },
+    {
+      "char": "☮",
+      "code": "&#9774;",
+      "css": "\\262E",
+      "name": "Peace Symbol"
+    },
+    {
+      "char": "☯",
+      "code": "&#9775;",
+      "css": "\\262F",
+      "name": "Yin Yang"
+    },
+    {
+      "char": "☰",
+      "code": "&#9776;",
+      "css": "\\2630",
+      "name": "Trigram For Heaven"
+    },
+    {
+      "char": "☱",
+      "code": "&#9777;",
+      "css": "\\2631",
+      "name": "Trigram For Lake"
+    },
+    {
+      "char": "☲",
+      "code": "&#9778;",
+      "css": "\\2632",
+      "name": "Trigram For Fire"
+    },
+    {
+      "char": "☳",
+      "code": "&#9779;",
+      "css": "\\2633",
+      "name": "Trigram For Thunder"
+    },
+    {
+      "char": "☴",
+      "code": "&#9780;",
+      "css": "\\2634",
+      "name": "Trigram For Wind"
+    },
+    {
+      "char": "☵",
+      "code": "&#9781;",
+      "css": "\\2635",
+      "name": "Trigram For Water"
+    },
+    {
+      "char": "☶",
+      "code": "&#9782;",
+      "css": "\\2636",
+      "name": "Trigram For Mountain"
+    },
+    {
+      "char": "☷",
+      "code": "&#9783;",
+      "css": "\\2637",
+      "name": "Trigram For Earth"
+    },
+    {
+      "char": "☸",
+      "code": "&#9784;",
+      "css": "\\2638",
+      "name": "Wheel Of Dharma"
+    },
+    {
+      "char": "☹",
+      "code": "&#9785;",
+      "css": "\\2639",
+      "name": "White Frowning Face"
+    },
+    {
+      "char": "☺",
+      "code": "&#9786;",
+      "css": "\\263A",
+      "name": "White Smiling Face"
+    },
+    {
+      "char": "☻",
+      "code": "&#9787;",
+      "css": "\\263B",
+      "name": "Black Smiling Face"
+    },
+    {
+      "char": "☼",
+      "code": "&#9788;",
+      "css": "\\263C",
+      "name": "White Sun With Rays"
+    },
+    {
+      "char": "☽",
+      "code": "&#9789;",
+      "css": "\\263D",
+      "name": "First Quarter Moon"
+    },
+    {
+      "char": "☾",
+      "code": "&#9790;",
+      "css": "\\263E",
+      "name": "Last Quarter Moon"
+    },
+    {
+      "char": "☿",
+      "code": "&#9791;",
+      "css": "\\263F",
+      "name": "Mercury"
+    },
+    {
+      "char": "♀",
+      "code": "&#9792;",
+      "css": "\\2640",
+      "name": "Female Sign"
+    },
+    {
+      "char": "♁",
+      "code": "&#9793;",
+      "css": "\\2641",
+      "name": "Earth"
+    },
+    {
+      "char": "♂",
+      "code": "&#9794;",
+      "css": "\\2642",
+      "name": "Male Sign"
+    },
+    {
+      "char": "♃",
+      "code": "&#9795;",
+      "css": "\\2643",
+      "name": "Jupiter"
+    },
+    {
+      "char": "♄",
+      "code": "&#9796;",
+      "css": "\\2644",
+      "name": "Saturn"
+    },
+    {
+      "char": "♅",
+      "code": "&#9797;",
+      "css": "\\2645",
+      "name": "Uranus"
+    },
+    {
+      "char": "♆",
+      "code": "&#9798;",
+      "css": "\\2646",
+      "name": "Neptune"
+    },
+    {
+      "char": "♇",
+      "code": "&#9799;",
+      "css": "\\2647",
+      "name": "Pluto"
+    },
+    {
+      "char": "♈",
+      "code": "&#9800;",
+      "css": "\\2648",
+      "name": "Aries"
+    },
+    {
+      "char": "♉",
+      "code": "&#9801;",
+      "css": "\\2649",
+      "name": "Taurus"
+    },
+    {
+      "char": "♊",
+      "code": "&#9802;",
+      "css": "\\264A",
+      "name": "Gemini"
+    },
+    {
+      "char": "♋",
+      "code": "&#9803;",
+      "css": "\\264B",
+      "name": "Cancer"
+    },
+    {
+      "char": "♌",
+      "code": "&#9804;",
+      "css": "\\264C",
+      "name": "Leo"
+    },
+    {
+      "char": "♍",
+      "code": "&#9805;",
+      "css": "\\264D",
+      "name": "Virgo"
+    },
+    {
+      "char": "♎",
+      "code": "&#9806;",
+      "css": "\\264E",
+      "name": "Libra"
+    },
+    {
+      "char": "♏",
+      "code": "&#9807;",
+      "css": "\\264F",
+      "name": "Scorpius"
+    },
+    {
+      "char": "♐",
+      "code": "&#9808;",
+      "css": "\\2650",
+      "name": "Sagittarius"
+    },
+    {
+      "char": "♑",
+      "code": "&#9809;",
+      "css": "\\2651",
+      "name": "Capricorn"
+    },
+    {
+      "char": "♒",
+      "code": "&#9810;",
+      "css": "\\2652",
+      "name": "Aquarius"
+    },
+    {
+      "char": "♓",
+      "code": "&#9811;",
+      "css": "\\2653",
+      "name": "Pisces"
+    },
+    {
+      "char": "♔",
+      "code": "&#9812;",
+      "css": "\\2654",
+      "name": "White Chess King"
+    },
+    {
+      "char": "♕",
+      "code": "&#9813;",
+      "css": "\\2655",
+      "name": "White Chess Queen"
+    },
+    {
+      "char": "♖",
+      "code": "&#9814;",
+      "css": "\\2656",
+      "name": "White Chess Rook"
+    },
+    {
+      "char": "♗",
+      "code": "&#9815;",
+      "css": "\\2657",
+      "name": "White Chess Bishop"
+    },
+    {
+      "char": "♘",
+      "code": "&#9816;",
+      "css": "\\2658",
+      "name": "White Chess Knight"
+    },
+    {
+      "char": "♙",
+      "code": "&#9817;",
+      "css": "\\2659",
+      "name": "White Chess Pawn"
+    },
+    {
+      "char": "♚",
+      "code": "&#9818;",
+      "css": "\\265A",
+      "name": "Black Chess King"
+    },
+    {
+      "char": "♛",
+      "code": "&#9819;",
+      "css": "\\265B",
+      "name": "Black Chess Queen"
+    },
+    {
+      "char": "♜",
+      "code": "&#9820;",
+      "css": "\\265C",
+      "name": "Black Chess Rook"
+    },
+    {
+      "char": "♝",
+      "code": "&#9821;",
+      "css": "\\265D",
+      "name": "Black Chess Bishop"
+    },
+    {
+      "char": "♞",
+      "code": "&#9822;",
+      "css": "\\265E",
+      "name": "Black Chess Knight"
+    },
+    {
+      "char": "♟",
+      "code": "&#9823;",
+      "css": "\\265F",
+      "name": "Black Chess Pawn"
+    },
+    {
+      "char": "♠",
+      "code": "&spades;;",
+      "css": "\\2660",
+      "name": "Black Spade Suit"
+    },
+    {
+      "char": "♡",
+      "code": "&#9825;",
+      "css": "\\2661",
+      "name": "White Heart Suit"
+    },
+    {
+      "char": "♢",
+      "code": "&#9826;",
+      "css": "\\2662",
+      "name": "White Diamond Suit"
+    },
+    {
+      "char": "♣",
+      "code": "&clubs;;",
+      "css": "\\2663",
+      "name": "Black Club Suit"
+    },
+    {
+      "char": "♤",
+      "code": "&#9828;",
+      "css": "\\2664",
+      "name": "White Spade Suit"
+    },
+    {
+      "char": "♥",
+      "code": "&hearts;;",
+      "css": "\\2665",
+      "name": "Black Heart Suit"
+    },
+    {
+      "char": "♦",
+      "code": "&diams;;",
+      "css": "\\2666",
+      "name": "Black Diamond Suit"
+    },
+    {
+      "char": "♧",
+      "code": "&#9831;",
+      "css": "\\2667",
+      "name": "White Club Suit"
+    },
+    {
+      "char": "♨",
+      "code": "&#9832;",
+      "css": "\\2668",
+      "name": "Hot Springs"
+    },
+    {
+      "char": "♩",
+      "code": "&#9833;",
+      "css": "\\2669",
+      "name": "Quarter Note"
+    },
+    {
+      "char": "♪",
+      "code": "&#9834;",
+      "css": "\\266A",
+      "name": "Eighth Note"
+    },
+    {
+      "char": "♫",
+      "code": "&#9835;",
+      "css": "\\266B",
+      "name": "Beamed Eighth Notes"
+    },
+    {
+      "char": "♬",
+      "code": "&#9836;",
+      "css": "\\266C",
+      "name": "Beamed Sixteenth Notes"
+    },
+    {
+      "char": "♭",
+      "code": "&#9837;",
+      "css": "\\266D",
+      "name": "Music Flat Sign"
+    },
+    {
+      "char": "♮",
+      "code": "&#9838;",
+      "css": "\\266E",
+      "name": "Music Natural Sign"
+    },
+    {
+      "char": "♯",
+      "code": "&#9839;",
+      "css": "\\266F",
+      "name": "Music Sharp Sign"
+    },
+    {
+      "char": "♰",
+      "code": "&#9840;",
+      "css": "\\2670",
+      "name": "West Syriac Cross"
+    },
+    {
+      "char": "♱",
+      "code": "&#9841;",
+      "css": "\\2671",
+      "name": "East Syriac Cross"
+    },
+    {
+      "char": "♲",
+      "code": "&#9842;",
+      "css": "\\2672",
+      "name": "Universal Recycling Symbol"
+    },
+    {
+      "char": "♳",
+      "code": "&#9843;",
+      "css": "\\2673",
+      "name": "Recycling Symbol For Type-1 Plastics"
+    },
+    {
+      "char": "♴",
+      "code": "&#9844;",
+      "css": "\\2674",
+      "name": "Recycling Symbol For Type-2 Plastics"
+    },
+    {
+      "char": "♵",
+      "code": "&#9845;",
+      "css": "\\2675",
+      "name": "Recycling Symbol For Type-3 Plastics"
+    },
+    {
+      "char": "♶",
+      "code": "&#9846;",
+      "css": "\\2676",
+      "name": "Recycling Symbol For Type-4 Plastics"
+    },
+    {
+      "char": "♷",
+      "code": "&#9847;",
+      "css": "\\2677",
+      "name": "Recycling Symbol For Type-5 Plastics"
+    },
+    {
+      "char": "♸",
+      "code": "&#9848;",
+      "css": "\\2678",
+      "name": "Recycling Symbol For Type-6 Plastics"
+    },
+    {
+      "char": "♹",
+      "code": "&#9849;",
+      "css": "\\2679",
+      "name": "Recycling Symbol For Type-7 Plastics"
+    },
+    {
+      "char": "♺",
+      "code": "&#9850;",
+      "css": "\\267A",
+      "name": "Recycling Symbol For Generic Materials"
+    },
+    {
+      "char": "♻",
+      "code": "&#9851;",
+      "css": "\\267B",
+      "name": "Black Universal Recycling Symbol"
+    },
+    {
+      "char": "♼",
+      "code": "&#9852;",
+      "css": "\\267C",
+      "name": "Recycled Paper Symbol"
+    },
+    {
+      "char": "♽",
+      "code": "&#9853;",
+      "css": "\\267D",
+      "name": "Partially-Recycled Paper Symbol"
+    },
+    {
+      "char": "♾",
+      "code": "&#9854;",
+      "css": "\\267E",
+      "name": "Permanent Paper Sign"
+    },
+    {
+      "char": "♿",
+      "code": "&#9855;",
+      "css": "\\267F",
+      "name": "Wheelchair Symbol"
+    },
+    {
+      "char": "⚀",
+      "code": "&#9856;",
+      "css": "\\2680",
+      "name": "Die Face-1"
+    },
+    {
+      "char": "⚁",
+      "code": "&#9857;",
+      "css": "\\2681",
+      "name": "Die Face-2"
+    },
+    {
+      "char": "⚂",
+      "code": "&#9858;",
+      "css": "\\2682",
+      "name": "Die Face-3"
+    },
+    {
+      "char": "⚃",
+      "code": "&#9859;",
+      "css": "\\2683",
+      "name": "Die Face-4"
+    },
+    {
+      "char": "⚄",
+      "code": "&#9860;",
+      "css": "\\2684",
+      "name": "Die Face-5"
+    },
+    {
+      "char": "⚅",
+      "code": "&#9861;",
+      "css": "\\2685",
+      "name": "Die Face-6"
+    },
+    {
+      "char": "⚆",
+      "code": "&#9862;",
+      "css": "\\2686",
+      "name": "White Circle With Dot Right"
+    },
+    {
+      "char": "⚇",
+      "code": "&#9863;",
+      "css": "\\2687",
+      "name": "White Circle With Two Dots"
+    },
+    {
+      "char": "⚈",
+      "code": "&#9864;",
+      "css": "\\2688",
+      "name": "Black Circle With White Dot Right"
+    },
+    {
+      "char": "⚉",
+      "code": "&#9865;",
+      "css": "\\2689",
+      "name": "Black Circle With Two White Dots"
+    },
+    {
+      "char": "⚊",
+      "code": "&#9866;",
+      "css": "\\268A",
+      "name": "Monogram For Yang"
+    },
+    {
+      "char": "⚋",
+      "code": "&#9867;",
+      "css": "\\268B",
+      "name": "Monogram For Yin"
+    },
+    {
+      "char": "⚌",
+      "code": "&#9868;",
+      "css": "\\268C",
+      "name": "Digram For Greater Yang"
+    },
+    {
+      "char": "⚍",
+      "code": "&#9869;",
+      "css": "\\268D",
+      "name": "Digram For Lesser Yin"
+    },
+    {
+      "char": "⚎",
+      "code": "&#9870;",
+      "css": "\\268E",
+      "name": "Digram For Lesser Yang"
+    },
+    {
+      "char": "⚏",
+      "code": "&#9871;",
+      "css": "\\268F",
+      "name": "Digram For Greater Yin"
+    },
+    {
+      "char": "⚐",
+      "code": "&#9872;",
+      "css": "\\2690",
+      "name": "White Flag"
+    },
+    {
+      "char": "⚑",
+      "code": "&#9873;",
+      "css": "\\2691",
+      "name": "Black Flag"
+    },
+    {
+      "char": "⚒",
+      "code": "&#9874;",
+      "css": "\\2692",
+      "name": "Hammer And Pick"
+    },
+    {
+      "char": "⚓",
+      "code": "&#9875;",
+      "css": "\\2693",
+      "name": "Anchor"
+    },
+    {
+      "char": "⚔",
+      "code": "&#9876;",
+      "css": "\\2694",
+      "name": "Crossed Swords"
+    },
+    {
+      "char": "⚕",
+      "code": "&#9877;",
+      "css": "\\2695",
+      "name": "Staff Of Aesculapius"
+    },
+    {
+      "char": "⚖",
+      "code": "&#9878;",
+      "css": "\\2696",
+      "name": "Scales"
+    },
+    {
+      "char": "⚗",
+      "code": "&#9879;",
+      "css": "\\2697",
+      "name": "Alembic"
+    },
+    {
+      "char": "⚘",
+      "code": "&#9880;",
+      "css": "\\2698",
+      "name": "Flower"
+    },
+    {
+      "char": "⚙",
+      "code": "&#9881;",
+      "css": "\\2699",
+      "name": "Gear"
+    },
+    {
+      "char": "⚚",
+      "code": "&#9882;",
+      "css": "\\269A",
+      "name": "Staff Of Hermes"
+    },
+    {
+      "char": "⚛",
+      "code": "&#9883;",
+      "css": "\\269B",
+      "name": "Atom Symbol"
+    },
+    {
+      "char": "⚜",
+      "code": "&#9884;",
+      "css": "\\269C",
+      "name": "Fleur-De-Lis"
+    },
+    {
+      "char": "⚝",
+      "code": "&#9885;",
+      "css": "\\269D",
+      "name": "Outlined White Star"
+    },
+    {
+      "char": "⚞",
+      "code": "&#9886;",
+      "css": "\\269E",
+      "name": "Three Lines Converging Right"
+    },
+    {
+      "char": "⚟",
+      "code": "&#9887;",
+      "css": "\\269F",
+      "name": "Three Lines Converging Left"
+    },
+    {
+      "char": "⚠",
+      "code": "&#9888;",
+      "css": "\\26A0",
+      "name": "Warning Sign"
+    },
+    {
+      "char": "⚡",
+      "code": "&#9889;",
+      "css": "\\26A1",
+      "name": "High Voltage Sign"
+    },
+    {
+      "char": "⚢",
+      "code": "&#9890;",
+      "css": "\\26A2",
+      "name": "Doubled Female Sign"
+    },
+    {
+      "char": "⚣",
+      "code": "&#9891;",
+      "css": "\\26A3",
+      "name": "Doubled Male Sign"
+    },
+    {
+      "char": "⚤",
+      "code": "&#9892;",
+      "css": "\\26A4",
+      "name": "Interlocked Female And Male Sign"
+    },
+    {
+      "char": "⚥",
+      "code": "&#9893;",
+      "css": "\\26A5",
+      "name": "Male And Female Sign"
+    },
+    {
+      "char": "⚦",
+      "code": "&#9894;",
+      "css": "\\26A6",
+      "name": "Male With Stroke Sign"
+    },
+    {
+      "char": "⚧",
+      "code": "&#9895;",
+      "css": "\\26A7",
+      "name": "Male With Stroke And Male And Female Sign"
+    },
+    {
+      "char": "⚨",
+      "code": "&#9896;",
+      "css": "\\26A8",
+      "name": "Vertical Male With Stroke Sign"
+    },
+    {
+      "char": "⚩",
+      "code": "&#9897;",
+      "css": "\\26A9",
+      "name": "Horizontal Male With Stroke Sign"
+    },
+    {
+      "char": "⚪",
+      "code": "&#9898;",
+      "css": "\\26AA",
+      "name": "Medium White Circle"
+    },
+    {
+      "char": "⚫",
+      "code": "&#9899;",
+      "css": "\\26AB",
+      "name": "Medium Black Circle"
+    },
+    {
+      "char": "⚬",
+      "code": "&#9900;",
+      "css": "\\26AC",
+      "name": "Medium Small White Circle"
+    },
+    {
+      "char": "⚭",
+      "code": "&#9901;",
+      "css": "\\26AD",
+      "name": "Marriage Symbol"
+    },
+    {
+      "char": "⚮",
+      "code": "&#9902;",
+      "css": "\\26AE",
+      "name": "Divorce Symbol"
+    },
+    {
+      "char": "⚯",
+      "code": "&#9903;",
+      "css": "\\26AF",
+      "name": "Unmarried Partnership Symbol"
+    },
+    {
+      "char": "⚰",
+      "code": "&#9904;",
+      "css": "\\26B0",
+      "name": "Coffin"
+    },
+    {
+      "char": "⚱",
+      "code": "&#9905;",
+      "css": "\\26B1",
+      "name": "Funeral Urn"
+    },
+    {
+      "char": "⚲",
+      "code": "&#9906;",
+      "css": "\\26B2",
+      "name": "Neuter"
+    },
+    {
+      "char": "⚳",
+      "code": "&#9907;",
+      "css": "\\26B3",
+      "name": "Ceres"
+    },
+    {
+      "char": "⚴",
+      "code": "&#9908;",
+      "css": "\\26B4",
+      "name": "Pallas"
+    },
+    {
+      "char": "⚵",
+      "code": "&#9909;",
+      "css": "\\26B5",
+      "name": "Juno"
+    },
+    {
+      "char": "⚶",
+      "code": "&#9910;",
+      "css": "\\26B6",
+      "name": "Vesta"
+    },
+    {
+      "char": "⚷",
+      "code": "&#9911;",
+      "css": "\\26B7",
+      "name": "Chiron"
+    },
+    {
+      "char": "⚸",
+      "code": "&#9912;",
+      "css": "\\26B8",
+      "name": "Black Moon Lilith"
+    },
+    {
+      "char": "⚹",
+      "code": "&#9913;",
+      "css": "\\26B9",
+      "name": "Sextile"
+    },
+    {
+      "char": "⚺",
+      "code": "&#9914;",
+      "css": "\\26BA",
+      "name": "Semisextile"
+    },
+    {
+      "char": "⚻",
+      "code": "&#9915;",
+      "css": "\\26BB",
+      "name": "Quincunx"
+    },
+    {
+      "char": "⚼",
+      "code": "&#9916;",
+      "css": "\\26BC",
+      "name": "Sesquiquadrate"
+    },
+    {
+      "char": "⚽",
+      "code": "&#9917;",
+      "css": "\\26BD",
+      "name": "Soccer Ball"
+    },
+    {
+      "char": "⚾",
+      "code": "&#9918;",
+      "css": "\\26BE",
+      "name": "Baseball"
+    },
+    {
+      "char": "⚿",
+      "code": "&#9919;",
+      "css": "\\26BF",
+      "name": "Squared Key"
+    },
+    {
+      "char": "⛀",
+      "code": "&#9920;",
+      "css": "\\26C0",
+      "name": "White Draughts Man"
+    },
+    {
+      "char": "⛁",
+      "code": "&#9921;",
+      "css": "\\26C1",
+      "name": "White Draughts King"
+    },
+    {
+      "char": "⛂",
+      "code": "&#9922;",
+      "css": "\\26C2",
+      "name": "Black Draughts Man"
+    },
+    {
+      "char": "⛃",
+      "code": "&#9923;",
+      "css": "\\26C3",
+      "name": "Black Draughts King"
+    },
+    {
+      "char": "⛄",
+      "code": "&#9924;",
+      "css": "\\26C4",
+      "name": "Snowman Without Snow"
+    },
+    {
+      "char": "⛅",
+      "code": "&#9925;",
+      "css": "\\26C5",
+      "name": "Sun Behind Cloud"
+    },
+    {
+      "char": "⛆",
+      "code": "&#9926;",
+      "css": "\\26C6",
+      "name": "Rain"
+    },
+    {
+      "char": "⛇",
+      "code": "&#9927;",
+      "css": "\\26C7",
+      "name": "Black Snowman"
+    },
+    {
+      "char": "⛈",
+      "code": "&#9928;",
+      "css": "\\26C8",
+      "name": "Thunder Cloud And Rain"
+    },
+    {
+      "char": "⛉",
+      "code": "&#9929;",
+      "css": "\\26C9",
+      "name": "Turned White Shogi Piece"
+    },
+    {
+      "char": "⛊",
+      "code": "&#9930;",
+      "css": "\\26CA",
+      "name": "Turned Black Shogi Piece"
+    },
+    {
+      "char": "⛋",
+      "code": "&#9931;",
+      "css": "\\26CB",
+      "name": "White Diamond In Square"
+    },
+    {
+      "char": "⛌",
+      "code": "&#9932;",
+      "css": "\\26CC",
+      "name": "Crossing Lanes"
+    },
+    {
+      "char": "⛍",
+      "code": "&#9933;",
+      "css": "\\26CD",
+      "name": "Disabled Car"
+    },
+    {
+      "char": "⛎",
+      "code": "&#9934;",
+      "css": "\\26CE",
+      "name": "Ophiuchus"
+    },
+    {
+      "char": "⛏",
+      "code": "&#9935;",
+      "css": "\\26CF",
+      "name": "Pick"
+    },
+    {
+      "char": "⛐",
+      "code": "&#9936;",
+      "css": "\\26D0",
+      "name": "Car Sliding"
+    },
+    {
+      "char": "⛑",
+      "code": "&#9937;",
+      "css": "\\26D1",
+      "name": "Helmet With White Cross"
+    },
+    {
+      "char": "⛒",
+      "code": "&#9938;",
+      "css": "\\26D2",
+      "name": "Circled Crossing Lanes"
+    },
+    {
+      "char": "⛓",
+      "code": "&#9939;",
+      "css": "\\26D3",
+      "name": "Chains"
+    },
+    {
+      "char": "⛔",
+      "code": "&#9940;",
+      "css": "\\26D4",
+      "name": "No Entry"
+    },
+    {
+      "char": "⛕",
+      "code": "&#9941;",
+      "css": "\\26D5",
+      "name": "Alternate One-Way Left Way Traffic"
+    },
+    {
+      "char": "⛖",
+      "code": "&#9942;",
+      "css": "\\26D6",
+      "name": "Black Two-Way Left Way Traffic"
+    },
+    {
+      "char": "⛗",
+      "code": "&#9943;",
+      "css": "\\26D7",
+      "name": "White Two-Way Left Way Traffic"
+    },
+    {
+      "char": "⛘",
+      "code": "&#9944;",
+      "css": "\\26D8",
+      "name": "Black Left Lane Merge"
+    },
+    {
+      "char": "⛙",
+      "code": "&#9945;",
+      "css": "\\26D9",
+      "name": "White Left Lane Merge"
+    },
+    {
+      "char": "⛚",
+      "code": "&#9946;",
+      "css": "\\26DA",
+      "name": "Drive Slow Sign"
+    },
+    {
+      "char": "⛛",
+      "code": "&#9947;",
+      "css": "\\26DB",
+      "name": "Heavy White Down-Pointing Triangle"
+    },
+    {
+      "char": "⛜",
+      "code": "&#9948;",
+      "css": "\\26DC",
+      "name": "Left Closed Entry"
+    },
+    {
+      "char": "⛝",
+      "code": "&#9949;",
+      "css": "\\26DD",
+      "name": "Squared Saltire"
+    },
+    {
+      "char": "⛞",
+      "code": "&#9950;",
+      "css": "\\26DE",
+      "name": "Falling Diagonal In White Circle In Black Square"
+    },
+    {
+      "char": "⛟",
+      "code": "&#9951;",
+      "css": "\\26DF",
+      "name": "Black Truck"
+    },
+    {
+      "char": "⛠",
+      "code": "&#9952;",
+      "css": "\\26E0",
+      "name": "Restricted Left Entry-1"
+    },
+    {
+      "char": "⛡",
+      "code": "&#9953;",
+      "css": "\\26E1",
+      "name": "Restricted Left Entry-2"
+    },
+    {
+      "char": "⛢",
+      "code": "&#9954;",
+      "css": "\\26E2",
+      "name": "Astronomical Symbol For Uranus"
+    },
+    {
+      "char": "⛣",
+      "code": "&#9955;",
+      "css": "\\26E3",
+      "name": "Heavy Circle With Stroke And Two Dots Above"
+    },
+    {
+      "char": "⛤",
+      "code": "&#9956;",
+      "css": "\\26E4",
+      "name": "Pentagram"
+    },
+    {
+      "char": "⛥",
+      "code": "&#9957;",
+      "css": "\\26E5",
+      "name": "Right-Handed Interlaced Pentagram"
+    },
+    {
+      "char": "⛦",
+      "code": "&#9958;",
+      "css": "\\26E6",
+      "name": "Left-Handed Interlaced Pentagram"
+    },
+    {
+      "char": "⛧",
+      "code": "&#9959;",
+      "css": "\\26E7",
+      "name": "Inverted Pentagram"
+    },
+    {
+      "char": "⛨",
+      "code": "&#9960;",
+      "css": "\\26E8",
+      "name": "Black Cross On Shield"
+    },
+    {
+      "char": "⛩",
+      "code": "&#9961;",
+      "css": "\\26E9",
+      "name": "Shinto Shrine"
+    },
+    {
+      "char": "⛪",
+      "code": "&#9962;",
+      "css": "\\26EA",
+      "name": "Church"
+    },
+    {
+      "char": "⛫",
+      "code": "&#9963;",
+      "css": "\\26EB",
+      "name": "Castle"
+    },
+    {
+      "char": "⛬",
+      "code": "&#9964;",
+      "css": "\\26EC",
+      "name": "Historic Site"
+    },
+    {
+      "char": "⛭",
+      "code": "&#9965;",
+      "css": "\\26ED",
+      "name": "Gear Without Hub"
+    },
+    {
+      "char": "⛮",
+      "code": "&#9966;",
+      "css": "\\26EE",
+      "name": "Gear With Handles"
+    },
+    {
+      "char": "⛯",
+      "code": "&#9967;",
+      "css": "\\26EF",
+      "name": "Map Symbol For Lighthouse"
+    },
+    {
+      "char": "⛰",
+      "code": "&#9968;",
+      "css": "\\26F0",
+      "name": "Mountain"
+    },
+    {
+      "char": "⛱",
+      "code": "&#9969;",
+      "css": "\\26F1",
+      "name": "Umbrella On Ground"
+    },
+    {
+      "char": "⛲",
+      "code": "&#9970;",
+      "css": "\\26F2",
+      "name": "Fountain"
+    },
+    {
+      "char": "⛳",
+      "code": "&#9971;",
+      "css": "\\26F3",
+      "name": "Flag In Hole"
+    },
+    {
+      "char": "⛴",
+      "code": "&#9972;",
+      "css": "\\26F4",
+      "name": "Ferry"
+    },
+    {
+      "char": "⛵",
+      "code": "&#9973;",
+      "css": "\\26F5",
+      "name": "Sailboat"
+    },
+    {
+      "char": "⛶",
+      "code": "&#9974;",
+      "css": "\\26F6",
+      "name": "Square Four Corners"
+    },
+    {
+      "char": "⛷",
+      "code": "&#9975;",
+      "css": "\\26F7",
+      "name": "Skier"
+    },
+    {
+      "char": "⛸",
+      "code": "&#9976;",
+      "css": "\\26F8",
+      "name": "Ice Skate"
+    },
+    {
+      "char": "⛹",
+      "code": "&#9977;",
+      "css": "\\26F9",
+      "name": "Person With Ball"
+    },
+    {
+      "char": "⛺",
+      "code": "&#9978;",
+      "css": "\\26FA",
+      "name": "Tent"
+    },
+    {
+      "char": "⛻",
+      "code": "&#9979;",
+      "css": "\\26FB",
+      "name": "Japanese Bank Symbol"
+    },
+    {
+      "char": "⛼",
+      "code": "&#9980;",
+      "css": "\\26FC",
+      "name": "Headstone Graveyard Symbol"
+    },
+    {
+      "char": "⛽",
+      "code": "&#9981;",
+      "css": "\\26FD",
+      "name": "Fuel Pump"
+    },
+    {
+      "char": "⛾",
+      "code": "&#9982;",
+      "css": "\\26FE",
+      "name": "Cup On Black Square"
+    },
+    {
+      "char": "⛿",
+      "code": "&#9983;",
+      "css": "\\26FF",
+      "name": "White Flag With Horizontal Middle Black Stripe"
+    }
+  ]
+}

@@ -1,0 +1,1540 @@
+{
+  "characters": [
+    {
+      "char": "Ѐ",
+      "code": "&#1024;",
+      "css": "\\0400",
+      "name": "Cyrillic Capital Letter Ie With Grave"
+    },
+    {
+      "char": "Ё",
+      "code": "&#1025;",
+      "css": "\\0401",
+      "name": "Cyrillic Capital Letter Io"
+    },
+    {
+      "char": "Ђ",
+      "code": "&#1026;",
+      "css": "\\0402",
+      "name": "Cyrillic Capital Letter Dje"
+    },
+    {
+      "char": "Ѓ",
+      "code": "&#1027;",
+      "css": "\\0403",
+      "name": "Cyrillic Capital Letter Gje"
+    },
+    {
+      "char": "Є",
+      "code": "&#1028;",
+      "css": "\\0404",
+      "name": "Cyrillic Capital Letter Ukrainian Ie"
+    },
+    {
+      "char": "Ѕ",
+      "code": "&#1029;",
+      "css": "\\0405",
+      "name": "Cyrillic Capital Letter Dze"
+    },
+    {
+      "char": "І",
+      "code": "&#1030;",
+      "css": "\\0406",
+      "name": "Cyrillic Capital Letter Byelorussian-UKRAINIAN I"
+    },
+    {
+      "char": "Ї",
+      "code": "&#1031;",
+      "css": "\\0407",
+      "name": "Cyrillic Capital Letter Yi"
+    },
+    {
+      "char": "Ј",
+      "code": "&#1032;",
+      "css": "\\0408",
+      "name": "Cyrillic Capital Letter Je"
+    },
+    {
+      "char": "Љ",
+      "code": "&#1033;",
+      "css": "\\0409",
+      "name": "Cyrillic Capital Letter Lje"
+    },
+    {
+      "char": "Њ",
+      "code": "&#1034;",
+      "css": "\\040A",
+      "name": "Cyrillic Capital Letter Nje"
+    },
+    {
+      "char": "Ћ",
+      "code": "&#1035;",
+      "css": "\\040B",
+      "name": "Cyrillic Capital Letter Tshe"
+    },
+    {
+      "char": "Ќ",
+      "code": "&#1036;",
+      "css": "\\040C",
+      "name": "Cyrillic Capital Letter Kje"
+    },
+    {
+      "char": "Ѝ",
+      "code": "&#1037;",
+      "css": "\\040D",
+      "name": "Cyrillic Capital Letter I With Grave"
+    },
+    {
+      "char": "Ў",
+      "code": "&#1038;",
+      "css": "\\040E",
+      "name": "Cyrillic Capital Letter Short U"
+    },
+    {
+      "char": "Џ",
+      "code": "&#1039;",
+      "css": "\\040F",
+      "name": "Cyrillic Capital Letter Dzhe"
+    },
+    {
+      "char": "А",
+      "code": "&#1040;",
+      "css": "\\0410",
+      "name": "Cyrillic Capital Letter A"
+    },
+    {
+      "char": "Б",
+      "code": "&#1041;",
+      "css": "\\0411",
+      "name": "Cyrillic Capital Letter Be"
+    },
+    {
+      "char": "В",
+      "code": "&#1042;",
+      "css": "\\0412",
+      "name": "Cyrillic Capital Letter Ve"
+    },
+    {
+      "char": "Г",
+      "code": "&#1043;",
+      "css": "\\0413",
+      "name": "Cyrillic Capital Letter Ghe"
+    },
+    {
+      "char": "Д",
+      "code": "&#1044;",
+      "css": "\\0414",
+      "name": "Cyrillic Capital Letter De"
+    },
+    {
+      "char": "Е",
+      "code": "&#1045;",
+      "css": "\\0415",
+      "name": "Cyrillic Capital Letter Ie"
+    },
+    {
+      "char": "Ж",
+      "code": "&#1046;",
+      "css": "\\0416",
+      "name": "Cyrillic Capital Letter Zhe"
+    },
+    {
+      "char": "З",
+      "code": "&#1047;",
+      "css": "\\0417",
+      "name": "Cyrillic Capital Letter Ze"
+    },
+    {
+      "char": "И",
+      "code": "&#1048;",
+      "css": "\\0418",
+      "name": "Cyrillic Capital Letter I"
+    },
+    {
+      "char": "Й",
+      "code": "&#1049;",
+      "css": "\\0419",
+      "name": "Cyrillic Capital Letter Short I"
+    },
+    {
+      "char": "К",
+      "code": "&#1050;",
+      "css": "\\041A",
+      "name": "Cyrillic Capital Letter Ka"
+    },
+    {
+      "char": "Л",
+      "code": "&#1051;",
+      "css": "\\041B",
+      "name": "Cyrillic Capital Letter El"
+    },
+    {
+      "char": "М",
+      "code": "&#1052;",
+      "css": "\\041C",
+      "name": "Cyrillic Capital Letter Em"
+    },
+    {
+      "char": "Н",
+      "code": "&#1053;",
+      "css": "\\041D",
+      "name": "Cyrillic Capital Letter En"
+    },
+    {
+      "char": "О",
+      "code": "&#1054;",
+      "css": "\\041E",
+      "name": "Cyrillic Capital Letter O"
+    },
+    {
+      "char": "П",
+      "code": "&#1055;",
+      "css": "\\041F",
+      "name": "Cyrillic Capital Letter Pe"
+    },
+    {
+      "char": "Р",
+      "code": "&#1056;",
+      "css": "\\0420",
+      "name": "Cyrillic Capital Letter Er"
+    },
+    {
+      "char": "С",
+      "code": "&#1057;",
+      "css": "\\0421",
+      "name": "Cyrillic Capital Letter Es"
+    },
+    {
+      "char": "Т",
+      "code": "&#1058;",
+      "css": "\\0422",
+      "name": "Cyrillic Capital Letter Te"
+    },
+    {
+      "char": "У",
+      "code": "&#1059;",
+      "css": "\\0423",
+      "name": "Cyrillic Capital Letter U"
+    },
+    {
+      "char": "Ф",
+      "code": "&#1060;",
+      "css": "\\0424",
+      "name": "Cyrillic Capital Letter Ef"
+    },
+    {
+      "char": "Х",
+      "code": "&#1061;",
+      "css": "\\0425",
+      "name": "Cyrillic Capital Letter Ha"
+    },
+    {
+      "char": "Ц",
+      "code": "&#1062;",
+      "css": "\\0426",
+      "name": "Cyrillic Capital Letter Tse"
+    },
+    {
+      "char": "Ч",
+      "code": "&#1063;",
+      "css": "\\0427",
+      "name": "Cyrillic Capital Letter Che"
+    },
+    {
+      "char": "Ш",
+      "code": "&#1064;",
+      "css": "\\0428",
+      "name": "Cyrillic Capital Letter Sha"
+    },
+    {
+      "char": "Щ",
+      "code": "&#1065;",
+      "css": "\\0429",
+      "name": "Cyrillic Capital Letter Shcha"
+    },
+    {
+      "char": "Ъ",
+      "code": "&#1066;",
+      "css": "\\042A",
+      "name": "Cyrillic Capital Letter Hard Sign"
+    },
+    {
+      "char": "Ы",
+      "code": "&#1067;",
+      "css": "\\042B",
+      "name": "Cyrillic Capital Letter Yeru"
+    },
+    {
+      "char": "Ь",
+      "code": "&#1068;",
+      "css": "\\042C",
+      "name": "Cyrillic Capital Letter Soft Sign"
+    },
+    {
+      "char": "Э",
+      "code": "&#1069;",
+      "css": "\\042D",
+      "name": "Cyrillic Capital Letter E"
+    },
+    {
+      "char": "Ю",
+      "code": "&#1070;",
+      "css": "\\042E",
+      "name": "Cyrillic Capital Letter Yu"
+    },
+    {
+      "char": "Я",
+      "code": "&#1071;",
+      "css": "\\042F",
+      "name": "Cyrillic Capital Letter Ya"
+    },
+    {
+      "char": "а",
+      "code": "&#1072;",
+      "css": "\\0430",
+      "name": "Cyrillic Small Letter A"
+    },
+    {
+      "char": "б",
+      "code": "&#1073;",
+      "css": "\\0431",
+      "name": "Cyrillic Small Letter Be"
+    },
+    {
+      "char": "в",
+      "code": "&#1074;",
+      "css": "\\0432",
+      "name": "Cyrillic Small Letter Ve"
+    },
+    {
+      "char": "г",
+      "code": "&#1075;",
+      "css": "\\0433",
+      "name": "Cyrillic Small Letter Ghe"
+    },
+    {
+      "char": "д",
+      "code": "&#1076;",
+      "css": "\\0434",
+      "name": "Cyrillic Small Letter De"
+    },
+    {
+      "char": "е",
+      "code": "&#1077;",
+      "css": "\\0435",
+      "name": "Cyrillic Small Letter Ie"
+    },
+    {
+      "char": "ж",
+      "code": "&#1078;",
+      "css": "\\0436",
+      "name": "Cyrillic Small Letter Zhe"
+    },
+    {
+      "char": "з",
+      "code": "&#1079;",
+      "css": "\\0437",
+      "name": "Cyrillic Small Letter Ze"
+    },
+    {
+      "char": "и",
+      "code": "&#1080;",
+      "css": "\\0438",
+      "name": "Cyrillic Small Letter I"
+    },
+    {
+      "char": "й",
+      "code": "&#1081;",
+      "css": "\\0439",
+      "name": "Cyrillic Small Letter Short I"
+    },
+    {
+      "char": "к",
+      "code": "&#1082;",
+      "css": "\\043A",
+      "name": "Cyrillic Small Letter Ka"
+    },
+    {
+      "char": "л",
+      "code": "&#1083;",
+      "css": "\\043B",
+      "name": "Cyrillic Small Letter El"
+    },
+    {
+      "char": "м",
+      "code": "&#1084;",
+      "css": "\\043C",
+      "name": "Cyrillic Small Letter Em"
+    },
+    {
+      "char": "н",
+      "code": "&#1085;",
+      "css": "\\043D",
+      "name": "Cyrillic Small Letter En"
+    },
+    {
+      "char": "о",
+      "code": "&#1086;",
+      "css": "\\043E",
+      "name": "Cyrillic Small Letter O"
+    },
+    {
+      "char": "п",
+      "code": "&#1087;",
+      "css": "\\043F",
+      "name": "Cyrillic Small Letter Pe"
+    },
+    {
+      "char": "р",
+      "code": "&#1088;",
+      "css": "\\0440",
+      "name": "Cyrillic Small Letter Er"
+    },
+    {
+      "char": "с",
+      "code": "&#1089;",
+      "css": "\\0441",
+      "name": "Cyrillic Small Letter Es"
+    },
+    {
+      "char": "т",
+      "code": "&#1090;",
+      "css": "\\0442",
+      "name": "Cyrillic Small Letter Te"
+    },
+    {
+      "char": "у",
+      "code": "&#1091;",
+      "css": "\\0443",
+      "name": "Cyrillic Small Letter U"
+    },
+    {
+      "char": "ф",
+      "code": "&#1092;",
+      "css": "\\0444",
+      "name": "Cyrillic Small Letter Ef"
+    },
+    {
+      "char": "х",
+      "code": "&#1093;",
+      "css": "\\0445",
+      "name": "Cyrillic Small Letter Ha"
+    },
+    {
+      "char": "ц",
+      "code": "&#1094;",
+      "css": "\\0446",
+      "name": "Cyrillic Small Letter Tse"
+    },
+    {
+      "char": "ч",
+      "code": "&#1095;",
+      "css": "\\0447",
+      "name": "Cyrillic Small Letter Che"
+    },
+    {
+      "char": "ш",
+      "code": "&#1096;",
+      "css": "\\0448",
+      "name": "Cyrillic Small Letter Sha"
+    },
+    {
+      "char": "щ",
+      "code": "&#1097;",
+      "css": "\\0449",
+      "name": "Cyrillic Small Letter Shcha"
+    },
+    {
+      "char": "ъ",
+      "code": "&#1098;",
+      "css": "\\044A",
+      "name": "Cyrillic Small Letter Hard Sign"
+    },
+    {
+      "char": "ы",
+      "code": "&#1099;",
+      "css": "\\044B",
+      "name": "Cyrillic Small Letter Yeru"
+    },
+    {
+      "char": "ь",
+      "code": "&#1100;",
+      "css": "\\044C",
+      "name": "Cyrillic Small Letter Soft Sign"
+    },
+    {
+      "char": "э",
+      "code": "&#1101;",
+      "css": "\\044D",
+      "name": "Cyrillic Small Letter E"
+    },
+    {
+      "char": "ю",
+      "code": "&#1102;",
+      "css": "\\044E",
+      "name": "Cyrillic Small Letter Yu"
+    },
+    {
+      "char": "я",
+      "code": "&#1103;",
+      "css": "\\044F",
+      "name": "Cyrillic Small Letter Ya"
+    },
+    {
+      "char": "ѐ",
+      "code": "&#1104;",
+      "css": "\\0450",
+      "name": "Cyrillic Small Letter Ie With Grave"
+    },
+    {
+      "char": "ё",
+      "code": "&#1105;",
+      "css": "\\0451",
+      "name": "Cyrillic Small Letter Io"
+    },
+    {
+      "char": "ђ",
+      "code": "&#1106;",
+      "css": "\\0452",
+      "name": "Cyrillic Small Letter Dje"
+    },
+    {
+      "char": "ѓ",
+      "code": "&#1107;",
+      "css": "\\0453",
+      "name": "Cyrillic Small Letter Gje"
+    },
+    {
+      "char": "є",
+      "code": "&#1108;",
+      "css": "\\0454",
+      "name": "Cyrillic Small Letter Ukrainian Ie"
+    },
+    {
+      "char": "ѕ",
+      "code": "&#1109;",
+      "css": "\\0455",
+      "name": "Cyrillic Small Letter Dze"
+    },
+    {
+      "char": "і",
+      "code": "&#1110;",
+      "css": "\\0456",
+      "name": "Cyrillic Small Letter Byelorussian-UKRAINIAN I"
+    },
+    {
+      "char": "ї",
+      "code": "&#1111;",
+      "css": "\\0457",
+      "name": "Cyrillic Small Letter Yi"
+    },
+    {
+      "char": "ј",
+      "code": "&#1112;",
+      "css": "\\0458",
+      "name": "Cyrillic Small Letter Je"
+    },
+    {
+      "char": "љ",
+      "code": "&#1113;",
+      "css": "\\0459",
+      "name": "Cyrillic Small Letter Lje"
+    },
+    {
+      "char": "њ",
+      "code": "&#1114;",
+      "css": "\\045A",
+      "name": "Cyrillic Small Letter Nje"
+    },
+    {
+      "char": "ћ",
+      "code": "&#1115;",
+      "css": "\\045B",
+      "name": "Cyrillic Small Letter Tshe"
+    },
+    {
+      "char": "ќ",
+      "code": "&#1116;",
+      "css": "\\045C",
+      "name": "Cyrillic Small Letter Kje"
+    },
+    {
+      "char": "ѝ",
+      "code": "&#1117;",
+      "css": "\\045D",
+      "name": "Cyrillic Small Letter I With Grave"
+    },
+    {
+      "char": "ў",
+      "code": "&#1118;",
+      "css": "\\045E",
+      "name": "Cyrillic Small Letter Short U"
+    },
+    {
+      "char": "џ",
+      "code": "&#1119;",
+      "css": "\\045F",
+      "name": "Cyrillic Small Letter Dzhe"
+    },
+    {
+      "char": "Ѡ",
+      "code": "&#1120;",
+      "css": "\\0460",
+      "name": "Cyrillic Capital Letter Omega"
+    },
+    {
+      "char": "ѡ",
+      "code": "&#1121;",
+      "css": "\\0461",
+      "name": "Cyrillic Small Letter Omega"
+    },
+    {
+      "char": "Ѣ",
+      "code": "&#1122;",
+      "css": "\\0462",
+      "name": "Cyrillic Capital Letter Yat"
+    },
+    {
+      "char": "ѣ",
+      "code": "&#1123;",
+      "css": "\\0463",
+      "name": "Cyrillic Small Letter Yat"
+    },
+    {
+      "char": "Ѥ",
+      "code": "&#1124;",
+      "css": "\\0464",
+      "name": "Cyrillic Capital Letter Iotified E"
+    },
+    {
+      "char": "ѥ",
+      "code": "&#1125;",
+      "css": "\\0465",
+      "name": "Cyrillic Small Letter Iotified E"
+    },
+    {
+      "char": "Ѧ",
+      "code": "&#1126;",
+      "css": "\\0466",
+      "name": "Cyrillic Capital Letter Little Yus"
+    },
+    {
+      "char": "ѧ",
+      "code": "&#1127;",
+      "css": "\\0467",
+      "name": "Cyrillic Small Letter Little Yus"
+    },
+    {
+      "char": "Ѩ",
+      "code": "&#1128;",
+      "css": "\\0468",
+      "name": "Cyrillic Capital Letter Iotified Little Yus"
+    },
+    {
+      "char": "ѩ",
+      "code": "&#1129;",
+      "css": "\\0469",
+      "name": "Cyrillic Small Letter Iotified Little Yus"
+    },
+    {
+      "char": "Ѫ",
+      "code": "&#1130;",
+      "css": "\\046A",
+      "name": "Cyrillic Capital Letter Big Yus"
+    },
+    {
+      "char": "ѫ",
+      "code": "&#1131;",
+      "css": "\\046B",
+      "name": "Cyrillic Small Letter Big Yus"
+    },
+    {
+      "char": "Ѭ",
+      "code": "&#1132;",
+      "css": "\\046C",
+      "name": "Cyrillic Capital Letter Iotified Big Yus"
+    },
+    {
+      "char": "ѭ",
+      "code": "&#1133;",
+      "css": "\\046D",
+      "name": "Cyrillic Small Letter Iotified Big Yus"
+    },
+    {
+      "char": "Ѯ",
+      "code": "&#1134;",
+      "css": "\\046E",
+      "name": "Cyrillic Capital Letter Ksi"
+    },
+    {
+      "char": "ѯ",
+      "code": "&#1135;",
+      "css": "\\046F",
+      "name": "Cyrillic Small Letter Ksi"
+    },
+    {
+      "char": "Ѱ",
+      "code": "&#1136;",
+      "css": "\\0470",
+      "name": "Cyrillic Capital Letter Psi"
+    },
+    {
+      "char": "ѱ",
+      "code": "&#1137;",
+      "css": "\\0471",
+      "name": "Cyrillic Small Letter Psi"
+    },
+    {
+      "char": "Ѳ",
+      "code": "&#1138;",
+      "css": "\\0472",
+      "name": "Cyrillic Capital Letter Fita"
+    },
+    {
+      "char": "ѳ",
+      "code": "&#1139;",
+      "css": "\\0473",
+      "name": "Cyrillic Small Letter Fita"
+    },
+    {
+      "char": "Ѵ",
+      "code": "&#1140;",
+      "css": "\\0474",
+      "name": "Cyrillic Capital Letter Izhitsa"
+    },
+    {
+      "char": "ѵ",
+      "code": "&#1141;",
+      "css": "\\0475",
+      "name": "Cyrillic Small Letter Izhitsa"
+    },
+    {
+      "char": "Ѷ",
+      "code": "&#1142;",
+      "css": "\\0476",
+      "name": "Cyrillic Capital Letter Izhitsa With Double Grave Accent"
+    },
+    {
+      "char": "ѷ",
+      "code": "&#1143;",
+      "css": "\\0477",
+      "name": "Cyrillic Small Letter Izhitsa With Double Grave Accent"
+    },
+    {
+      "char": "Ѹ",
+      "code": "&#1144;",
+      "css": "\\0478",
+      "name": "Cyrillic Capital Letter Uk"
+    },
+    {
+      "char": "ѹ",
+      "code": "&#1145;",
+      "css": "\\0479",
+      "name": "Cyrillic Small Letter Uk"
+    },
+    {
+      "char": "Ѻ",
+      "code": "&#1146;",
+      "css": "\\047A",
+      "name": "Cyrillic Capital Letter Round Omega"
+    },
+    {
+      "char": "ѻ",
+      "code": "&#1147;",
+      "css": "\\047B",
+      "name": "Cyrillic Small Letter Round Omega"
+    },
+    {
+      "char": "Ѽ",
+      "code": "&#1148;",
+      "css": "\\047C",
+      "name": "Cyrillic Capital Letter Omega With Titlo"
+    },
+    {
+      "char": "ѽ",
+      "code": "&#1149;",
+      "css": "\\047D",
+      "name": "Cyrillic Small Letter Omega With Titlo"
+    },
+    {
+      "char": "Ѿ",
+      "code": "&#1150;",
+      "css": "\\047E",
+      "name": "Cyrillic Capital Letter Ot"
+    },
+    {
+      "char": "ѿ",
+      "code": "&#1151;",
+      "css": "\\047F",
+      "name": "Cyrillic Small Letter Ot"
+    },
+    {
+      "char": "Ҁ",
+      "code": "&#1152;",
+      "css": "\\0480",
+      "name": "Cyrillic Capital Letter Koppa"
+    },
+    {
+      "char": "ҁ",
+      "code": "&#1153;",
+      "css": "\\0481",
+      "name": "Cyrillic Small Letter Koppa"
+    },
+    {
+      "char": "҂",
+      "code": "&#1154;",
+      "css": "\\0482",
+      "name": "Cyrillic Thousands Sign"
+    },
+    {
+      "char": "о҃",
+      "code": "&#1155;",
+      "css": "\\0483",
+      "name": "Combining Cyrillic Titlo (Combined With О)"
+    },
+    {
+      "char": "о҄",
+      "code": "&#1156;",
+      "css": "\\0484",
+      "name": "Combining Cyrillic Palatalization (Combined With О)"
+    },
+    {
+      "char": "о҅",
+      "code": "&#1157;",
+      "css": "\\0485",
+      "name": "Combining Cyrillic Dasia Pneumata (Combined With О)"
+    },
+    {
+      "char": "о҆",
+      "code": "&#1158;",
+      "css": "\\0486",
+      "name": "Combining Cyrillic Psili Pneumata (Combined With О)"
+    },
+    {
+      "char": "о҇",
+      "code": "&#1159;",
+      "css": "\\0487",
+      "name": "Combining Cyrillic Pokrytie (Combined With О)"
+    },
+    {
+      "char": "о҈",
+      "code": "&#1160;",
+      "css": "\\0488",
+      "name": "Combining Cyrillic Hundred Thousands Sign (Combined With О)"
+    },
+    {
+      "char": "о҉",
+      "code": "&#1161;",
+      "css": "\\0489",
+      "name": "Combining Cyrillic Millions Sign (Combined With О)"
+    },
+    {
+      "char": "Ҋ",
+      "code": "&#1162;",
+      "css": "\\048A",
+      "name": "Cyrillic Capital Letter Short I With Tail"
+    },
+    {
+      "char": "ҋ",
+      "code": "&#1163;",
+      "css": "\\048B",
+      "name": "Cyrillic Small Letter Short I With Tail"
+    },
+    {
+      "char": "Ҍ",
+      "code": "&#1164;",
+      "css": "\\048C",
+      "name": "Cyrillic Capital Letter Semisoft Sign"
+    },
+    {
+      "char": "ҍ",
+      "code": "&#1165;",
+      "css": "\\048D",
+      "name": "Cyrillic Small Letter Semisoft Sign"
+    },
+    {
+      "char": "Ҏ",
+      "code": "&#1166;",
+      "css": "\\048E",
+      "name": "Cyrillic Capital Letter Er With Tick"
+    },
+    {
+      "char": "ҏ",
+      "code": "&#1167;",
+      "css": "\\048F",
+      "name": "Cyrillic Small Letter Er With Tick"
+    },
+    {
+      "char": "Ґ",
+      "code": "&#1168;",
+      "css": "\\0490",
+      "name": "Cyrillic Capital Letter Ghe With Upturn"
+    },
+    {
+      "char": "ґ",
+      "code": "&#1169;",
+      "css": "\\0491",
+      "name": "Cyrillic Small Letter Ghe With Upturn"
+    },
+    {
+      "char": "Ғ",
+      "code": "&#1170;",
+      "css": "\\0492",
+      "name": "Cyrillic Capital Letter Ghe With Stroke"
+    },
+    {
+      "char": "ғ",
+      "code": "&#1171;",
+      "css": "\\0493",
+      "name": "Cyrillic Small Letter Ghe With Stroke"
+    },
+    {
+      "char": "Ҕ",
+      "code": "&#1172;",
+      "css": "\\0494",
+      "name": "Cyrillic Capital Letter Ghe With Middle Hook"
+    },
+    {
+      "char": "ҕ",
+      "code": "&#1173;",
+      "css": "\\0495",
+      "name": "Cyrillic Small Letter Ghe With Middle Hook"
+    },
+    {
+      "char": "Җ",
+      "code": "&#1174;",
+      "css": "\\0496",
+      "name": "Cyrillic Capital Letter Zhe With Descender"
+    },
+    {
+      "char": "җ",
+      "code": "&#1175;",
+      "css": "\\0497",
+      "name": "Cyrillic Small Letter Zhe With Descender"
+    },
+    {
+      "char": "Ҙ",
+      "code": "&#1176;",
+      "css": "\\0498",
+      "name": "Cyrillic Capital Letter Ze With Descender"
+    },
+    {
+      "char": "ҙ",
+      "code": "&#1177;",
+      "css": "\\0499",
+      "name": "Cyrillic Small Letter Ze With Descender"
+    },
+    {
+      "char": "Қ",
+      "code": "&#1178;",
+      "css": "\\049A",
+      "name": "Cyrillic Capital Letter Ka With Descender"
+    },
+    {
+      "char": "қ",
+      "code": "&#1179;",
+      "css": "\\049B",
+      "name": "Cyrillic Small Letter Ka With Descender"
+    },
+    {
+      "char": "Ҝ",
+      "code": "&#1180;",
+      "css": "\\049C",
+      "name": "Cyrillic Capital Letter Ka With Vertical Stroke"
+    },
+    {
+      "char": "ҝ",
+      "code": "&#1181;",
+      "css": "\\049D",
+      "name": "Cyrillic Small Letter Ka With Vertical Stroke"
+    },
+    {
+      "char": "Ҟ",
+      "code": "&#1182;",
+      "css": "\\049E",
+      "name": "Cyrillic Capital Letter Ka With Stroke"
+    },
+    {
+      "char": "ҟ",
+      "code": "&#1183;",
+      "css": "\\049F",
+      "name": "Cyrillic Small Letter Ka With Stroke"
+    },
+    {
+      "char": "Ҡ",
+      "code": "&#1184;",
+      "css": "\\04A0",
+      "name": "Cyrillic Capital Letter Bashkir Ka"
+    },
+    {
+      "char": "ҡ",
+      "code": "&#1185;",
+      "css": "\\04A1",
+      "name": "Cyrillic Small Letter Bashkir Ka"
+    },
+    {
+      "char": "Ң",
+      "code": "&#1186;",
+      "css": "\\04A2",
+      "name": "Cyrillic Capital Letter En With Descender"
+    },
+    {
+      "char": "ң",
+      "code": "&#1187;",
+      "css": "\\04A3",
+      "name": "Cyrillic Small Letter En With Descender"
+    },
+    {
+      "char": "Ҥ",
+      "code": "&#1188;",
+      "css": "\\04A4",
+      "name": "Cyrillic Capital Ligature En Ghe"
+    },
+    {
+      "char": "ҥ",
+      "code": "&#1189;",
+      "css": "\\04A5",
+      "name": "Cyrillic Small Ligature En Ghe"
+    },
+    {
+      "char": "Ҧ",
+      "code": "&#1190;",
+      "css": "\\04A6",
+      "name": "Cyrillic Capital Letter Pe With Middle Hook"
+    },
+    {
+      "char": "ҧ",
+      "code": "&#1191;",
+      "css": "\\04A7",
+      "name": "Cyrillic Small Letter Pe With Middle Hook"
+    },
+    {
+      "char": "Ҩ",
+      "code": "&#1192;",
+      "css": "\\04A8",
+      "name": "Cyrillic Capital Letter Abkhasian Ha"
+    },
+    {
+      "char": "ҩ",
+      "code": "&#1193;",
+      "css": "\\04A9",
+      "name": "Cyrillic Small Letter Abkhasian Ha"
+    },
+    {
+      "char": "Ҫ",
+      "code": "&#1194;",
+      "css": "\\04AA",
+      "name": "Cyrillic Capital Letter Es With Descender"
+    },
+    {
+      "char": "ҫ",
+      "code": "&#1195;",
+      "css": "\\04AB",
+      "name": "Cyrillic Small Letter Es With Descender"
+    },
+    {
+      "char": "Ҭ",
+      "code": "&#1196;",
+      "css": "\\04AC",
+      "name": "Cyrillic Capital Letter Te With Descender"
+    },
+    {
+      "char": "ҭ",
+      "code": "&#1197;",
+      "css": "\\04AD",
+      "name": "Cyrillic Small Letter Te With Descender"
+    },
+    {
+      "char": "Ү",
+      "code": "&#1198;",
+      "css": "\\04AE",
+      "name": "Cyrillic Capital Letter Straight U"
+    },
+    {
+      "char": "ү",
+      "code": "&#1199;",
+      "css": "\\04AF",
+      "name": "Cyrillic Small Letter Straight U"
+    },
+    {
+      "char": "Ұ",
+      "code": "&#1200;",
+      "css": "\\04B0",
+      "name": "Cyrillic Capital Letter Straight U With Stroke"
+    },
+    {
+      "char": "ұ",
+      "code": "&#1201;",
+      "css": "\\04B1",
+      "name": "Cyrillic Small Letter Straight U With Stroke"
+    },
+    {
+      "char": "Ҳ",
+      "code": "&#1202;",
+      "css": "\\04B2",
+      "name": "Cyrillic Capital Letter Ha With Descender"
+    },
+    {
+      "char": "ҳ",
+      "code": "&#1203;",
+      "css": "\\04B3",
+      "name": "Cyrillic Small Letter Ha With Descender"
+    },
+    {
+      "char": "Ҵ",
+      "code": "&#1204;",
+      "css": "\\04B4",
+      "name": "Cyrillic Capital Ligature Te Tse"
+    },
+    {
+      "char": "ҵ",
+      "code": "&#1205;",
+      "css": "\\04B5",
+      "name": "Cyrillic Small Ligature Te Tse"
+    },
+    {
+      "char": "Ҷ",
+      "code": "&#1206;",
+      "css": "\\04B6",
+      "name": "Cyrillic Capital Letter Che With Descender"
+    },
+    {
+      "char": "ҷ",
+      "code": "&#1207;",
+      "css": "\\04B7",
+      "name": "Cyrillic Small Letter Che With Descender"
+    },
+    {
+      "char": "Ҹ",
+      "code": "&#1208;",
+      "css": "\\04B8",
+      "name": "Cyrillic Capital Letter Che With Vertical Stroke"
+    },
+    {
+      "char": "ҹ",
+      "code": "&#1209;",
+      "css": "\\04B9",
+      "name": "Cyrillic Small Letter Che With Vertical Stroke"
+    },
+    {
+      "char": "Һ",
+      "code": "&#1210;",
+      "css": "\\04BA",
+      "name": "Cyrillic Capital Letter Shha"
+    },
+    {
+      "char": "һ",
+      "code": "&#1211;",
+      "css": "\\04BB",
+      "name": "Cyrillic Small Letter Shha"
+    },
+    {
+      "char": "Ҽ",
+      "code": "&#1212;",
+      "css": "\\04BC",
+      "name": "Cyrillic Capital Letter Abkhasian Che"
+    },
+    {
+      "char": "ҽ",
+      "code": "&#1213;",
+      "css": "\\04BD",
+      "name": "Cyrillic Small Letter Abkhasian Che"
+    },
+    {
+      "char": "Ҿ",
+      "code": "&#1214;",
+      "css": "\\04BE",
+      "name": "Cyrillic Capital Letter Abkhasian Che With Descender"
+    },
+    {
+      "char": "ҿ",
+      "code": "&#1215;",
+      "css": "\\04BF",
+      "name": "Cyrillic Small Letter Abkhasian Che With Descender"
+    },
+    {
+      "char": "Ӏ",
+      "code": "&#1216;",
+      "css": "\\04C0",
+      "name": "Cyrillic Letter Palochka"
+    },
+    {
+      "char": "Ӂ",
+      "code": "&#1217;",
+      "css": "\\04C1",
+      "name": "Cyrillic Capital Letter Zhe With Breve"
+    },
+    {
+      "char": "ӂ",
+      "code": "&#1218;",
+      "css": "\\04C2",
+      "name": "Cyrillic Small Letter Zhe With Breve"
+    },
+    {
+      "char": "Ӄ",
+      "code": "&#1219;",
+      "css": "\\04C3",
+      "name": "Cyrillic Capital Letter Ka With Hook"
+    },
+    {
+      "char": "ӄ",
+      "code": "&#1220;",
+      "css": "\\04C4",
+      "name": "Cyrillic Small Letter Ka With Hook"
+    },
+    {
+      "char": "Ӆ",
+      "code": "&#1221;",
+      "css": "\\04C5",
+      "name": "Cyrillic Capital Letter El With Tail"
+    },
+    {
+      "char": "ӆ",
+      "code": "&#1222;",
+      "css": "\\04C6",
+      "name": "Cyrillic Small Letter El With Tail"
+    },
+    {
+      "char": "Ӈ",
+      "code": "&#1223;",
+      "css": "\\04C7",
+      "name": "Cyrillic Capital Letter En With Hook"
+    },
+    {
+      "char": "ӈ",
+      "code": "&#1224;",
+      "css": "\\04C8",
+      "name": "Cyrillic Small Letter En With Hook"
+    },
+    {
+      "char": "Ӊ",
+      "code": "&#1225;",
+      "css": "\\04C9",
+      "name": "Cyrillic Capital Letter En With Tail"
+    },
+    {
+      "char": "ӊ",
+      "code": "&#1226;",
+      "css": "\\04CA",
+      "name": "Cyrillic Small Letter En With Tail"
+    },
+    {
+      "char": "Ӌ",
+      "code": "&#1227;",
+      "css": "\\04CB",
+      "name": "Cyrillic Capital Letter Khakassian Che"
+    },
+    {
+      "char": "ӌ",
+      "code": "&#1228;",
+      "css": "\\04CC",
+      "name": "Cyrillic Small Letter Khakassian Che"
+    },
+    {
+      "char": "Ӎ",
+      "code": "&#1229;",
+      "css": "\\04CD",
+      "name": "Cyrillic Capital Letter Em With Tail"
+    },
+    {
+      "char": "ӎ",
+      "code": "&#1230;",
+      "css": "\\04CE",
+      "name": "Cyrillic Small Letter Em With Tail"
+    },
+    {
+      "char": "ӏ",
+      "code": "&#1231;",
+      "css": "\\04CF",
+      "name": "Cyrillic Small Letter Palochka"
+    },
+    {
+      "char": "Ӑ",
+      "code": "&#1232;",
+      "css": "\\04D0",
+      "name": "Cyrillic Capital Letter A With Breve"
+    },
+    {
+      "char": "ӑ",
+      "code": "&#1233;",
+      "css": "\\04D1",
+      "name": "Cyrillic Small Letter A With Breve"
+    },
+    {
+      "char": "Ӓ",
+      "code": "&#1234;",
+      "css": "\\04D2",
+      "name": "Cyrillic Capital Letter A With Diaeresis"
+    },
+    {
+      "char": "ӓ",
+      "code": "&#1235;",
+      "css": "\\04D3",
+      "name": "Cyrillic Small Letter A With Diaeresis"
+    },
+    {
+      "char": "Ӕ",
+      "code": "&#1236;",
+      "css": "\\04D4",
+      "name": "Cyrillic Capital Ligature A Ie"
+    },
+    {
+      "char": "ӕ",
+      "code": "&#1237;",
+      "css": "\\04D5",
+      "name": "Cyrillic Small Ligature A Ie"
+    },
+    {
+      "char": "Ӗ",
+      "code": "&#1238;",
+      "css": "\\04D6",
+      "name": "Cyrillic Capital Letter Ie With Breve"
+    },
+    {
+      "char": "ӗ",
+      "code": "&#1239;",
+      "css": "\\04D7",
+      "name": "Cyrillic Small Letter Ie With Breve"
+    },
+    {
+      "char": "Ә",
+      "code": "&#1240;",
+      "css": "\\04D8",
+      "name": "Cyrillic Capital Letter Schwa"
+    },
+    {
+      "char": "ә",
+      "code": "&#1241;",
+      "css": "\\04D9",
+      "name": "Cyrillic Small Letter Schwa"
+    },
+    {
+      "char": "Ӛ",
+      "code": "&#1242;",
+      "css": "\\04DA",
+      "name": "Cyrillic Capital Letter Schwa With Diaeresis"
+    },
+    {
+      "char": "ӛ",
+      "code": "&#1243;",
+      "css": "\\04DB",
+      "name": "Cyrillic Small Letter Schwa With Diaeresis"
+    },
+    {
+      "char": "Ӝ",
+      "code": "&#1244;",
+      "css": "\\04DC",
+      "name": "Cyrillic Capital Letter Zhe With Diaeresis"
+    },
+    {
+      "char": "ӝ",
+      "code": "&#1245;",
+      "css": "\\04DD",
+      "name": "Cyrillic Small Letter Zhe With Diaeresis"
+    },
+    {
+      "char": "Ӟ",
+      "code": "&#1246;",
+      "css": "\\04DE",
+      "name": "Cyrillic Capital Letter Ze With Diaeresis"
+    },
+    {
+      "char": "ӟ",
+      "code": "&#1247;",
+      "css": "\\04DF",
+      "name": "Cyrillic Small Letter Ze With Diaeresis"
+    },
+    {
+      "char": "Ӡ",
+      "code": "&#1248;",
+      "css": "\\04E0",
+      "name": "Cyrillic Capital Letter Abkhasian Dze"
+    },
+    {
+      "char": "ӡ",
+      "code": "&#1249;",
+      "css": "\\04E1",
+      "name": "Cyrillic Small Letter Abkhasian Dze"
+    },
+    {
+      "char": "Ӣ",
+      "code": "&#1250;",
+      "css": "\\04E2",
+      "name": "Cyrillic Capital Letter I With Macron"
+    },
+    {
+      "char": "ӣ",
+      "code": "&#1251;",
+      "css": "\\04E3",
+      "name": "Cyrillic Small Letter I With Macron"
+    },
+    {
+      "char": "Ӥ",
+      "code": "&#1252;",
+      "css": "\\04E4",
+      "name": "Cyrillic Capital Letter I With Diaeresis"
+    },
+    {
+      "char": "ӥ",
+      "code": "&#1253;",
+      "css": "\\04E5",
+      "name": "Cyrillic Small Letter I With Diaeresis"
+    },
+    {
+      "char": "Ӧ",
+      "code": "&#1254;",
+      "css": "\\04E6",
+      "name": "Cyrillic Capital Letter O With Diaeresis"
+    },
+    {
+      "char": "ӧ",
+      "code": "&#1255;",
+      "css": "\\04E7",
+      "name": "Cyrillic Small Letter O With Diaeresis"
+    },
+    {
+      "char": "Ө",
+      "code": "&#1256;",
+      "css": "\\04E8",
+      "name": "Cyrillic Capital Letter Barred O"
+    },
+    {
+      "char": "ө",
+      "code": "&#1257;",
+      "css": "\\04E9",
+      "name": "Cyrillic Small Letter Barred O"
+    },
+    {
+      "char": "Ӫ",
+      "code": "&#1258;",
+      "css": "\\04EA",
+      "name": "Cyrillic Capital Letter Barred O With Diaeresis"
+    },
+    {
+      "char": "ӫ",
+      "code": "&#1259;",
+      "css": "\\04EB",
+      "name": "Cyrillic Small Letter Barred O With Diaeresis"
+    },
+    {
+      "char": "Ӭ",
+      "code": "&#1260;",
+      "css": "\\04EC",
+      "name": "Cyrillic Capital Letter E With Diaeresis"
+    },
+    {
+      "char": "ӭ",
+      "code": "&#1261;",
+      "css": "\\04ED",
+      "name": "Cyrillic Small Letter E With Diaeresis"
+    },
+    {
+      "char": "Ӯ",
+      "code": "&#1262;",
+      "css": "\\04EE",
+      "name": "Cyrillic Capital Letter U With Macron"
+    },
+    {
+      "char": "ӯ",
+      "code": "&#1263;",
+      "css": "\\04EF",
+      "name": "Cyrillic Small Letter U With Macron"
+    },
+    {
+      "char": "Ӱ",
+      "code": "&#1264;",
+      "css": "\\04F0",
+      "name": "Cyrillic Capital Letter U With Diaeresis"
+    },
+    {
+      "char": "ӱ",
+      "code": "&#1265;",
+      "css": "\\04F1",
+      "name": "Cyrillic Small Letter U With Diaeresis"
+    },
+    {
+      "char": "Ӳ",
+      "code": "&#1266;",
+      "css": "\\04F2",
+      "name": "Cyrillic Capital Letter U With Double Acute"
+    },
+    {
+      "char": "ӳ",
+      "code": "&#1267;",
+      "css": "\\04F3",
+      "name": "Cyrillic Small Letter U With Double Acute"
+    },
+    {
+      "char": "Ӵ",
+      "code": "&#1268;",
+      "css": "\\04F4",
+      "name": "Cyrillic Capital Letter Che With Diaeresis"
+    },
+    {
+      "char": "ӵ",
+      "code": "&#1269;",
+      "css": "\\04F5",
+      "name": "Cyrillic Small Letter Che With Diaeresis"
+    },
+    {
+      "char": "Ӷ",
+      "code": "&#1270;",
+      "css": "\\04F6",
+      "name": "Cyrillic Capital Letter Ghe With Descender"
+    },
+    {
+      "char": "ӷ",
+      "code": "&#1271;",
+      "css": "\\04F7",
+      "name": "Cyrillic Small Letter Ghe With Descender"
+    },
+    {
+      "char": "Ӹ",
+      "code": "&#1272;",
+      "css": "\\04F8",
+      "name": "Cyrillic Capital Letter Yeru With Diaeresis"
+    },
+    {
+      "char": "ӹ",
+      "code": "&#1273;",
+      "css": "\\04F9",
+      "name": "Cyrillic Small Letter Yeru With Diaeresis"
+    },
+    {
+      "char": "Ӻ",
+      "code": "&#1274;",
+      "css": "\\04FA",
+      "name": "Cyrillic Capital Letter Ghe With Stroke And Hook"
+    },
+    {
+      "char": "ӻ",
+      "code": "&#1275;",
+      "css": "\\04FB",
+      "name": "Cyrillic Small Letter Ghe With Stroke And Hook"
+    },
+    {
+      "char": "Ӽ",
+      "code": "&#1276;",
+      "css": "\\04FC",
+      "name": "Cyrillic Capital Letter Ha With Hook"
+    },
+    {
+      "char": "ӽ",
+      "code": "&#1277;",
+      "css": "\\04FD",
+      "name": "Cyrillic Small Letter Ha With Hook"
+    },
+    {
+      "char": "Ӿ",
+      "code": "&#1278;",
+      "css": "\\04FE",
+      "name": "Cyrillic Capital Letter Ha With Stroke"
+    },
+    {
+      "char": "ӿ",
+      "code": "&#1279;",
+      "css": "\\04FF",
+      "name": "Cyrillic Small Letter Ha With Stroke"
+    }
+  ]
+}

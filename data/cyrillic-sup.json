@@ -1,0 +1,268 @@
+{
+  "characters": [
+    {
+      "char": "Ԁ",
+      "code": "&#1280;",
+      "css": "\\0500",
+      "name": "Cyrillic Capital Letter Komi De"
+    },
+    {
+      "char": "ԁ",
+      "code": "&#1281;",
+      "css": "\\0501",
+      "name": "Cyrillic Small Letter Komi De"
+    },
+    {
+      "char": "Ԃ",
+      "code": "&#1282;",
+      "css": "\\0502",
+      "name": "Cyrillic Capital Letter Komi Dje"
+    },
+    {
+      "char": "ԃ",
+      "code": "&#1283;",
+      "css": "\\0503",
+      "name": "Cyrillic Small Letter Komi Dje"
+    },
+    {
+      "char": "Ԅ",
+      "code": "&#1284;",
+      "css": "\\0504",
+      "name": "Cyrillic Capital Letter Komi Zje"
+    },
+    {
+      "char": "ԅ",
+      "code": "&#1285;",
+      "css": "\\0505",
+      "name": "Cyrillic Small Letter Komi Zje"
+    },
+    {
+      "char": "Ԇ",
+      "code": "&#1286;",
+      "css": "\\0506",
+      "name": "Cyrillic Capital Letter Komi Dzje"
+    },
+    {
+      "char": "ԇ",
+      "code": "&#1287;",
+      "css": "\\0507",
+      "name": "Cyrillic Small Letter Komi Dzje"
+    },
+    {
+      "char": "Ԉ",
+      "code": "&#1288;",
+      "css": "\\0508",
+      "name": "Cyrillic Capital Letter Komi Lje"
+    },
+    {
+      "char": "ԉ",
+      "code": "&#1289;",
+      "css": "\\0509",
+      "name": "Cyrillic Small Letter Komi Lje"
+    },
+    {
+      "char": "Ԋ",
+      "code": "&#1290;",
+      "css": "\\050A",
+      "name": "Cyrillic Capital Letter Komi Nje"
+    },
+    {
+      "char": "ԋ",
+      "code": "&#1291;",
+      "css": "\\050B",
+      "name": "Cyrillic Small Letter Komi Nje"
+    },
+    {
+      "char": "Ԍ",
+      "code": "&#1292;",
+      "css": "\\050C",
+      "name": "Cyrillic Capital Letter Komi Sje"
+    },
+    {
+      "char": "ԍ",
+      "code": "&#1293;",
+      "css": "\\050D",
+      "name": "Cyrillic Small Letter Komi Sje"
+    },
+    {
+      "char": "Ԏ",
+      "code": "&#1294;",
+      "css": "\\050E",
+      "name": "Cyrillic Capital Letter Komi Tje"
+    },
+    {
+      "char": "ԏ",
+      "code": "&#1295;",
+      "css": "\\050F",
+      "name": "Cyrillic Small Letter Komi Tje"
+    },
+    {
+      "char": "Ԕ",
+      "code": "&#1300;",
+      "css": "\\0514",
+      "name": "Cyrillic Capital Letter Lha"
+    },
+    {
+      "char": "ԕ",
+      "code": "&#1301;",
+      "css": "\\0515",
+      "name": "Cyrillic Small Letter Lha"
+    },
+    {
+      "char": "Ԗ",
+      "code": "&#1302;",
+      "css": "\\0516",
+      "name": "Cyrillic Capital Letter Rha"
+    },
+    {
+      "char": "ԗ",
+      "code": "&#1303;",
+      "css": "\\0517",
+      "name": "Cyrillic Small Letter Rha"
+    },
+    {
+      "char": "Ԙ",
+      "code": "&#1304;",
+      "css": "\\0518",
+      "name": "Cyrillic Capital Letter Yae"
+    },
+    {
+      "char": "ԙ",
+      "code": "&#1305;",
+      "css": "\\0519",
+      "name": "Cyrillic Small Letter Yae"
+    },
+    {
+      "char": "Ԛ",
+      "code": "&#1306;",
+      "css": "\\051A",
+      "name": "Cyrillic Capital Letter Qa"
+    },
+    {
+      "char": "ԛ",
+      "code": "&#1307;",
+      "css": "\\051B",
+      "name": "Cyrillic Small Letter Qa"
+    },
+    {
+      "char": "Ԝ",
+      "code": "&#1308;",
+      "css": "\\051C",
+      "name": "Cyrillic Capital Letter We"
+    },
+    {
+      "char": "ԝ",
+      "code": "&#1309;",
+      "css": "\\051D",
+      "name": "Cyrillic Small Letter We"
+    },
+    {
+      "char": "Ԟ",
+      "code": "&#1310;",
+      "css": "\\051E",
+      "name": "Cyrillic Capital Letter Aleut Ka"
+    },
+    {
+      "char": "ԟ",
+      "code": "&#1311;",
+      "css": "\\051F",
+      "name": "Cyrillic Small Letter Aleut Ka"
+    },
+    {
+      "char": "Ԡ",
+      "code": "&#1312;",
+      "css": "\\0520",
+      "name": "Cyrillic Capital Letter El With Middle Hook"
+    },
+    {
+      "char": "ԡ",
+      "code": "&#1313;",
+      "css": "\\0521",
+      "name": "Cyrillic Small Letter El With Middle Hook"
+    },
+    {
+      "char": "Ԣ",
+      "code": "&#1314;",
+      "css": "\\0522",
+      "name": "Cyrillic Capital Letter En With Middle Hook"
+    },
+    {
+      "char": "ԣ",
+      "code": "&#1315;",
+      "css": "\\0523",
+      "name": "Cyrillic Small Letter En With Middle Hook"
+    },
+    {
+      "char": "Ԥ",
+      "code": "&#1316;",
+      "css": "\\0524",
+      "name": "Cyrillic Capital Letter Pe With Descender"
+    },
+    {
+      "char": "ԥ",
+      "code": "&#1317;",
+      "css": "\\0525",
+      "name": "Cyrillic Small Letter Pe With Descender"
+    },
+    {
+      "char": "Ԧ",
+      "code": "&#1318;",
+      "css": "\\0526",
+      "name": "Cyrillic Capital Letter Shha With Descender"
+    },
+    {
+      "char": "ԧ",
+      "code": "&#1319;",
+      "css": "\\0527",
+      "name": "Cyrillic Small Letter Shha With Descender"
+    },
+    {
+      "char": "Ԩ",
+      "code": "&#1320;",
+      "css": "\\0528",
+      "name": ""
+    },
+    {
+      "char": "ԩ",
+      "code": "&#1321;",
+      "css": "\\0529",
+      "name": ""
+    },
+    {
+      "char": "Ԫ",
+      "code": "&#1322;",
+      "css": "\\052A",
+      "name": ""
+    },
+    {
+      "char": "ԫ",
+      "code": "&#1323;",
+      "css": "\\052B",
+      "name": ""
+    },
+    {
+      "char": "Ԭ",
+      "code": "&#1324;",
+      "css": "\\052C",
+      "name": ""
+    },
+    {
+      "char": "ԭ",
+      "code": "&#1325;",
+      "css": "\\052D",
+      "name": ""
+    },
+    {
+      "char": "Ԯ",
+      "code": "&#1326;",
+      "css": "\\052E",
+      "name": ""
+    },
+    {
+      "char": "ԯ",
+      "code": "&#1327;",
+      "css": "\\052F",
+      "name": ""
+    }
+  ]
+}

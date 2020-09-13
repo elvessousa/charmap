@@ -1,0 +1,484 @@
+{
+  "characters": [
+    {
+      "char": "ʰ",
+      "code": "&#688;",
+      "css": "\\02B0",
+      "name": "Modifier Letter Small H"
+    },
+    {
+      "char": "ʱ",
+      "code": "&#689;",
+      "css": "\\02B1",
+      "name": "Modifier Letter Small H With Hook"
+    },
+    {
+      "char": "ʲ",
+      "code": "&#690;",
+      "css": "\\02B2",
+      "name": "Modifier Letter Small J"
+    },
+    {
+      "char": "ʳ",
+      "code": "&#691;",
+      "css": "\\02B3",
+      "name": "Modifier Letter Small R"
+    },
+    {
+      "char": "ʴ",
+      "code": "&#692;",
+      "css": "\\02B4",
+      "name": "Modifier Letter Small Turned R"
+    },
+    {
+      "char": "ʵ",
+      "code": "&#693;",
+      "css": "\\02B5",
+      "name": "Modifier Letter Small Turned R With Hook"
+    },
+    {
+      "char": "ʶ",
+      "code": "&#694;",
+      "css": "\\02B6",
+      "name": "Modifier Letter Small Capital Inverted R"
+    },
+    {
+      "char": "ʷ",
+      "code": "&#695;",
+      "css": "\\02B7",
+      "name": "Modifier Letter Small W"
+    },
+    {
+      "char": "ʸ",
+      "code": "&#696;",
+      "css": "\\02B8",
+      "name": "Modifier Letter Small Y"
+    },
+    {
+      "char": "ʹ",
+      "code": "&#697;",
+      "css": "\\02B9",
+      "name": "Modifier Letter Prime"
+    },
+    {
+      "char": "ʺ",
+      "code": "&#698;",
+      "css": "\\02BA",
+      "name": "Modifier Letter Double Prime"
+    },
+    {
+      "char": "ʻ",
+      "code": "&#699;",
+      "css": "\\02BB",
+      "name": "Modifier Letter Turned Comma"
+    },
+    {
+      "char": "ʼ",
+      "code": "&#700;",
+      "css": "\\02BC",
+      "name": "Modifier Letter Apostrophe"
+    },
+    {
+      "char": "ʽ",
+      "code": "&#701;",
+      "css": "\\02BD",
+      "name": "Modifier Letter Reversed Comma"
+    },
+    {
+      "char": "ʾ",
+      "code": "&#702;",
+      "css": "\\02BE",
+      "name": "Modifier Letter Right Half Ring"
+    },
+    {
+      "char": "ʿ",
+      "code": "&#703;",
+      "css": "\\02BF",
+      "name": "Modifier Letter Left Half Ring"
+    },
+    {
+      "char": "ˀ",
+      "code": "&#704;",
+      "css": "\\02C0",
+      "name": "Modifier Letter Glottal Stop"
+    },
+    {
+      "char": "ˁ",
+      "code": "&#705;",
+      "css": "\\02C1",
+      "name": "Modifier Letter Reversed Glottal Stop"
+    },
+    {
+      "char": "˂",
+      "code": "&#706;",
+      "css": "\\02C2",
+      "name": "Modifier Letter Left Arrowhead"
+    },
+    {
+      "char": "˃",
+      "code": "&#707;",
+      "css": "\\02C3",
+      "name": "Modifier Letter Right Arrowhead"
+    },
+    {
+      "char": "˄",
+      "code": "&#708;",
+      "css": "\\02C4",
+      "name": "Modifier Letter Up Arrowhead"
+    },
+    {
+      "char": "˅",
+      "code": "&#709;",
+      "css": "\\02C5",
+      "name": "Modifier Letter Down Arrowhead"
+    },
+    {
+      "char": "ˆ",
+      "code": "&circ;;",
+      "css": "\\02C6",
+      "name": "Modifier Letter Circumflex Accent"
+    },
+    {
+      "char": "ˇ",
+      "code": "&#711;",
+      "css": "\\02C7",
+      "name": "Caron"
+    },
+    {
+      "char": "ˈ",
+      "code": "&#712;",
+      "css": "\\02C8",
+      "name": "Modifier Letter Vertical Line"
+    },
+    {
+      "char": "ˉ",
+      "code": "&#713;",
+      "css": "\\02C9",
+      "name": "Modifier Letter Macron"
+    },
+    {
+      "char": "ˊ",
+      "code": "&#714;",
+      "css": "\\02CA",
+      "name": "Modifier Letter Acute Accent"
+    },
+    {
+      "char": "ˋ",
+      "code": "&#715;",
+      "css": "\\02CB",
+      "name": "Modifier Letter Grave Accent"
+    },
+    {
+      "char": "ˌ",
+      "code": "&#716;",
+      "css": "\\02CC",
+      "name": "Modifier Letter Low Vertical Line"
+    },
+    {
+      "char": "ˍ",
+      "code": "&#717;",
+      "css": "\\02CD",
+      "name": "Modifier Letter Low Macron"
+    },
+    {
+      "char": "ˎ",
+      "code": "&#718;",
+      "css": "\\02CE",
+      "name": "Modifier Letter Low Grave Accent"
+    },
+    {
+      "char": "ˏ",
+      "code": "&#719;",
+      "css": "\\02CF",
+      "name": "Modifier Letter Low Acute Accent"
+    },
+    {
+      "char": "ː",
+      "code": "&#720;",
+      "css": "\\02D0",
+      "name": "Modifier Letter Triangular Colon"
+    },
+    {
+      "char": "ˑ",
+      "code": "&#721;",
+      "css": "\\02D1",
+      "name": "Modifier Letter Half Triangular Colon"
+    },
+    {
+      "char": "˒",
+      "code": "&#722;",
+      "css": "\\02D2",
+      "name": "Modifier Letter Centred Right Half Ring"
+    },
+    {
+      "char": "˓",
+      "code": "&#723;",
+      "css": "\\02D3",
+      "name": "Modifier Letter Centred Left Half Ring"
+    },
+    {
+      "char": "˔",
+      "code": "&#724;",
+      "css": "\\02D4",
+      "name": "Modifier Letter Up Tack"
+    },
+    {
+      "char": "˕",
+      "code": "&#725;",
+      "css": "\\02D5",
+      "name": "Modifier Letter Down Tack"
+    },
+    {
+      "char": "˖",
+      "code": "&#726;",
+      "css": "\\02D6",
+      "name": "Modifier Letter Plus Sign"
+    },
+    {
+      "char": "˗",
+      "code": "&#727;",
+      "css": "\\02D7",
+      "name": "Modifier Letter Minus Sign"
+    },
+    {
+      "char": "˘",
+      "code": "&#728;",
+      "css": "\\02D8",
+      "name": "Breve"
+    },
+    {
+      "char": "˙",
+      "code": "&#729;",
+      "css": "\\02D9",
+      "name": "Dot Above"
+    },
+    {
+      "char": "˚",
+      "code": "&#730;",
+      "css": "\\02DA",
+      "name": "Ring Above"
+    },
+    {
+      "char": "˛",
+      "code": "&#731;",
+      "css": "\\02DB",
+      "name": "Ogonek"
+    },
+    {
+      "char": "˜",
+      "code": "&tilde;;",
+      "css": "\\02DC",
+      "name": "Small Tilde"
+    },
+    {
+      "char": "˝",
+      "code": "&#733;",
+      "css": "\\02DD",
+      "name": "Double Acute Accent"
+    },
+    {
+      "char": "˞",
+      "code": "&#734;",
+      "css": "\\02DE",
+      "name": "Modifier Letter Rhotic Hook"
+    },
+    {
+      "char": "˟",
+      "code": "&#735;",
+      "css": "\\02DF",
+      "name": "Modifier Letter Cross Accent"
+    },
+    {
+      "char": "ˠ",
+      "code": "&#736;",
+      "css": "\\02E0",
+      "name": "Modifier Letter Small Gamma"
+    },
+    {
+      "char": "ˡ",
+      "code": "&#737;",
+      "css": "\\02E1",
+      "name": "Modifier Letter Small L"
+    },
+    {
+      "char": "ˢ",
+      "code": "&#738;",
+      "css": "\\02E2",
+      "name": "Modifier Letter Small S"
+    },
+    {
+      "char": "ˣ",
+      "code": "&#739;",
+      "css": "\\02E3",
+      "name": "Modifier Letter Small X"
+    },
+    {
+      "char": "ˤ",
+      "code": "&#740;",
+      "css": "\\02E4",
+      "name": "Modifier Letter Small Reversed Glottal Stop"
+    },
+    {
+      "char": "˥",
+      "code": "&#741;",
+      "css": "\\02E5",
+      "name": "Modifier Letter Extra-HIGH TONE BAR"
+    },
+    {
+      "char": "˦",
+      "code": "&#742;",
+      "css": "\\02E6",
+      "name": "Modifier Letter High Tone Bar"
+    },
+    {
+      "char": "˧",
+      "code": "&#743;",
+      "css": "\\02E7",
+      "name": "Modifier Letter Mid Tone Bar"
+    },
+    {
+      "char": "˨",
+      "code": "&#744;",
+      "css": "\\02E8",
+      "name": "Modifier Letter Low Tone Bar"
+    },
+    {
+      "char": "˩",
+      "code": "&#745;",
+      "css": "\\02E9",
+      "name": "Modifier Letter Extra-LOW TONE BAR"
+    },
+    {
+      "char": "˪",
+      "code": "&#746;",
+      "css": "\\02EA",
+      "name": "Modifier Letter Yin Departing Tone Mark"
+    },
+    {
+      "char": "˫",
+      "code": "&#747;",
+      "css": "\\02EB",
+      "name": "Modifier Letter Yang Departing Tone Mark"
+    },
+    {
+      "char": "ˬ",
+      "code": "&#748;",
+      "css": "\\02EC",
+      "name": "Modifier Letter Voicing"
+    },
+    {
+      "char": "˭",
+      "code": "&#749;",
+      "css": "\\02ED",
+      "name": "Modifier Letter Unaspirated"
+    },
+    {
+      "char": "ˮ",
+      "code": "&#750;",
+      "css": "\\02EE",
+      "name": "Modifier Letter Double Apostrophe"
+    },
+    {
+      "char": "˯",
+      "code": "&#751;",
+      "css": "\\02EF",
+      "name": "Modifier Letter Low Down Arrowhead"
+    },
+    {
+      "char": "˰",
+      "code": "&#752;",
+      "css": "\\02F0",
+      "name": "Modifier Letter Low Up Arrowhead"
+    },
+    {
+      "char": "˱",
+      "code": "&#753;",
+      "css": "\\02F1",
+      "name": "Modifier Letter Low Left Arrowhead"
+    },
+    {
+      "char": "˲",
+      "code": "&#754;",
+      "css": "\\02F2",
+      "name": "Modifier Letter Low Right Arrowhead"
+    },
+    {
+      "char": "˳",
+      "code": "&#755;",
+      "css": "\\02F3",
+      "name": "Modifier Letter Low Ring"
+    },
+    {
+      "char": "˴",
+      "code": "&#756;",
+      "css": "\\02F4",
+      "name": "Modifier Letter Middle Grave Accent"
+    },
+    {
+      "char": "˵",
+      "code": "&#757;",
+      "css": "\\02F5",
+      "name": "Modifier Letter Middle Double Grave Accent"
+    },
+    {
+      "char": "˶",
+      "code": "&#758;",
+      "css": "\\02F6",
+      "name": "Modifier Letter Middle Double Acute Accent"
+    },
+    {
+      "char": "˷",
+      "code": "&#759;",
+      "css": "\\02F7",
+      "name": "Modifier Letter Low Tilde"
+    },
+    {
+      "char": "˸",
+      "code": "&#760;",
+      "css": "\\02F8",
+      "name": "Modifier Letter Raised Colon"
+    },
+    {
+      "char": "˹",
+      "code": "&#761;",
+      "css": "\\02F9",
+      "name": "Modifier Letter Begin High Tone"
+    },
+    {
+      "char": "˺",
+      "code": "&#762;",
+      "css": "\\02FA",
+      "name": "Modifier Letter End High Tone"
+    },
+    {
+      "char": "˻",
+      "code": "&#763;",
+      "css": "\\02FB",
+      "name": "Modifier Letter Begin Low Tone"
+    },
+    {
+      "char": "˼",
+      "code": "&#764;",
+      "css": "\\02FC",
+      "name": "Modifier Letter End Low Tone"
+    },
+    {
+      "char": "˽",
+      "code": "&#765;",
+      "css": "\\02FD",
+      "name": "Modifier Letter Shelf"
+    },
+    {
+      "char": "˾",
+      "code": "&#766;",
+      "css": "\\02FE",
+      "name": "Modifier Letter Open Shelf"
+    },
+    {
+      "char": "˿",
+      "code": "&#767;",
+      "css": "\\02FF",
+      "name": "Modifier Letter Low Left Arrow"
+    }
+  ]
+}

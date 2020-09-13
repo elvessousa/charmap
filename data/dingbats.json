@@ -1,0 +1,1150 @@
+{
+  "characters": [
+    {
+      "char": "✁",
+      "code": "&#9985;",
+      "css": "\\2701",
+      "name": "Upper Blade Scissors"
+    },
+    {
+      "char": "✂",
+      "code": "&#9986;",
+      "css": "\\2702",
+      "name": "Black Scissors"
+    },
+    {
+      "char": "✃",
+      "code": "&#9987;",
+      "css": "\\2703",
+      "name": "Lower Blade Scissors"
+    },
+    {
+      "char": "✄",
+      "code": "&#9988;",
+      "css": "\\2704",
+      "name": "White Scissors"
+    },
+    {
+      "char": "✅",
+      "code": "&#9989;",
+      "css": "\\2705",
+      "name": "White Heavy Check Mark"
+    },
+    {
+      "char": "✆",
+      "code": "&#9990;",
+      "css": "\\2706",
+      "name": "Telephone Location Sign"
+    },
+    {
+      "char": "✇",
+      "code": "&#9991;",
+      "css": "\\2707",
+      "name": "Tape Drive"
+    },
+    {
+      "char": "✈",
+      "code": "&#9992;",
+      "css": "\\2708",
+      "name": "Airplane"
+    },
+    {
+      "char": "✉",
+      "code": "&#9993;",
+      "css": "\\2709",
+      "name": "Envelope"
+    },
+    {
+      "char": "✊",
+      "code": "&#9994;",
+      "css": "\\270A",
+      "name": "Raised Fist"
+    },
+    {
+      "char": "✋",
+      "code": "&#9995;",
+      "css": "\\270B",
+      "name": "Raised Hand"
+    },
+    {
+      "char": "✌",
+      "code": "&#9996;",
+      "css": "\\270C",
+      "name": "Victory Hand"
+    },
+    {
+      "char": "✍",
+      "code": "&#9997;",
+      "css": "\\270D",
+      "name": "Writing Hand"
+    },
+    {
+      "char": "✎",
+      "code": "&#9998;",
+      "css": "\\270E",
+      "name": "Lower Right Pencil"
+    },
+    {
+      "char": "✏",
+      "code": "&#9999;",
+      "css": "\\270F",
+      "name": "Pencil"
+    },
+    {
+      "char": "✐",
+      "code": "&#10000;",
+      "css": "\\2710",
+      "name": "Upper Right Pencil"
+    },
+    {
+      "char": "✑",
+      "code": "&#10001;",
+      "css": "\\2711",
+      "name": "White Nib"
+    },
+    {
+      "char": "✒",
+      "code": "&#10002;",
+      "css": "\\2712",
+      "name": "Black Nib"
+    },
+    {
+      "char": "✓",
+      "code": "&#10003;",
+      "css": "\\2713",
+      "name": "Check Mark"
+    },
+    {
+      "char": "✔",
+      "code": "&#10004;",
+      "css": "\\2714",
+      "name": "Heavy Check Mark"
+    },
+    {
+      "char": "✕",
+      "code": "&#10005;",
+      "css": "\\2715",
+      "name": "Multiplication X"
+    },
+    {
+      "char": "✖",
+      "code": "&#10006;",
+      "css": "\\2716",
+      "name": "Heavy Multiplication X"
+    },
+    {
+      "char": "✗",
+      "code": "&#10007;",
+      "css": "\\2717",
+      "name": "Ballot X"
+    },
+    {
+      "char": "✘",
+      "code": "&#10008;",
+      "css": "\\2718",
+      "name": "Heavy Ballot X"
+    },
+    {
+      "char": "✙",
+      "code": "&#10009;",
+      "css": "\\2719",
+      "name": "Outlined Greek Cross"
+    },
+    {
+      "char": "✚",
+      "code": "&#10010;",
+      "css": "\\271A",
+      "name": "Heavy Greek Cross"
+    },
+    {
+      "char": "✛",
+      "code": "&#10011;",
+      "css": "\\271B",
+      "name": "Open Centre Cross"
+    },
+    {
+      "char": "✜",
+      "code": "&#10012;",
+      "css": "\\271C",
+      "name": "Heavy Open Centre Cross"
+    },
+    {
+      "char": "✝",
+      "code": "&#10013;",
+      "css": "\\271D",
+      "name": "Latin Cross"
+    },
+    {
+      "char": "✞",
+      "code": "&#10014;",
+      "css": "\\271E",
+      "name": "Shadowed White Latin Cross"
+    },
+    {
+      "char": "✟",
+      "code": "&#10015;",
+      "css": "\\271F",
+      "name": "Outlined Latin Cross"
+    },
+    {
+      "char": "✠",
+      "code": "&#10016;",
+      "css": "\\2720",
+      "name": "Maltese Cross"
+    },
+    {
+      "char": "✡",
+      "code": "&#10017;",
+      "css": "\\2721",
+      "name": "Star Of David"
+    },
+    {
+      "char": "✢",
+      "code": "&#10018;",
+      "css": "\\2722",
+      "name": "Four Teardrop-Spoked Asterisk"
+    },
+    {
+      "char": "✣",
+      "code": "&#10019;",
+      "css": "\\2723",
+      "name": "Four Balloon-Spoked Asterisk"
+    },
+    {
+      "char": "✤",
+      "code": "&#10020;",
+      "css": "\\2724",
+      "name": "Heavy Four Balloon-Spoked Asterisk"
+    },
+    {
+      "char": "✥",
+      "code": "&#10021;",
+      "css": "\\2725",
+      "name": "Four Club-Spoked Asterisk"
+    },
+    {
+      "char": "✦",
+      "code": "&#10022;",
+      "css": "\\2726",
+      "name": "Black Four Pointed Star"
+    },
+    {
+      "char": "✧",
+      "code": "&#10023;",
+      "css": "\\2727",
+      "name": "White Four Pointed Star"
+    },
+    {
+      "char": "✨",
+      "code": "&#10024;",
+      "css": "\\2728",
+      "name": "Sparkles"
+    },
+    {
+      "char": "✩",
+      "code": "&#10025;",
+      "css": "\\2729",
+      "name": "Stress Outlined White Star"
+    },
+    {
+      "char": "✪",
+      "code": "&#10026;",
+      "css": "\\272A",
+      "name": "Circled White Star"
+    },
+    {
+      "char": "✫",
+      "code": "&#10027;",
+      "css": "\\272B",
+      "name": "Open Centre Black Star"
+    },
+    {
+      "char": "✬",
+      "code": "&#10028;",
+      "css": "\\272C",
+      "name": "Black Centre White Star"
+    },
+    {
+      "char": "✭",
+      "code": "&#10029;",
+      "css": "\\272D",
+      "name": "Outlined Black Star"
+    },
+    {
+      "char": "✮",
+      "code": "&#10030;",
+      "css": "\\272E",
+      "name": "Heavy Outlined Black Star"
+    },
+    {
+      "char": "✯",
+      "code": "&#10031;",
+      "css": "\\272F",
+      "name": "Pinwheel Star"
+    },
+    {
+      "char": "✰",
+      "code": "&#10032;",
+      "css": "\\2730",
+      "name": "Shadowed White Star"
+    },
+    {
+      "char": "✱",
+      "code": "&#10033;",
+      "css": "\\2731",
+      "name": "Heavy Asterisk"
+    },
+    {
+      "char": "✲",
+      "code": "&#10034;",
+      "css": "\\2732",
+      "name": "Open Centre Asterisk"
+    },
+    {
+      "char": "✳",
+      "code": "&#10035;",
+      "css": "\\2733",
+      "name": "Eight Spoked Asterisk"
+    },
+    {
+      "char": "✴",
+      "code": "&#10036;",
+      "css": "\\2734",
+      "name": "Eight Pointed Black Star"
+    },
+    {
+      "char": "✵",
+      "code": "&#10037;",
+      "css": "\\2735",
+      "name": "Eight Pointed Pinwheel Star"
+    },
+    {
+      "char": "✶",
+      "code": "&#10038;",
+      "css": "\\2736",
+      "name": "Six Pointed Black Star"
+    },
+    {
+      "char": "✷",
+      "code": "&#10039;",
+      "css": "\\2737",
+      "name": "Eight Pointed Rectilinear Black Star"
+    },
+    {
+      "char": "✸",
+      "code": "&#10040;",
+      "css": "\\2738",
+      "name": "Heavy Eight Pointed Rectilinear Black Star"
+    },
+    {
+      "char": "✹",
+      "code": "&#10041;",
+      "css": "\\2739",
+      "name": "Twelve Pointed Black Star"
+    },
+    {
+      "char": "✺",
+      "code": "&#10042;",
+      "css": "\\273A",
+      "name": "Sixteen Pointed Asterisk"
+    },
+    {
+      "char": "✻",
+      "code": "&#10043;",
+      "css": "\\273B",
+      "name": "Teardrop-Spoked Asterisk"
+    },
+    {
+      "char": "✼",
+      "code": "&#10044;",
+      "css": "\\273C",
+      "name": "Open Centre Teardrop-Spoked Asterisk"
+    },
+    {
+      "char": "✽",
+      "code": "&#10045;",
+      "css": "\\273D",
+      "name": "Heavy Teardrop-Spoked Asterisk"
+    },
+    {
+      "char": "✾",
+      "code": "&#10046;",
+      "css": "\\273E",
+      "name": "Six Petalled Black And White Florette"
+    },
+    {
+      "char": "✿",
+      "code": "&#10047;",
+      "css": "\\273F",
+      "name": "Black Florette"
+    },
+    {
+      "char": "❀",
+      "code": "&#10048;",
+      "css": "\\2740",
+      "name": "White Florette"
+    },
+    {
+      "char": "❁",
+      "code": "&#10049;",
+      "css": "\\2741",
+      "name": "Eight Petalled Outlined Black Florette"
+    },
+    {
+      "char": "❂",
+      "code": "&#10050;",
+      "css": "\\2742",
+      "name": "Circled Open Centre Eight Pointed Star"
+    },
+    {
+      "char": "❃",
+      "code": "&#10051;",
+      "css": "\\2743",
+      "name": "Heavy Teardrop-Spoked Pinwheel Asterisk"
+    },
+    {
+      "char": "❄",
+      "code": "&#10052;",
+      "css": "\\2744",
+      "name": "Snowflake"
+    },
+    {
+      "char": "❅",
+      "code": "&#10053;",
+      "css": "\\2745",
+      "name": "Tight Trifoliate Snowflake"
+    },
+    {
+      "char": "❆",
+      "code": "&#10054;",
+      "css": "\\2746",
+      "name": "Heavy Chevron Snowflake"
+    },
+    {
+      "char": "❇",
+      "code": "&#10055;",
+      "css": "\\2747",
+      "name": "Sparkle"
+    },
+    {
+      "char": "❈",
+      "code": "&#10056;",
+      "css": "\\2748",
+      "name": "Heavy Sparkle"
+    },
+    {
+      "char": "❉",
+      "code": "&#10057;",
+      "css": "\\2749",
+      "name": "Balloon-Spoked Asterisk"
+    },
+    {
+      "char": "❊",
+      "code": "&#10058;",
+      "css": "\\274A",
+      "name": "Eight Teardrop-Spoked Propeller Asterisk"
+    },
+    {
+      "char": "❋",
+      "code": "&#10059;",
+      "css": "\\274B",
+      "name": "Heavy Eight Teardrop-Spoked Propeller Asterisk"
+    },
+    {
+      "char": "❌",
+      "code": "&#10060;",
+      "css": "\\274C",
+      "name": "Cross Mark"
+    },
+    {
+      "char": "❍",
+      "code": "&#10061;",
+      "css": "\\274D",
+      "name": "Shadowed White Circle"
+    },
+    {
+      "char": "❎",
+      "code": "&#10062;",
+      "css": "\\274E",
+      "name": "Negative Squared Cross Mark"
+    },
+    {
+      "char": "❏",
+      "code": "&#10063;",
+      "css": "\\274F",
+      "name": "Lower Right Drop-Shadowed White Square"
+    },
+    {
+      "char": "❐",
+      "code": "&#10064;",
+      "css": "\\2750",
+      "name": "Upper Right Drop-Shadowed White Square"
+    },
+    {
+      "char": "❑",
+      "code": "&#10065;",
+      "css": "\\2751",
+      "name": "Lower Right Shadowed White Square"
+    },
+    {
+      "char": "❒",
+      "code": "&#10066;",
+      "css": "\\2752",
+      "name": "Upper Right Shadowed White Square"
+    },
+    {
+      "char": "❓",
+      "code": "&#10067;",
+      "css": "\\2753",
+      "name": "Black Question Mark Ornament"
+    },
+    {
+      "char": "❔",
+      "code": "&#10068;",
+      "css": "\\2754",
+      "name": "White Question Mark Ornament"
+    },
+    {
+      "char": "❕",
+      "code": "&#10069;",
+      "css": "\\2755",
+      "name": "White Exclamation Mark Ornament"
+    },
+    {
+      "char": "❖",
+      "code": "&#10070;",
+      "css": "\\2756",
+      "name": "Black Diamond Minus White X"
+    },
+    {
+      "char": "❗",
+      "code": "&#10071;",
+      "css": "\\2757",
+      "name": "Heavy Exclamation Mark Symbol"
+    },
+    {
+      "char": "❘",
+      "code": "&#10072;",
+      "css": "\\2758",
+      "name": "Light Vertical Bar"
+    },
+    {
+      "char": "❙",
+      "code": "&#10073;",
+      "css": "\\2759",
+      "name": "Medium Vertical Bar"
+    },
+    {
+      "char": "❚",
+      "code": "&#10074;",
+      "css": "\\275A",
+      "name": "Heavy Vertical Bar"
+    },
+    {
+      "char": "❛",
+      "code": "&#10075;",
+      "css": "\\275B",
+      "name": "Heavy Single Turned Comma Quotation Mark Ornament"
+    },
+    {
+      "char": "❜",
+      "code": "&#10076;",
+      "css": "\\275C",
+      "name": "Heavy Single Comma Quotation Mark Ornament"
+    },
+    {
+      "char": "❝",
+      "code": "&#10077;",
+      "css": "\\275D",
+      "name": "Heavy Double Turned Comma Quotation Mark Ornament"
+    },
+    {
+      "char": "❞",
+      "code": "&#10078;",
+      "css": "\\275E",
+      "name": "Heavy Double Comma Quotation Mark Ornament"
+    },
+    {
+      "char": "❟",
+      "code": "&#10079;",
+      "css": "\\275F",
+      "name": "Heavy Low Single Comma Quotation Mark Ornament"
+    },
+    {
+      "char": "❠",
+      "code": "&#10080;",
+      "css": "\\2760",
+      "name": "Heavy Low Double Comma Quotation Mark Ornament"
+    },
+    {
+      "char": "❡",
+      "code": "&#10081;",
+      "css": "\\2761",
+      "name": "Curved Stem Paragraph Sign Ornament"
+    },
+    {
+      "char": "❢",
+      "code": "&#10082;",
+      "css": "\\2762",
+      "name": "Heavy Exclamation Mark Ornament"
+    },
+    {
+      "char": "❣",
+      "code": "&#10083;",
+      "css": "\\2763",
+      "name": "Heavy Heart Exclamation Mark Ornament"
+    },
+    {
+      "char": "❤",
+      "code": "&#10084;",
+      "css": "\\2764",
+      "name": "Heavy Black Heart"
+    },
+    {
+      "char": "❥",
+      "code": "&#10085;",
+      "css": "\\2765",
+      "name": "Rotated Heavy Black Heart Bullet"
+    },
+    {
+      "char": "❦",
+      "code": "&#10086;",
+      "css": "\\2766",
+      "name": "Floral Heart"
+    },
+    {
+      "char": "❧",
+      "code": "&#10087;",
+      "css": "\\2767",
+      "name": "Rotated Floral Heart Bullet"
+    },
+    {
+      "char": "❨",
+      "code": "&#10088;",
+      "css": "\\2768",
+      "name": "Medium Left Parenthesis Ornament"
+    },
+    {
+      "char": "❩",
+      "code": "&#10089;",
+      "css": "\\2769",
+      "name": "Medium Right Parenthesis Ornament"
+    },
+    {
+      "char": "❪",
+      "code": "&#10090;",
+      "css": "\\276A",
+      "name": "Medium Flattened Left Parenthesis Ornament"
+    },
+    {
+      "char": "❫",
+      "code": "&#10091;",
+      "css": "\\276B",
+      "name": "Medium Flattened Right Parenthesis Ornament"
+    },
+    {
+      "char": "❬",
+      "code": "&#10092;",
+      "css": "\\276C",
+      "name": "Medium Left-Pointing Angle Bracket Ornament"
+    },
+    {
+      "char": "❭",
+      "code": "&#10093;",
+      "css": "\\276D",
+      "name": "Medium Right-Pointing Angle Bracket Ornament"
+    },
+    {
+      "char": "❮",
+      "code": "&#10094;",
+      "css": "\\276E",
+      "name": "Heavy Left-Pointing Angle Quotation Mark Ornament"
+    },
+    {
+      "char": "❯",
+      "code": "&#10095;",
+      "css": "\\276F",
+      "name": "Heavy Right-Pointing Angle Quotation Mark Ornament"
+    },
+    {
+      "char": "❰",
+      "code": "&#10096;",
+      "css": "\\2770",
+      "name": "Heavy Left-Pointing Angle Bracket Ornament"
+    },
+    {
+      "char": "❱",
+      "code": "&#10097;",
+      "css": "\\2771",
+      "name": "Heavy Right-Pointing Angle Bracket Ornament"
+    },
+    {
+      "char": "❲",
+      "code": "&#10098;",
+      "css": "\\2772",
+      "name": "Light Left Tortoise Shell Bracket Ornament"
+    },
+    {
+      "char": "❳",
+      "code": "&#10099;",
+      "css": "\\2773",
+      "name": "Light Right Tortoise Shell Bracket Ornament"
+    },
+    {
+      "char": "❴",
+      "code": "&#10100;",
+      "css": "\\2774",
+      "name": "Medium Left Curly Bracket Ornament"
+    },
+    {
+      "char": "❵",
+      "code": "&#10101;",
+      "css": "\\2775",
+      "name": "Medium Right Curly Bracket Ornament"
+    },
+    {
+      "char": "❶",
+      "code": "&#10102;",
+      "css": "\\2776",
+      "name": "Dingbat Negative Circled Digit One"
+    },
+    {
+      "char": "❷",
+      "code": "&#10103;",
+      "css": "\\2777",
+      "name": "Dingbat Negative Circled Digit Two"
+    },
+    {
+      "char": "❸",
+      "code": "&#10104;",
+      "css": "\\2778",
+      "name": "Dingbat Negative Circled Digit Three"
+    },
+    {
+      "char": "❹",
+      "code": "&#10105;",
+      "css": "\\2779",
+      "name": "Dingbat Negative Circled Digit Four"
+    },
+    {
+      "char": "❺",
+      "code": "&#10106;",
+      "css": "\\277A",
+      "name": "Dingbat Negative Circled Digit Five"
+    },
+    {
+      "char": "❻",
+      "code": "&#10107;",
+      "css": "\\277B",
+      "name": "Dingbat Negative Circled Digit Six"
+    },
+    {
+      "char": "❼",
+      "code": "&#10108;",
+      "css": "\\277C",
+      "name": "Dingbat Negative Circled Digit Seven"
+    },
+    {
+      "char": "❽",
+      "code": "&#10109;",
+      "css": "\\277D",
+      "name": "Dingbat Negative Circled Digit Eight"
+    },
+    {
+      "char": "❾",
+      "code": "&#10110;",
+      "css": "\\277E",
+      "name": "Dingbat Negative Circled Digit Nine"
+    },
+    {
+      "char": "❿",
+      "code": "&#10111;",
+      "css": "\\277F",
+      "name": "Dingbat Negative Circled Number Ten"
+    },
+    {
+      "char": "➀",
+      "code": "&#10112;",
+      "css": "\\2780",
+      "name": "Dingbat Circled Sans-Serif Digit One"
+    },
+    {
+      "char": "➁",
+      "code": "&#10113;",
+      "css": "\\2781",
+      "name": "Dingbat Circled Sans-Serif Digit Two"
+    },
+    {
+      "char": "➂",
+      "code": "&#10114;",
+      "css": "\\2782",
+      "name": "Dingbat Circled Sans-Serif Digit Three"
+    },
+    {
+      "char": "➃",
+      "code": "&#10115;",
+      "css": "\\2783",
+      "name": "Dingbat Circled Sans-Serif Digit Four"
+    },
+    {
+      "char": "➄",
+      "code": "&#10116;",
+      "css": "\\2784",
+      "name": "Dingbat Circled Sans-Serif Digit Five"
+    },
+    {
+      "char": "➅",
+      "code": "&#10117;",
+      "css": "\\2785",
+      "name": "Dingbat Circled Sans-Serif Digit Six"
+    },
+    {
+      "char": "➆",
+      "code": "&#10118;",
+      "css": "\\2786",
+      "name": "Dingbat Circled Sans-Serif Digit Seven"
+    },
+    {
+      "char": "➇",
+      "code": "&#10119;",
+      "css": "\\2787",
+      "name": "Dingbat Circled Sans-Serif Digit Eight"
+    },
+    {
+      "char": "➈",
+      "code": "&#10120;",
+      "css": "\\2788",
+      "name": "Dingbat Circled Sans-Serif Digit Nine"
+    },
+    {
+      "char": "➉",
+      "code": "&#10121;",
+      "css": "\\2789",
+      "name": "Dingbat Circled Sans-Serif Number Ten"
+    },
+    {
+      "char": "➊",
+      "code": "&#10122;",
+      "css": "\\278A",
+      "name": "Dingbat Negative Circled Sans-Serif Digit One"
+    },
+    {
+      "char": "➋",
+      "code": "&#10123;",
+      "css": "\\278B",
+      "name": "Dingbat Negative Circled Sans-Serif Digit Two"
+    },
+    {
+      "char": "➌",
+      "code": "&#10124;",
+      "css": "\\278C",
+      "name": "Dingbat Negative Circled Sans-Serif Digit Three"
+    },
+    {
+      "char": "➍",
+      "code": "&#10125;",
+      "css": "\\278D",
+      "name": "Dingbat Negative Circled Sans-Serif Digit Four"
+    },
+    {
+      "char": "➎",
+      "code": "&#10126;",
+      "css": "\\278E",
+      "name": "Dingbat Negative Circled Sans-Serif Digit Five"
+    },
+    {
+      "char": "➏",
+      "code": "&#10127;",
+      "css": "\\278F",
+      "name": "Dingbat Negative Circled Sans-Serif Digit Six"
+    },
+    {
+      "char": "➐",
+      "code": "&#10128;",
+      "css": "\\2790",
+      "name": "Dingbat Negative Circled Sans-Serif Digit Seven"
+    },
+    {
+      "char": "➑",
+      "code": "&#10129;",
+      "css": "\\2791",
+      "name": "Dingbat Negative Circled Sans-Serif Digit Eight"
+    },
+    {
+      "char": "➒",
+      "code": "&#10130;",
+      "css": "\\2792",
+      "name": "Dingbat Negative Circled Sans-Serif Digit Nine"
+    },
+    {
+      "char": "➓",
+      "code": "&#10131;",
+      "css": "\\2793",
+      "name": "Dingbat Negative Circled Sans-Serif Number Ten"
+    },
+    {
+      "char": "➔",
+      "code": "&#10132;",
+      "css": "\\2794",
+      "name": "Heavy Wide-Headed Rightwards Arrow"
+    },
+    {
+      "char": "➕",
+      "code": "&#10133;",
+      "css": "\\2795",
+      "name": "Heavy Plus Sign"
+    },
+    {
+      "char": "➖",
+      "code": "&#10134;",
+      "css": "\\2796",
+      "name": "Heavy Minus Sign"
+    },
+    {
+      "char": "➗",
+      "code": "&#10135;",
+      "css": "\\2797",
+      "name": "Heavy Division Sign"
+    },
+    {
+      "char": "➘",
+      "code": "&#10136;",
+      "css": "\\2798",
+      "name": "Heavy South East Arrow"
+    },
+    {
+      "char": "➙",
+      "code": "&#10137;",
+      "css": "\\2799",
+      "name": "Heavy Rightwards Arrow"
+    },
+    {
+      "char": "➚",
+      "code": "&#10138;",
+      "css": "\\279A",
+      "name": "Heavy North East Arrow"
+    },
+    {
+      "char": "➛",
+      "code": "&#10139;",
+      "css": "\\279B",
+      "name": "Drafting Point Rightwards Arrow"
+    },
+    {
+      "char": "➜",
+      "code": "&#10140;",
+      "css": "\\279C",
+      "name": "Heavy Round-Tipped Rightwards Arrow"
+    },
+    {
+      "char": "➝",
+      "code": "&#10141;",
+      "css": "\\279D",
+      "name": "Triangle-Headed Rightwards Arrow"
+    },
+    {
+      "char": "➞",
+      "code": "&#10142;",
+      "css": "\\279E",
+      "name": "Heavy Triangle-Headed Rightwards Arrow"
+    },
+    {
+      "char": "➟",
+      "code": "&#10143;",
+      "css": "\\279F",
+      "name": "Dashed Triangle-Headed Rightwards Arrow"
+    },
+    {
+      "char": "➠",
+      "code": "&#10144;",
+      "css": "\\27A0",
+      "name": "Heavy Dashed Triangle-Headed Rightwards Arrow"
+    },
+    {
+      "char": "➡",
+      "code": "&#10145;",
+      "css": "\\27A1",
+      "name": "Black Rightwards Arrow"
+    },
+    {
+      "char": "➢",
+      "code": "&#10146;",
+      "css": "\\27A2",
+      "name": "Three-D Top-Lighted Rightwards Arrowhead"
+    },
+    {
+      "char": "➣",
+      "code": "&#10147;",
+      "css": "\\27A3",
+      "name": "Three-D Bottom-Lighted Rightwards Arrowhead"
+    },
+    {
+      "char": "➤",
+      "code": "&#10148;",
+      "css": "\\27A4",
+      "name": "Black Rightwards Arrowhead"
+    },
+    {
+      "char": "➥",
+      "code": "&#10149;",
+      "css": "\\27A5",
+      "name": "Heavy Black Curved Downwards And Rightwards Arrow"
+    },
+    {
+      "char": "➦",
+      "code": "&#10150;",
+      "css": "\\27A6",
+      "name": "Heavy Black Curved Upwards And Rightwards Arrow"
+    },
+    {
+      "char": "➧",
+      "code": "&#10151;",
+      "css": "\\27A7",
+      "name": "Squat Black Rightwards Arrow"
+    },
+    {
+      "char": "➨",
+      "code": "&#10152;",
+      "css": "\\27A8",
+      "name": "Heavy Concave-Pointed Black Rightwards Arrow"
+    },
+    {
+      "char": "➩",
+      "code": "&#10153;",
+      "css": "\\27A9",
+      "name": "Right-Shaded White Rightwards Arrow"
+    },
+    {
+      "char": "➪",
+      "code": "&#10154;",
+      "css": "\\27AA",
+      "name": "Left-Shaded White Rightwards Arrow"
+    },
+    {
+      "char": "➫",
+      "code": "&#10155;",
+      "css": "\\27AB",
+      "name": "Back-Tilted Shadowed White Rightwards Arrow"
+    },
+    {
+      "char": "➬",
+      "code": "&#10156;",
+      "css": "\\27AC",
+      "name": "Front-Tilted Shadowed White Rightwards Arrow"
+    },
+    {
+      "char": "➭",
+      "code": "&#10157;",
+      "css": "\\27AD",
+      "name": "Heavy Lower Right-Shadowed White Rightwards Arrow"
+    },
+    {
+      "char": "➮",
+      "code": "&#10158;",
+      "css": "\\27AE",
+      "name": "Heavy Upper Right-Shadowed White Rightwards Arrow"
+    },
+    {
+      "char": "➯",
+      "code": "&#10159;",
+      "css": "\\27AF",
+      "name": "Notched Lower Right-Shadowed White Rightwards Arrow"
+    },
+    {
+      "char": "➰",
+      "code": "&#10160;",
+      "css": "\\27B0",
+      "name": "Curly Loop"
+    },
+    {
+      "char": "➱",
+      "code": "&#10161;",
+      "css": "\\27B1",
+      "name": "Notched Upper Right-Shadowed White Rightwards Arrow"
+    },
+    {
+      "char": "➲",
+      "code": "&#10162;",
+      "css": "\\27B2",
+      "name": "Circled Heavy White Rightwards Arrow"
+    },
+    {
+      "char": "➳",
+      "code": "&#10163;",
+      "css": "\\27B3",
+      "name": "White-Feathered Rightwards Arrow"
+    },
+    {
+      "char": "➴",
+      "code": "&#10164;",
+      "css": "\\27B4",
+      "name": "Black-Feathered South East Arrow"
+    },
+    {
+      "char": "➵",
+      "code": "&#10165;",
+      "css": "\\27B5",
+      "name": "Black-Feathered Rightwards Arrow"
+    },
+    {
+      "char": "➶",
+      "code": "&#10166;",
+      "css": "\\27B6",
+      "name": "Black-Feathered North East Arrow"
+    },
+    {
+      "char": "➷",
+      "code": "&#10167;",
+      "css": "\\27B7",
+      "name": "Heavy Black-Feathered South East Arrow"
+    },
+    {
+      "char": "➸",
+      "code": "&#10168;",
+      "css": "\\27B8",
+      "name": "Heavy Black-Feathered Rightwards Arrow"
+    },
+    {
+      "char": "➹",
+      "code": "&#10169;",
+      "css": "\\27B9",
+      "name": "Heavy Black-Feathered North East Arrow"
+    },
+    {
+      "char": "➺",
+      "code": "&#10170;",
+      "css": "\\27BA",
+      "name": "Teardrop-Barbed Rightwards Arrow"
+    },
+    {
+      "char": "➻",
+      "code": "&#10171;",
+      "css": "\\27BB",
+      "name": "Heavy Teardrop-Shanked Rightwards Arrow"
+    },
+    {
+      "char": "➼",
+      "code": "&#10172;",
+      "css": "\\27BC",
+      "name": "Wedge-Tailed Rightwards Arrow"
+    },
+    {
+      "char": "➽",
+      "code": "&#10173;",
+      "css": "\\27BD",
+      "name": "Heavy Wedge-Tailed Rightwards Arrow"
+    },
+    {
+      "char": "➾",
+      "code": "&#10174;",
+      "css": "\\27BE",
+      "name": "Open-Outlined Rightwards Arrow"
+    },
+    {
+      "char": "➿",
+      "code": "&#10175;",
+      "css": "\\27BF",
+      "name": "Double Curly Loop"
+    }
+  ]
+}
