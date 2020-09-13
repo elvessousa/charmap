@@ -228,7 +228,7 @@
       "char": " ",
       "code": "&nbsp;",
       "css": " ",
-      "type": "symbol",
+      "type": "space",
       "name": "Non-breaking space"
     },
     {
@@ -291,7 +291,7 @@
       "char": "©",
       "code": "&copy;",
       "css": "\\00A9",
-      "type": "symbol",
+      "type": "typography",
       "name": "Copyright sign"
     },
     {
@@ -312,14 +312,14 @@
       "char": "¬",
       "code": "&not;",
       "css": "\\00AC",
-      "type": "symbol",
+      "type": "math",
       "name": "Not straightepsilon"
     },
     {
       "char": "shy",
       "code": "&shy;",
       "css": "s",
-      "type": "symbol",
+      "type": "space",
       "name": "Soft hyphen"
     },
     {
@@ -340,7 +340,7 @@
       "char": "°",
       "code": "&deg;",
       "css": "\\00B0",
-      "type": "symbol",
+      "type": "typography",
       "name": "Degree"
     },
     {
@@ -375,7 +375,7 @@
       "char": "µ",
       "code": "&micro;",
       "css": "\\00B5",
-      "type": "symbol",
+      "type": "greek",
       "name": "Micro sign"
     },
     {
@@ -2181,70 +2181,70 @@
       "char": "ϑ",
       "code": "&thetav;",
       "css": "\\03D1",
-      "type": "symbol",
+      "type": "greek",
       "name": "Theta symbol"
     },
     {
       "char": "ϒ",
       "code": "&Upsi;",
       "css": "\\03D2",
-      "type": "symbol",
+      "type": "greek",
       "name": "Upsilon with hook"
     },
     {
       "char": "ϕ",
       "code": "&straightphi;",
       "css": "\\03D5",
-      "type": "symbol",
+      "type": "greek",
       "name": "Phi symbol"
     },
     {
       "char": "ϖ",
       "code": "&piv;",
       "css": "\\03D6",
-      "type": "symbol",
+      "type": "greek",
       "name": "Pi symbol"
     },
     {
       "char": "Ϝ",
       "code": "&Gammad;",
       "css": "\\03DC",
-      "type": "symbol",
+      "type": "greek",
       "name": "Digamma"
     },
     {
       "char": "ϝ",
       "code": "&gammad;",
       "css": "\\03DD",
-      "type": "symbol",
+      "type": "greek",
       "name": "Digamma"
     },
     {
       "char": "ϰ",
       "code": "&kappav;",
       "css": "\\03F0",
-      "type": "symbol",
+      "type": "greek",
       "name": "Kappa symbol"
     },
     {
       "char": "ϱ",
       "code": "&rhov;",
       "css": "\\03F1",
-      "type": "symbol",
+      "type": "greek",
       "name": "Rho symbol"
     },
     {
       "char": "ϵ",
       "code": "&epsi;",
       "css": "\\03F5",
-      "type": "symbol",
+      "type": "greek",
       "name": "Epsilon symbol"
     },
     {
       "char": "϶",
       "code": "&bepsi;",
       "css": "\\03F6",
-      "type": "symbol",
+      "type": "greek",
       "name": "Backwards epsilon symbol"
     },
     {
@@ -3196,14 +3196,14 @@
       "char": " ",
       "code": "&MediumSpace;",
       "css": "\\205F",
-      "type": "symbol",
+      "type": "space",
       "name": "Medium mathematical space"
     },
     {
       "char": "⁠",
       "code": "&NoBreak;",
       "css": "\\2060",
-      "type": "symbol",
+      "type": "space",
       "name": "Word joiner"
     },
     {
@@ -3308,7 +3308,7 @@
       "char": "ℐ",
       "code": "&Iscr;",
       "css": "\\2110",
-      "type": "symbol",
+      "type": "typography",
       "name": "I script"
     },
     {
@@ -3322,14 +3322,14 @@
       "char": "ℒ",
       "code": "&Lscr;",
       "css": "\\2112",
-      "type": "math",
+      "type": "typography",
       "name": "L script / Laplace"
     },
     {
       "char": "ℓ",
       "code": "&ell;",
       "css": "\\2113",
-      "type": "symbol",
+      "type": "typography",
       "name": "L script"
     },
     {
@@ -3350,14 +3350,14 @@
       "char": "℗",
       "code": "&copysr;",
       "css": "\\2117",
-      "type": "symbol",
+      "type": "typography",
       "name": "Sound recording copyright"
     },
     {
       "char": "℘",
       "code": "&wp;",
       "css": "\\2118",
-      "type": "symbol",
+      "type": "typography",
       "name": "P script"
     },
     {
@@ -3378,7 +3378,7 @@
       "char": "ℛ",
       "code": "&Rscr;",
       "css": "\\211B",
-      "type": "symbol",
+      "type": "typography",
       "name": "R Script"
     },
     {
@@ -3399,14 +3399,14 @@
       "char": "℞",
       "code": "&rx;",
       "css": "\\211E",
-      "type": "symbol",
+      "type": "typography",
       "name": "Prescription take"
     },
     {
       "char": "™",
       "code": "&trade;",
       "css": "\\2122",
-      "type": "symbol",
+      "type": "typography",
       "name": "Trade mark sign"
     },
     {
@@ -3420,14 +3420,14 @@
       "char": "Ω",
       "code": "&ohm;",
       "css": "\\03A9",
-      "type": "symbol",
+      "type": "greek",
       "name": "Ohm sign"
     },
     {
       "char": "℧",
       "code": "&mho;",
       "css": "\\2127",
-      "type": "symbol",
+      "type": "greek",
       "name": "Inverted ohm sign"
     },
     {
@@ -3441,35 +3441,35 @@
       "char": "℩",
       "code": "&iiota;",
       "css": "\\2129",
-      "type": "symbol",
+      "type": "greek",
       "name": "Turned greek iota"
     },
     {
       "char": "Å",
       "code": "&angst;",
       "css": "\\00C5",
-      "type": "symbol",
+      "type": "extended",
       "name": "Angstrom sign"
     },
     {
       "char": "ℬ",
       "code": "&Bscr;",
       "css": "\\212C",
-      "type": "symbol",
+      "type": "typography",
       "name": "B script"
     },
     {
       "char": "ℭ",
       "code": "&Cfr;",
       "css": "\\212D",
-      "type": "symbol",
+      "type": "typography",
       "name": "Black-letter C"
     },
     {
       "char": "ℯ",
       "code": "&escr;",
       "css": "\\212F",
-      "type": "math",
+      "type": "typography",
       "name": "Elementary charge / E script"
     },
     {
@@ -4314,7 +4314,7 @@
     },
     {
       "char": "∘",
-      "code": "&compfn; &SmallCircle;",
+      "code": "&compfn;",
       "css": "\\2218",
       "type": "math",
       "name": "Ring operator"
@@ -4510,7 +4510,7 @@
     },
     {
       "char": "∷",
-      "code": "&Colon;;",
+      "code": "&Colon;",
       "css": "\\2237",
       "type": "math",
       "name": "Proportion"
@@ -5217,7 +5217,7 @@
     },
     {
       "char": "⊤",
-      "code": "&top;;",
+      "code": "&top;",
       "css": "\\22A4",
       "type": "math",
       "name": "Down tack"
@@ -6696,7 +6696,7 @@
       "char": "❘",
       "code": "&VerticalSeparator;",
       "css": "\\2758",
-      "type": "symbol",
+      "type": "typography",
       "name": "Vertical separator"
     },
     {
@@ -6745,28 +6745,28 @@
       "char": "⟪",
       "code": "&Lang;",
       "css": "\\27EA",
-      "type": "symbol",
+      "type": "math",
       "name": "Left double angle bracket"
     },
     {
       "char": "⟫",
       "code": "&Rang;",
       "css": "\\27EB",
-      "type": "symbol",
+      "type": "math",
       "name": "Right double angle bracket"
     },
     {
       "char": "⟬",
       "code": "&loang;",
       "css": "\\27EC",
-      "type": "symbol",
+      "type": "math",
       "name": "Left double tortoise shell bracket"
     },
     {
       "char": "⟭",
       "code": "&roang;",
       "css": "\\27ED",
-      "type": "symbol",
+      "type": "math",
       "name": "Right double tortoise shell bracket"
     },
     {
@@ -7459,238 +7459,238 @@
       "char": "⦅",
       "code": "&lopar;",
       "css": "\\2985",
-      "type": "symbol",
+      "type": "math",
       "name": "White parenthesis"
     },
     {
       "char": "⦆",
       "code": "&ropar;",
       "css": "\\2986",
-      "type": "symbol",
+      "type": "math",
       "name": "White parenthesis"
     },
     {
       "char": "⦋",
       "code": "&lbrke;",
       "css": "\\298B",
-      "type": "symbol",
+      "type": "math",
       "name": "Square bracket with underline"
     },
     {
       "char": "⦌",
       "code": "&rbrke;",
       "css": "\\298C",
-      "type": "symbol",
+      "type": "math",
       "name": "Square bracket with underline"
     },
     {
       "char": "⦍",
       "code": "&lbrkslu;",
       "css": "\\298D",
-      "type": "symbol",
+      "type": "math",
       "name": "Square bracket with tick"
     },
     {
       "char": "⦎",
       "code": "&rbrksld;",
       "css": "\\298E",
-      "type": "symbol",
+      "type": "math",
       "name": "Square bracket with tick"
     },
     {
       "char": "⦏",
       "code": "&lbrksld;",
       "css": "\\298F",
-      "type": "symbol",
+      "type": "math",
       "name": "Square bracket with tick"
     },
     {
       "char": "⦐",
       "code": "&rbrkslu;",
       "css": "\\2990",
-      "type": "symbol",
+      "type": "math",
       "name": "Square bracket with tick"
     },
     {
       "char": "⦑",
       "code": "&langd;",
       "css": "\\2991",
-      "type": "symbol",
+      "type": "math",
       "name": "Angle with dot"
     },
     {
       "char": "⦒",
       "code": "&rangd;",
       "css": "\\2992",
-      "type": "symbol",
+      "type": "math",
       "name": "Angle with dot"
     },
     {
       "char": "⦓",
       "code": "&lparlt;",
       "css": "\\2993",
-      "type": "symbol",
+      "type": "math",
       "name": "Parenthesis with less-than"
     },
     {
       "char": "⦔",
       "code": "&rpargt;",
       "css": "\\2994",
-      "type": "symbol",
+      "type": "math",
       "name": "Parenthesis with greater-than"
     },
     {
       "char": "⦕",
       "code": "&gtlPar;",
       "css": "\\2995",
-      "type": "symbol",
+      "type": "math",
       "name": "Parenthesis with greater-than"
     },
     {
       "char": "⦖",
       "code": "&ltrPar;",
       "css": "\\2996",
-      "type": "symbol",
+      "type": "math",
       "name": "Parenthesis with less-than"
     },
     {
       "char": "⦚",
       "code": "&vzigzag;",
       "css": "\\299A",
-      "type": "symbol",
+      "type": "math",
       "name": "Zig-zag"
     },
     {
       "char": "⦜",
       "code": "&vangrt;",
       "css": "\\299C",
-      "type": "symbol",
+      "type": "math",
       "name": "Angle"
     },
     {
       "char": "⦝",
       "code": "&angrtvbd;",
       "css": "\\299D",
-      "type": "symbol",
+      "type": "math",
       "name": "Angle with dot"
     },
     {
       "char": "⦤",
       "code": "&ange;",
       "css": "\\29A4",
-      "type": "symbol",
+      "type": "math",
       "name": "Angle with underbar"
     },
     {
       "char": "⦥",
       "code": "&range;",
       "css": "\\29A5",
-      "type": "symbol",
+      "type": "math",
       "name": "Angle with underbar"
     },
     {
       "char": "⦦",
       "code": "&dwangle;",
       "css": "\\29A6",
-      "type": "symbol",
+      "type": "math",
       "name": "Oblique angle"
     },
     {
       "char": "⦧",
       "code": "&uwangle;",
       "css": "\\29A7",
-      "type": "symbol",
+      "type": "math",
       "name": "Oblique angle"
     },
     {
       "char": "⦨",
       "code": "&angmsdaa;",
       "css": "\\29A8",
-      "type": "symbol",
+      "type": "math",
       "name": "Measured angle"
     },
     {
       "char": "⦩",
       "code": "&angmsdab;",
       "css": "\\29A9",
-      "type": "symbol",
+      "type": "math",
       "name": "Measured angle"
     },
     {
       "char": "⦪",
       "code": "&angmsdac;",
       "css": "\\29AA",
-      "type": "symbol",
+      "type": "math",
       "name": "Measured angle"
     },
     {
       "char": "⦫",
       "code": "&angmsdad;",
       "css": "\\29AB",
-      "type": "symbol",
+      "type": "math",
       "name": "Measured angle"
     },
     {
       "char": "⦬",
       "code": "&angmsdae;",
       "css": "\\29AC",
-      "type": "symbol",
+      "type": "math",
       "name": "Measured angle"
     },
     {
       "char": "⦭",
       "code": "&angmsdaf;",
       "css": "\\29AD",
-      "type": "symbol",
+      "type": "math",
       "name": "Measured angle"
     },
     {
       "char": "⦮",
       "code": "&angmsdag;",
       "css": "\\29AE",
-      "type": "symbol",
+      "type": "math",
       "name": "Measured angle"
     },
     {
       "char": "⦯",
       "code": "&angmsdah;",
       "css": "\\29AF",
-      "type": "symbol",
+      "type": "math",
       "name": "Measured angle"
     },
     {
       "char": "⦰",
       "code": "&bemptyv;",
       "css": "\\29B0",
-      "type": "symbol",
+      "type": "math",
       "name": "Empty"
     },
     {
       "char": "⦱",
       "code": "&demptyv;",
       "css": "\\29B1",
-      "type": "symbol",
+      "type": "math",
       "name": "Empty"
     },
     {
       "char": "⦲",
       "code": "&cemptyv;",
       "css": "\\29B2",
-      "type": "symbol",
+      "type": "math",
       "name": "Empty"
     },
     {
       "char": "⦳",
       "code": "&raemptyv;",
       "css": "\\29B3",
-      "type": "symbol",
+      "type": "math",
       "name": "Empty"
     },
     {
       "char": "⦴",
       "code": "&laemptyv;",
       "css": "\\29B4",
-      "type": "symbol",
+      "type": "math",
       "name": "Empty"
     },
     {
@@ -7704,21 +7704,21 @@
       "char": "⦶",
       "code": "&omid;",
       "css": "\\29B6",
-      "type": "symbol",
+      "type": "math",
       "name": "Circle with bar"
     },
     {
       "char": "⦷",
       "code": "&opar;",
       "css": "\\29B7",
-      "type": "symbol",
+      "type": "math",
       "name": "Circled parallel"
     },
     {
       "char": "⦹",
       "code": "&operp;",
       "css": "\\29B9",
-      "type": "symbol",
+      "type": "math",
       "name": "Circled perpendicular"
     },
     {
@@ -7830,49 +7830,49 @@
       "char": "⧚",
       "code": "&race;",
       "css": "\\29DA",
-      "type": "symbol",
+      "type": "math",
       "name": "Double wiggly fence"
     },
     {
       "char": "⧜",
       "code": "&iinfin;",
       "css": "\\29DC",
-      "type": "symbol",
+      "type": "math",
       "name": "Incomplete infinity"
     },
     {
       "char": "⧝",
       "code": "&infintie;",
       "css": "\\29DD",
-      "type": "symbol",
+      "type": "math",
       "name": "Tie over infinite"
     },
     {
       "char": "⧞",
       "code": "&nvinfin;",
       "css": "\\29DE",
-      "type": "symbol",
+      "type": "math",
       "name": "Infinity negated"
     },
     {
       "char": "⧣",
       "code": "&eparsl;",
       "css": "\\29E3",
-      "type": "symbol",
-      "name": "Slated parallel"
+      "type": "math",
+      "name": "Math parallel"
     },
     {
       "char": "⧤",
       "code": "&smeparsl;",
       "css": "\\29E4",
-      "type": "symbol",
+      "type": "math",
       "name": "Slated parallel"
     },
     {
       "char": "⧥",
       "code": "&eqvparsl;",
       "css": "\\29E5",
-      "type": "symbol",
+      "type": "math",
       "name": "Slated parallel"
     },
     {
@@ -7886,434 +7886,434 @@
       "char": "⧴",
       "code": "&RuleDelayed;",
       "css": "\\29F4",
-      "type": "symbol",
+      "type": "math",
       "name": "Rule delayed"
     },
     {
       "char": "⧶",
       "code": "&dsol;",
       "css": "\\29F6",
-      "type": "symbol",
+      "type": "math",
       "name": "Solidus with overbar"
     },
     {
       "char": "⨀",
       "code": "&xodot;",
       "css": "\\2A00",
-      "type": "symbol",
+      "type": "math",
       "name": "Circled dot operator"
     },
     {
       "char": "⨁",
       "code": "&xoplus;",
       "css": "\\2A01",
-      "type": "symbol",
+      "type": "math",
       "name": "Circled plus operator"
     },
     {
       "char": "⨂",
       "code": "&xotime;",
       "css": "\\2A02",
-      "type": "symbol",
+      "type": "math",
       "name": "Circled times operator"
     },
     {
       "char": "⨄",
       "code": "&xuplus;",
       "css": "\\2A04",
-      "type": "symbol",
+      "type": "math",
       "name": "Union operator with plus"
     },
     {
       "char": "⨆",
       "code": "&xsqcup;",
       "css": "\\2A06",
-      "type": "symbol",
+      "type": "math",
       "name": "Square union operator"
     },
     {
       "char": "⨌",
       "code": "&qint;",
       "css": "\\2A0C",
-      "type": "symbol",
+      "type": "math",
       "name": "Quadruple integral"
     },
     {
       "char": "⨍",
       "code": "&fpartint;",
       "css": "\\2A0D",
-      "type": "symbol",
+      "type": "math",
       "name": "Partial function"
     },
     {
       "char": "⨐",
       "code": "&cirfnint;",
       "css": "\\2A10",
-      "type": "symbol",
+      "type": "math",
       "name": "Circulation function"
     },
     {
       "char": "⨑",
       "code": "&awint;",
       "css": "\\2A11",
-      "type": "symbol",
+      "type": "math",
       "name": "CCW function"
     },
     {
       "char": "⨒",
       "code": "&rppolint;",
       "css": "\\2A12",
-      "type": "symbol",
+      "type": "math",
       "name": "integral"
     },
     {
       "char": "⨓",
       "code": "&scpolint;",
       "css": "\\2A13",
-      "type": "symbol",
+      "type": "math",
       "name": "integral"
     },
     {
       "char": "⨔",
       "code": "&npolint;",
       "css": "\\2A14",
-      "type": "symbol",
+      "type": "math",
       "name": "integral"
     },
     {
       "char": "⨕",
       "code": "&pointint;",
       "css": "\\2A15",
-      "type": "symbol",
+      "type": "math",
       "name": "Integral around a point"
     },
     {
       "char": "⨖",
       "code": "&quatint;",
       "css": "\\2A16",
-      "type": "symbol",
+      "type": "math",
       "name": "Quaternion integral"
     },
     {
       "char": "⨗",
       "code": "&intlarhk;",
       "css": "\\2A17",
-      "type": "symbol",
+      "type": "math",
       "name": "Left arrow integral"
     },
     {
       "char": "⨢",
       "code": "&pluscir;",
       "css": "\\2A22",
-      "type": "symbol",
+      "type": "math",
       "name": "Plus with circle"
     },
     {
       "char": "⨣",
       "code": "&plusacir;",
       "css": "\\2A23",
-      "type": "symbol",
+      "type": "math",
       "name": "Plus with circumflex"
     },
     {
       "char": "⨤",
       "code": "&simplus;",
       "css": "\\2A24",
-      "type": "symbol",
+      "type": "math",
       "name": "Plus with tilde"
     },
     {
       "char": "⨥",
       "code": "&plusdu;",
       "css": "\\2A25",
-      "type": "symbol",
+      "type": "math",
       "name": "Plus with dot"
     },
     {
       "char": "⨦",
       "code": "&plussim;",
       "css": "\\2A26",
-      "type": "symbol",
+      "type": "math",
       "name": "Plus with tilde"
     },
     {
       "char": "⨧",
       "code": "&plustwo;",
       "css": "\\2A27",
-      "type": "symbol",
+      "type": "math",
       "name": "Plus with two"
     },
     {
       "char": "⨩",
       "code": "&mcomma;",
       "css": "\\2A29",
-      "type": "symbol",
+      "type": "math",
       "name": "Minus with comma"
     },
     {
       "char": "⨪",
       "code": "&minusdu;",
       "css": "\\2A2A",
-      "type": "symbol",
+      "type": "math",
       "name": "Minus with dot"
     },
     {
       "char": "⨭",
       "code": "&loplus;",
       "css": "\\2A2D",
-      "type": "symbol",
+      "type": "math",
       "name": "Half circle with plus"
     },
     {
       "char": "⨮",
       "code": "&roplus;",
       "css": "\\2A2E",
-      "type": "symbol",
+      "type": "math",
       "name": "Half circle with plus"
     },
     {
       "char": "⨯",
       "code": "&Cross;",
       "css": "\\2A2F",
-      "type": "symbol",
+      "type": "math",
       "name": "Cross"
     },
     {
       "char": "⨰",
       "code": "&timesd;",
       "css": "\\2A30",
-      "type": "symbol",
+      "type": "math",
       "name": "Times with dot"
     },
     {
       "char": "⨱",
       "code": "&timesbar;",
       "css": "\\2A31",
-      "type": "symbol",
+      "type": "math",
       "name": "name"
     },
     {
       "char": "⨳",
       "code": "&smashp;",
       "css": "\\2A33",
-      "type": "symbol",
+      "type": "math",
       "name": "Smash product"
     },
     {
       "char": "⨴",
       "code": "&lotimes;",
       "css": "\\2A34",
-      "type": "symbol",
+      "type": "math",
       "name": "Half circle with times"
     },
     {
       "char": "⨵",
       "code": "&rotimes;",
       "css": "\\2A35",
-      "type": "symbol",
+      "type": "math",
       "name": "Half circle with times"
     },
     {
       "char": "⨶",
       "code": "&otimesas;",
       "css": "\\2A36",
-      "type": "symbol",
+      "type": "math",
       "name": "Circled multiplication with circumflex"
     },
     {
       "char": "⨷",
       "code": "&Otimes;",
       "css": "\\2A37",
-      "type": "symbol",
+      "type": "math",
       "name": "Circled times"
     },
     {
       "char": "⨸",
       "code": "&odiv;",
       "css": "\\2A38",
-      "type": "symbol",
+      "type": "math",
       "name": "Circled division"
     },
     {
       "char": "⨹",
       "code": "&triplus;",
       "css": "\\2A39",
-      "type": "symbol",
+      "type": "math",
       "name": "Triangle with plus"
     },
     {
       "char": "⨺",
       "code": "&triminus;",
       "css": "\\2A3A",
-      "type": "symbol",
+      "type": "math",
       "name": "Triangle with minus"
     },
     {
       "char": "⨻",
       "code": "&tritime;",
       "css": "\\2A3B",
-      "type": "symbol",
+      "type": "math",
       "name": "Triangle with times"
     },
     {
       "char": "⨼",
       "code": "&iprod;",
       "css": "\\2A3C",
-      "type": "symbol",
+      "type": "math",
       "name": "Interior product"
     },
     {
       "char": "⨿",
       "code": "&amalg;",
       "css": "\\2A3F",
-      "type": "symbol",
+      "type": "math",
       "name": "Amalgamation or co-product"
     },
     {
       "char": "⩀",
       "code": "&capdot;",
       "css": "\\2A40",
-      "type": "symbol",
+      "type": "math",
       "name": "Intersection with dot"
     },
     {
       "char": "⩂",
       "code": "&ncup;",
       "css": "\\2A42",
-      "type": "symbol",
+      "type": "math",
       "name": "Union with bar"
     },
     {
       "char": "⩃",
       "code": "&ncap;",
       "css": "\\2A43",
-      "type": "symbol",
+      "type": "math",
       "name": "Intersection with bar"
     },
     {
       "char": "⩄",
       "code": "&capand;",
       "css": "\\2A44",
-      "type": "symbol",
+      "type": "math",
       "name": "Intersection And"
     },
     {
       "char": "⩅",
       "code": "&cupor;",
       "css": "\\2A45",
-      "type": "symbol",
+      "type": "math",
       "name": "Union Or"
     },
     {
       "char": "⩆",
       "code": "&cupcap;",
       "css": "\\2A46",
-      "type": "symbol",
+      "type": "math",
       "name": "Union above intersection"
     },
     {
       "char": "⩇",
       "code": "&capcup;",
       "css": "\\2A47",
-      "type": "symbol",
+      "type": "math",
       "name": "Intersection above union"
     },
     {
       "char": "⩈",
       "code": "&cupbrcap;",
       "css": "\\2A48",
-      "type": "symbol",
+      "type": "math",
       "name": "Union above intersection with bar"
     },
     {
       "char": "⩉",
       "code": "&capbrcup;",
       "css": "\\2A49",
-      "type": "symbol",
+      "type": "math",
       "name": "Intersection above union"
     },
     {
       "char": "⩊",
       "code": "&cupcup;",
       "css": "\\2A4A",
-      "type": "symbol",
+      "type": "math",
       "name": "name"
     },
     {
       "char": "⩋",
       "code": "&capcap;",
       "css": "\\2A4B",
-      "type": "symbol",
+      "type": "math",
       "name": "name"
     },
     {
       "char": "⩌",
       "code": "&ccups;",
       "css": "\\2A4C",
-      "type": "symbol",
+      "type": "math",
       "name": "Closed union"
     },
     {
       "char": "⩍",
       "code": "&ccaps;",
       "css": "\\2A4D",
-      "type": "symbol",
+      "type": "math",
       "name": "Closed intersection"
     },
     {
       "char": "⩐",
       "code": "&ccupssm;",
       "css": "\\2A50",
-      "type": "symbol",
+      "type": "math",
       "name": "Closed union with smash product"
     },
     {
       "char": "⩓",
       "code": "&And;",
       "css": "\\2A53",
-      "type": "symbol",
+      "type": "math",
       "name": "Double And"
     },
     {
       "char": "⩔",
       "code": "&Or;",
       "css": "\\2A54",
-      "type": "symbol",
+      "type": "math",
       "name": "Double Or"
     },
     {
       "char": "⩕",
       "code": "&andand;",
       "css": "\\2A55",
-      "type": "symbol",
+      "type": "math",
       "name": "And And"
     },
     {
       "char": "⩖",
       "code": "&oror;",
       "css": "\\2A56",
-      "type": "symbol",
+      "type": "math",
       "name": "Or Or"
     },
     {
       "char": "⩗",
       "code": "&orslope;",
       "css": "\\2A57",
-      "type": "symbol",
+      "type": "math",
       "name": "Or slope"
     },
     {
       "char": "⩘",
       "code": "&andslope;",
       "css": "\\2A58",
-      "type": "symbol",
+      "type": "math",
       "name": "And slope"
     },
     {
       "char": "⩚",
       "code": "&andv;",
       "css": "\\2A5A",
-      "type": "symbol",
+      "type": "math",
       "name": "Logical and with middle stem"
     }
   ]
