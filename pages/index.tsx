@@ -1,6 +1,9 @@
+import { useEffect, useState } from "react";
 import { GetStaticProps, NextPage } from "next";
 import Head from "next/head";
+
 import Character from "../components/Character";
+import Filter from "../components/Filter";
 
 interface PageProps {
   chars: Character[];
@@ -16,6 +19,24 @@ interface Character {
 
 const Home: NextPage<PageProps> = ({ chars }) => {
   const symbols = chars.filter((char) => char.type === "symbol");
+  const [filterLabel, setFilterLabel] = useState("");
+  const [filteredData, setFilteredData] = useState(symbols);
+
+  function handleCategory(category: string = "all") {
+    const categoryFilter = chars.filter((char) => char.type === category);
+
+    if (category !== "all") {
+      setFilteredData(categoryFilter);
+      setFilterLabel(category);
+    } else {
+      setFilteredData(symbols);
+      setFilterLabel("");
+    }
+  }
+
+  useEffect(() => {
+    setFilteredData(symbols);
+  }, []);
 
   return (
     <div>
@@ -26,8 +47,10 @@ const Home: NextPage<PageProps> = ({ chars }) => {
 
       <main>
         <h1>Charmap</h1>
+        <Filter category={handleCategory} />
+        <h2>{filterLabel}</h2>
         <div className="characters">
-          {symbols.map((char: Character) => (
+          {filteredData.map((char: Character) => (
             <Character
               key={char.code}
               entity={char.code}
