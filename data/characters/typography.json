@@ -1,0 +1,484 @@
+{
+  "characters": [
+    {
+      "char": "℀",
+      "code": "&#8448;",
+      "css": "\\2100",
+      "name": "Account Of"
+    },
+    {
+      "char": "℁",
+      "code": "&#8449;",
+      "css": "\\2101",
+      "name": "Addressed To The Subject"
+    },
+    {
+      "char": "ℂ",
+      "code": "&#8450;",
+      "css": "\\2102",
+      "name": "Double-Struck Capital C"
+    },
+    {
+      "char": "℃",
+      "code": "&#8451;",
+      "css": "\\2103",
+      "name": "Degree Celsius"
+    },
+    {
+      "char": "℄",
+      "code": "&#8452;",
+      "css": "\\2104",
+      "name": "Centre Line Symbol"
+    },
+    {
+      "char": "℅",
+      "code": "&#8453;",
+      "css": "\\2105",
+      "name": "Care Of"
+    },
+    {
+      "char": "℆",
+      "code": "&#8454;",
+      "css": "\\2106",
+      "name": "Cada Una"
+    },
+    {
+      "char": "ℇ",
+      "code": "&#8455;",
+      "css": "\\2107",
+      "name": "Euler Constant"
+    },
+    {
+      "char": "℈",
+      "code": "&#8456;",
+      "css": "\\2108",
+      "name": "Scruple"
+    },
+    {
+      "char": "℉",
+      "code": "&#8457;",
+      "css": "\\2109",
+      "name": "Degree Fahrenheit"
+    },
+    {
+      "char": "ℊ",
+      "code": "&#8458;",
+      "css": "\\210A",
+      "name": "Script Small G"
+    },
+    {
+      "char": "ℋ",
+      "code": "&#8459;",
+      "css": "\\210B",
+      "name": "Script Capital H"
+    },
+    {
+      "char": "ℌ",
+      "code": "&#8460;",
+      "css": "\\210C",
+      "name": "Black-Letter Capital H"
+    },
+    {
+      "char": "ℍ",
+      "code": "&#8461;",
+      "css": "\\210D",
+      "name": "Double-Struck Capital H"
+    },
+    {
+      "char": "ℎ",
+      "code": "&#8462;",
+      "css": "\\210E",
+      "name": "Planck Constant"
+    },
+    {
+      "char": "ℏ",
+      "code": "&#8463;",
+      "css": "\\210F",
+      "name": "Planck Constant Over Two Pi"
+    },
+    {
+      "char": "ℐ",
+      "code": "&#8464;",
+      "css": "\\2110",
+      "name": "Script Capital I"
+    },
+    {
+      "char": "ℑ",
+      "code": "$image;",
+      "css": "\\2111",
+      "name": "Black-Letter Capital I"
+    },
+    {
+      "char": "ℒ",
+      "code": "&#8466;",
+      "css": "\\2112",
+      "name": "Script Capital L"
+    },
+    {
+      "char": "ℓ",
+      "code": "&#8467;",
+      "css": "\\2113",
+      "name": "Script Small L"
+    },
+    {
+      "char": "℔",
+      "code": "&#8468;",
+      "css": "\\2114",
+      "name": "L B Bar Symbol"
+    },
+    {
+      "char": "ℕ",
+      "code": "&#8469;",
+      "css": "\\2115",
+      "name": "Double-Struck Capital N"
+    },
+    {
+      "char": "№",
+      "code": "&#8470;",
+      "css": "\\2116",
+      "name": "Numero Sign"
+    },
+    {
+      "char": "℗",
+      "code": "&#8471;",
+      "css": "\\2117",
+      "name": "Sound Recording Copyright"
+    },
+    {
+      "char": "℘",
+      "code": "&weierp;",
+      "css": "\\2118",
+      "name": "Script Capital P"
+    },
+    {
+      "char": "ℙ",
+      "code": "&#8473;",
+      "css": "\\2119",
+      "name": "Double-Struck Capital P"
+    },
+    {
+      "char": "ℚ",
+      "code": "&#8474;",
+      "css": "\\211A",
+      "name": "Double-Struck Capital Q"
+    },
+    {
+      "char": "ℛ",
+      "code": "&#8475;",
+      "css": "\\211B",
+      "name": "Script Capital R"
+    },
+    {
+      "char": "ℜ",
+      "code": "&real;",
+      "css": "\\211C",
+      "name": "Black-Letter Capital R"
+    },
+    {
+      "char": "ℝ",
+      "code": "&#8477;",
+      "css": "\\211D",
+      "name": "Double-Struck Capital R"
+    },
+    {
+      "char": "℞",
+      "code": "&#8478;",
+      "css": "\\211E",
+      "name": "Prescription Take"
+    },
+    {
+      "char": "℟",
+      "code": "&#8479;",
+      "css": "\\211F",
+      "name": "Response"
+    },
+    {
+      "char": "℠",
+      "code": "&#8480;",
+      "css": "\\2120",
+      "name": "Service Mark"
+    },
+    {
+      "char": "℡",
+      "code": "&#8481;",
+      "css": "\\2121",
+      "name": "Telephone Sign"
+    },
+    {
+      "char": "™",
+      "code": "&trade;",
+      "css": "\\2122",
+      "name": "Trade Mark Sign"
+    },
+    {
+      "char": "℣",
+      "code": "&#8483;",
+      "css": "\\2123",
+      "name": "Versicle"
+    },
+    {
+      "char": "ℤ",
+      "code": "&#8484;",
+      "css": "\\2124",
+      "name": "Double-Struck Capital Z"
+    },
+    {
+      "char": "℥",
+      "code": "&#8485;",
+      "css": "\\2125",
+      "name": "Ounce Sign"
+    },
+    {
+      "char": "Ω",
+      "code": "&ohm",
+      "css": "\\2126",
+      "name": "Ohm Sign"
+    },
+    {
+      "char": "℧",
+      "code": "&mho;",
+      "css": "\\2127",
+      "name": "Inverted Ohm Sign"
+    },
+    {
+      "char": "ℨ",
+      "code": "&#8488;",
+      "css": "\\2128",
+      "name": "Black-Letter Capital Z"
+    },
+    {
+      "char": "℩",
+      "code": "&#8489;",
+      "css": "\\2129",
+      "name": "Turned Greek Small Letter Iota"
+    },
+    {
+      "char": "K",
+      "code": "&#8490;",
+      "css": "\\212A",
+      "name": "Kelvin Sign"
+    },
+    {
+      "char": "Å",
+      "code": "&#8491;",
+      "css": "\\212B",
+      "name": "Angstrom Sign"
+    },
+    {
+      "char": "ℬ",
+      "code": "&#8492;",
+      "css": "\\212C",
+      "name": "Script Capital B"
+    },
+    {
+      "char": "ℭ",
+      "code": "&#8493;",
+      "css": "\\212D",
+      "name": "Black-Letter Capital C"
+    },
+    {
+      "char": "℮",
+      "code": "&#8494;",
+      "css": "\\212E",
+      "name": "Estimated Symbol"
+    },
+    {
+      "char": "ℯ",
+      "code": "&#8495;",
+      "css": "\\212F",
+      "name": "Script Small E"
+    },
+    {
+      "char": "ℰ",
+      "code": "&#8496;",
+      "css": "\\2130",
+      "name": "Script Capital E"
+    },
+    {
+      "char": "ℱ",
+      "code": "&#8497;",
+      "css": "\\2131",
+      "name": "Script Capital F"
+    },
+    {
+      "char": "Ⅎ",
+      "code": "&#8498;",
+      "css": "\\2132",
+      "name": "Turned Capital F"
+    },
+    {
+      "char": "ℳ",
+      "code": "&#8499;",
+      "css": "\\2133",
+      "name": "Script Capital M"
+    },
+    {
+      "char": "ℴ",
+      "code": "&#8500;",
+      "css": "\\2134",
+      "name": "Script Small O"
+    },
+    {
+      "char": "ℵ",
+      "code": "&alefsym;",
+      "css": "\\2135",
+      "name": "Alef Symbol"
+    },
+    {
+      "char": "ℶ",
+      "code": "&#8502;",
+      "css": "\\2136",
+      "name": "Bet Symbol"
+    },
+    {
+      "char": "ℷ",
+      "code": "&#8503;",
+      "css": "\\2137",
+      "name": "Gimel Symbol"
+    },
+    {
+      "char": "ℸ",
+      "code": "&#8504;",
+      "css": "\\2138",
+      "name": "Dalet Symbol"
+    },
+    {
+      "char": "ℹ",
+      "code": "&#8505;",
+      "css": "\\2139",
+      "name": "Information Source"
+    },
+    {
+      "char": "℺",
+      "code": "&#8506;",
+      "css": "\\213A",
+      "name": "Rotated Capital Q"
+    },
+    {
+      "char": "℻",
+      "code": "&#8507;",
+      "css": "\\213B",
+      "name": "Facsimile Sign"
+    },
+    {
+      "char": "ℼ",
+      "code": "&#8508;",
+      "css": "\\213C",
+      "name": "Double-Struck Small Pi"
+    },
+    {
+      "char": "ℽ",
+      "code": "&#8509;",
+      "css": "\\213D",
+      "name": "Double-Struck Small Gamma"
+    },
+    {
+      "char": "ℾ",
+      "code": "&#8510;",
+      "css": "\\213E",
+      "name": "Double-Struck Capital Gamma"
+    },
+    {
+      "char": "ℿ",
+      "code": "&#8511;",
+      "css": "\\213F",
+      "name": "Double-Struck Capital Pi"
+    },
+    {
+      "char": "⅀",
+      "code": "&#8512;",
+      "css": "\\2140",
+      "name": "Double-STRUCK N-Ary Summation"
+    },
+    {
+      "char": "⅁",
+      "code": "&#8513;",
+      "css": "\\2141",
+      "name": "Turned Sans-Serif Capital G"
+    },
+    {
+      "char": "⅂",
+      "code": "&#8514;",
+      "css": "\\2142",
+      "name": "Turned Sans-Serif Capital L"
+    },
+    {
+      "char": "⅃",
+      "code": "&#8515;",
+      "css": "\\2143",
+      "name": "Reversed Sans-Serif Capital L"
+    },
+    {
+      "char": "⅄",
+      "code": "&#8516;",
+      "css": "\\2144",
+      "name": "Turned Sans-Serif Capital Y"
+    },
+    {
+      "char": "ⅅ",
+      "code": "&#8517;",
+      "css": "\\2145",
+      "name": "Double-Struck Italic Capital D"
+    },
+    {
+      "char": "ⅆ",
+      "code": "&#8518;",
+      "css": "\\2146",
+      "name": "Double-Struck Italic Small D"
+    },
+    {
+      "char": "ⅇ",
+      "code": "&#8519;",
+      "css": "\\2147",
+      "name": "Double-Struck Italic Small E"
+    },
+    {
+      "char": "ⅈ",
+      "code": "&#8520;",
+      "css": "\\2148",
+      "name": "Double-Struck Italic Small I"
+    },
+    {
+      "char": "ⅉ",
+      "code": "&#8521;",
+      "css": "\\2149",
+      "name": "Double-Struck Italic Small J"
+    },
+    {
+      "char": "⅊",
+      "code": "&#8522;",
+      "css": "\\214A",
+      "name": "Property Line"
+    },
+    {
+      "char": "⅋",
+      "code": "&#8523;",
+      "css": "\\214B",
+      "name": "Turned Ampersand"
+    },
+    {
+      "char": "⅌",
+      "code": "&#8524;",
+      "css": "\\214C",
+      "name": "Per Sign"
+    },
+    {
+      "char": "⅍",
+      "code": "&#8525;",
+      "css": "\\214D",
+      "name": "Aktieselskab"
+    },
+    {
+      "char": "ⅎ",
+      "code": "&#8526;",
+      "css": "\\214E",
+      "name": "Turned Small F"
+    },
+    {
+      "char": "⅏",
+      "code": "&#8527;",
+      "css": "\\214F",
+      "name": "Symbol For Samaritan Source"
+    }
+  ]
+}

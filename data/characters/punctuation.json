@@ -1,0 +1,430 @@
+{
+  "characters": [
+    {
+      "char": "‐",
+      "code": "&#8208;",
+      "css": "\\2010",
+      "name": "Hyphen"
+    },
+    {
+      "char": "‑",
+      "code": "&#8209;",
+      "css": "\\2011",
+      "name": "Non-BREAKING HYPHEN"
+    },
+    {
+      "char": "‒",
+      "code": "&#8210;",
+      "css": "\\2012",
+      "name": "Figure Dash"
+    },
+    {
+      "char": "–",
+      "code": "&ndash;",
+      "css": "\\2013",
+      "name": "En Dash"
+    },
+    {
+      "char": "—",
+      "code": "&mdash;",
+      "css": "\\2014",
+      "name": "Em Dash"
+    },
+    {
+      "char": "―",
+      "code": "&#8213;",
+      "css": "\\2015",
+      "name": "Horizontal Bar"
+    },
+    {
+      "char": "‖",
+      "code": "&#8214;",
+      "css": "\\2016",
+      "name": "Double Vertical Line"
+    },
+    {
+      "char": "‗",
+      "code": "&#8215;",
+      "css": "\\2017",
+      "name": "Double Low Line"
+    },
+    {
+      "char": "‘",
+      "code": "&lsquo;",
+      "css": "\\2018",
+      "name": "Left Single Quotation Mark"
+    },
+    {
+      "char": "’",
+      "code": "&rsquo;",
+      "css": "\\2019",
+      "name": "Right Single Quotation Mark"
+    },
+    {
+      "char": "‚",
+      "code": "&sbquo;",
+      "css": "\\201A",
+      "name": "Single Low-9 QUOTATION MARK"
+    },
+    {
+      "char": "‛",
+      "code": "&#8219;",
+      "css": "\\201B",
+      "name": "Single High-REVERSED-9 QUOTATION MARK"
+    },
+    {
+      "char": "“",
+      "code": "&ldquo;",
+      "css": "\\201C",
+      "name": "Left Double Quotation Mark"
+    },
+    {
+      "char": "”",
+      "code": "&rdquo;",
+      "css": "\\201D",
+      "name": "Right Double Quotation Mark"
+    },
+    {
+      "char": "„",
+      "code": "&bdquo;",
+      "css": "\\201E",
+      "name": "Double Low-9 QUOTATION MARK"
+    },
+    {
+      "char": "‟",
+      "code": "&#8223;",
+      "css": "\\201F",
+      "name": "Double High-REVERSED-9 QUOTATION MARK"
+    },
+    {
+      "char": "†",
+      "code": "&dagger;",
+      "css": "\\2020",
+      "name": "Dagger"
+    },
+    {
+      "char": "‡",
+      "code": "&Dagger;",
+      "css": "\\2021",
+      "name": "Double Dagger"
+    },
+    {
+      "char": "•",
+      "code": "&bull;",
+      "css": "\\2022",
+      "name": "Bullet"
+    },
+    {
+      "char": "‣",
+      "code": "&#8227;",
+      "css": "\\2023",
+      "name": "Triangular Bullet"
+    },
+    {
+      "char": "․",
+      "code": "&#8228;",
+      "css": "\\2024",
+      "name": "One Dot Leader"
+    },
+    {
+      "char": "‥",
+      "code": "&#8229;",
+      "css": "\\2025",
+      "name": "Two Dot Leader"
+    },
+    {
+      "char": "…",
+      "code": "&hellip;",
+      "css": "\\2026",
+      "name": "Horizontal Ellipsis"
+    },
+    {
+      "char": "‧",
+      "code": "&#8231;",
+      "css": "\\2027",
+      "name": "Hyphenation Point"
+    },
+    {
+      "char": "‰",
+      "code": "&permil;",
+      "css": "\\2030",
+      "name": "Per Mille Sign"
+    },
+    {
+      "char": "‱",
+      "code": "&#8241;",
+      "css": "\\2031",
+      "name": "Per Ten Thousand Sign"
+    },
+    {
+      "char": "′",
+      "code": "&prime;",
+      "css": "\\2032",
+      "name": "Prime"
+    },
+    {
+      "char": "″",
+      "code": "&Prime;",
+      "css": "\\2033",
+      "name": "Double Prime"
+    },
+    {
+      "char": "‴",
+      "code": "&#8244;",
+      "css": "\\2034",
+      "name": "Triple Prime"
+    },
+    {
+      "char": "‵",
+      "code": "&#8245;",
+      "css": "\\2035",
+      "name": "Reversed Prime"
+    },
+    {
+      "char": "‶",
+      "code": "&#8246;",
+      "css": "\\2036",
+      "name": "Reversed Double Prime"
+    },
+    {
+      "char": "‷",
+      "code": "&#8247;",
+      "css": "\\2037",
+      "name": "Reversed Triple Prime"
+    },
+    {
+      "char": "‸",
+      "code": "&#8248;",
+      "css": "\\2038",
+      "name": "Caret"
+    },
+    {
+      "char": "‹",
+      "code": "&lsaquo;",
+      "css": "\\2039",
+      "name": "Single Left-POINTING ANGLE QUOTATION MARK"
+    },
+    {
+      "char": "›",
+      "code": "&rsaquo;",
+      "css": "\\203A",
+      "name": "Single Right-POINTING ANGLE QUOTATION MARK"
+    },
+    {
+      "char": "※",
+      "code": "&#8251;",
+      "css": "\\203B",
+      "name": "Reference Mark"
+    },
+    {
+      "char": "‼",
+      "code": "&#8252;",
+      "css": "\\203C",
+      "name": "Double Exclamation Mark"
+    },
+    {
+      "char": "‽",
+      "code": "&#8253;",
+      "css": "\\203D",
+      "name": "Interrobang"
+    },
+    {
+      "char": "‾",
+      "code": "&oline;",
+      "css": "\\203E",
+      "name": "Overline"
+    },
+    {
+      "char": "‿",
+      "code": "&#8255;",
+      "css": "\\203F",
+      "name": "Undertie"
+    },
+    {
+      "char": "⁀",
+      "code": "&#8256;",
+      "css": "\\2040",
+      "name": "Character Tie"
+    },
+    {
+      "char": "⁁",
+      "code": "&#8257;",
+      "css": "\\2041",
+      "name": "Caret Insertion Point"
+    },
+    {
+      "char": "⁂",
+      "code": "&#8258;",
+      "css": "\\2042",
+      "name": "Asterism"
+    },
+    {
+      "char": "⁃",
+      "code": "&#8259;",
+      "css": "\\2043",
+      "name": "Hyphen Bullet"
+    },
+    {
+      "char": "⁄",
+      "code": "&frasl;",
+      "css": "\\2044",
+      "name": "Fraction Slash"
+    },
+    {
+      "char": "⁅",
+      "code": "&#8261;",
+      "css": "\\2045",
+      "name": "Left Square Bracket With Quill"
+    },
+    {
+      "char": "⁆",
+      "code": "&#8262;",
+      "css": "\\2046",
+      "name": "Right Square Bracket With Quill"
+    },
+    {
+      "char": "⁇",
+      "code": "&#8263;",
+      "css": "\\2047",
+      "name": "Double Question Mark"
+    },
+    {
+      "char": "⁈",
+      "code": "&#8264;",
+      "css": "\\2048",
+      "name": "Question Exclamation Mark"
+    },
+    {
+      "char": "⁉",
+      "code": "&#8265;",
+      "css": "\\2049",
+      "name": "Exclamation Question Mark"
+    },
+    {
+      "char": "⁊",
+      "code": "&#8266;",
+      "css": "\\204A",
+      "name": "Tironian Sign Et"
+    },
+    {
+      "char": "⁋",
+      "code": "&#8267;",
+      "css": "\\204B",
+      "name": "Reversed Pilcrow Sign"
+    },
+    {
+      "char": "⁌",
+      "code": "&#8268;",
+      "css": "\\204C",
+      "name": "Black Leftwards Bullet"
+    },
+    {
+      "char": "⁍",
+      "code": "&#8269;",
+      "css": "\\204D",
+      "name": "Black Rightwards Bullet"
+    },
+    {
+      "char": "⁎",
+      "code": "&#8270;",
+      "css": "\\204E",
+      "name": "Low Asterisk"
+    },
+    {
+      "char": "⁏",
+      "code": "&#8271;",
+      "css": "\\204F",
+      "name": "Reversed Semicolon"
+    },
+    {
+      "char": "⁐",
+      "code": "&#8272;",
+      "css": "\\2050",
+      "name": "Close Up"
+    },
+    {
+      "char": "⁑",
+      "code": "&#8273;",
+      "css": "\\2051",
+      "name": "Two Asterisks Aligned Vertically"
+    },
+    {
+      "char": "⁒",
+      "code": "&#8274;",
+      "css": "\\2052",
+      "name": "Commercial Minus Sign"
+    },
+    {
+      "char": "⁓",
+      "code": "&#8275;",
+      "css": "\\2053",
+      "name": "Swung Dash"
+    },
+    {
+      "char": "⁔",
+      "code": "&#8276;",
+      "css": "\\2054",
+      "name": "Inverted Undertie"
+    },
+    {
+      "char": "⁕",
+      "code": "&#8277;",
+      "css": "\\2055",
+      "name": "Flower Punctuation Mark"
+    },
+    {
+      "char": "⁖",
+      "code": "&#8278;",
+      "css": "\\2056",
+      "name": "Three Dot Punctuation"
+    },
+    {
+      "char": "⁗",
+      "code": "&#8279;",
+      "css": "\\2057",
+      "name": "Quadruple Prime"
+    },
+    {
+      "char": "⁘",
+      "code": "&#8280;",
+      "css": "\\2058",
+      "name": "Four Dot Punctuation"
+    },
+    {
+      "char": "⁙",
+      "code": "&#8281;",
+      "css": "\\2059",
+      "name": "Five Dot Punctuation"
+    },
+    {
+      "char": "⁚",
+      "code": "&#8282;",
+      "css": "\\205A",
+      "name": "Two Dot Punctuation"
+    },
+    {
+      "char": "⁛",
+      "code": "&#8283;",
+      "css": "\\205B",
+      "name": "Four Dot Mark"
+    },
+    {
+      "char": "⁜",
+      "code": "&#8284;",
+      "css": "\\205C",
+      "name": "Dotted Cross"
+    },
+    {
+      "char": "⁝",
+      "code": "&#8285;",
+      "css": "\\205D",
+      "name": "Tricolon"
+    },
+    {
+      "char": "⁞",
+      "code": "&#8286;",
+      "css": "\\205E",
+      "name": "Vertical Four Dots"
+    }
+  ]
+}

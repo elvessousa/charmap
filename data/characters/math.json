@@ -1,0 +1,1540 @@
+{
+  "characters": [
+    {
+      "chars": "∀",
+      "code": "&forall;",
+      "css": "\\2200",
+      "name": "For All"
+    },
+    {
+      "chars": "∁",
+      "code": "&#8705;",
+      "css": "\\2201",
+      "name": "Complement"
+    },
+    {
+      "chars": "∂",
+      "code": "&part;",
+      "css": "\\2202",
+      "name": "Partial Differential"
+    },
+    {
+      "chars": "∃",
+      "code": "&exist;",
+      "css": "\\2203",
+      "name": "There Exists"
+    },
+    {
+      "chars": "∄",
+      "code": "&#8708;",
+      "css": "\\2204",
+      "name": "There Does Not Exist"
+    },
+    {
+      "chars": "∅",
+      "code": "&empty;",
+      "css": "\\2205",
+      "name": "Empty Set"
+    },
+    {
+      "chars": "∆",
+      "code": "&#8710;",
+      "css": "\\2206",
+      "name": "Increment"
+    },
+    {
+      "chars": "∇",
+      "code": "&nabla;",
+      "css": "\\2207",
+      "name": "Nabla"
+    },
+    {
+      "chars": "∈",
+      "code": "&isin;",
+      "css": "\\2208",
+      "name": "Element Of"
+    },
+    {
+      "chars": "∉",
+      "code": "&notin;",
+      "css": "\\2209",
+      "name": "Not An Element Of"
+    },
+    {
+      "chars": "∊",
+      "code": "&#8714;",
+      "css": "\\220A",
+      "name": "Small Element Of"
+    },
+    {
+      "chars": "∋",
+      "code": "&ni;",
+      "css": "\\220B",
+      "name": "Contains As Member"
+    },
+    {
+      "chars": "∌",
+      "code": "&#8716;",
+      "css": "\\220C",
+      "name": "Does Not Contain As Member"
+    },
+    {
+      "chars": "∍",
+      "code": "&#8717;",
+      "css": "\\220D",
+      "name": "Small Contains As Member"
+    },
+    {
+      "chars": "∎",
+      "code": "&#8718;",
+      "css": "\\220E",
+      "name": "End Of Proof"
+    },
+    {
+      "chars": "∏",
+      "code": "&prod;",
+      "css": "\\220F",
+      "name": "N-Ary Product"
+    },
+    {
+      "chars": "∐",
+      "code": "&#8720;",
+      "css": "\\2210",
+      "name": "N-Ary Coproduct"
+    },
+    {
+      "chars": "∑",
+      "code": "&sum;",
+      "css": "\\2211",
+      "name": "N-Ary Summation"
+    },
+    {
+      "chars": "−",
+      "code": "&minus;",
+      "css": "\\2212",
+      "name": "Minus Sign"
+    },
+    {
+      "chars": "∓",
+      "code": "&#8723;",
+      "css": "\\2213",
+      "name": "Minus-Or-Plus Sign"
+    },
+    {
+      "chars": "∔",
+      "code": "&#8724;",
+      "css": "\\2214",
+      "name": "Dot Plus"
+    },
+    {
+      "chars": "∕",
+      "code": "&#8725;",
+      "css": "\\2215",
+      "name": "Division Slash"
+    },
+    {
+      "chars": "∖",
+      "code": "&#8726;",
+      "css": "\\2216",
+      "name": "Set Minus"
+    },
+    {
+      "chars": "∗",
+      "code": "&lowast;",
+      "css": "\\2217",
+      "name": "Asterisk Operator"
+    },
+    {
+      "chars": "∘",
+      "code": "&#8728;",
+      "css": "\\2218",
+      "name": "Ring Operator"
+    },
+    {
+      "chars": "∙",
+      "code": "&#8729;",
+      "css": "\\2219",
+      "name": "Bullet Operator"
+    },
+    {
+      "chars": "√",
+      "code": "&radic;",
+      "css": "\\221A",
+      "name": "Square Root"
+    },
+    {
+      "chars": "∛",
+      "code": "&#8731;",
+      "css": "\\221B",
+      "name": "Cube Root"
+    },
+    {
+      "chars": "∜",
+      "code": "&#8732;",
+      "css": "\\221C",
+      "name": "Fourth Root"
+    },
+    {
+      "chars": "∝",
+      "code": "&prop;",
+      "css": "\\221D",
+      "name": "Proportional To"
+    },
+    {
+      "chars": "∞",
+      "code": "&infin;",
+      "css": "\\221E",
+      "name": "Infinity"
+    },
+    {
+      "chars": "∟",
+      "code": "&#8735;",
+      "css": "\\221F",
+      "name": "Right Angle"
+    },
+    {
+      "chars": "∠",
+      "code": "&ang;",
+      "css": "\\2220",
+      "name": "Angle"
+    },
+    {
+      "chars": "∡",
+      "code": "&#8737;",
+      "css": "\\2221",
+      "name": "Measured Angle"
+    },
+    {
+      "chars": "∢",
+      "code": "&#8738;",
+      "css": "\\2222",
+      "name": "Spherical Angle"
+    },
+    {
+      "chars": "∣",
+      "code": "&#8739;",
+      "css": "\\2223",
+      "name": "Divides"
+    },
+    {
+      "chars": "∤",
+      "code": "&#8740;",
+      "css": "\\2224",
+      "name": "Does Not Divide"
+    },
+    {
+      "chars": "∥",
+      "code": "&#8741;",
+      "css": "\\2225",
+      "name": "Parallel To"
+    },
+    {
+      "chars": "∦",
+      "code": "&#8742;",
+      "css": "\\2226",
+      "name": "Not Parallel To"
+    },
+    {
+      "chars": "∧",
+      "code": "&and;",
+      "css": "\\2227",
+      "name": "Logical And"
+    },
+    {
+      "chars": "∨",
+      "code": "&or;",
+      "css": "\\2228",
+      "name": "Logical Or"
+    },
+    {
+      "chars": "∩",
+      "code": "&cap;",
+      "css": "\\2229",
+      "name": "Intersection"
+    },
+    {
+      "chars": "∪",
+      "code": "&cup;",
+      "css": "\\222A",
+      "name": "Union"
+    },
+    {
+      "chars": "∫",
+      "code": "&int;",
+      "css": "\\222B",
+      "name": "Integral"
+    },
+    {
+      "chars": "∬",
+      "code": "&#8748;",
+      "css": "\\222C",
+      "name": "Double Integral"
+    },
+    {
+      "chars": "∭",
+      "code": "&#8749;",
+      "css": "\\222D",
+      "name": "Triple Integral"
+    },
+    {
+      "chars": "∮",
+      "code": "&#8750;",
+      "css": "\\222E",
+      "name": "Contour Integral"
+    },
+    {
+      "chars": "∯",
+      "code": "&#8751;",
+      "css": "\\222F",
+      "name": "Surface Integral"
+    },
+    {
+      "chars": "∰",
+      "code": "&#8752;",
+      "css": "\\2230",
+      "name": "Volume Integral"
+    },
+    {
+      "chars": "∱",
+      "code": "&#8753;",
+      "css": "\\2231",
+      "name": "Clockwise Integral"
+    },
+    {
+      "chars": "∲",
+      "code": "&#8754;",
+      "css": "\\2232",
+      "name": "Clockwise Contour Integral"
+    },
+    {
+      "chars": "∳",
+      "code": "&#8755;",
+      "css": "\\2233",
+      "name": "Anticlockwise Contour Integral"
+    },
+    {
+      "chars": "∴",
+      "code": "&there4;",
+      "css": "\\2234",
+      "name": "Therefore"
+    },
+    {
+      "chars": "∵",
+      "code": "&#8757;",
+      "css": "\\2235",
+      "name": "Because"
+    },
+    {
+      "chars": "∶",
+      "code": "&#8758;",
+      "css": "\\2236",
+      "name": "Ratio"
+    },
+    {
+      "chars": "∷",
+      "code": "&#8759;",
+      "css": "\\2237",
+      "name": "Proportion"
+    },
+    {
+      "chars": "∸",
+      "code": "&#8760;",
+      "css": "\\2238",
+      "name": "Dot Minus"
+    },
+    {
+      "chars": "∹",
+      "code": "&#8761;",
+      "css": "\\2239",
+      "name": "Excess"
+    },
+    {
+      "chars": "∺",
+      "code": "&#8762;",
+      "css": "\\223A",
+      "name": "Geometric Proportion"
+    },
+    {
+      "chars": "∻",
+      "code": "&#8763;",
+      "css": "\\223B",
+      "name": "Homothetic"
+    },
+    {
+      "chars": "∼",
+      "code": "&sim;",
+      "css": "\\223C",
+      "name": "Tilde Operator"
+    },
+    {
+      "chars": "∽",
+      "code": "&#8765;",
+      "css": "\\223D",
+      "name": "Reversed Tilde"
+    },
+    {
+      "chars": "∾",
+      "code": "&#8766;",
+      "css": "\\223E",
+      "name": "Inverted Lazy S"
+    },
+    {
+      "chars": "∿",
+      "code": "&#8767;",
+      "css": "\\223F",
+      "name": "Sine Wave"
+    },
+    {
+      "chars": "≀",
+      "code": "&#8768;",
+      "css": "\\2240",
+      "name": "Wreath Product"
+    },
+    {
+      "chars": "≁",
+      "code": "&#8769;",
+      "css": "\\2241",
+      "name": "Not Tilde"
+    },
+    {
+      "chars": "≂",
+      "code": "&#8770;",
+      "css": "\\2242",
+      "name": "Minus Tilde"
+    },
+    {
+      "chars": "≃",
+      "code": "&#8771;",
+      "css": "\\2243",
+      "name": "Asymptotically Equal To"
+    },
+    {
+      "chars": "≄",
+      "code": "&#8772;",
+      "css": "\\2244",
+      "name": "Not Asymptotically Equal To"
+    },
+    {
+      "chars": "≅",
+      "code": "&cong;",
+      "css": "\\2245",
+      "name": "Approximately Equal To"
+    },
+    {
+      "chars": "≆",
+      "code": "&#8774;",
+      "css": "\\2246",
+      "name": "Approximately But Not Actually Equal To"
+    },
+    {
+      "chars": "≇",
+      "code": "&#8775;",
+      "css": "\\2247",
+      "name": "Neither Approximately Nor Actually Equal To"
+    },
+    {
+      "chars": "≈",
+      "code": "&asymp;",
+      "css": "\\2248",
+      "name": "Almost Equal To"
+    },
+    {
+      "chars": "≉",
+      "code": "&#8777;",
+      "css": "\\2249",
+      "name": "Not Almost Equal To"
+    },
+    {
+      "chars": "≊",
+      "code": "&#8778;",
+      "css": "\\224A",
+      "name": "Almost Equal Or Equal To"
+    },
+    {
+      "chars": "≋",
+      "code": "&#8779;",
+      "css": "\\224B",
+      "name": "Triple Tilde"
+    },
+    {
+      "chars": "≌",
+      "code": "&#8780;",
+      "css": "\\224C",
+      "name": "All Equal To"
+    },
+    {
+      "chars": "≍",
+      "code": "&#8781;",
+      "css": "\\224D",
+      "name": "Equivalent To"
+    },
+    {
+      "chars": "≎",
+      "code": "&#8782;",
+      "css": "\\224E",
+      "name": "Geometrically Equivalent To"
+    },
+    {
+      "chars": "≏",
+      "code": "&#8783;",
+      "css": "\\224F",
+      "name": "Difference Between"
+    },
+    {
+      "chars": "≐",
+      "code": "&#8784;",
+      "css": "\\2250",
+      "name": "Approaches The Limit"
+    },
+    {
+      "chars": "≑",
+      "code": "&#8785;",
+      "css": "\\2251",
+      "name": "Geometrically Equal To"
+    },
+    {
+      "chars": "≒",
+      "code": "&#8786;",
+      "css": "\\2252",
+      "name": "Approximately Equal To Or The Image Of"
+    },
+    {
+      "chars": "≓",
+      "code": "&#8787;",
+      "css": "\\2253",
+      "name": "Image Of Or Approximately Equal To"
+    },
+    {
+      "chars": "≔",
+      "code": "&#8788;",
+      "css": "\\2254",
+      "name": "Colon Equals"
+    },
+    {
+      "chars": "≕",
+      "code": "&#8789;",
+      "css": "\\2255",
+      "name": "Equals Colon"
+    },
+    {
+      "chars": "≖",
+      "code": "&#8790;",
+      "css": "\\2256",
+      "name": "Ring In Equal To"
+    },
+    {
+      "chars": "≗",
+      "code": "&#8791;",
+      "css": "\\2257",
+      "name": "Ring Equal To"
+    },
+    {
+      "chars": "≘",
+      "code": "&#8792;",
+      "css": "\\2258",
+      "name": "Corresponds To"
+    },
+    {
+      "chars": "≙",
+      "code": "&#8793;",
+      "css": "\\2259",
+      "name": "Estimates"
+    },
+    {
+      "chars": "≚",
+      "code": "&#8794;",
+      "css": "\\225A",
+      "name": "Equiangular To"
+    },
+    {
+      "chars": "≛",
+      "code": "&#8795;",
+      "css": "\\225B",
+      "name": "Star Equals"
+    },
+    {
+      "chars": "≜",
+      "code": "&#8796;",
+      "css": "\\225C",
+      "name": "Delta Equal To"
+    },
+    {
+      "chars": "≝",
+      "code": "&#8797;",
+      "css": "\\225D",
+      "name": "Equal To By Definition"
+    },
+    {
+      "chars": "≞",
+      "code": "&#8798;",
+      "css": "\\225E",
+      "name": "Measured By"
+    },
+    {
+      "chars": "≟",
+      "code": "&#8799;",
+      "css": "\\225F",
+      "name": "Questioned Equal To"
+    },
+    {
+      "chars": "≠",
+      "code": "&ne;",
+      "css": "\\2260",
+      "name": "Not Equal To"
+    },
+    {
+      "chars": "≡",
+      "code": "&equiv;",
+      "css": "\\2261",
+      "name": "Identical To"
+    },
+    {
+      "chars": "≢",
+      "code": "&#8802;",
+      "css": "\\2262",
+      "name": "Not Identical To"
+    },
+    {
+      "chars": "≣",
+      "code": "&#8803;",
+      "css": "\\2263",
+      "name": "Strictly Equivalent To"
+    },
+    {
+      "chars": "≤",
+      "code": "&le;",
+      "css": "\\2264",
+      "name": "Less-Than Or Equal To"
+    },
+    {
+      "chars": "≥",
+      "code": "&ge;",
+      "css": "\\2265",
+      "name": "Greater-Than Or Equal To"
+    },
+    {
+      "chars": "≦",
+      "code": "&#8806;",
+      "css": "\\2266",
+      "name": "Less-Than Over Equal To"
+    },
+    {
+      "chars": "≧",
+      "code": "&#8807;",
+      "css": "\\2267",
+      "name": "Greater-Than Over Equal To"
+    },
+    {
+      "chars": "≨",
+      "code": "&#8808;",
+      "css": "\\2268",
+      "name": "Less-Than But Not Equal To"
+    },
+    {
+      "chars": "≩",
+      "code": "&#8809;",
+      "css": "\\2269",
+      "name": "Greater-Than But Not Equal To"
+    },
+    {
+      "chars": "≪",
+      "code": "&#8810;",
+      "css": "\\226A",
+      "name": "Much Less-Than"
+    },
+    {
+      "chars": "≫",
+      "code": "&#8811;",
+      "css": "\\226B",
+      "name": "Much Greater-Than"
+    },
+    {
+      "chars": "≬",
+      "code": "&#8812;",
+      "css": "\\226C",
+      "name": "Between"
+    },
+    {
+      "chars": "≭",
+      "code": "&#8813;",
+      "css": "\\226D",
+      "name": "Not Equivalent To"
+    },
+    {
+      "chars": "≮",
+      "code": "&#8814;",
+      "css": "\\226E",
+      "name": "Not Less-Than"
+    },
+    {
+      "chars": "≯",
+      "code": "&#8815;",
+      "css": "\\226F",
+      "name": "Not Greater-Than"
+    },
+    {
+      "chars": "≰",
+      "code": "&#8816;",
+      "css": "\\2270",
+      "name": "Neither Less-Than Nor Equal To"
+    },
+    {
+      "chars": "≱",
+      "code": "&#8817;",
+      "css": "\\2271",
+      "name": "Neither Greater-Than Nor Equal To"
+    },
+    {
+      "chars": "≲",
+      "code": "&#8818;",
+      "css": "\\2272",
+      "name": "Less-Than Or Equivalent To"
+    },
+    {
+      "chars": "≳",
+      "code": "&#8819;",
+      "css": "\\2273",
+      "name": "Greater-Than Or Equivalent To"
+    },
+    {
+      "chars": "≴",
+      "code": "&#8820;",
+      "css": "\\2274",
+      "name": "Neither Less-Than Nor Equivalent To"
+    },
+    {
+      "chars": "≵",
+      "code": "&#8821;",
+      "css": "\\2275",
+      "name": "Neither Greater-Than Nor Equivalent To"
+    },
+    {
+      "chars": "≶",
+      "code": "&#8822;",
+      "css": "\\2276",
+      "name": "Less-Than Or Greater-Than"
+    },
+    {
+      "chars": "≷",
+      "code": "&#8823;",
+      "css": "\\2277",
+      "name": "Greater-Than Or Less-Than"
+    },
+    {
+      "chars": "≸",
+      "code": "&#8824;",
+      "css": "\\2278",
+      "name": "Neither Less-Than Nor Greater-Than"
+    },
+    {
+      "chars": "≹",
+      "code": "&#8825;",
+      "css": "\\2279",
+      "name": "Neither Greater-Than Nor Less-Than"
+    },
+    {
+      "chars": "≺",
+      "code": "&#8826;",
+      "css": "\\227A",
+      "name": "Precedes"
+    },
+    {
+      "chars": "≻",
+      "code": "&#8827;",
+      "css": "\\227B",
+      "name": "Succeeds"
+    },
+    {
+      "chars": "≼",
+      "code": "&#8828;",
+      "css": "\\227C",
+      "name": "Precedes Or Equal To"
+    },
+    {
+      "chars": "≽",
+      "code": "&#8829;",
+      "css": "\\227D",
+      "name": "Succeeds Or Equal To"
+    },
+    {
+      "chars": "≾",
+      "code": "&#8830;",
+      "css": "\\227E",
+      "name": "Precedes Or Equivalent To"
+    },
+    {
+      "chars": "≿",
+      "code": "&#8831;",
+      "css": "\\227F",
+      "name": "Succeeds Or Equivalent To"
+    },
+    {
+      "chars": "⊀",
+      "code": "&#8832;",
+      "css": "\\2280",
+      "name": "Does Not Precede"
+    },
+    {
+      "chars": "⊁",
+      "code": "&#8833;",
+      "css": "\\2281",
+      "name": "Does Not Succeed"
+    },
+    {
+      "chars": "⊂",
+      "code": "&sub;",
+      "css": "\\2282",
+      "name": "Subset Of"
+    },
+    {
+      "chars": "⊃",
+      "code": "&sup;",
+      "css": "\\2283",
+      "name": "Superset Of"
+    },
+    {
+      "chars": "⊄",
+      "code": "&nsub;",
+      "css": "\\2284",
+      "name": "Not A Subset Of"
+    },
+    {
+      "chars": "⊅",
+      "code": "&#8837;",
+      "css": "\\2285",
+      "name": "Not A Superset Of"
+    },
+    {
+      "chars": "⊆",
+      "code": "&sube;",
+      "css": "\\2286",
+      "name": "Subset Of Or Equal To"
+    },
+    {
+      "chars": "⊇",
+      "code": "&supe;",
+      "css": "\\2287",
+      "name": "Superset Of Or Equal To"
+    },
+    {
+      "chars": "⊈",
+      "code": "&#8840;",
+      "css": "\\2288",
+      "name": "Neither A Subset Of Nor Equal To"
+    },
+    {
+      "chars": "⊉",
+      "code": "&#8841;",
+      "css": "\\2289",
+      "name": "Neither A Superset Of Nor Equal To"
+    },
+    {
+      "chars": "⊊",
+      "code": "&#8842;",
+      "css": "\\228A",
+      "name": "Subset Of With Not Equal To"
+    },
+    {
+      "chars": "⊋",
+      "code": "&#8843;",
+      "css": "\\228B",
+      "name": "Superset Of With Not Equal To"
+    },
+    {
+      "chars": "⊌",
+      "code": "&#8844;",
+      "css": "\\228C",
+      "name": "Multiset"
+    },
+    {
+      "chars": "⊍",
+      "code": "&#8845;",
+      "css": "\\228D",
+      "name": "Multiset Multiplication"
+    },
+    {
+      "chars": "⊎",
+      "code": "&#8846;",
+      "css": "\\228E",
+      "name": "Multiset Union"
+    },
+    {
+      "chars": "⊏",
+      "code": "&#8847;",
+      "css": "\\228F",
+      "name": "Square Image Of"
+    },
+    {
+      "chars": "⊐",
+      "code": "&#8848;",
+      "css": "\\2290",
+      "name": "Square Original Of"
+    },
+    {
+      "chars": "⊑",
+      "code": "&#8849;",
+      "css": "\\2291",
+      "name": "Square Image Of Or Equal To"
+    },
+    {
+      "chars": "⊒",
+      "code": "&#8850;",
+      "css": "\\2292",
+      "name": "Square Original Of Or Equal To"
+    },
+    {
+      "chars": "⊓",
+      "code": "&#8851;",
+      "css": "\\2293",
+      "name": "Square Cap"
+    },
+    {
+      "chars": "⊔",
+      "code": "&#8852;",
+      "css": "\\2294",
+      "name": "Square Cup"
+    },
+    {
+      "chars": "⊕",
+      "code": "&oplus;",
+      "css": "\\2295",
+      "name": "Circled Plus"
+    },
+    {
+      "chars": "⊖",
+      "code": "&#8854;",
+      "css": "\\2296",
+      "name": "Circled Minus"
+    },
+    {
+      "chars": "⊗",
+      "code": "&otimes;",
+      "css": "\\2297",
+      "name": "Circled Times"
+    },
+    {
+      "chars": "⊘",
+      "code": "&#8856;",
+      "css": "\\2298",
+      "name": "Circled Division Slash"
+    },
+    {
+      "chars": "⊙",
+      "code": "&#8857;",
+      "css": "\\2299",
+      "name": "Circled Dot Operator"
+    },
+    {
+      "chars": "⊚",
+      "code": "&#8858;",
+      "css": "\\229A",
+      "name": "Circled Ring Operator"
+    },
+    {
+      "chars": "⊛",
+      "code": "&#8859;",
+      "css": "\\229B",
+      "name": "Circled Asterisk Operator"
+    },
+    {
+      "chars": "⊜",
+      "code": "&#8860;",
+      "css": "\\229C",
+      "name": "Circled Equals"
+    },
+    {
+      "chars": "⊝",
+      "code": "&#8861;",
+      "css": "\\229D",
+      "name": "Circled Dash"
+    },
+    {
+      "chars": "⊞",
+      "code": "&#8862;",
+      "css": "\\229E",
+      "name": "Squared Plus"
+    },
+    {
+      "chars": "⊟",
+      "code": "&#8863;",
+      "css": "\\229F",
+      "name": "Squared Minus"
+    },
+    {
+      "chars": "⊠",
+      "code": "&#8864;",
+      "css": "\\22A0",
+      "name": "Squared Times"
+    },
+    {
+      "chars": "⊡",
+      "code": "&#8865;",
+      "css": "\\22A1",
+      "name": "Squared Dot Operator"
+    },
+    {
+      "chars": "⊢",
+      "code": "&#8866;",
+      "css": "\\22A2",
+      "name": "Right Tack"
+    },
+    {
+      "chars": "⊣",
+      "code": "&#8867;",
+      "css": "\\22A3",
+      "name": "Left Tack"
+    },
+    {
+      "chars": "⊤",
+      "code": "&#8868;",
+      "css": "\\22A4",
+      "name": "Down Tack"
+    },
+    {
+      "chars": "⊥",
+      "code": "&perp;",
+      "css": "\\22A5",
+      "name": "Up Tack"
+    },
+    {
+      "chars": "⊦",
+      "code": "&#8870;",
+      "css": "\\22A6",
+      "name": "Assertion"
+    },
+    {
+      "chars": "⊧",
+      "code": "&#8871;",
+      "css": "\\22A7",
+      "name": "Models"
+    },
+    {
+      "chars": "⊨",
+      "code": "&#8872;",
+      "css": "\\22A8",
+      "name": "True"
+    },
+    {
+      "chars": "⊩",
+      "code": "&#8873;",
+      "css": "\\22A9",
+      "name": "Forces"
+    },
+    {
+      "chars": "⊪",
+      "code": "&#8874;",
+      "css": "\\22AA",
+      "name": "Triple Vertical Bar Right Turnstile"
+    },
+    {
+      "chars": "⊫",
+      "code": "&#8875;",
+      "css": "\\22AB",
+      "name": "Double Vertical Bar Double Right Turnstile"
+    },
+    {
+      "chars": "⊬",
+      "code": "&#8876;",
+      "css": "\\22AC",
+      "name": "Does Not Prove"
+    },
+    {
+      "chars": "⊭",
+      "code": "&#8877;",
+      "css": "\\22AD",
+      "name": "Not True"
+    },
+    {
+      "chars": "⊮",
+      "code": "&#8878;",
+      "css": "\\22AE",
+      "name": "Does Not Force"
+    },
+    {
+      "chars": "⊯",
+      "code": "&#8879;",
+      "css": "\\22AF",
+      "name": "Negated Double Vertical Bar Double Right Turnstile"
+    },
+    {
+      "chars": "⊰",
+      "code": "&#8880;",
+      "css": "\\22B0",
+      "name": "Precedes Under Relation"
+    },
+    {
+      "chars": "⊱",
+      "code": "&#8881;",
+      "css": "\\22B1",
+      "name": "Succeeds Under Relation"
+    },
+    {
+      "chars": "⊲",
+      "code": "&#8882;",
+      "css": "\\22B2",
+      "name": "Normal Subgroup Of"
+    },
+    {
+      "chars": "⊳",
+      "code": "&#8883;",
+      "css": "\\22B3",
+      "name": "Contains As Normal Subgroup"
+    },
+    {
+      "chars": "⊴",
+      "code": "&#8884;",
+      "css": "\\22B4",
+      "name": "Normal Subgroup Of Or Equal To"
+    },
+    {
+      "chars": "⊵",
+      "code": "&#8885;",
+      "css": "\\22B5",
+      "name": "Contains As Normal Subgroup Or Equal To"
+    },
+    {
+      "chars": "⊶",
+      "code": "&#8886;",
+      "css": "\\22B6",
+      "name": "Original Of"
+    },
+    {
+      "chars": "⊷",
+      "code": "&#8887;",
+      "css": "\\22B7",
+      "name": "Image Of"
+    },
+    {
+      "chars": "⊸",
+      "code": "&#8888;",
+      "css": "\\22B8",
+      "name": "Multimap"
+    },
+    {
+      "chars": "⊹",
+      "code": "&#8889;",
+      "css": "\\22B9",
+      "name": "Hermitian Conjugate Matrix"
+    },
+    {
+      "chars": "⊺",
+      "code": "&#8890;",
+      "css": "\\22BA",
+      "name": "Intercalate"
+    },
+    {
+      "chars": "⊻",
+      "code": "&#8891;",
+      "css": "\\22BB",
+      "name": "Xor"
+    },
+    {
+      "chars": "⊼",
+      "code": "&#8892;",
+      "css": "\\22BC",
+      "name": "Nand"
+    },
+    {
+      "chars": "⊽",
+      "code": "&#8893;",
+      "css": "\\22BD",
+      "name": "Nor"
+    },
+    {
+      "chars": "⊾",
+      "code": "&#8894;",
+      "css": "\\22BE",
+      "name": "Right Angle With Arc"
+    },
+    {
+      "chars": "⊿",
+      "code": "&#8895;",
+      "css": "\\22BF",
+      "name": "Right Triangle"
+    },
+    {
+      "chars": "⋀",
+      "code": "&#8896;",
+      "css": "\\22C0",
+      "name": "N-Ary Logical And"
+    },
+    {
+      "chars": "⋁",
+      "code": "&#8897;",
+      "css": "\\22C1",
+      "name": "N-Ary Logical Or"
+    },
+    {
+      "chars": "⋂",
+      "code": "&#8898;",
+      "css": "\\22C2",
+      "name": "N-Ary Intersection"
+    },
+    {
+      "chars": "⋃",
+      "code": "&#8899;",
+      "css": "\\22C3",
+      "name": "N-Ary Union"
+    },
+    {
+      "chars": "⋄",
+      "code": "&#8900;",
+      "css": "\\22C4",
+      "name": "Diamond Operator"
+    },
+    {
+      "chars": "⋅",
+      "code": "&sdot;",
+      "css": "\\22C5",
+      "name": "Dot Operator"
+    },
+    {
+      "chars": "⋆",
+      "code": "&#8902;",
+      "css": "\\22C6",
+      "name": "Star Operator"
+    },
+    {
+      "chars": "⋇",
+      "code": "&#8903;",
+      "css": "\\22C7",
+      "name": "Division Times"
+    },
+    {
+      "chars": "⋈",
+      "code": "&#8904;",
+      "css": "\\22C8",
+      "name": "Bowtie"
+    },
+    {
+      "chars": "⋉",
+      "code": "&#8905;",
+      "css": "\\22C9",
+      "name": "Left Normal Factor Semidirect Product"
+    },
+    {
+      "chars": "⋊",
+      "code": "&#8906;",
+      "css": "\\22CA",
+      "name": "Right Normal Factor Semidirect Product"
+    },
+    {
+      "chars": "⋋",
+      "code": "&#8907;",
+      "css": "\\22CB",
+      "name": "Left Semidirect Product"
+    },
+    {
+      "chars": "⋌",
+      "code": "&#8908;",
+      "css": "\\22CC",
+      "name": "Right Semidirect Product"
+    },
+    {
+      "chars": "⋍",
+      "code": "&#8909;",
+      "css": "\\22CD",
+      "name": "Reversed Tilde Equals"
+    },
+    {
+      "chars": "⋎",
+      "code": "&#8910;",
+      "css": "\\22CE",
+      "name": "Curly Logical Or"
+    },
+    {
+      "chars": "⋏",
+      "code": "&#8911;",
+      "css": "\\22CF",
+      "name": "Curly Logical And"
+    },
+    {
+      "chars": "⋐",
+      "code": "&#8912;",
+      "css": "\\22D0",
+      "name": "Double Subset"
+    },
+    {
+      "chars": "⋑",
+      "code": "&#8913;",
+      "css": "\\22D1",
+      "name": "Double Superset"
+    },
+    {
+      "chars": "⋒",
+      "code": "&#8914;",
+      "css": "\\22D2",
+      "name": "Double Intersection"
+    },
+    {
+      "chars": "⋓",
+      "code": "&#8915;",
+      "css": "\\22D3",
+      "name": "Double Union"
+    },
+    {
+      "chars": "⋔",
+      "code": "&#8916;",
+      "css": "\\22D4",
+      "name": "Pitchfork"
+    },
+    {
+      "chars": "⋕",
+      "code": "&#8917;",
+      "css": "\\22D5",
+      "name": "Equal And Parallel To"
+    },
+    {
+      "chars": "⋖",
+      "code": "&#8918;",
+      "css": "\\22D6",
+      "name": "Less-Than With Dot"
+    },
+    {
+      "chars": "⋗",
+      "code": "&#8919;",
+      "css": "\\22D7",
+      "name": "Greater-Than With Dot"
+    },
+    {
+      "chars": "⋘",
+      "code": "&#8920;",
+      "css": "\\22D8",
+      "name": "Very Much Less-Than"
+    },
+    {
+      "chars": "⋙",
+      "code": "&#8921;",
+      "css": "\\22D9",
+      "name": "Very Much Greater-Than"
+    },
+    {
+      "chars": "⋚",
+      "code": "&#8922;",
+      "css": "\\22DA",
+      "name": "Less-Than Equal To Or Greater-Than"
+    },
+    {
+      "chars": "⋛",
+      "code": "&#8923;",
+      "css": "\\22DB",
+      "name": "Greater-Than Equal To Or Less-Than"
+    },
+    {
+      "chars": "⋜",
+      "code": "&#8924;",
+      "css": "\\22DC",
+      "name": "Equal To Or Less-Than"
+    },
+    {
+      "chars": "⋝",
+      "code": "&#8925;",
+      "css": "\\22DD",
+      "name": "Equal To Or Greater-Than"
+    },
+    {
+      "chars": "⋞",
+      "code": "&#8926;",
+      "css": "\\22DE",
+      "name": "Equal To Or Precedes"
+    },
+    {
+      "chars": "⋟",
+      "code": "&#8927;",
+      "css": "\\22DF",
+      "name": "Equal To Or Succeeds"
+    },
+    {
+      "chars": "⋠",
+      "code": "&#8928;",
+      "css": "\\22E0",
+      "name": "Does Not Precede Or Equal"
+    },
+    {
+      "chars": "⋡",
+      "code": "&#8929;",
+      "css": "\\22E1",
+      "name": "Does Not Succeed Or Equal"
+    },
+    {
+      "chars": "⋢",
+      "code": "&#8930;",
+      "css": "\\22E2",
+      "name": "Not Square Image Of Or Equal To"
+    },
+    {
+      "chars": "⋣",
+      "code": "&#8931;",
+      "css": "\\22E3",
+      "name": "Not Square Original Of Or Equal To"
+    },
+    {
+      "chars": "⋤",
+      "code": "&#8932;",
+      "css": "\\22E4",
+      "name": "Square Image Of Or Not Equal To"
+    },
+    {
+      "chars": "⋥",
+      "code": "&#8933;",
+      "css": "\\22E5",
+      "name": "Square Original Of Or Not Equal To"
+    },
+    {
+      "chars": "⋦",
+      "code": "&#8934;",
+      "css": "\\22E6",
+      "name": "Less-Than But Not Equivalent To"
+    },
+    {
+      "chars": "⋧",
+      "code": "&#8935;",
+      "css": "\\22E7",
+      "name": "Greater-Than But Not Equivalent To"
+    },
+    {
+      "chars": "⋨",
+      "code": "&#8936;",
+      "css": "\\22E8",
+      "name": "Precedes But Not Equivalent To"
+    },
+    {
+      "chars": "⋩",
+      "code": "&#8937;",
+      "css": "\\22E9",
+      "name": "Succeeds But Not Equivalent To"
+    },
+    {
+      "chars": "⋪",
+      "code": "&#8938;",
+      "css": "\\22EA",
+      "name": "Not Normal Subgroup Of"
+    },
+    {
+      "chars": "⋫",
+      "code": "&#8939;",
+      "css": "\\22EB",
+      "name": "Does Not Contain As Normal Subgroup"
+    },
+    {
+      "chars": "⋬",
+      "code": "&#8940;",
+      "css": "\\22EC",
+      "name": "Not Normal Subgroup Of Or Equal To"
+    },
+    {
+      "chars": "⋭",
+      "code": "&#8941;",
+      "css": "\\22ED",
+      "name": "Does Not Contain As Normal Subgroup Or Equal"
+    },
+    {
+      "chars": "⋮",
+      "code": "&#8942;",
+      "css": "\\22EE",
+      "name": "Vertical Ellipsis"
+    },
+    {
+      "chars": "⋯",
+      "code": "&#8943;",
+      "css": "\\22EF",
+      "name": "Midline Horizontal Ellipsis"
+    },
+    {
+      "chars": "⋰",
+      "code": "&#8944;",
+      "css": "\\22F0",
+      "name": "Up Right Diagonal Ellipsis"
+    },
+    {
+      "chars": "⋱",
+      "code": "&#8945;",
+      "css": "\\22F1",
+      "name": "Down Right Diagonal Ellipsis"
+    },
+    {
+      "chars": "⋲",
+      "code": "&#8946;",
+      "css": "\\22F2",
+      "name": "Element Of With Long Horizontal Stroke"
+    },
+    {
+      "chars": "⋳",
+      "code": "&#8947;",
+      "css": "\\22F3",
+      "name": "Element Of With Vertical Bar At End Of Horizontal Stroke"
+    },
+    {
+      "chars": "⋴",
+      "code": "&#8948;",
+      "css": "\\22F4",
+      "name": "Small Element Of With Vertical Bar At End Of Horizontal Stroke"
+    },
+    {
+      "chars": "⋵",
+      "code": "&#8949;",
+      "css": "\\22F5",
+      "name": "Element Of With Dot Above"
+    },
+    {
+      "chars": "⋶",
+      "code": "&#8950;",
+      "css": "\\22F6",
+      "name": "Element Of With Overbar"
+    },
+    {
+      "chars": "⋷",
+      "code": "&#8951;",
+      "css": "\\22F7",
+      "name": "Small Element Of With Overbar"
+    },
+    {
+      "chars": "⋸",
+      "code": "&#8952;",
+      "css": "\\22F8",
+      "name": "Element Of With Underbar"
+    },
+    {
+      "chars": "⋹",
+      "code": "&#8953;",
+      "css": "\\22F9",
+      "name": "Element Of With Two Horizontal Strokes"
+    },
+    {
+      "chars": "⋺",
+      "code": "&#8954;",
+      "css": "\\22FA",
+      "name": "Contains With Long Horizontal Stroke"
+    },
+    {
+      "chars": "⋻",
+      "code": "&#8955;",
+      "css": "\\22FB",
+      "name": "Contains With Vertical Bar At End Of Horizontal Stroke"
+    },
+    {
+      "chars": "⋼",
+      "code": "&#8956;",
+      "css": "\\22FC",
+      "name": "Small Contains With Vertical Bar At End Of Horizontal Stroke"
+    },
+    {
+      "chars": "⋽",
+      "code": "&#8957;",
+      "css": "\\22FD",
+      "name": "Contains With Overbar"
+    },
+    {
+      "chars": "⋾",
+      "code": "&#8958;",
+      "css": "\\22FE",
+      "name": "Small Contains With Overbar"
+    },
+    {
+      "chars": "⋿",
+      "code": "&#8959;",
+      "css": "\\22FF",
+      "name": "Z Notation Bag Membership"
+    }
+  ]
+}

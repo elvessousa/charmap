@@ -1,0 +1,808 @@
+{
+  "characters": [
+    {
+      "char": "Ͱ",
+      "code": "&#880;",
+      "css": "\\0370",
+      "name": "Greek Capital Letter Heta"
+    },
+    {
+      "char": "ͱ",
+      "code": "&#881;",
+      "css": "\\0371",
+      "name": "Greek Small Letter Heta"
+    },
+    {
+      "char": "Ͳ",
+      "code": "&#882;",
+      "css": "\\0372",
+      "name": "Greek Capital Letter Archaic Sampi"
+    },
+    {
+      "char": "ͳ",
+      "code": "&#883;",
+      "css": "\\0373",
+      "name": "Greek Small Letter Archaic Sampi"
+    },
+    {
+      "char": "ʹ",
+      "code": "&#884;",
+      "css": "\\0374",
+      "name": "Greek Numeral Sign"
+    },
+    {
+      "char": "͵",
+      "code": "&#885;",
+      "css": "\\0375",
+      "name": "Greek Lower Numeral Sign"
+    },
+    {
+      "char": "Ͷ",
+      "code": "&#886;",
+      "css": "\\0376",
+      "name": "Greek Capital Letter Pamphylian Digamma"
+    },
+    {
+      "char": "ͷ",
+      "code": "&#887;",
+      "css": "\\0377",
+      "name": "Greek Small Letter Pamphylian Digamma"
+    },
+    {
+      "char": "ͺ",
+      "code": "&#890;",
+      "css": "\\037A",
+      "name": "Greek Ypogegrammeni"
+    },
+    {
+      "char": "ͻ",
+      "code": "&#891;",
+      "css": "\\037B",
+      "name": "Greek Small Reversed Lunate Sigma Symbol"
+    },
+    {
+      "char": "ͼ",
+      "code": "&#892;",
+      "css": "\\037C",
+      "name": "Greek Small Dotted Lunate Sigma Symbol"
+    },
+    {
+      "char": "ͽ",
+      "code": "&#893;",
+      "css": "\\037D",
+      "name": "Greek Small Reversed Dotted Lunate Sigma Symbol"
+    },
+    {
+      "char": ";",
+      "code": "&#894;",
+      "css": "\\037E",
+      "name": "Greek Question Mark"
+    },
+    {
+      "char": "΄",
+      "code": "&#900;",
+      "css": "\\0384",
+      "name": "Greek Tonos"
+    },
+    {
+      "char": "΅",
+      "code": "&#901;",
+      "css": "\\0385",
+      "name": "Greek Dialytika Tonos"
+    },
+    {
+      "char": "Ά",
+      "code": "&#902;",
+      "css": "\\0386",
+      "name": "Greek Capital Letter Alpha With Tonos"
+    },
+    {
+      "char": "·",
+      "code": "&#903;",
+      "css": "\\0387",
+      "name": "Greek Ano Teleia"
+    },
+    {
+      "char": "Έ",
+      "code": "&#904;",
+      "css": "\\0388",
+      "name": "Greek Capital Letter Epsilon With Tonos"
+    },
+    {
+      "char": "Ή",
+      "code": "&#905;",
+      "css": "\\0389",
+      "name": "Greek Capital Letter Eta With Tonos"
+    },
+    {
+      "char": "Ί",
+      "code": "&#906;",
+      "css": "\\038A",
+      "name": "Greek Capital Letter Iota With Tonos"
+    },
+    {
+      "char": "Ό",
+      "code": "&#908;",
+      "css": "\\038C",
+      "name": "Greek Capital Letter Omicron With Tonos"
+    },
+    {
+      "char": "Ύ",
+      "code": "&#910;",
+      "css": "\\038E",
+      "name": "Greek Capital Letter Upsilon With Tonos"
+    },
+    {
+      "char": "Ώ",
+      "code": "&#911;",
+      "css": "\\038F",
+      "name": "Greek Capital Letter Omega With Tonos"
+    },
+    {
+      "char": "ΐ",
+      "code": "&#912;",
+      "css": "\\0390",
+      "name": "Greek Small Letter Iota With Dialytika And Tonos"
+    },
+    {
+      "char": "Α",
+      "code": "&Alpha;",
+      "css": "\\0391",
+      "name": "Greek Capital Letter Alpha"
+    },
+    {
+      "char": "Β",
+      "code": "&Beta;",
+      "css": "\\0392",
+      "name": "Greek Capital Letter Beta"
+    },
+    {
+      "char": "Γ",
+      "code": "&Gamma;",
+      "css": "\\0393",
+      "name": "Greek Capital Letter Gamma"
+    },
+    {
+      "char": "Δ",
+      "code": "&Delta;",
+      "css": "\\0394",
+      "name": "Greek Capital Letter Delta"
+    },
+    {
+      "char": "Ε",
+      "code": "&Epsilon;",
+      "css": "\\0395",
+      "name": "Greek Capital Letter Epsilon"
+    },
+    {
+      "char": "Ζ",
+      "code": "&Zeta;",
+      "css": "\\0396",
+      "name": "Greek Capital Letter Zeta"
+    },
+    {
+      "char": "Η",
+      "code": "&Eta;",
+      "css": "\\0397",
+      "name": "Greek Capital Letter Eta"
+    },
+    {
+      "char": "Θ",
+      "code": "&Theta;",
+      "css": "\\0398",
+      "name": "Greek Capital Letter Theta"
+    },
+    {
+      "char": "Ι",
+      "code": "&Iota;",
+      "css": "\\0399",
+      "name": "Greek Capital Letter Iota"
+    },
+    {
+      "char": "Κ",
+      "code": "&Kappa;",
+      "css": "\\039A",
+      "name": "Greek Capital Letter Kappa"
+    },
+    {
+      "char": "Λ",
+      "code": "&Lambda;",
+      "css": "\\039B",
+      "name": "Greek Capital Letter Lambda"
+    },
+    {
+      "char": "Μ",
+      "code": "&Mu;",
+      "css": "\\039C",
+      "name": "Greek Capital Letter Mu"
+    },
+    {
+      "char": "Ν",
+      "code": "&Nu;",
+      "css": "\\039D",
+      "name": "Greek Capital Letter Nu"
+    },
+    {
+      "char": "Ξ",
+      "code": "&Xi;",
+      "css": "\\039E",
+      "name": "Greek Capital Letter Xi"
+    },
+    {
+      "char": "Ο",
+      "code": "&Omicron;",
+      "css": "\\039F",
+      "name": "Greek Capital Letter Omicron"
+    },
+    {
+      "char": "Π",
+      "code": "&Pi;",
+      "css": "\\03A0",
+      "name": "Greek Capital Letter Pi"
+    },
+    {
+      "char": "Ρ",
+      "code": "&Rho;",
+      "css": "\\03A1",
+      "name": "Greek Capital Letter Rho"
+    },
+    {
+      "char": "Σ",
+      "code": "&Sigma;",
+      "css": "\\03A3",
+      "name": "Greek Capital Letter Sigma"
+    },
+    {
+      "char": "Τ",
+      "code": "&Tau;",
+      "css": "\\03A4",
+      "name": "Greek Capital Letter Tau"
+    },
+    {
+      "char": "Υ",
+      "code": "&Upsilon;",
+      "css": "\\03A5",
+      "name": "Greek Capital Letter Upsilon"
+    },
+    {
+      "char": "Φ",
+      "code": "&Phi;",
+      "css": "\\03A6",
+      "name": "Greek Capital Letter Phi"
+    },
+    {
+      "char": "Χ",
+      "code": "&Chi;",
+      "css": "\\03A7",
+      "name": "Greek Capital Letter Chi"
+    },
+    {
+      "char": "Ψ",
+      "code": "&Psi;",
+      "css": "\\03A8",
+      "name": "Greek Capital Letter Psi"
+    },
+    {
+      "char": "Ω",
+      "code": "&Omega;",
+      "css": "\\03A9",
+      "name": "Greek Capital Letter Omega"
+    },
+    {
+      "char": "Ϊ",
+      "code": "&#938;",
+      "css": "\\03AA",
+      "name": "Greek Capital Letter Iota With Dialytika"
+    },
+    {
+      "char": "Ϋ",
+      "code": "&#939;",
+      "css": "\\03AB",
+      "name": "Greek Capital Letter Upsilon With Dialytika"
+    },
+    {
+      "char": "ά",
+      "code": "&#940;",
+      "css": "\\03AC",
+      "name": "Greek Small Letter Alpha With Tonos"
+    },
+    {
+      "char": "έ",
+      "code": "&#941;",
+      "css": "\\03AD",
+      "name": "Greek Small Letter Epsilon With Tonos"
+    },
+    {
+      "char": "ή",
+      "code": "&#942;",
+      "css": "\\03AE",
+      "name": "Greek Small Letter Eta With Tonos"
+    },
+    {
+      "char": "ί",
+      "code": "&#943;",
+      "css": "\\03AF",
+      "name": "Greek Small Letter Iota With Tonos"
+    },
+    {
+      "char": "ΰ",
+      "code": "&#944;",
+      "css": "\\03B0",
+      "name": "Greek Small Letter Upsilon With Dialytika And Tonos"
+    },
+    {
+      "char": "α",
+      "code": "&alpha;",
+      "css": "\\03B1",
+      "name": "Greek Small Letter Alpha"
+    },
+    {
+      "char": "β",
+      "code": "&beta;",
+      "css": "\\03B2",
+      "name": "Greek Small Letter Beta"
+    },
+    {
+      "char": "γ",
+      "code": "&gamma;",
+      "css": "\\03B3",
+      "name": "Greek Small Letter Gamma"
+    },
+    {
+      "char": "δ",
+      "code": "&delta;",
+      "css": "\\03B4",
+      "name": "Greek Small Letter Delta"
+    },
+    {
+      "char": "ε",
+      "code": "&epsilon;",
+      "css": "\\03B5",
+      "name": "Greek Small Letter Epsilon"
+    },
+    {
+      "char": "ζ",
+      "code": "&zeta;",
+      "css": "\\03B6",
+      "name": "Greek Small Letter Zeta"
+    },
+    {
+      "char": "η",
+      "code": "&eta;",
+      "css": "\\03B7",
+      "name": "Greek Small Letter Eta"
+    },
+    {
+      "char": "θ",
+      "code": "&theta;",
+      "css": "\\03B8",
+      "name": "Greek Small Letter Theta"
+    },
+    {
+      "char": "ι",
+      "code": "&iota;",
+      "css": "\\03B9",
+      "name": "Greek Small Letter Iota"
+    },
+    {
+      "char": "κ",
+      "code": "&kappa;",
+      "css": "\\03BA",
+      "name": "Greek Small Letter Kappa"
+    },
+    {
+      "char": "λ",
+      "code": "&lambda;",
+      "css": "\\03BB",
+      "name": "Greek Small Letter Lambda"
+    },
+    {
+      "char": "μ",
+      "code": "&mu;",
+      "css": "\\03BC",
+      "name": "Greek Small Letter Mu"
+    },
+    {
+      "char": "ν",
+      "code": "&nu;",
+      "css": "\\03BD",
+      "name": "Greek Small Letter Nu"
+    },
+    {
+      "char": "ξ",
+      "code": "&xi;",
+      "css": "\\03BE",
+      "name": "Greek Small Letter Xi"
+    },
+    {
+      "char": "ο",
+      "code": "&omicron;",
+      "css": "\\03BF",
+      "name": "Greek Small Letter Omicron"
+    },
+    {
+      "char": "π",
+      "code": "&pi;",
+      "css": "\\03C0",
+      "name": "Greek Small Letter Pi"
+    },
+    {
+      "char": "ρ",
+      "code": "&rho;",
+      "css": "\\03C1",
+      "name": "Greek Small Letter Rho"
+    },
+    {
+      "char": "ς",
+      "code": "&sigmaf;",
+      "css": "\\03C2",
+      "name": "Greek Small Letter Final Sigma"
+    },
+    {
+      "char": "σ",
+      "code": "&sigma;",
+      "css": "\\03C3",
+      "name": "Greek Small Letter Sigma"
+    },
+    {
+      "char": "τ",
+      "code": "&tau;",
+      "css": "\\03C4",
+      "name": "Greek Small Letter Tau"
+    },
+    {
+      "char": "υ",
+      "code": "&upsilon;",
+      "css": "\\03C5",
+      "name": "Greek Small Letter Upsilon"
+    },
+    {
+      "char": "φ",
+      "code": "&phi;",
+      "css": "\\03C6",
+      "name": "Greek Small Letter Phi"
+    },
+    {
+      "char": "χ",
+      "code": "&chi;",
+      "css": "\\03C7",
+      "name": "Greek Small Letter Chi"
+    },
+    {
+      "char": "ψ",
+      "code": "&psi;",
+      "css": "\\03C8",
+      "name": "Greek Small Letter Psi"
+    },
+    {
+      "char": "ω",
+      "code": "&omega;",
+      "css": "\\03C9",
+      "name": "Greek Small Letter Omega"
+    },
+    {
+      "char": "ϊ",
+      "code": "&#970;",
+      "css": "\\03CA",
+      "name": "Greek Small Letter Iota With Dialytika"
+    },
+    {
+      "char": "ϋ",
+      "code": "&#971;",
+      "css": "\\03CB",
+      "name": "Greek Small Letter Upsilon With Dialytika"
+    },
+    {
+      "char": "ό",
+      "code": "&#972;",
+      "css": "\\03CC",
+      "name": "Greek Small Letter Omicron With Tonos"
+    },
+    {
+      "char": "ύ",
+      "code": "&#973;",
+      "css": "\\03CD",
+      "name": "Greek Small Letter Upsilon With Tonos"
+    },
+    {
+      "char": "ώ",
+      "code": "&#974;",
+      "css": "\\03CE",
+      "name": "Greek Small Letter Omega With Tonos"
+    },
+    {
+      "char": "Ϗ",
+      "code": "&#975;",
+      "css": "\\03CF",
+      "name": "Greek Capital Kai Symbol"
+    },
+    {
+      "char": "ϐ",
+      "code": "&#976;",
+      "css": "\\03D0",
+      "name": "Greek Beta Symbol"
+    },
+    {
+      "char": "ϑ",
+      "code": "&thetasym;",
+      "css": "\\03D1",
+      "name": "Greek Theta Symbol"
+    },
+    {
+      "char": "ϒ",
+      "code": "&upsih;",
+      "css": "\\03D2",
+      "name": "Greek Upsilon With Hook Symbol"
+    },
+    {
+      "char": "ϓ",
+      "code": "&#979;",
+      "css": "\\03D3",
+      "name": "Greek Upsilon With Acute And Hook Symbol"
+    },
+    {
+      "char": "ϔ",
+      "code": "&#980;",
+      "css": "\\03D4",
+      "name": "Greek Upsilon With Diaeresis And Hook Symbol"
+    },
+    {
+      "char": "ϕ",
+      "code": "&straightphi;",
+      "css": "\\03D5",
+      "name": "Greek Phi Symbol"
+    },
+    {
+      "char": "ϖ",
+      "code": "&piv;",
+      "css": "\\03D6",
+      "name": "Greek Pi Symbol"
+    },
+    {
+      "char": "ϗ",
+      "code": "&#983;",
+      "css": "\\03D7",
+      "name": "Greek Kai Symbol"
+    },
+    {
+      "char": "Ϙ",
+      "code": "&#984;",
+      "css": "\\03D8",
+      "name": "Greek Letter Archaic Koppa"
+    },
+    {
+      "char": "ϙ",
+      "code": "&#985;",
+      "css": "\\03D9",
+      "name": "Greek Small Letter Archaic Koppa"
+    },
+    {
+      "char": "Ϛ",
+      "code": "&#986;",
+      "css": "\\03DA",
+      "name": "Greek Letter Stigma"
+    },
+    {
+      "char": "ϛ",
+      "code": "&#987;",
+      "css": "\\03DB",
+      "name": "Greek Small Letter Stigma"
+    },
+    {
+      "char": "Ϝ",
+      "code": "&Gammad;",
+      "css": "\\03DC",
+      "name": "Greek Letter Digamma"
+    },
+    {
+      "char": "ϝ",
+      "code": "&gammad;",
+      "css": "\\03DD",
+      "name": "Greek Small Letter Digamma"
+    },
+    {
+      "char": "Ϟ",
+      "code": "&#990;",
+      "css": "\\03DE",
+      "name": "Greek Letter Koppa"
+    },
+    {
+      "char": "ϟ",
+      "code": "&#991;",
+      "css": "\\03DF",
+      "name": "Greek Small Letter Koppa"
+    },
+    {
+      "char": "Ϡ",
+      "code": "&#992;",
+      "css": "\\03E0",
+      "name": "Greek Letter Sampi"
+    },
+    {
+      "char": "ϡ",
+      "code": "&#993;",
+      "css": "\\03E1",
+      "name": "Greek Small Letter Sampi"
+    },
+    {
+      "char": "Ϣ",
+      "code": "&#994;",
+      "css": "\\03E2",
+      "name": "Coptic Capital Letter Shei"
+    },
+    {
+      "char": "ϣ",
+      "code": "&#995;",
+      "css": "\\03E3",
+      "name": "Coptic Small Letter Shei"
+    },
+    {
+      "char": "Ϥ",
+      "code": "&#996;",
+      "css": "\\03E4",
+      "name": "Coptic Capital Letter Fei"
+    },
+    {
+      "char": "ϥ",
+      "code": "&#997;",
+      "css": "\\03E5",
+      "name": "Coptic Small Letter Fei"
+    },
+    {
+      "char": "Ϧ",
+      "code": "&#998;",
+      "css": "\\03E6",
+      "name": "Coptic Capital Letter Khei"
+    },
+    {
+      "char": "ϧ",
+      "code": "&#999;",
+      "css": "\\03E7",
+      "name": "Coptic Small Letter Khei"
+    },
+    {
+      "char": "Ϩ",
+      "code": "&#100;",
+      "css": "\\03E8",
+      "name": "Coptic Capital Letter Hori"
+    },
+    {
+      "char": "ϩ",
+      "code": "&#100;",
+      "css": "\\03E9",
+      "name": "Coptic Small Letter Hori"
+    },
+    {
+      "char": "Ϫ",
+      "code": "&#100;",
+      "css": "\\03EA",
+      "name": "Coptic Capital Letter Gangia"
+    },
+    {
+      "char": "ϫ",
+      "code": "&#100;",
+      "css": "\\03EB",
+      "name": "Coptic Small Letter Gangia"
+    },
+    {
+      "char": "Ϭ",
+      "code": "&#100;",
+      "css": "\\03EC",
+      "name": "Coptic Capital Letter Shima"
+    },
+    {
+      "char": "ϭ",
+      "code": "&#100;",
+      "css": "\\03ED",
+      "name": "Coptic Small Letter Shima"
+    },
+    {
+      "char": "Ϯ",
+      "code": "&#100;",
+      "css": "\\03EE",
+      "name": "Coptic Capital Letter Dei"
+    },
+    {
+      "char": "ϯ",
+      "code": "&#100;",
+      "css": "\\03EF",
+      "name": "Coptic Small Letter Dei"
+    },
+    {
+      "char": "ϰ",
+      "code": "&varkappa;",
+      "css": "\\03F0",
+      "name": "Greek Kappa Symbol"
+    },
+    {
+      "char": "ϱ",
+      "code": "&varrho;",
+      "css": "\\03F1",
+      "name": "Greek Rho Symbol"
+    },
+    {
+      "char": "ϲ",
+      "code": "&#101;",
+      "css": "\\03F2",
+      "name": "Greek Lunate Sigma Symbol"
+    },
+    {
+      "char": "ϳ",
+      "code": "&#101;",
+      "css": "\\03F3",
+      "name": "Greek Letter Yot"
+    },
+    {
+      "char": "ϴ",
+      "code": "&#101;",
+      "css": "\\03F4",
+      "name": "Greek Capital Theta Symbol"
+    },
+    {
+      "char": "ϵ",
+      "code": "&straightepsilon;",
+      "css": "\\03F5",
+      "name": "Greek Lunate Epsilon Symbol"
+    },
+    {
+      "char": "϶",
+      "code": "&backepsilon;",
+      "css": "\\03F6",
+      "name": "Greek Reversed Lunate Epsilon Symbol"
+    },
+    {
+      "char": "Ϸ",
+      "code": "&#101;",
+      "css": "\\03F7",
+      "name": "Greek Capital Letter Sho"
+    },
+    {
+      "char": "ϸ",
+      "code": "&#101;",
+      "css": "\\03F8",
+      "name": "Greek Small Letter Sho"
+    },
+    {
+      "char": "Ϲ",
+      "code": "&#101;",
+      "css": "\\03F9",
+      "name": "Greek Capital Lunate Sigma Symbol"
+    },
+    {
+      "char": "Ϻ",
+      "code": "&#101;",
+      "css": "\\03FA",
+      "name": "Greek Capital Letter San"
+    },
+    {
+      "char": "ϻ",
+      "code": "&#101;",
+      "css": "\\03FB",
+      "name": "Greek Small Letter San"
+    },
+    {
+      "char": "ϼ",
+      "code": "&#102;",
+      "css": "\\03FC",
+      "name": "Greek Rho With Stroke Symbol"
+    },
+    {
+      "char": "Ͻ",
+      "code": "&#102;",
+      "css": "\\03FD",
+      "name": "Greek Capital Reversed Lunate Sigma Symbol"
+    },
+    {
+      "char": "Ͼ",
+      "code": "&#102;",
+      "css": "\\03FE",
+      "name": "Greek Capital Dotted Lunate Sigma Symbol"
+    },
+    {
+      "char": "Ͽ",
+      "code": "&#102;",
+      "css": "\\03FF",
+      "name": "Greek Capital Reversed Dotted Lunate Sigma Symbol"
+    }
+  ]
+}
