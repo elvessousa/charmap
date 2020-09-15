@@ -1,0 +1,766 @@
+{
+  "characters": [
+    {
+      "char": "Ā",
+      "code": "&Amacr;",
+      "css": "\\0100",
+      "name": "Latin Capital Letter A With Macron"
+    },
+    {
+      "char": "ā",
+      "code": "&amacr;",
+      "css": "\\0101",
+      "name": "Latin Small Letter A With Macron"
+    },
+    {
+      "char": "Ă",
+      "code": "&Abreve;",
+      "css": "\\0102",
+      "name": "Latin Capital Letter A With Breve"
+    },
+    {
+      "char": "ă",
+      "code": "&abreve;",
+      "css": "\\0103",
+      "name": "Latin Small Letter A With Breve"
+    },
+    {
+      "char": "Ą",
+      "code": "&Aogon;",
+      "css": "\\0104",
+      "name": "Latin Capital Letter A With Ogonek"
+    },
+    {
+      "char": "ą",
+      "code": "&aogon;",
+      "css": "\\0105",
+      "name": "Latin Small Letter A With Ogonek"
+    },
+    {
+      "char": "Ć",
+      "code": "&Cacute;",
+      "css": "\\0106",
+      "name": "Latin Capital Letter C With Acute"
+    },
+    {
+      "char": "ć",
+      "code": " &cacute;",
+      "css": "\\0107",
+      "name": "Latin Small Letter C With Acute"
+    },
+    {
+      "char": "Ĉ",
+      "code": "&Ccirc;",
+      "css": "\\0108",
+      "name": "Latin Capital Letter C With Circumflex"
+    },
+    {
+      "char": "ĉ",
+      "code": "&ccirc;",
+      "css": "\\0109",
+      "name": "Latin Small Letter C With Circumflex"
+    },
+    {
+      "char": "Ċ",
+      "code": "&Cdod;",
+      "css": "\\010A",
+      "name": "Latin Capital Letter C With Dot Above"
+    },
+    {
+      "char": "ċ",
+      "code": "&cdot;",
+      "css": "\\010B",
+      "name": "Latin Small Letter C With Dot Above"
+    },
+    {
+      "char": "Č",
+      "code": "&Ccaron;",
+      "css": "\\010C",
+      "name": "Latin Capital Letter C With Caron"
+    },
+    {
+      "char": "č",
+      "code": "&ccaron;",
+      "css": "\\010D",
+      "name": "Latin Small Letter C With Caron"
+    },
+    {
+      "char": "Ď",
+      "code": "&Dcaron;",
+      "css": "\\010E",
+      "name": "Latin Capital Letter D With Caron"
+    },
+    {
+      "char": "ď",
+      "code": "&dcaron;",
+      "css": "\\010F",
+      "name": "Latin Small Letter D With Caron"
+    },
+    {
+      "char": "Đ",
+      "code": "&Dstrok;",
+      "css": "\\0110",
+      "name": "Latin Capital Letter D With Stroke"
+    },
+    {
+      "char": "đ",
+      "code": "&dstrok;",
+      "css": "\\0111",
+      "name": "Latin Small Letter D With Stroke"
+    },
+    {
+      "char": "Ē",
+      "code": "&Emacr;",
+      "css": "\\0112",
+      "name": "Latin Capital Letter E With Macron"
+    },
+    {
+      "char": "ē",
+      "code": "&emacr;",
+      "css": "\\0113",
+      "name": "Latin Small Letter E With Macron"
+    },
+    {
+      "char": "Ĕ",
+      "code": "&#276;",
+      "css": "\\0114",
+      "name": "Latin Capital Letter E With Breve"
+    },
+    {
+      "char": "ĕ",
+      "code": "&#277;",
+      "css": "\\0115",
+      "name": "Latin Small Letter E With Breve"
+    },
+    {
+      "char": "Ė",
+      "code": "&Edot;",
+      "css": "\\0116",
+      "name": "Latin Capital Letter E With Dot Above"
+    },
+    {
+      "char": "ė",
+      "code": "&edot;",
+      "css": "\\0117",
+      "name": "Latin Small Letter E With Dot Above"
+    },
+    {
+      "char": "Ę",
+      "code": "&Eogon;",
+      "css": "\\0118",
+      "name": "Latin Capital Letter E With Ogonek"
+    },
+    {
+      "char": "ę",
+      "code": "&eogon;",
+      "css": "\\0119",
+      "name": "Latin Small Letter E With Ogonek"
+    },
+    {
+      "char": "Ě",
+      "code": "&Ecaron;",
+      "css": "\\011A",
+      "name": "Latin Capital Letter E With Caron"
+    },
+    {
+      "char": "ě",
+      "code": "&ecaron;",
+      "css": "\\011B",
+      "name": "Latin Small Letter E With Caron"
+    },
+    {
+      "char": "Ĝ",
+      "code": "&Gcirc;",
+      "css": "\\011C",
+      "name": "Latin Capital Letter G With Circumflex"
+    },
+    {
+      "char": "ĝ",
+      "code": "&gcirc;",
+      "css": "\\011D",
+      "name": "Latin Small Letter G With Circumflex"
+    },
+    {
+      "char": "Ğ",
+      "code": "&Gbreve;",
+      "css": "\\011E",
+      "name": "Latin Capital Letter G With Breve"
+    },
+    {
+      "char": "ğ",
+      "code": "&gbreve;",
+      "css": "\\011F",
+      "name": "Latin Small Letter G With Breve"
+    },
+    {
+      "char": "Ġ",
+      "code": "&Gdot;",
+      "css": "\\0120",
+      "name": "Latin Capital Letter G With Dot Above"
+    },
+    {
+      "char": "ġ",
+      "code": "&gdot;",
+      "css": "\\0121",
+      "name": "Latin Small Letter G With Dot Above"
+    },
+    {
+      "char": "Ģ",
+      "code": "&Gcedil;",
+      "css": "\\0122",
+      "name": "Latin Capital Letter G With Cedilla"
+    },
+    {
+      "char": "ģ",
+      "code": "&gcedil;",
+      "css": "\\0123",
+      "name": "Latin Small Letter G With Cedilla"
+    },
+    {
+      "char": "Ĥ",
+      "code": "&Hcirc;",
+      "css": "\\0124",
+      "name": "Latin Capital Letter H With Circumflex"
+    },
+    {
+      "char": "ĥ",
+      "code": "&hcirc;",
+      "css": "\\0125",
+      "name": "Latin Small Letter H With Circumflex"
+    },
+    {
+      "char": "Ħ",
+      "code": "&Hstrok;",
+      "css": "\\0126",
+      "name": "Latin Capital Letter H With Stroke"
+    },
+    {
+      "char": "ħ",
+      "code": "&hstrok;",
+      "css": "\\0127",
+      "name": "Latin Small Letter H With Stroke"
+    },
+    {
+      "char": "Ĩ",
+      "code": "&Itilde;",
+      "css": "\\0128",
+      "name": "Latin Capital Letter I With Tilde"
+    },
+    {
+      "char": "ĩ",
+      "code": "&itilde;",
+      "css": "\\0129",
+      "name": "Latin Small Letter I With Tilde"
+    },
+    {
+      "char": "Ī",
+      "code": "&Imacr;",
+      "css": "\\012A",
+      "name": "Latin Capital Letter I With Macron"
+    },
+    {
+      "char": "ī",
+      "code": "&imacr;",
+      "css": "\\012B",
+      "name": "Latin Small Letter I With Macron"
+    },
+    {
+      "char": "Ĭ",
+      "code": "&#300;",
+      "css": "\\012C",
+      "name": "Latin Capital Letter I With Breve"
+    },
+    {
+      "char": "ĭ",
+      "code": "&#301;",
+      "css": "\\012D",
+      "name": "Latin Small Letter I With Breve"
+    },
+    {
+      "char": "Į",
+      "code": "&Iogon;",
+      "css": "\\012E",
+      "name": "Latin Capital Letter I With Ogonek"
+    },
+    {
+      "char": "į",
+      "code": "&iogon;",
+      "css": "\\012F",
+      "name": "Latin Small Letter I With Ogonek"
+    },
+    {
+      "char": "İ",
+      "code": "&Idot;",
+      "css": "\\0130",
+      "name": "Latin Capital Letter I With Dot Above"
+    },
+    {
+      "char": "ı",
+      "code": "&inodot;",
+      "css": "\\0131",
+      "name": "Latin Small Letter Dotless I"
+    },
+    {
+      "char": "Ĳ",
+      "code": "&IJlog;",
+      "css": "\\0132",
+      "name": "Latin Capital Ligature Ij"
+    },
+    {
+      "char": "ĳ",
+      "code": "&ijlig;",
+      "css": "\\0133",
+      "name": "Latin Small Ligature Ij"
+    },
+    {
+      "char": "Ĵ",
+      "code": "&Jcirc;",
+      "css": "\\0134",
+      "name": "Latin Capital Letter J With Circumflex"
+    },
+    {
+      "char": "ĵ",
+      "code": "&jcirc;",
+      "css": "\\0135",
+      "name": "Latin Small Letter J With Circumflex"
+    },
+    {
+      "char": "Ķ",
+      "code": "&Kcedil;",
+      "css": "\\0136",
+      "name": "Latin Capital Letter K With Cedilla"
+    },
+    {
+      "char": "ķ",
+      "code": "&kcedli;",
+      "css": "\\0137",
+      "name": "Latin Small Letter K With Cedilla"
+    },
+    {
+      "char": "ĸ",
+      "code": "&kgreen;",
+      "css": "\\0138",
+      "name": "Latin Small Letter Kra"
+    },
+    {
+      "char": "Ĺ",
+      "code": "&Lacute;",
+      "css": "\\0139",
+      "name": "Latin Capital Letter L With Acute"
+    },
+    {
+      "char": "ĺ",
+      "code": "&lacute;",
+      "css": "\\013A",
+      "name": "Latin Small Letter L With Acute"
+    },
+    {
+      "char": "Ļ",
+      "code": "&Lcedil;",
+      "css": "\\013B",
+      "name": "Latin Capital Letter L With Cedilla"
+    },
+    {
+      "char": "ļ",
+      "code": "&lcedil;",
+      "css": "\\013C",
+      "name": "Latin Small Letter L With Cedilla"
+    },
+    {
+      "char": "Ľ",
+      "code": "&Lcaron;",
+      "css": "\\013D",
+      "name": "Latin Capital Letter L With Caron"
+    },
+    {
+      "char": "ľ",
+      "code": "&lcaron;",
+      "css": "\\013E",
+      "name": "Latin Small Letter L With Caron"
+    },
+    {
+      "char": "Ŀ",
+      "code": "&Lmodot;",
+      "css": "\\013F",
+      "name": "Latin Capital Letter L With Middle Dot"
+    },
+    {
+      "char": "ŀ",
+      "code": "&lmidot;",
+      "css": "\\0140",
+      "name": "Latin Small Letter L With Middle Dot"
+    },
+    {
+      "char": "Ł",
+      "code": "&Lstrok;",
+      "css": "\\0141",
+      "name": "Latin Capital Letter L With Stroke"
+    },
+    {
+      "char": "ł",
+      "code": "&lstrok;",
+      "css": "\\0142",
+      "name": "Latin Small Letter L With Stroke"
+    },
+    {
+      "char": "Ń",
+      "code": "&Nacute;",
+      "css": "\\0143",
+      "name": "Latin Capital Letter N With Acute"
+    },
+    {
+      "char": "ń",
+      "code": "&nacute;",
+      "css": "\\0144",
+      "name": "Latin Small Letter N With Acute"
+    },
+    {
+      "char": "Ņ",
+      "code": "&Ncedil;",
+      "css": "\\0145",
+      "name": "Latin Capital Letter N With Cedilla"
+    },
+    {
+      "char": "ņ",
+      "code": "&ncedil;",
+      "css": "\\0146",
+      "name": "Latin Small Letter N With Cedilla"
+    },
+    {
+      "char": "Ň",
+      "code": "&Ncaron;",
+      "css": "\\0147",
+      "name": "Latin Capital Letter N With Caron"
+    },
+    {
+      "char": "ň",
+      "code": "&ncaron;",
+      "css": "\\0148",
+      "name": "Latin Small Letter N With Caron"
+    },
+    {
+      "char": "ŉ",
+      "code": "&napos;",
+      "css": "\\0149",
+      "name": "Latin Small Letter N Preceded By Apostrophe"
+    },
+    {
+      "char": "Ŋ",
+      "code": "&ENG;",
+      "css": "\\014A",
+      "name": "Latin Capital Letter Eng"
+    },
+    {
+      "char": "ŋ",
+      "code": "&eng;",
+      "css": "\\014B",
+      "name": "Latin Small Letter Eng"
+    },
+    {
+      "char": "Ō",
+      "code": "&Omacr;",
+      "css": "\\014C",
+      "name": "Latin Capital Letter O With Macron"
+    },
+    {
+      "char": "ō",
+      "code": "&omacr;",
+      "css": "\\014D",
+      "name": "Latin Small Letter O With Macron"
+    },
+    {
+      "char": "Ŏ",
+      "code": "&#334;",
+      "css": "\\014E",
+      "name": "Latin Capital Letter O With Breve"
+    },
+    {
+      "char": "ŏ",
+      "code": "&#335;",
+      "css": "\\014F",
+      "name": "Latin Small Letter O With Breve"
+    },
+    {
+      "char": "Ő",
+      "code": "&Odblac;",
+      "css": "\\0150",
+      "name": "Latin Capital Letter O With Double Acute"
+    },
+    {
+      "char": "ő",
+      "code": "&odblac;",
+      "css": "\\0151",
+      "name": "Latin Small Letter O With Double Acute"
+    },
+    {
+      "char": "Œ",
+      "code": "&OElig;",
+      "css": "\\0152",
+      "name": "Latin Capital Ligature Oe"
+    },
+    {
+      "char": "œ",
+      "code": "&oelig;",
+      "css": "\\0153",
+      "name": "Latin Small Ligature Oe"
+    },
+    {
+      "char": "Ŕ",
+      "code": "&Racute;",
+      "css": "\\0154",
+      "name": "Latin Capital Letter R With Acute"
+    },
+    {
+      "char": "ŕ",
+      "code": "&racute;",
+      "css": "\\0155",
+      "name": "Latin Small Letter R With Acute"
+    },
+    {
+      "char": "Ŗ",
+      "code": "&Rcedil;",
+      "css": "\\0156",
+      "name": "Latin Capital Letter R With Cedilla"
+    },
+    {
+      "char": "ŗ",
+      "code": "&rcedil;",
+      "css": "\\0157",
+      "name": "Latin Small Letter R With Cedilla"
+    },
+    {
+      "char": "Ř",
+      "code": "&Rcaron;",
+      "css": "\\0158",
+      "name": "Latin Capital Letter R With Caron"
+    },
+    {
+      "char": "ř",
+      "code": "&rcaron;",
+      "css": "\\0159",
+      "name": "Latin Small Letter R With Caron"
+    },
+    {
+      "char": "Ś",
+      "code": "&Sacute;",
+      "css": "\\015A",
+      "name": "Latin Capital Letter S With Acute"
+    },
+    {
+      "char": "ś",
+      "code": "&sacute;",
+      "css": "\\015B",
+      "name": "Latin Small Letter S With Acute"
+    },
+    {
+      "char": "Ŝ",
+      "code": "&Scirc;",
+      "css": "\\015C",
+      "name": "Latin Capital Letter S With Circumflex"
+    },
+    {
+      "char": "ŝ",
+      "code": "&scirc;",
+      "css": "\\015D",
+      "name": "Latin Small Letter S With Circumflex"
+    },
+    {
+      "char": "Ş",
+      "code": "&Scedil;",
+      "css": "\\015E",
+      "name": "Latin Capital Letter S With Cedilla"
+    },
+    {
+      "char": "ş",
+      "code": "&scedil;",
+      "css": "\\015F",
+      "name": "Latin Small Letter S With Cedilla"
+    },
+    {
+      "char": "Š",
+      "code": "&Scaron;",
+      "css": "\\0160",
+      "name": "Latin Capital Letter S With Caron"
+    },
+    {
+      "char": "š",
+      "code": "&scaron;",
+      "css": "\\0161",
+      "name": "Latin Small Letter S With Caron"
+    },
+    {
+      "char": "Ţ",
+      "code": "&Tcedil;",
+      "css": "\\0162",
+      "name": "Latin Capital Letter T With Cedilla"
+    },
+    {
+      "char": "ţ",
+      "code": "&tcedil;",
+      "css": "\\0163",
+      "name": "Latin Small Letter T With Cedilla"
+    },
+    {
+      "char": "Ť",
+      "code": "&Tcaron;",
+      "css": "\\0164",
+      "name": "Latin Capital Letter T With Caron"
+    },
+    {
+      "char": "ť",
+      "code": "&tcaron;",
+      "css": "\\0165",
+      "name": "Latin Small Letter T With Caron"
+    },
+    {
+      "char": "Ŧ",
+      "code": "&Tstrok;",
+      "css": "\\0166",
+      "name": "Latin Capital Letter T With Stroke"
+    },
+    {
+      "char": "ŧ",
+      "code": "&tstrok;",
+      "css": "\\0167",
+      "name": "Latin Small Letter T With Stroke"
+    },
+    {
+      "char": "Ũ",
+      "code": "&Utilde;",
+      "css": "\\0168",
+      "name": "Latin Capital Letter U With Tilde"
+    },
+    {
+      "char": "ũ",
+      "code": "&utilde;",
+      "css": "\\0169",
+      "name": "Latin Small Letter U With Tilde"
+    },
+    {
+      "char": "Ū",
+      "code": "&Umacr;",
+      "css": "\\016A",
+      "name": "Latin Capital Letter U With Macron"
+    },
+    {
+      "char": "ū",
+      "code": "&umacr;",
+      "css": "\\016B",
+      "name": "Latin Small Letter U With Macron"
+    },
+    {
+      "char": "Ŭ",
+      "code": "&Ubreve;",
+      "css": "\\016C",
+      "name": "Latin Capital Letter U With Breve"
+    },
+    {
+      "char": "ŭ",
+      "code": "&ubreve;",
+      "css": "\\016D",
+      "name": "Latin Small Letter U With Breve"
+    },
+    {
+      "char": "Ů",
+      "code": "&Uring;",
+      "css": "\\016E",
+      "name": "Latin Capital Letter U With Ring Above"
+    },
+    {
+      "char": "ů",
+      "code": "&uring;",
+      "css": "\\016F",
+      "name": "Latin Small Letter U With Ring Above"
+    },
+    {
+      "char": "Ű",
+      "code": "&Udblac;",
+      "css": "\\0170",
+      "name": "Latin Capital Letter U With Double Acute"
+    },
+    {
+      "char": "ű",
+      "code": "&udblac;",
+      "css": "\\0171",
+      "name": "Latin Small Letter U With Double Acute"
+    },
+    {
+      "char": "Ų",
+      "code": "&Uogon;",
+      "css": "\\0172",
+      "name": "Latin Capital Letter U With Ogonek"
+    },
+    {
+      "char": "ų",
+      "code": "&uogon;",
+      "css": "\\0173",
+      "name": "Latin Small Letter U With Ogonek"
+    },
+    {
+      "char": "Ŵ",
+      "code": "&Wcirc;",
+      "css": "\\0174",
+      "name": "Latin Capital Letter W With Circumflex"
+    },
+    {
+      "char": "ŵ",
+      "code": "&wcirc;",
+      "css": "\\0175",
+      "name": "Latin Small Letter W With Circumflex"
+    },
+    {
+      "char": "Ŷ",
+      "code": "&Ycirc;",
+      "css": "\\0176",
+      "name": "Latin Capital Letter Y With Circumflex"
+    },
+    {
+      "char": "ŷ",
+      "code": "&ycirc;",
+      "css": "\\0177",
+      "name": "Latin Small Letter Y With Circumflex"
+    },
+    {
+      "char": "Ÿ",
+      "code": "&Yuml;",
+      "css": "\\0178",
+      "name": "Latin Capital Letter Y With Diaeresis"
+    },
+    {
+      "char": "Ź",
+      "code": "&Zacute;",
+      "css": "\\0179",
+      "name": "Latin Capital Letter Z With Acute"
+    },
+    {
+      "char": "ź",
+      "code": "&zacute;",
+      "css": "\\017A",
+      "name": "Latin Small Letter Z With Acute"
+    },
+    {
+      "char": "Ż",
+      "code": "&Zdot;",
+      "css": "\\017B",
+      "name": "Latin Capital Letter Z With Dot Above"
+    },
+    {
+      "char": "ż",
+      "code": "&zdot;",
+      "css": "\\017C",
+      "name": "Latin Small Letter Z With Dot Above"
+    },
+    {
+      "char": "Ž",
+      "code": "&Zcaron;",
+      "css": "\\017D",
+      "name": "Latin Capital Letter Z With Caron"
+    },
+    {
+      "char": "ž",
+      "code": "&zcaron;",
+      "css": "\\017E",
+      "name": "Latin Small Letter Z With Caron"
+    }
+  ]
+}

@@ -1,0 +1,1252 @@
+{
+  "characters": [
+    {
+      "char": "ƀ",
+      "code": "&#384;",
+      "css": "\\0180",
+      "name": "Latin Small Letter B With Stroke"
+    },
+    {
+      "char": "Ɓ",
+      "code": "&#385;",
+      "css": "\\0181",
+      "name": "Latin Capital Letter B With Hook"
+    },
+    {
+      "char": "Ƃ",
+      "code": "&#386;",
+      "css": "\\0182",
+      "name": "Latin Capital Letter B With Topbar"
+    },
+    {
+      "char": "ƃ",
+      "code": "&#387;",
+      "css": "\\0183",
+      "name": "Latin Small Letter B With Topbar"
+    },
+    {
+      "char": "Ƅ",
+      "code": "&#388;",
+      "css": "\\0184",
+      "name": "Latin Capital Letter Tone Six"
+    },
+    {
+      "char": "ƅ",
+      "code": "&#389;",
+      "css": "\\0185",
+      "name": "Latin Small Letter Tone Six"
+    },
+    {
+      "char": "Ɔ",
+      "code": "&#390;",
+      "css": "\\0186",
+      "name": "Latin Capital Letter Open O"
+    },
+    {
+      "char": "Ƈ",
+      "code": "&#391;",
+      "css": "\\0187",
+      "name": "Latin Capital Letter C With Hook"
+    },
+    {
+      "char": "ƈ",
+      "code": "&#392;",
+      "css": "\\0188",
+      "name": "Latin Small Letter C With Hook"
+    },
+    {
+      "char": "Ɖ",
+      "code": "&#393;",
+      "css": "\\0189",
+      "name": "Latin Capital Letter African D"
+    },
+    {
+      "char": "Ɗ",
+      "code": "&#394;",
+      "css": "\\018A",
+      "name": "Latin Capital Letter D With Hook"
+    },
+    {
+      "char": "Ƌ",
+      "code": "&#395;",
+      "css": "\\018B",
+      "name": "Latin Capital Letter D With Topbar"
+    },
+    {
+      "char": "ƌ",
+      "code": "&#396;",
+      "css": "\\018C",
+      "name": "Latin Small Letter D With Topbar"
+    },
+    {
+      "char": "ƍ",
+      "code": "&#397;",
+      "css": "\\018D",
+      "name": "Latin Small Letter Turned Delta"
+    },
+    {
+      "char": "Ǝ",
+      "code": "&#398;",
+      "css": "\\018E",
+      "name": "Latin Capital Letter Reversed E"
+    },
+    {
+      "char": "Ə",
+      "code": "&#399;",
+      "css": "\\018F",
+      "name": "Latin Capital Letter Schwa"
+    },
+    {
+      "char": "Ɛ",
+      "code": "&#400;",
+      "css": "\\0190",
+      "name": "Latin Capital Letter Open E"
+    },
+    {
+      "char": "Ƒ",
+      "code": "&#401;",
+      "css": "\\0191",
+      "name": "Latin Capital Letter F With Hook"
+    },
+    {
+      "char": "ƒ",
+      "code": "&fnof;",
+      "css": "\\0192",
+      "name": "Latin Small Letter F With Hook"
+    },
+    {
+      "char": "Ɠ",
+      "code": "&#403;",
+      "css": "\\0193",
+      "name": "Latin Capital Letter G With Hook"
+    },
+    {
+      "char": "Ɣ",
+      "code": "&#404;",
+      "css": "\\0194",
+      "name": "Latin Capital Letter Gamma"
+    },
+    {
+      "char": "ƕ",
+      "code": "&#405;",
+      "css": "\\0195",
+      "name": "Latin Small Letter Hv"
+    },
+    {
+      "char": "Ɩ",
+      "code": "&#406;",
+      "css": "\\0196",
+      "name": "Latin Capital Letter Iota"
+    },
+    {
+      "char": "Ɨ",
+      "code": "&#407;",
+      "css": "\\0197",
+      "name": "Latin Capital Letter I With Stroke"
+    },
+    {
+      "char": "Ƙ",
+      "code": "&#408;",
+      "css": "\\0198",
+      "name": "Latin Capital Letter K With Hook"
+    },
+    {
+      "char": "ƙ",
+      "code": "&#409;",
+      "css": "\\0199",
+      "name": "Latin Small Letter K With Hook"
+    },
+    {
+      "char": "ƚ",
+      "code": "&#410;",
+      "css": "\\019A",
+      "name": "Latin Small Letter L With Bar"
+    },
+    {
+      "char": "ƛ",
+      "code": "&#411;",
+      "css": "\\019B",
+      "name": "Latin Small Letter Lambda With Stroke"
+    },
+    {
+      "char": "Ɯ",
+      "code": "&#412;",
+      "css": "\\019C",
+      "name": "Latin Capital Letter Turned M"
+    },
+    {
+      "char": "Ɲ",
+      "code": "&#413;",
+      "css": "\\019D",
+      "name": "Latin Capital Letter N With Left Hook"
+    },
+    {
+      "char": "ƞ",
+      "code": "&#414;",
+      "css": "\\019E",
+      "name": "Latin Small Letter N With Long Right Leg"
+    },
+    {
+      "char": "Ɵ",
+      "code": "&#415;",
+      "css": "\\019F",
+      "name": "Latin Capital Letter O With Middle Tilde"
+    },
+    {
+      "char": "Ơ",
+      "code": "&#416;",
+      "css": "\\01A0",
+      "name": "Latin Capital Letter O With Horn"
+    },
+    {
+      "char": "ơ",
+      "code": "&#417;",
+      "css": "\\01A1",
+      "name": "Latin Small Letter O With Horn"
+    },
+    {
+      "char": "Ƣ",
+      "code": "&#418;",
+      "css": "\\01A2",
+      "name": "Latin Capital Letter Oi"
+    },
+    {
+      "char": "ƣ",
+      "code": "&#419;",
+      "css": "\\01A3",
+      "name": "Latin Small Letter Oi"
+    },
+    {
+      "char": "Ƥ",
+      "code": "&#420;",
+      "css": "\\01A4",
+      "name": "Latin Capital Letter P With Hook"
+    },
+    {
+      "char": "ƥ",
+      "code": "&#421;",
+      "css": "\\01A5",
+      "name": "Latin Small Letter P With Hook"
+    },
+    {
+      "char": "Ʀ",
+      "code": "&#422;",
+      "css": "\\01A6",
+      "name": "Latin Letter Yr"
+    },
+    {
+      "char": "Ƨ",
+      "code": "&#423;",
+      "css": "\\01A7",
+      "name": "Latin Capital Letter Tone Two"
+    },
+    {
+      "char": "ƨ",
+      "code": "&#424;",
+      "css": "\\01A8",
+      "name": "Latin Small Letter Tone Two"
+    },
+    {
+      "char": "Ʃ",
+      "code": "&#425;",
+      "css": "\\01A9",
+      "name": "Latin Capital Letter Esh"
+    },
+    {
+      "char": "ƪ",
+      "code": "&#426;",
+      "css": "\\01AA",
+      "name": "Latin Letter Reversed Esh Loop"
+    },
+    {
+      "char": "ƫ",
+      "code": "&#427;",
+      "css": "\\01AB",
+      "name": "Latin Small Letter T With Palatal Hook"
+    },
+    {
+      "char": "Ƭ",
+      "code": "&#428;",
+      "css": "\\01AC",
+      "name": "Latin Capital Letter T With Hook"
+    },
+    {
+      "char": "ƭ",
+      "code": "&#429;",
+      "css": "\\01AD",
+      "name": "Latin Small Letter T With Hook"
+    },
+    {
+      "char": "Ʈ",
+      "code": "&#430;",
+      "css": "\\01AE",
+      "name": "Latin Capital Letter T With Retroflex Hook"
+    },
+    {
+      "char": "Ư",
+      "code": "&#431;",
+      "css": "\\01AF",
+      "name": "Latin Capital Letter U With Horn"
+    },
+    {
+      "char": "ư",
+      "code": "&#432;",
+      "css": "\\01B0",
+      "name": "Latin Small Letter U With Horn"
+    },
+    {
+      "char": "Ʊ",
+      "code": "&#433;",
+      "css": "\\01B1",
+      "name": "Latin Capital Letter Upsilon"
+    },
+    {
+      "char": "Ʋ",
+      "code": "&#434;",
+      "css": "\\01B2",
+      "name": "Latin Capital Letter V With Hook"
+    },
+    {
+      "char": "Ƴ",
+      "code": "&#435;",
+      "css": "\\01B3",
+      "name": "Latin Capital Letter Y With Hook"
+    },
+    {
+      "char": "ƴ",
+      "code": "&#436;",
+      "css": "\\01B4",
+      "name": "Latin Small Letter Y With Hook"
+    },
+    {
+      "char": "Ƶ",
+      "code": "&imped;",
+      "css": "\\01B5",
+      "name": "Latin Capital Letter Z With Stroke"
+    },
+    {
+      "char": "ƶ",
+      "code": "&#438;",
+      "css": "\\01B6",
+      "name": "Latin Small Letter Z With Stroke"
+    },
+    {
+      "char": "Ʒ",
+      "code": "&#439;",
+      "css": "\\01B7",
+      "name": "Latin Capital Letter Ezh"
+    },
+    {
+      "char": "Ƹ",
+      "code": "&#440;",
+      "css": "\\01B8",
+      "name": "Latin Capital Letter Ezh Reversed"
+    },
+    {
+      "char": "ƹ",
+      "code": "&#441;",
+      "css": "\\01B9",
+      "name": "Latin Small Letter Ezh Reversed"
+    },
+    {
+      "char": "ƺ",
+      "code": "&#442;",
+      "css": "\\01BA",
+      "name": "Latin Small Letter Ezh With Tail"
+    },
+    {
+      "char": "ƻ",
+      "code": "&#443;",
+      "css": "\\01BB",
+      "name": "Latin Letter Two With Stroke"
+    },
+    {
+      "char": "Ƽ",
+      "code": "&#444;",
+      "css": "\\01BC",
+      "name": "Latin Capital Letter Tone Five"
+    },
+    {
+      "char": "ƽ",
+      "code": "&#445;",
+      "css": "\\01BD",
+      "name": "Latin Small Letter Tone Five"
+    },
+    {
+      "char": "ƾ",
+      "code": "&#446;",
+      "css": "\\01BE",
+      "name": "Latin Letter Inverted Glottal Stop With Stroke"
+    },
+    {
+      "char": "ƿ",
+      "code": "&#447;",
+      "css": "\\01BF",
+      "name": "Latin Letter Wynn"
+    },
+    {
+      "char": "ǀ",
+      "code": "&#448;",
+      "css": "\\01C0",
+      "name": "Latin Letter Dental Click"
+    },
+    {
+      "char": "ǁ",
+      "code": "&#449;",
+      "css": "\\01C1",
+      "name": "Latin Letter Lateral Click"
+    },
+    {
+      "char": "ǂ",
+      "code": "&#450;",
+      "css": "\\01C2",
+      "name": "Latin Letter Alveolar Click"
+    },
+    {
+      "char": "ǃ",
+      "code": "&#451;",
+      "css": "\\01C3",
+      "name": "Latin Letter Retroflex Click"
+    },
+    {
+      "char": "Ǆ",
+      "code": "&#452;",
+      "css": "\\01C4",
+      "name": "Latin Capital Letter Dz With Caron"
+    },
+    {
+      "char": "ǅ",
+      "code": "&#453;",
+      "css": "\\01C5",
+      "name": "Latin Capital Letter D With Small Letter Z With Caron"
+    },
+    {
+      "char": "ǆ",
+      "code": "&#454;",
+      "css": "\\01C6",
+      "name": "Latin Small Letter Dz With Caron"
+    },
+    {
+      "char": "Ǉ",
+      "code": "&#455;",
+      "css": "\\01C7",
+      "name": "Latin Capital Letter Lj"
+    },
+    {
+      "char": "ǈ",
+      "code": "&#456;",
+      "css": "\\01C8",
+      "name": "Latin Capital Letter L With Small Letter J"
+    },
+    {
+      "char": "ǉ",
+      "code": "&#457;",
+      "css": "\\01C9",
+      "name": "Latin Small Letter Lj"
+    },
+    {
+      "char": "Ǌ",
+      "code": "&#458;",
+      "css": "\\01CA",
+      "name": "Latin Capital Letter Nj"
+    },
+    {
+      "char": "ǋ",
+      "code": "&#459;",
+      "css": "\\01CB",
+      "name": "Latin Capital Letter N With Small Letter J"
+    },
+    {
+      "char": "ǌ",
+      "code": "&#460;",
+      "css": "\\01CC",
+      "name": "Latin Small Letter Nj"
+    },
+    {
+      "char": "Ǎ",
+      "code": "&#461;",
+      "css": "\\01CD",
+      "name": "Latin Capital Letter A With Caron"
+    },
+    {
+      "char": "ǎ",
+      "code": "&#462;",
+      "css": "\\01CE",
+      "name": "Latin Small Letter A With Caron"
+    },
+    {
+      "char": "Ǐ",
+      "code": "&#463;",
+      "css": "\\01CF",
+      "name": "Latin Capital Letter I With Caron"
+    },
+    {
+      "char": "ǐ",
+      "code": "&#464;",
+      "css": "\\01D0",
+      "name": "Latin Small Letter I With Caron"
+    },
+    {
+      "char": "Ǒ",
+      "code": "&#465;",
+      "css": "\\01D1",
+      "name": "Latin Capital Letter O With Caron"
+    },
+    {
+      "char": "ǒ",
+      "code": "&#466;",
+      "css": "\\01D2",
+      "name": "Latin Small Letter O With Caron"
+    },
+    {
+      "char": "Ǔ",
+      "code": "&#467;",
+      "css": "\\01D3",
+      "name": "Latin Capital Letter U With Caron"
+    },
+    {
+      "char": "ǔ",
+      "code": "&#468;",
+      "css": "\\01D4",
+      "name": "Latin Small Letter U With Caron"
+    },
+    {
+      "char": "Ǖ",
+      "code": "&#469;",
+      "css": "\\01D5",
+      "name": "Latin Capital Letter U With Diaeresis And Macron"
+    },
+    {
+      "char": "ǖ",
+      "code": "&#470;",
+      "css": "\\01D6",
+      "name": "Latin Small Letter U With Diaeresis And Macron"
+    },
+    {
+      "char": "Ǘ",
+      "code": "&#471;",
+      "css": "\\01D7",
+      "name": "Latin Capital Letter U With Diaeresis And Acute"
+    },
+    {
+      "char": "ǘ",
+      "code": "&#472;",
+      "css": "\\01D8",
+      "name": "Latin Small Letter U With Diaeresis And Acute"
+    },
+    {
+      "char": "Ǚ",
+      "code": "&#473;",
+      "css": "\\01D9",
+      "name": "Latin Capital Letter U With Diaeresis And Caron"
+    },
+    {
+      "char": "ǚ",
+      "code": "&#474;",
+      "css": "\\01DA",
+      "name": "Latin Small Letter U With Diaeresis And Caron"
+    },
+    {
+      "char": "Ǜ",
+      "code": "&#475;",
+      "css": "\\01DB",
+      "name": "Latin Capital Letter U With Diaeresis And Grave"
+    },
+    {
+      "char": "ǜ",
+      "code": "&#476;",
+      "css": "\\01DC",
+      "name": "Latin Small Letter U With Diaeresis And Grave"
+    },
+    {
+      "char": "ǝ",
+      "code": "&#477;",
+      "css": "\\01DD",
+      "name": "Latin Small Letter Turned E"
+    },
+    {
+      "char": "Ǟ",
+      "code": "&#478;",
+      "css": "\\01DE",
+      "name": "Latin Capital Letter A With Diaeresis And Macron"
+    },
+    {
+      "char": "ǟ",
+      "code": "&#479;",
+      "css": "\\01DF",
+      "name": "Latin Small Letter A With Diaeresis And Macron"
+    },
+    {
+      "char": "Ǡ",
+      "code": "&#480;",
+      "css": "\\01E0",
+      "name": "Latin Capital Letter A With Dot Above And Macron"
+    },
+    {
+      "char": "ǡ",
+      "code": "&#481;",
+      "css": "\\01E1",
+      "name": "Latin Small Letter A With Dot Above And Macron"
+    },
+    {
+      "char": "Ǣ",
+      "code": "&#482;",
+      "css": "\\01E2",
+      "name": "Latin Capital Letter Ae With Macron"
+    },
+    {
+      "char": "ǣ",
+      "code": "&#483;",
+      "css": "\\01E3",
+      "name": "Latin Small Letter Ae With Macron"
+    },
+    {
+      "char": "Ǥ",
+      "code": "&#484;",
+      "css": "\\01E4",
+      "name": "Latin Capital Letter G With Stroke"
+    },
+    {
+      "char": "ǥ",
+      "code": "&#485;",
+      "css": "\\01E5",
+      "name": "Latin Small Letter G With Stroke"
+    },
+    {
+      "char": "Ǧ",
+      "code": "&#486;",
+      "css": "\\01E6",
+      "name": "Latin Capital Letter G With Caron"
+    },
+    {
+      "char": "ǧ",
+      "code": "&#487;",
+      "css": "\\01E7",
+      "name": "Latin Small Letter G With Caron"
+    },
+    {
+      "char": "Ǩ",
+      "code": "&#488;",
+      "css": "\\01E8",
+      "name": "Latin Capital Letter K With Caron"
+    },
+    {
+      "char": "ǩ",
+      "code": "&#489;",
+      "css": "\\01E9",
+      "name": "Latin Small Letter K With Caron"
+    },
+    {
+      "char": "Ǫ",
+      "code": "&#490;",
+      "css": "\\01EA",
+      "name": "Latin Capital Letter O With Ogonek"
+    },
+    {
+      "char": "ǫ",
+      "code": "&#491;",
+      "css": "\\01EB",
+      "name": "Latin Small Letter O With Ogonek"
+    },
+    {
+      "char": "Ǭ",
+      "code": "&#492;",
+      "css": "\\01EC",
+      "name": "Latin Capital Letter O With Ogonek And Macron"
+    },
+    {
+      "char": "ǭ",
+      "code": "&#493;",
+      "css": "\\01ED",
+      "name": "Latin Small Letter O With Ogonek And Macron"
+    },
+    {
+      "char": "Ǯ",
+      "code": "&#494;",
+      "css": "\\01EE",
+      "name": "Latin Capital Letter Ezh With Caron"
+    },
+    {
+      "char": "ǯ",
+      "code": "&#495;",
+      "css": "\\01EF",
+      "name": "Latin Small Letter Ezh With Caron"
+    },
+    {
+      "char": "ǰ",
+      "code": "&#496;",
+      "css": "\\01F0",
+      "name": "Latin Small Letter J With Caron"
+    },
+    {
+      "char": "Ǳ",
+      "code": "&#497;",
+      "css": "\\01F1",
+      "name": "Latin Capital Letter Dz"
+    },
+    {
+      "char": "ǲ",
+      "code": "&#498;",
+      "css": "\\01F2",
+      "name": "Latin Capital Letter D With Small Letter Z"
+    },
+    {
+      "char": "ǳ",
+      "code": "&#499;",
+      "css": "\\01F3",
+      "name": "Latin Small Letter Dz"
+    },
+    {
+      "char": "Ǵ",
+      "code": "&#500;",
+      "css": "\\01F4",
+      "name": "Latin Capital Letter G With Acute"
+    },
+    {
+      "char": "ǵ",
+      "code": "&gacute;",
+      "css": "\\01F5",
+      "name": "Latin Small Letter G With Acute"
+    },
+    {
+      "char": "Ƕ",
+      "code": "&#502;",
+      "css": "\\01F6",
+      "name": "Latin Capital Letter Hwair"
+    },
+    {
+      "char": "Ƿ",
+      "code": "&#503;",
+      "css": "\\01F7",
+      "name": "Latin Capital Letter Wynn"
+    },
+    {
+      "char": "Ǹ",
+      "code": "&#504;",
+      "css": "\\01F8",
+      "name": "Latin Capital Letter N With Grave"
+    },
+    {
+      "char": "ǹ",
+      "code": "&#505;",
+      "css": "\\01F9",
+      "name": "Latin Small Letter N With Grave"
+    },
+    {
+      "char": "Ǻ",
+      "code": "&#506;",
+      "css": "\\01FA",
+      "name": "Latin Capital Letter A With Ring Above And Acute"
+    },
+    {
+      "char": "ǻ",
+      "code": "&#507;",
+      "css": "\\01FB",
+      "name": "Latin Small Letter A With Ring Above And Acute"
+    },
+    {
+      "char": "Ǽ",
+      "code": "&#508;",
+      "css": "\\01FC",
+      "name": "Latin Capital Letter Ae With Acute"
+    },
+    {
+      "char": "ǽ",
+      "code": "&#509;",
+      "css": "\\01FD",
+      "name": "Latin Small Letter Ae With Acute"
+    },
+    {
+      "char": "Ǿ",
+      "code": "&#510;",
+      "css": "\\01FE",
+      "name": "Latin Capital Letter O With Stroke And Acute"
+    },
+    {
+      "char": "ǿ",
+      "code": "&#511;",
+      "css": "\\01FF",
+      "name": "Latin Small Letter O With Stroke And Acute"
+    },
+    {
+      "char": "Ȁ",
+      "code": "&#512;",
+      "css": "\\0200",
+      "name": "Latin Capital Letter A With Double Grave"
+    },
+    {
+      "char": "ȁ",
+      "code": "&#513;",
+      "css": "\\0201",
+      "name": "Latin Small Letter A With Double Grave"
+    },
+    {
+      "char": "Ȃ",
+      "code": "&#514;",
+      "css": "\\0202",
+      "name": "Latin Capital Letter A With Inverted Breve"
+    },
+    {
+      "char": "ȃ",
+      "code": "&#515;",
+      "css": "\\0203",
+      "name": "Latin Small Letter A With Inverted Breve"
+    },
+    {
+      "char": "Ȅ",
+      "code": "&#516;",
+      "css": "\\0204",
+      "name": "Latin Capital Letter E With Double Grave"
+    },
+    {
+      "char": "ȅ",
+      "code": "&#517;",
+      "css": "\\0205",
+      "name": "Latin Small Letter E With Double Grave"
+    },
+    {
+      "char": "Ȇ",
+      "code": "&#518;",
+      "css": "\\0206",
+      "name": "Latin Capital Letter E With Inverted Breve"
+    },
+    {
+      "char": "ȇ",
+      "code": "&#519;",
+      "css": "\\0207",
+      "name": "Latin Small Letter E With Inverted Breve"
+    },
+    {
+      "char": "Ȉ",
+      "code": "&#520;",
+      "css": "\\0208",
+      "name": "Latin Capital Letter I With Double Grave"
+    },
+    {
+      "char": "ȉ",
+      "code": "&#521;",
+      "css": "\\0209",
+      "name": "Latin Small Letter I With Double Grave"
+    },
+    {
+      "char": "Ȋ",
+      "code": "&#522;",
+      "css": "\\020A",
+      "name": "Latin Capital Letter I With Inverted Breve"
+    },
+    {
+      "char": "ȋ",
+      "code": "&#523;",
+      "css": "\\020B",
+      "name": "Latin Small Letter I With Inverted Breve"
+    },
+    {
+      "char": "Ȍ",
+      "code": "&#524;",
+      "css": "\\020C",
+      "name": "Latin Capital Letter O With Double Grave"
+    },
+    {
+      "char": "ȍ",
+      "code": "&#525;",
+      "css": "\\020D",
+      "name": "Latin Small Letter O With Double Grave"
+    },
+    {
+      "char": "Ȏ",
+      "code": "&#526;",
+      "css": "\\020E",
+      "name": "Latin Capital Letter O With Inverted Breve"
+    },
+    {
+      "char": "ȏ",
+      "code": "&#527;",
+      "css": "\\020F",
+      "name": "Latin Small Letter O With Inverted Breve"
+    },
+    {
+      "char": "Ȑ",
+      "code": "&#528;",
+      "css": "\\0210",
+      "name": "Latin Capital Letter R With Double Grave"
+    },
+    {
+      "char": "ȑ",
+      "code": "&#529;",
+      "css": "\\0211",
+      "name": "Latin Small Letter R With Double Grave"
+    },
+    {
+      "char": "Ȓ",
+      "code": "&#530;",
+      "css": "\\0212",
+      "name": "Latin Capital Letter R With Inverted Breve"
+    },
+    {
+      "char": "ȓ",
+      "code": "&#531;",
+      "css": "\\0213",
+      "name": "Latin Small Letter R With Inverted Breve"
+    },
+    {
+      "char": "Ȕ",
+      "code": "&#532;",
+      "css": "\\0214",
+      "name": "Latin Capital Letter U With Double Grave"
+    },
+    {
+      "char": "ȕ",
+      "code": "&#533;",
+      "css": "\\0215",
+      "name": "Latin Small Letter U With Double Grave"
+    },
+    {
+      "char": "Ȗ",
+      "code": "&#534;",
+      "css": "\\0216",
+      "name": "Latin Capital Letter U With Inverted Breve"
+    },
+    {
+      "char": "ȗ",
+      "code": "&#535;",
+      "css": "\\0217",
+      "name": "Latin Small Letter U With Inverted Breve"
+    },
+    {
+      "char": "Ș",
+      "code": "&#536;",
+      "css": "\\0218",
+      "name": "Latin Capital Letter S With Comma Below"
+    },
+    {
+      "char": "ș",
+      "code": "&#537;",
+      "css": "\\0219",
+      "name": "Latin Small Letter S With Comma Below"
+    },
+    {
+      "char": "Ț",
+      "code": "&#538;",
+      "css": "\\021A",
+      "name": "Latin Capital Letter T With Comma Below"
+    },
+    {
+      "char": "ț",
+      "code": "&#539;",
+      "css": "\\021B",
+      "name": "Latin Small Letter T With Comma Below"
+    },
+    {
+      "char": "Ȝ",
+      "code": "&#540;",
+      "css": "\\021C",
+      "name": "Latin Capital Letter Yogh"
+    },
+    {
+      "char": "ȝ",
+      "code": "&#541;",
+      "css": "\\021D",
+      "name": "Latin Small Letter Yogh"
+    },
+    {
+      "char": "Ȟ",
+      "code": "&#542;",
+      "css": "\\021E",
+      "name": "Latin Capital Letter H With Caron"
+    },
+    {
+      "char": "ȟ",
+      "code": "&#543;",
+      "css": "\\021F",
+      "name": "Latin Small Letter H With Caron"
+    },
+    {
+      "char": "Ƞ",
+      "code": "&#544;",
+      "css": "\\0220",
+      "name": "Latin Capital Letter N With Long Right Leg"
+    },
+    {
+      "char": "ȡ",
+      "code": "&#545;",
+      "css": "\\0221",
+      "name": "Latin Small Letter D With Curl"
+    },
+    {
+      "char": "Ȣ",
+      "code": "&#546;",
+      "css": "\\0222",
+      "name": "Latin Capital Letter Ou"
+    },
+    {
+      "char": "ȣ",
+      "code": "&#547;",
+      "css": "\\0223",
+      "name": "Latin Small Letter Ou"
+    },
+    {
+      "char": "Ȥ",
+      "code": "&#548;",
+      "css": "\\0224",
+      "name": "Latin Capital Letter Z With Hook"
+    },
+    {
+      "char": "ȥ",
+      "code": "&#549;",
+      "css": "\\0225",
+      "name": "Latin Small Letter Z With Hook"
+    },
+    {
+      "char": "Ȧ",
+      "code": "&#550;",
+      "css": "\\0226",
+      "name": "Latin Capital Letter A With Dot Above"
+    },
+    {
+      "char": "ȧ",
+      "code": "&#551;",
+      "css": "\\0227",
+      "name": "Latin Small Letter A With Dot Above"
+    },
+    {
+      "char": "Ȩ",
+      "code": "&#552;",
+      "css": "\\0228",
+      "name": "Latin Capital Letter E With Cedilla"
+    },
+    {
+      "char": "ȩ",
+      "code": "&#553;",
+      "css": "\\0229",
+      "name": "Latin Small Letter E With Cedilla"
+    },
+    {
+      "char": "Ȫ",
+      "code": "&#554;",
+      "css": "\\022A",
+      "name": "Latin Capital Letter O With Diaeresis And Macron"
+    },
+    {
+      "char": "ȫ",
+      "code": "&#555;",
+      "css": "\\022B",
+      "name": "Latin Small Letter O With Diaeresis And Macron"
+    },
+    {
+      "char": "Ȭ",
+      "code": "&#556;",
+      "css": "\\022C",
+      "name": "Latin Capital Letter O With Tilde And Macron"
+    },
+    {
+      "char": "ȭ",
+      "code": "&#557;",
+      "css": "\\022D",
+      "name": "Latin Small Letter O With Tilde And Macron"
+    },
+    {
+      "char": "Ȯ",
+      "code": "&#558;",
+      "css": "\\022E",
+      "name": "Latin Capital Letter O With Dot Above"
+    },
+    {
+      "char": "ȯ",
+      "code": "&#559;",
+      "css": "\\022F",
+      "name": "Latin Small Letter O With Dot Above"
+    },
+    {
+      "char": "Ȱ",
+      "code": "&#560;",
+      "css": "\\0230",
+      "name": "Latin Capital Letter O With Dot Above And Macron"
+    },
+    {
+      "char": "ȱ",
+      "code": "&#561;",
+      "css": "\\0231",
+      "name": "Latin Small Letter O With Dot Above And Macron"
+    },
+    {
+      "char": "Ȳ",
+      "code": "&#562;",
+      "css": "\\0232",
+      "name": "Latin Capital Letter Y With Macron"
+    },
+    {
+      "char": "ȳ",
+      "code": "&#563;",
+      "css": "\\0233",
+      "name": "Latin Small Letter Y With Macron"
+    },
+    {
+      "char": "ȴ",
+      "code": "&#564;",
+      "css": "\\0234",
+      "name": "Latin Small Letter L With Curl"
+    },
+    {
+      "char": "ȵ",
+      "code": "&#565;",
+      "css": "\\0235",
+      "name": "Latin Small Letter N With Curl"
+    },
+    {
+      "char": "ȶ",
+      "code": "&#566;",
+      "css": "\\0236",
+      "name": "Latin Small Letter T With Curl"
+    },
+    {
+      "char": "ȷ",
+      "code": "&jmath;",
+      "css": "\\0237",
+      "name": "Latin Small Letter Dotless J"
+    },
+    {
+      "char": "ȸ",
+      "code": "&#568;",
+      "css": "\\0238",
+      "name": "Latin Small Letter Db Digraph"
+    },
+    {
+      "char": "ȹ",
+      "code": "&#569;",
+      "css": "\\0239",
+      "name": "Latin Small Letter Qp Digraph"
+    },
+    {
+      "char": "Ⱥ",
+      "code": "&#570;",
+      "css": "\\023A",
+      "name": "Latin Capital Letter A With Stroke"
+    },
+    {
+      "char": "Ȼ",
+      "code": "&#571;",
+      "css": "\\023B",
+      "name": "Latin Capital Letter C With Stroke"
+    },
+    {
+      "char": "ȼ",
+      "code": "&#572;",
+      "css": "\\023C",
+      "name": "Latin Small Letter C With Stroke"
+    },
+    {
+      "char": "Ƚ",
+      "code": "&#573;",
+      "css": "\\023D",
+      "name": "Latin Capital Letter L With Bar"
+    },
+    {
+      "char": "Ⱦ",
+      "code": "&#574;",
+      "css": "\\023E",
+      "name": "Latin Capital Letter T With Diagonal Stroke"
+    },
+    {
+      "char": "ȿ",
+      "code": "&#575;",
+      "css": "\\023F",
+      "name": "Latin Small Letter S With Swash Tail"
+    },
+    {
+      "char": "ɀ",
+      "code": "&#576;",
+      "css": "\\0240",
+      "name": "Latin Small Letter Z With Swash Tail"
+    },
+    {
+      "char": "Ɂ",
+      "code": "&#577;",
+      "css": "\\0241",
+      "name": "Latin Capital Letter Glottal Stop"
+    },
+    {
+      "char": "ɂ",
+      "code": "&#578;",
+      "css": "\\0242",
+      "name": "Latin Small Letter Glottal Stop"
+    },
+    {
+      "char": "Ƀ",
+      "code": "&#579;",
+      "css": "\\0243",
+      "name": "Latin Capital Letter B With Stroke"
+    },
+    {
+      "char": "Ʉ",
+      "code": "&#580;",
+      "css": "\\0244",
+      "name": "Latin Capital Letter U Bar"
+    },
+    {
+      "char": "Ʌ",
+      "code": "&#581;",
+      "css": "\\0245",
+      "name": "Latin Capital Letter Turned V"
+    },
+    {
+      "char": "Ɇ",
+      "code": "&#582;",
+      "css": "\\0246",
+      "name": "Latin Capital Letter E With Stroke"
+    },
+    {
+      "char": "ɇ",
+      "code": "&#583;",
+      "css": "\\0247",
+      "name": "Latin Small Letter E With Stroke"
+    },
+    {
+      "char": "Ɉ",
+      "code": "&#584;",
+      "css": "\\0248",
+      "name": "Latin Capital Letter J With Stroke"
+    },
+    {
+      "char": "ɉ",
+      "code": "&#585;",
+      "css": "\\0249",
+      "name": "Latin Small Letter J With Stroke"
+    },
+    {
+      "char": "Ɋ",
+      "code": "&#586;",
+      "css": "\\024A",
+      "name": "Latin Capital Letter Small Q With Hook Tail"
+    },
+    {
+      "char": "ɋ",
+      "code": "&#587;",
+      "css": "\\024B",
+      "name": "Latin Small Letter Q With Hook Tail"
+    },
+    {
+      "char": "Ɍ",
+      "code": "&#588;",
+      "css": "\\024C",
+      "name": "Latin Capital Letter R With Stroke"
+    },
+    {
+      "char": "ɍ",
+      "code": "&#589;",
+      "css": "\\024D",
+      "name": "Latin Small Letter R With Stroke"
+    },
+    {
+      "char": "Ɏ",
+      "code": "&#590;",
+      "css": "\\024E",
+      "name": "Latin Capital Letter Y With Stroke"
+    },
+    {
+      "char": "ɏ",
+      "code": "&#591;",
+      "css": "\\024F",
+      "name": "Latin Small Letter Y With Stroke"
+    }
+  ]
+}
