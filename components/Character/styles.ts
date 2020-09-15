@@ -8,7 +8,7 @@ export const colors = {
   dingbats: "#e66100",
   math: "#c64600",
   currency: "#2ec27e",
-  symbol: "#26a269",
+  symbols: "#26a269",
   punctuation: "#813d9c",
   typography: "#613583",
   space: "#3d3846",
