@@ -1,13 +1,14 @@
+import Link from "next/link";
 import { FilterNavigation } from "./styles";
 
 interface FilterProps {
-  category: Function;
+  category?: Function;
 }
 
 const Filter: React.FC<FilterProps> = ({ category }) => {
   const filters = [
     { category: "symbol", symbol: "&clubs;" },
-    { category: "arrow", symbol: "&rarrhk;" },
+    { category: "arrows", symbol: "&rarrhk;" },
     { category: "currency", symbol: "&euro;" },
     { category: "cyrillic", symbol: "&ZHcy;" },
     { category: "extended", symbol: "&AElig;" },
@@ -27,10 +28,9 @@ const Filter: React.FC<FilterProps> = ({ category }) => {
       <ul>
         {filters.map((filter) => (
           <li>
-            <button
-              onClick={() => category(filter.category)}
-              dangerouslySetInnerHTML={{ __html: filter.symbol }}
-            />
+            <Link href="/[chars]" as={`/${filter.category}`}>
+              <a dangerouslySetInnerHTML={{ __html: filter.symbol }} />
+            </Link>
           </li>
         ))}
       </ul>
