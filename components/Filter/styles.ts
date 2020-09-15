@@ -4,6 +4,7 @@ export const FilterNavigation = styled.nav`
   width: 40em;
   margin: 2em auto;
 
+  a,
   button {
     background: transparent;
     border: 0;
