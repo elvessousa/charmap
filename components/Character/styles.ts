@@ -5,16 +5,17 @@ export const colors = {
   hebrew: "#1a5fb4",
   cyrillic: "#c01c28",
   extended: "#a51d2d",
-  orange: "#e66100",
+  dingbats: "#e66100",
   math: "#c64600",
   currency: "#2ec27e",
   symbol: "#26a269",
   punctuation: "#813d9c",
   typography: "#613583",
   space: "#3d3846",
-  arrow: "#241f31",
+  arrows: "#241f31",
   box: "#000",
-  yellow: "#f5c211",
+  blocks: "#000",
+  shapes: "#f5c211",
 };
 
 export const Card = styled.div`
