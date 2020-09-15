@@ -21,7 +21,6 @@ const Dingbats: NextPage<PageProps> = ({ category, chars }) => {
   return (
     <Layout title="Dingbats">
       <h1>Charmap</h1>
-      {/* <h2>Dingbats</h2> */}
       <Filter />
       <div className="characters">
         {chars.map((char: Character) => (
