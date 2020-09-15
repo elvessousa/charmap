@@ -104,7 +104,7 @@
     },
     {
       "char": "ℑ",
-      "code": "$image;",
+      "code": "&image;",
       "css": "\\2111",
       "name": "Black-Letter Capital I"
     },
@@ -230,7 +230,7 @@
     },
     {
       "char": "Ω",
-      "code": "&ohm",
+      "code": "&ohm;",
       "css": "\\2126",
       "name": "Ohm Sign"
     },

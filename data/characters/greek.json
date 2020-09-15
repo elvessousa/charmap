@@ -662,49 +662,49 @@
     },
     {
       "char": "Ϩ",
-      "code": "&#100;",
+      "code": "&#1000;",
       "css": "\\03E8",
       "name": "Coptic Capital Letter Hori"
     },
     {
       "char": "ϩ",
-      "code": "&#100;",
+      "code": "&#1001;",
       "css": "\\03E9",
       "name": "Coptic Small Letter Hori"
     },
     {
       "char": "Ϫ",
-      "code": "&#100;",
+      "code": "&#1002;",
       "css": "\\03EA",
       "name": "Coptic Capital Letter Gangia"
     },
     {
       "char": "ϫ",
-      "code": "&#100;",
+      "code": "&#1003;",
       "css": "\\03EB",
       "name": "Coptic Small Letter Gangia"
     },
     {
       "char": "Ϭ",
-      "code": "&#100;",
+      "code": "&#1004;",
       "css": "\\03EC",
       "name": "Coptic Capital Letter Shima"
     },
     {
       "char": "ϭ",
-      "code": "&#100;",
+      "code": "&#1005;",
       "css": "\\03ED",
       "name": "Coptic Small Letter Shima"
     },
     {
       "char": "Ϯ",
-      "code": "&#100;",
+      "code": "&#1006;",
       "css": "\\03EE",
       "name": "Coptic Capital Letter Dei"
     },
     {
       "char": "ϯ",
-      "code": "&#100;",
+      "code": "&#1007;",
       "css": "\\03EF",
       "name": "Coptic Small Letter Dei"
     },
@@ -722,19 +722,19 @@
     },
     {
       "char": "ϲ",
-      "code": "&#101;",
+      "code": "&#1010;",
       "css": "\\03F2",
       "name": "Greek Lunate Sigma Symbol"
     },
     {
       "char": "ϳ",
-      "code": "&#101;",
+      "code": "&#1011;",
       "css": "\\03F3",
       "name": "Greek Letter Yot"
     },
     {
       "char": "ϴ",
-      "code": "&#101;",
+      "code": "&#1012;",
       "css": "\\03F4",
       "name": "Greek Capital Theta Symbol"
     },
@@ -752,55 +752,55 @@
     },
     {
       "char": "Ϸ",
-      "code": "&#101;",
+      "code": "&#1015;",
       "css": "\\03F7",
       "name": "Greek Capital Letter Sho"
     },
     {
       "char": "ϸ",
-      "code": "&#101;",
+      "code": "&#1016;",
       "css": "\\03F8",
       "name": "Greek Small Letter Sho"
     },
     {
       "char": "Ϲ",
-      "code": "&#101;",
+      "code": "&#1017;",
       "css": "\\03F9",
       "name": "Greek Capital Lunate Sigma Symbol"
     },
     {
       "char": "Ϻ",
-      "code": "&#101;",
+      "code": "&#1018;",
       "css": "\\03FA",
       "name": "Greek Capital Letter San"
     },
     {
       "char": "ϻ",
-      "code": "&#101;",
+      "code": "&#1019;",
       "css": "\\03FB",
       "name": "Greek Small Letter San"
     },
     {
       "char": "ϼ",
-      "code": "&#102;",
+      "code": "&#1020;",
       "css": "\\03FC",
       "name": "Greek Rho With Stroke Symbol"
     },
     {
       "char": "Ͻ",
-      "code": "&#102;",
+      "code": "&#1021;",
       "css": "\\03FD",
       "name": "Greek Capital Reversed Lunate Sigma Symbol"
     },
     {
       "char": "Ͼ",
-      "code": "&#102;",
+      "code": "&#1022;",
       "css": "\\03FE",
       "name": "Greek Capital Dotted Lunate Sigma Symbol"
     },
     {
       "char": "Ͽ",
-      "code": "&#102;",
+      "code": "&#1023;",
       "css": "\\03FF",
       "name": "Greek Capital Reversed Dotted Lunate Sigma Symbol"
     }
