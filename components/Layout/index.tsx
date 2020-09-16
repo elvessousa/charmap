@@ -15,7 +15,15 @@ const Layout: React.FC<LayoutProps> = ({ title, children }) => {
       </Head>
 
       <main>{children}</main>
-      <footer>Elves Sousa &copy; 2020</footer>
+      <footer>
+        <p>
+          Made with ♥ in SP <br />
+          <a href="https://elvessousa.com.br" rel="noopener noreferrer">
+            Elves Sousa
+          </a>{" "}
+          &copy; 2020
+        </p>
+      </footer>
     </>
   );
 };
