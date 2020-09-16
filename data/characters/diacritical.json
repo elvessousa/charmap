@@ -1,0 +1,666 @@
+{
+  "characters": [
+    {
+      "char": "ò",
+      "code": "&#768;",
+      "css": "\\0300",
+      "name": "GRAVE ACCENT"
+    },
+    {
+      "char": "ó",
+      "code": "&#769;",
+      "css": "\\0301",
+      "name": "ACUTE ACCENT"
+    },
+    {
+      "char": "ô",
+      "code": "&#770;",
+      "css": "\\0302",
+      "name": "CIRCUMFLEX ACCENT"
+    },
+    {
+      "char": "õ",
+      "code": "&#771;",
+      "css": "\\0303",
+      "name": "TILDE"
+    },
+    {
+      "char": "ō",
+      "code": "&#772;",
+      "css": "\\0304",
+      "name": "MACRON"
+    },
+    {
+      "char": "o̅",
+      "code": "&#773;",
+      "css": "\\0305",
+      "name": "OVERLINE"
+    },
+    {
+      "char": "ŏ",
+      "code": "&#774;",
+      "css": "\\0306",
+      "name": "BREVE"
+    },
+    {
+      "char": "ȯ",
+      "code": "&#775;",
+      "css": "\\0307",
+      "name": "DOT ABOVE"
+    },
+    {
+      "char": "ö",
+      "code": "&#776;",
+      "css": "\\0308",
+      "name": "DIAERESIS"
+    },
+    {
+      "char": "ỏ",
+      "code": "&#777;",
+      "css": "\\0309",
+      "name": "HOOK ABOVE"
+    },
+    {
+      "char": "o̊",
+      "code": "&#778;",
+      "css": "\\030A",
+      "name": "RING ABOVE"
+    },
+    {
+      "char": "ő",
+      "code": "&#779;",
+      "css": "\\030B",
+      "name": "DOUBLE ACUTE ACCENT"
+    },
+    {
+      "char": "ǒ",
+      "code": "&#780;",
+      "css": "\\030C",
+      "name": "CARON"
+    },
+    {
+      "char": "o̍",
+      "code": "&#781;",
+      "css": "\\030D",
+      "name": "VERTICAL LINE ABOVE"
+    },
+    {
+      "char": "o̎",
+      "code": "&#782;",
+      "css": "\\030E",
+      "name": "DOUBLE VERTICAL LINE ABOVE"
+    },
+    {
+      "char": "ȍ",
+      "code": "&#783;",
+      "css": "\\030F",
+      "name": "DOUBLE GRAVE ACCENT"
+    },
+    {
+      "char": "o̐",
+      "code": "&#784;",
+      "css": "\\0310",
+      "name": "CANDRABINDU"
+    },
+    {
+      "char": "ȏ",
+      "code": "&#785;",
+      "css": "\\0311",
+      "name": "INVERTED BREVE"
+    },
+    {
+      "char": "o̒",
+      "code": "&#786;",
+      "css": "\\0312",
+      "name": "TURNED COMMA ABOVE"
+    },
+    {
+      "char": "o̓",
+      "code": "&#787;",
+      "css": "\\0313",
+      "name": "COMMA ABOVE"
+    },
+    {
+      "char": "o̔",
+      "code": "&#788;",
+      "css": "\\0314",
+      "name": "REVERSED COMMA ABOVE"
+    },
+    {
+      "char": "o̕",
+      "code": "&#789;",
+      "css": "\\0315",
+      "name": "COMMA ABOVE RIGHT"
+    },
+    {
+      "char": "o̖",
+      "code": "&#790;",
+      "css": "\\0316",
+      "name": "GRAVE ACCENT BELOW"
+    },
+    {
+      "char": "o̗",
+      "code": "&#791;",
+      "css": "\\0317",
+      "name": "ACUTE ACCENT BELOW"
+    },
+    {
+      "char": "o̘",
+      "code": "&#792;",
+      "css": "\\0318",
+      "name": "LEFT TACK BELOW"
+    },
+    {
+      "char": "o̙",
+      "code": "&#793;",
+      "css": "\\0319",
+      "name": "RIGHT TACK BELOW"
+    },
+    {
+      "char": "o̚",
+      "code": "&#794;",
+      "css": "\\031A",
+      "name": "LEFT ANGLE ABOVE"
+    },
+    {
+      "char": "ơ",
+      "code": "&#795;",
+      "css": "\\031B",
+      "name": "HORN"
+    },
+    {
+      "char": "o̜",
+      "code": "&#796;",
+      "css": "\\031C",
+      "name": "LEFT HALF RING BELOW"
+    },
+    {
+      "char": "o̝",
+      "code": "&#797;",
+      "css": "\\031D",
+      "name": "UP TACK BELOW"
+    },
+    {
+      "char": "o̞",
+      "code": "&#798;",
+      "css": "\\031E",
+      "name": "DOWN TACK BELOW"
+    },
+    {
+      "char": "o̟",
+      "code": "&#799;",
+      "css": "\\031F",
+      "name": "PLUS SIGN BELOW"
+    },
+    {
+      "char": "o̠",
+      "code": "&#800;",
+      "css": "\\0320",
+      "name": "MINUS SIGN BELOW"
+    },
+    {
+      "char": "o̡",
+      "code": "&#801;",
+      "css": "\\0321",
+      "name": "PALATALIZED HOOK BELOW"
+    },
+    {
+      "char": "o̢",
+      "code": "&#802;",
+      "css": "\\0322",
+      "name": "RETROFLEX HOOK BELOW"
+    },
+    {
+      "char": "ọ",
+      "code": "&#803;",
+      "css": "\\0323",
+      "name": "DOT BELOW"
+    },
+    {
+      "char": "o̤",
+      "code": "&#804;",
+      "css": "\\0324",
+      "name": "DIAERESIS BELOW"
+    },
+    {
+      "char": "o̥",
+      "code": "&#805;",
+      "css": "\\0325",
+      "name": "RING BELOW"
+    },
+    {
+      "char": "o̦",
+      "code": "&#806;",
+      "css": "\\0326",
+      "name": "COMMA BELOW"
+    },
+    {
+      "char": "o̧",
+      "code": "&#807;",
+      "css": "\\0327",
+      "name": "CEDILLA"
+    },
+    {
+      "char": "ǫ",
+      "code": "&#808;",
+      "css": "\\0328",
+      "name": "OGONEK"
+    },
+    {
+      "char": "o̩",
+      "code": "&#809;",
+      "css": "\\0329",
+      "name": "VERTICAL LINE BELOW"
+    },
+    {
+      "char": "o̪",
+      "code": "&#810;",
+      "css": "\\032A",
+      "name": "BRIDGE BELOW"
+    },
+    {
+      "char": "o̫",
+      "code": "&#811;",
+      "css": "\\032B",
+      "name": "INVERTED DOUBLE ARCH BELOW"
+    },
+    {
+      "char": "o̬",
+      "code": "&#812;",
+      "css": "\\032C",
+      "name": "CARON BELOW"
+    },
+    {
+      "char": "o̭",
+      "code": "&#813;",
+      "css": "\\032D",
+      "name": "CIRCUMFLEX ACCENT BELOW"
+    },
+    {
+      "char": "o̮",
+      "code": "&#814;",
+      "css": "\\032E",
+      "name": "BREVE BELOW"
+    },
+    {
+      "char": "o̯",
+      "code": "&#815;",
+      "css": "\\032F",
+      "name": "INVERTED BREVE BELOW"
+    },
+    {
+      "char": "o̰",
+      "code": "&#816;",
+      "css": "\\0330",
+      "name": "TILDE BELOW"
+    },
+    {
+      "char": "o̱",
+      "code": "&#817;",
+      "css": "\\0331",
+      "name": "MACRON BELOW"
+    },
+    {
+      "char": "o̲",
+      "code": "&#818;",
+      "css": "\\0332",
+      "name": "LOW LINE"
+    },
+    {
+      "char": "o̳",
+      "code": "&#819;",
+      "css": "\\0333",
+      "name": "DOUBLE LOW LINE"
+    },
+    {
+      "char": "o̴",
+      "code": "&#820;",
+      "css": "\\0334",
+      "name": "TILDE OVERLAY"
+    },
+    {
+      "char": "o̵",
+      "code": "&#821;",
+      "css": "\\0335",
+      "name": "SHORT STROKE OVERLAY"
+    },
+    {
+      "char": "o̶",
+      "code": "&#822;",
+      "css": "\\0336",
+      "name": "LONG STROKE OVERLAY"
+    },
+    {
+      "char": "o̷",
+      "code": "&#823;",
+      "css": "\\0337",
+      "name": "SHORT SOLIDUS OVERLAY"
+    },
+    {
+      "char": "o̸",
+      "code": "&#824;",
+      "css": "\\0338",
+      "name": "LONG SOLIDUS OVERLAY"
+    },
+    {
+      "char": "o̹",
+      "code": "&#825;",
+      "css": "\\0339",
+      "name": "RIGHT HALF RING BELOW"
+    },
+    {
+      "char": "o̺",
+      "code": "&#826;",
+      "css": "\\033A",
+      "name": "INVERTED BRIDGE BELOW"
+    },
+    {
+      "char": "o̻",
+      "code": "&#827;",
+      "css": "\\033B",
+      "name": "SQUARE BELOW"
+    },
+    {
+      "char": "o̼",
+      "code": "&#828;",
+      "css": "\\033C",
+      "name": "SEAGULL BELOW"
+    },
+    {
+      "char": "o̽",
+      "code": "&#829;",
+      "css": "\\033D",
+      "name": "X ABOVE"
+    },
+    {
+      "char": "o̾",
+      "code": "&#830;",
+      "css": "\\033E",
+      "name": "VERTICAL TILDE"
+    },
+    {
+      "char": "o̿",
+      "code": "&#831;",
+      "css": "\\033F",
+      "name": "DOUBLE OVERLINE"
+    },
+    {
+      "char": "ò",
+      "code": "&#832;",
+      "css": "\\0340",
+      "name": "GRAVE TONE MARK"
+    },
+    {
+      "char": "ó",
+      "code": "&#833;",
+      "css": "\\0341",
+      "name": "ACUTE TONE MARK"
+    },
+    {
+      "char": "o͂",
+      "code": "&#834;",
+      "css": "\\0342",
+      "name": "GREEK PERISPOMENI (combined with theta)"
+    },
+    {
+      "char": "o̓",
+      "code": "&#835;",
+      "css": "\\0343",
+      "name": "GREEK KORONIS (combined with theta)"
+    },
+    {
+      "char": "ö́",
+      "code": "&#836;",
+      "css": "\\0344",
+      "name": "GREEK DIALYTIKA TONOS (combined with theta)"
+    },
+    {
+      "char": "oͅ",
+      "code": "&#837;",
+      "css": "\\0345",
+      "name": "GREEK YPOGEGRAMMENI (combined with theta)"
+    },
+    {
+      "char": "o͆",
+      "code": "&#838;",
+      "css": "\\0346",
+      "name": "BRIDGE ABOVE"
+    },
+    {
+      "char": "o͇",
+      "code": "&#839;",
+      "css": "\\0347",
+      "name": "EQUALS SIGN BELOW"
+    },
+    {
+      "char": "o͈",
+      "code": "&#840;",
+      "css": "\\0348",
+      "name": "DOUBLE VERTICAL LINE BELOW"
+    },
+    {
+      "char": "o͉",
+      "code": "&#841;",
+      "css": "\\0349",
+      "name": "LEFT ANGLE BELOW"
+    },
+    {
+      "char": "o͊",
+      "code": "&#842;",
+      "css": "\\034A",
+      "name": "NOT TILDE ABOVE"
+    },
+    {
+      "char": "o͋",
+      "code": "&#843;",
+      "css": "\\034B",
+      "name": "HOMOTHETIC ABOVE"
+    },
+    {
+      "char": "o͌",
+      "code": "&#844;",
+      "css": "\\034C",
+      "name": "ALMOST EQUAL TO ABOVE"
+    },
+    {
+      "char": "o͍",
+      "code": "&#845;",
+      "css": "\\034D",
+      "name": "LEFT RIGHT ARROW BELOW"
+    },
+    {
+      "char": "o͎",
+      "code": "&#846;",
+      "css": "\\034E",
+      "name": "UPWARDS ARROW BELOW"
+    },
+    {
+      "char": "o͏",
+      "code": "&#847;",
+      "css": "\\034F",
+      "name": "GRAPHEME JOINER"
+    },
+    {
+      "char": "o͐",
+      "code": "&#848;",
+      "css": "\\0350",
+      "name": "RIGHT ARROWHEAD ABOVE"
+    },
+    {
+      "char": "o͑",
+      "code": "&#849;",
+      "css": "\\0351",
+      "name": "LEFT HALF RING ABOVE"
+    },
+    {
+      "char": "o͒",
+      "code": "&#850;",
+      "css": "\\0352",
+      "name": "FERMATA"
+    },
+    {
+      "char": "o͓",
+      "code": "&#851;",
+      "css": "\\0353",
+      "name": "X BELOW"
+    },
+    {
+      "char": "o͔",
+      "code": "&#852;",
+      "css": "\\0354",
+      "name": "LEFT ARROWHEAD BELOW"
+    },
+    {
+      "char": "o͕",
+      "code": "&#853;",
+      "css": "\\0355",
+      "name": "RIGHT ARROWHEAD BELOW"
+    },
+    {
+      "char": "o͖",
+      "code": "&#854;",
+      "css": "\\0356",
+      "name": "RIGHT ARROWHEAD AND UP ARROWHEAD BELOW"
+    },
+    {
+      "char": "o͗",
+      "code": "&#855;",
+      "css": "\\0357",
+      "name": "RIGHT HALF RING ABOVE"
+    },
+    {
+      "char": "o͘",
+      "code": "&#856;",
+      "css": "\\0358",
+      "name": "DOT ABOVE RIGHT"
+    },
+    {
+      "char": "o͙",
+      "code": "&#857;",
+      "css": "\\0359",
+      "name": "ASTERISK BELOW"
+    },
+    {
+      "char": "o͚",
+      "code": "&#858;",
+      "css": "\\035A",
+      "name": "DOUBLE RING BELOW"
+    },
+    {
+      "char": "o͛",
+      "code": "&#859;",
+      "css": "\\035B",
+      "name": "ZIGZAG ABOVE"
+    },
+    {
+      "char": "o",
+      "code": "&#860;",
+      "css": "\\035C",
+      "name": "DOUBLE BREVE BELOW"
+    },
+    { "char": "o", "code": "&#861;", "css": "\\035D", "name": "DOUBLE BREVE" },
+    { "char": "o", "code": "&#862;", "css": "\\035E", "name": "DOUBLE MACRON" },
+    {
+      "char": "o",
+      "code": "&#863;",
+      "css": "\\035F",
+      "name": "DOUBLE MACRON BELOW"
+    },
+    {
+      "char": "o",
+      "code": "&#864;",
+      "css": "\\0360",
+      "name": "DOUBLE TILDE"
+    },
+    {
+      "char": "o",
+      "code": "&#865;",
+      "css": "\\0361",
+      "name": "DOUBLE INVERTED BREVE"
+    },
+    {
+      "char": "o",
+      "code": "&#866;",
+      "css": "\\0362",
+      "name": "DOUBLE RIGHTWARDS ARROW BELOW"
+    },
+    {
+      "char": "oͣ",
+      "code": "&#867;",
+      "css": "\\0363",
+      "name": "LATIN SMALL LETTER A"
+    },
+    {
+      "char": "oͤ",
+      "code": "&#868;",
+      "css": "\\0364",
+      "name": "LATIN SMALL LETTER E"
+    },
+    {
+      "char": "oͥ",
+      "code": "&#869;",
+      "css": "\\0365",
+      "name": "LATIN SMALL LETTER I"
+    },
+    {
+      "char": "oͦ",
+      "code": "&#870;",
+      "css": "\\0366",
+      "name": "LATIN SMALL LETTER O"
+    },
+    {
+      "char": "oͧ",
+      "code": "&#871;",
+      "css": "\\0367",
+      "name": "LATIN SMALL LETTER U"
+    },
+    {
+      "char": "oͨ",
+      "code": "&#872;",
+      "css": "\\0368",
+      "name": "LATIN SMALL LETTER C"
+    },
+    {
+      "char": "oͩ",
+      "code": "&#873;",
+      "css": "\\0369",
+      "name": "LATIN SMALL LETTER D"
+    },
+    {
+      "char": "oͪ",
+      "code": "&#874;",
+      "css": "\\036A",
+      "name": "LATIN SMALL LETTER H"
+    },
+    {
+      "char": "oͫ",
+      "code": "&#875;",
+      "css": "\\036B",
+      "name": "LATIN SMALL LETTER M"
+    },
+    {
+      "char": "oͬ",
+      "code": "&#876;",
+      "css": "\\036C",
+      "name": "LATIN SMALL LETTER R"
+    },
+    {
+      "char": "oͭ",
+      "code": "&#877;",
+      "css": "\\036D",
+      "name": "LATIN SMALL LETTER T"
+    },
+    {
+      "char": "oͮ",
+      "code": "&#878;",
+      "css": "\\036E",
+      "name": "LATIN SMALL LETTER V"
+    },
+    {
+      "char": "oͯ",
+      "code": "&#879;",
+      "css": "\\036F",
+      "name": "LATIN SMALL LETTER X"
+    }
+  ]
+}
