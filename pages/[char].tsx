@@ -19,7 +19,7 @@ interface Character {
 
 const Dingbats: NextPage<PageProps> = ({ category, chars }) => {
   return (
-    <Layout title="Dingbats">
+    <Layout title="Charmap">
       <h1>Charmap</h1>
       <Filter />
       <div className="characters">
@@ -70,6 +70,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
     "currency",
     "cyrillic",
     "shapes",
+    "spaces",
     "symbols",
   ];
   const pages = chars.map((char) => ({ params: { char } }));
