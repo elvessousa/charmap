@@ -9,7 +9,9 @@ const Filter: React.FC = () => {
     { category: "currency", symbol: "&euro;" },
     { category: "cyrillic", symbol: "&ZHcy;" },
     { category: "cyrillic-sup", symbol: "&#1304;" },
+    { category: "diacritical", symbol: "&#126;" },
     { category: "dingbats", symbol: "&#10070;" },
+    { category: "latin", symbol: "A" },
     { category: "extended", symbol: "&AElig;" },
     { category: "extended2", symbol: "&#482;" },
     { category: "latin-mod", symbol: "&#745;" },
@@ -21,7 +23,6 @@ const Filter: React.FC = () => {
     { category: "space", symbol: "&empty;" },
     { category: "symbols", symbol: "&#9728;" },
     { category: "typography", symbol: "&para;" },
-    // { category: "phonetic", symbol: "#e66100" },
     // { category: "yellow", symbol: "#f5c211" },
   ];
 

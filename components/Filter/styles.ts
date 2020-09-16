@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const FilterNavigation = styled.nav`
-  width: 40em;
+  width: 45em;
   margin: 2em auto;
 
   @media screen and (min-width: 15em) and (max-width: 47em) {
@@ -29,6 +29,7 @@ export const FilterNavigation = styled.nav`
   ul {
     list-style: none;
     display: flex;
+    padding: 0;
     align-items: center;
     justify-content: space-between;
   }
