@@ -1,0 +1,574 @@
+{
+  "characters": [
+    {
+      "char": " ",
+      "code": "&#32;",
+      "css": "\\0020",
+      "name": "Space"
+    },
+    {
+      "char": "!",
+      "code": "&#33;",
+      "css": "\\0021",
+      "name": "Exclamation Mark"
+    },
+    {
+      "char": "\"",
+      "code": "&quot;",
+      "css": "\\0022",
+      "name": "Quotation Mark"
+    },
+    {
+      "char": "#",
+      "code": "&#35;",
+      "css": "\\0023",
+      "name": "Number Sign"
+    },
+    {
+      "char": "$",
+      "code": "&#36;",
+      "css": "\\0024",
+      "name": "Dollar Sign"
+    },
+    {
+      "char": "%",
+      "code": "&#37;",
+      "css": "\\0025",
+      "name": "Percent Sign"
+    },
+    {
+      "char": "&",
+      "code": "&amp;",
+      "css": "\\0026",
+      "name": "Ampersand"
+    },
+    {
+      "char": "'",
+      "code": "&#39;",
+      "css": "\\0027",
+      "name": "Apostrophe"
+    },
+    {
+      "char": "(",
+      "code": "&#40;",
+      "css": "\\0028",
+      "name": "Left Parenthesis"
+    },
+    {
+      "char": ")",
+      "code": "&#41;",
+      "css": "\\0029",
+      "name": "Right Parenthesis"
+    },
+    {
+      "char": "*",
+      "code": "&#42;",
+      "css": "\\002A",
+      "name": "Asterisk"
+    },
+    {
+      "char": "+",
+      "code": "&#43;",
+      "css": "\\002B",
+      "name": "Plus Sign"
+    },
+    {
+      "char": ",",
+      "code": "&#44;",
+      "css": "\\002C",
+      "name": "Comma"
+    },
+    {
+      "char": "-",
+      "code": "&#45;",
+      "css": "\\002D",
+      "name": "Hyphen-MINUS"
+    },
+    {
+      "char": ".",
+      "code": "&#46;",
+      "css": "\\002E",
+      "name": "Full Stop"
+    },
+    {
+      "char": "/",
+      "code": "&#47;",
+      "css": "\\002F",
+      "name": "Solidus"
+    },
+    {
+      "char": "0",
+      "code": "&#48;",
+      "css": "\\0030",
+      "name": "Digit Zero"
+    },
+    {
+      "char": "1",
+      "code": "&#49;",
+      "css": "\\0031",
+      "name": "Digit One"
+    },
+    {
+      "char": "2",
+      "code": "&#50;",
+      "css": "\\0032",
+      "name": "Digit Two"
+    },
+    {
+      "char": "3",
+      "code": "&#51;",
+      "css": "\\0033",
+      "name": "Digit Three"
+    },
+    {
+      "char": "4",
+      "code": "&#52;",
+      "css": "\\0034",
+      "name": "Digit Four"
+    },
+    {
+      "char": "5",
+      "code": "&#53;",
+      "css": "\\0035",
+      "name": "Digit Five"
+    },
+    {
+      "char": "6",
+      "code": "&#54;",
+      "css": "\\0036",
+      "name": "Digit Six"
+    },
+    {
+      "char": "7",
+      "code": "&#55;",
+      "css": "\\0037",
+      "name": "Digit Seven"
+    },
+    {
+      "char": "8",
+      "code": "&#56;",
+      "css": "\\0038",
+      "name": "Digit Eight"
+    },
+    {
+      "char": "9",
+      "code": "&#57;",
+      "css": "\\0039",
+      "name": "Digit Nine"
+    },
+    {
+      "char": ":",
+      "code": "&#58;",
+      "css": "\\003A",
+      "name": "Colon"
+    },
+    {
+      "char": ";",
+      "code": "&#59;",
+      "css": "\\003B",
+      "name": "Semicolon"
+    },
+    {
+      "char": "<",
+      "code": "&lt;",
+      "css": "\\003C",
+      "name": "Less-Than Sign"
+    },
+    {
+      "char": "=",
+      "code": "&#61;",
+      "css": "\\003D",
+      "name": "Equals Sign"
+    },
+    {
+      "char": ">",
+      "code": "&gt;",
+      "css": "\\003E",
+      "name": "Greater-Than Sign"
+    },
+    {
+      "char": "?",
+      "code": "&#63;",
+      "css": "\\003F",
+      "name": "Question Mark"
+    },
+    {
+      "char": "@",
+      "code": "&#64;",
+      "css": "\\0040",
+      "name": "Commercial At"
+    },
+    {
+      "char": "A",
+      "code": "&#65;",
+      "css": "\\0041",
+      "name": "Latin Capital Letter A"
+    },
+    {
+      "char": "B",
+      "code": "&#66;",
+      "css": "\\0042",
+      "name": "Latin Capital Letter B"
+    },
+    {
+      "char": "C",
+      "code": "&#67;",
+      "css": "\\0043",
+      "name": "Latin Capital Letter C"
+    },
+    {
+      "char": "D",
+      "code": "&#68;",
+      "css": "\\0044",
+      "name": "Latin Capital Letter D"
+    },
+    {
+      "char": "E",
+      "code": "&#69;",
+      "css": "\\0045",
+      "name": "Latin Capital Letter E"
+    },
+    {
+      "char": "F",
+      "code": "&#70;",
+      "css": "\\0046",
+      "name": "Latin Capital Letter F"
+    },
+    {
+      "char": "G",
+      "code": "&#71;",
+      "css": "\\0047",
+      "name": "Latin Capital Letter G"
+    },
+    {
+      "char": "H",
+      "code": "&#72;",
+      "css": "\\0048",
+      "name": "Latin Capital Letter H"
+    },
+    {
+      "char": "I",
+      "code": "&#73;",
+      "css": "\\0049",
+      "name": "Latin Capital Letter I"
+    },
+    {
+      "char": "J",
+      "code": "&#74;",
+      "css": "\\004A",
+      "name": "Latin Capital Letter J"
+    },
+    {
+      "char": "K",
+      "code": "&#75;",
+      "css": "\\004B",
+      "name": "Latin Capital Letter K"
+    },
+    {
+      "char": "L",
+      "code": "&#76;",
+      "css": "\\004C",
+      "name": "Latin Capital Letter L"
+    },
+    {
+      "char": "M",
+      "code": "&#77;",
+      "css": "\\004D",
+      "name": "Latin Capital Letter M"
+    },
+    {
+      "char": "N",
+      "code": "&#78;",
+      "css": "\\004E",
+      "name": "Latin Capital Letter N"
+    },
+    {
+      "char": "O",
+      "code": "&#79;",
+      "css": "\\004F",
+      "name": "Latin Capital Letter O"
+    },
+    {
+      "char": "P",
+      "code": "&#80;",
+      "css": "\\0050",
+      "name": "Latin Capital Letter P"
+    },
+    {
+      "char": "Q",
+      "code": "&#81;",
+      "css": "\\0051",
+      "name": "Latin Capital Letter Q"
+    },
+    {
+      "char": "R",
+      "code": "&#82;",
+      "css": "\\0052",
+      "name": "Latin Capital Letter R"
+    },
+    {
+      "char": "S",
+      "code": "&#83;",
+      "css": "\\0053",
+      "name": "Latin Capital Letter S"
+    },
+    {
+      "char": "T",
+      "code": "&#84;",
+      "css": "\\0054",
+      "name": "Latin Capital Letter T"
+    },
+    {
+      "char": "U",
+      "code": "&#85;",
+      "css": "\\0055",
+      "name": "Latin Capital Letter U"
+    },
+    {
+      "char": "V",
+      "code": "&#86;",
+      "css": "\\0056",
+      "name": "Latin Capital Letter V"
+    },
+    {
+      "char": "W",
+      "code": "&#87;",
+      "css": "\\0057",
+      "name": "Latin Capital Letter W"
+    },
+    {
+      "char": "X",
+      "code": "&#88;",
+      "css": "\\0058",
+      "name": "Latin Capital Letter X"
+    },
+    {
+      "char": "Y",
+      "code": "&#89;",
+      "css": "\\0059",
+      "name": "Latin Capital Letter Y"
+    },
+    {
+      "char": "Z",
+      "code": "&#90;",
+      "css": "\\005A",
+      "name": "Latin Capital Letter Z"
+    },
+    {
+      "char": "[",
+      "code": "&#91;",
+      "css": "\\005B",
+      "name": "Left Square Bracket"
+    },
+    {
+      "char": "\\",
+      "code": "&#92;",
+      "css": "\\005C",
+      "name": "Reverse Solidus"
+    },
+    {
+      "char": "]",
+      "code": "&#93;",
+      "css": "\\005D",
+      "name": "Right Square Bracket"
+    },
+    {
+      "char": "^",
+      "code": "&#94;",
+      "css": "\\005E",
+      "name": "Circumflex Accent"
+    },
+    {
+      "char": "_",
+      "code": "&#95;",
+      "css": "\\005F",
+      "name": "Low Line"
+    },
+    {
+      "char": "`",
+      "code": "&#96;",
+      "css": "\\0060",
+      "name": "Grave Accent"
+    },
+    {
+      "char": "a",
+      "code": "&#97;",
+      "css": "\\0061",
+      "name": "Latin Small Letter A"
+    },
+    {
+      "char": "b",
+      "code": "&#98;",
+      "css": "\\0062",
+      "name": "Latin Small Letter B"
+    },
+    {
+      "char": "c",
+      "code": "&#99;",
+      "css": "\\0063",
+      "name": "Latin Small Letter C"
+    },
+    {
+      "char": "d",
+      "code": "&#100;",
+      "css": "\\0064",
+      "name": "Latin Small Letter D"
+    },
+    {
+      "char": "e",
+      "code": "&#101;",
+      "css": "\\0065",
+      "name": "Latin Small Letter E"
+    },
+    {
+      "char": "f",
+      "code": "&#102;",
+      "css": "\\0066",
+      "name": "Latin Small Letter F"
+    },
+    {
+      "char": "g",
+      "code": "&#103;",
+      "css": "\\0067",
+      "name": "Latin Small Letter G"
+    },
+    {
+      "char": "h",
+      "code": "&#104;",
+      "css": "\\0068",
+      "name": "Latin Small Letter H"
+    },
+    {
+      "char": "i",
+      "code": "&#105;",
+      "css": "\\0069",
+      "name": "Latin Small Letter I"
+    },
+    {
+      "char": "j",
+      "code": "&#106;",
+      "css": "\\006A",
+      "name": "Latin Small Letter J"
+    },
+    {
+      "char": "k",
+      "code": "&#107;",
+      "css": "\\006B",
+      "name": "Latin Small Letter K"
+    },
+    {
+      "char": "l",
+      "code": "&#108;",
+      "css": "\\006C",
+      "name": "Latin Small Letter L"
+    },
+    {
+      "char": "m",
+      "code": "&#109;",
+      "css": "\\006D",
+      "name": "Latin Small Letter M"
+    },
+    {
+      "char": "n",
+      "code": "&#110;",
+      "css": "\\006E",
+      "name": "Latin Small Letter N"
+    },
+    {
+      "char": "o",
+      "code": "&#111;",
+      "css": "\\006F",
+      "name": "Latin Small Letter O"
+    },
+    {
+      "char": "p",
+      "code": "&#112;",
+      "css": "\\0070",
+      "name": "Latin Small Letter P"
+    },
+    {
+      "char": "q",
+      "code": "&#113;",
+      "css": "\\0071",
+      "name": "Latin Small Letter Q"
+    },
+    {
+      "char": "r",
+      "code": "&#114;",
+      "css": "\\0072",
+      "name": "Latin Small Letter R"
+    },
+    {
+      "char": "s",
+      "code": "&#115;",
+      "css": "\\0073",
+      "name": "Latin Small Letter S"
+    },
+    {
+      "char": "t",
+      "code": "&#116;",
+      "css": "\\0074",
+      "name": "Latin Small Letter T"
+    },
+    {
+      "char": "u",
+      "code": "&#117;",
+      "css": "\\0075",
+      "name": "Latin Small Letter U"
+    },
+    {
+      "char": "v",
+      "code": "&#118;",
+      "css": "\\0076",
+      "name": "Latin Small Letter V"
+    },
+    {
+      "char": "w",
+      "code": "&#119;",
+      "css": "\\0077",
+      "name": "Latin Small Letter W"
+    },
+    {
+      "char": "x",
+      "code": "&#120;",
+      "css": "\\0078",
+      "name": "Latin Small Letter X"
+    },
+    {
+      "char": "y",
+      "code": "&#121;",
+      "css": "\\0079",
+      "name": "Latin Small Letter Y"
+    },
+    {
+      "char": "z",
+      "code": "&#122;",
+      "css": "\\007A",
+      "name": "Latin Small Letter Z"
+    },
+    {
+      "char": "{",
+      "code": "&#123;",
+      "css": "\\007B",
+      "name": "Left Curly Bracket"
+    },
+    {
+      "char": "|",
+      "code": "&#124;",
+      "css": "\\007C",
+      "name": "Vertical Line"
+    },
+    {
+      "char": "}",
+      "code": "&#125;",
+      "css": "\\007D",
+      "name": "Right Curly Bracket"
+    },
+    {
+      "char": "~",
+      "code": "&#126;",
+      "css": "\\007E",
+      "name": "Tilde"
+    }
+  ]
+}
