@@ -4,6 +4,10 @@ export const FilterNavigation = styled.nav`
   width: 40em;
   margin: 2em auto;
 
+  @media screen and (min-width: 15em) and (max-width: 47em) {
+    display: none;
+  }
+
   a,
   button {
     background: transparent;

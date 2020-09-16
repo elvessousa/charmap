@@ -6,6 +6,7 @@ body {
   font-family: "Inter", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
 }
 
 button {
@@ -28,10 +29,11 @@ strong {
 }
 
 h1 {
-  font-size: 5em;
+  font-size: 7vw;
   font-weight: 900;
   text-align: center;
   text-transform: uppercase;
+  /* margin: 0; */
 }
 
 h2 {
@@ -51,4 +53,19 @@ h2 {
 footer {
   padding-block: 2em;
   text-align: center;
+}
+
+@media screen and (min-width: 15em) and (max-width: 47em) {
+  h1 {
+    font-size: 15vw;
+  }
+
+  .characters {
+    display: grid;
+    padding: 1em;
+    grid-gap: 1em;
+    margin: auto;
+    justify-content: center;
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
