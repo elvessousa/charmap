@@ -11,6 +11,7 @@ export const colors = {
   dingbats: "#e66100",
   extended: "#a51d2d",
   extended2: "#a51d2d",
+  latin: "#a51d2d",
   "latin-mod": "#a51d2d",
   greek: "#1c71d8",
   hebrew: "#1a5fb4",
@@ -49,15 +50,21 @@ export const Letter = styled.button<LetterProps>`
   position: relative;
   transition: all 0.2s ease-in-out;
 
-  &:hover {
-    filter: brightness(1.1);
-  }
-
   h4 {
     font-size: 5em;
     margin: 0;
     text-decoration: ${(props) =>
       props.category === "space" ? "underline" : "none"};
+  }
+
+  dfn {
+    display: block;
+    font-style: normal;
+    opacity: 0.5;
+    padding: 0 1em;
+    text-align: center;
+    text-transform: capitalize;
+    transition: opacity 0.2s ease-in-out;
   }
 
   span {
@@ -84,6 +91,14 @@ export const Letter = styled.button<LetterProps>`
     position: absolute;
     right: 1em;
     top: 1em;
+  }
+
+  &:hover {
+    filter: brightness(1.1);
+
+    dfn {
+      opacity: 1;
+    }
   }
 `;
 

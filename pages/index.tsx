@@ -36,6 +36,7 @@ const Home: NextPage<PageProps> = ({ chars }) => {
               entity={char.code}
               code={char.css}
               type={char.type}
+              name={char.name}
             />
           ))}
         </div>

@@ -6,9 +6,10 @@ interface CardProps {
   code: string;
   jscode?: string;
   type: string;
+  name: string;
 }
 
-const Character: React.FC<CardProps> = ({ entity, code, type }) => {
+const Character: React.FC<CardProps> = ({ entity, code, type, name }) => {
   const [copied, setCopied] = useState(false);
 
   function copyCode(e) {
@@ -33,6 +34,7 @@ const Character: React.FC<CardProps> = ({ entity, code, type }) => {
         <span>{type}</span>
         <h4 dangerouslySetInnerHTML={{ __html: `${entity}` }} />
         {copied && <div>Copied</div>}
+        <dfn>{name}</dfn>
       </Letter>
       <Code>
         <strong>HTML</strong>

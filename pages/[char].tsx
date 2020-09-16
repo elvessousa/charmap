@@ -29,6 +29,7 @@ const Dingbats: NextPage<PageProps> = ({ category, chars }) => {
             entity={char.code}
             code={char.css}
             type={category}
+            name={char.name}
           />
         ))}
       </div>
@@ -58,6 +59,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
     "extended",
     "extended2",
     "dingbats",
+    "latin",
     "latin-mod",
     "symbols",
     "blocks",
