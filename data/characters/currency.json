@@ -5,199 +5,199 @@
       "code": "&euro;",
       "css": "\\20AC",
       "type": "currency",
-      "name": "Euro sign"
+      "name": "Euro Sign"
     },
     {
       "char": "₠",
       "code": "&#8352;",
       "css": "\\20A0",
-      "name": "EURO-CURRENCY SIGN"
+      "name": "Euro-Currency Sign"
     },
     {
       "char": "₡",
       "code": "&#8353;",
       "css": "\\20A1",
-      "name": "COLON SIGN"
+      "name": "Colon Sign"
     },
     {
       "char": "₢",
       "code": "&#8354;",
       "css": "\\20A2",
-      "name": "CRUZEIRO SIGN"
+      "name": "Cruzeiro Sign"
     },
     {
       "char": "₣",
       "code": "&#8355;",
       "css": "\\20A3",
-      "name": "FRENCH FRANC SIGN"
+      "name": "French Franc Sign"
     },
     {
       "char": "₤",
       "code": "&#8356;",
       "css": "\\20A4",
-      "name": "LIRA SIGN"
+      "name": "Lira Sign"
     },
     {
       "char": "₥",
       "code": "&#8357;",
       "css": "\\20A5",
-      "name": "MILL SIGN"
+      "name": "Mill Sign"
     },
     {
       "char": "₦",
       "code": "&#8358;",
       "css": "\\20A6",
-      "name": "NAIRA SIGN"
+      "name": "Naira Sign"
     },
     {
       "char": "₧",
       "code": "&#8359;",
       "css": "\\20A7",
-      "name": "PESETA SIGN"
+      "name": "Peseta Sign"
     },
     {
       "char": "₨",
       "code": "&#8360;",
       "css": "\\20A8",
-      "name": "RUPEE SIGN"
+      "name": "Rupee Sign"
     },
     {
       "char": "₩",
       "code": "&#8361;",
       "css": "\\20A9",
-      "name": "WON SIGN"
+      "name": "Won Sign"
     },
     {
       "char": "₪",
       "code": "&#8362;",
       "css": "\\20AA",
-      "name": "NEW SHEQEL SIGN"
+      "name": "New Sheqel Sign"
     },
     {
       "char": "₫",
       "code": "&#8363;",
       "css": "\\20AB",
-      "name": "DONG SIGN"
+      "name": "Dong Sign"
     },
     {
       "char": "€",
       "code": "&#8364;",
       "css": "\\20AC",
-      "name": "EURO SIGN"
+      "name": "Euro Sign"
     },
     {
       "char": "₭",
       "code": "&#8365;",
       "css": "\\20AD",
-      "name": "KIP SIGN"
+      "name": "Kip Sign"
     },
     {
       "char": "₮",
       "code": "&#8366;",
       "css": "\\20AE",
-      "name": "TUGRIK SIGN"
+      "name": "Tugrik Sign"
     },
     {
       "char": "₯",
       "code": "&#8367;",
       "css": "\\20AF",
-      "name": "DRACHMA SIGN"
+      "name": "Drachma Sign"
     },
     {
       "char": "₰",
       "code": "&#8368;",
       "css": "\\20B0",
-      "name": "GERMAN PENNY SYMBOL"
+      "name": "German Penny Symbol"
     },
     {
       "char": "₱",
       "code": "&#8369;",
       "css": "\\20B1",
-      "name": "PESO SIGN"
+      "name": "Peso Sign"
     },
     {
       "char": "₲",
       "code": "&#8370;",
       "css": "\\20B2",
-      "name": "GUARANI SIGN"
+      "name": "Guarani Sign"
     },
     {
       "char": "₳",
       "code": "&#8371;",
       "css": "\\20B3",
-      "name": "AUSTRAL SIGN"
+      "name": "Austral Sign"
     },
     {
       "char": "₴",
       "code": "&#8372;",
       "css": "\\20B4",
-      "name": "HRYVNIA SIGN"
+      "name": "Hryvnia Sign"
     },
     {
       "char": "₵",
       "code": "&#8373;",
       "css": "\\20B5",
-      "name": "CEDI SIGN"
+      "name": "Cedi Sign"
     },
     {
       "char": "₶",
       "code": "&#8374;",
       "css": "\\20B6",
-      "name": "LIVRE TOURNOIS SIGN"
+      "name": "Livre Tournois Sign"
     },
     {
       "char": "₷",
       "code": "&#8375;",
       "css": "\\20B7",
-      "name": "SPESMILO SIGN"
+      "name": "Spesmilo Sign"
     },
     {
       "char": "₸",
       "code": "&#8376;",
       "css": "\\20B8",
-      "name": "TENGE SIGN"
+      "name": "Tenge Sign"
     },
     {
       "char": "₹",
       "code": "&#8377;",
       "css": "\\20B9",
-      "name": "INDIAN RUPEE SIGN"
+      "name": "Indian Rupee Sign"
     },
     {
       "char": "₺",
       "code": "&#8378;",
       "css": "\\20BA",
-      "name": "TURKISH LIRA SIGN"
+      "name": "Turkish Lira Sign"
     },
     {
       "char": "₻",
       "code": "&#8379;",
       "css": "\\20BB",
-      "name": "NORDIC MARK SIGN"
+      "name": "Nordic Mark Sign"
     },
     {
       "char": "₼",
       "code": "&#8380;",
       "css": "\\20BC",
-      "name": "MANAT SIGN"
+      "name": "Manat Sign"
     },
     {
       "char": "₽",
       "code": "&#8381;",
       "css": "\\20BD",
-      "name": "RUBLE SIGN"
+      "name": "Ruble Sign"
     },
     {
       "char": "₾",
       "code": "&#8382;",
       "css": "\\20BE",
-      "name": "LARI SIGN"
+      "name": "Lari Sign"
     },
     {
       "char": "₿",
       "code": "&#8383;",
       "css": "\\20BF",
-      "name": "BITCOIN SIGN"
+      "name": "Bitcoin Sign"
     }
   ]
 }
