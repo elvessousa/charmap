@@ -4,663 +4,673 @@
       "char": "ò",
       "code": "&#768;",
       "css": "\\0300",
-      "name": "GRAVE ACCENT"
+      "name": "Grave Accent"
     },
     {
       "char": "ó",
       "code": "&#769;",
       "css": "\\0301",
-      "name": "ACUTE ACCENT"
+      "name": "Acute Accent"
     },
     {
       "char": "ô",
       "code": "&#770;",
       "css": "\\0302",
-      "name": "CIRCUMFLEX ACCENT"
+      "name": "Circumflex Accent"
     },
     {
       "char": "õ",
       "code": "&#771;",
       "css": "\\0303",
-      "name": "TILDE"
+      "name": "Tilde"
     },
     {
       "char": "ō",
       "code": "&#772;",
       "css": "\\0304",
-      "name": "MACRON"
+      "name": "Macron"
     },
     {
       "char": "o̅",
       "code": "&#773;",
       "css": "\\0305",
-      "name": "OVERLINE"
+      "name": "Overline"
     },
     {
       "char": "ŏ",
       "code": "&#774;",
       "css": "\\0306",
-      "name": "BREVE"
+      "name": "Breve"
     },
     {
       "char": "ȯ",
       "code": "&#775;",
       "css": "\\0307",
-      "name": "DOT ABOVE"
+      "name": "Dot Above"
     },
     {
       "char": "ö",
       "code": "&#776;",
       "css": "\\0308",
-      "name": "DIAERESIS"
+      "name": "Diaeresis"
     },
     {
       "char": "ỏ",
       "code": "&#777;",
       "css": "\\0309",
-      "name": "HOOK ABOVE"
+      "name": "Hook Above"
     },
     {
       "char": "o̊",
       "code": "&#778;",
       "css": "\\030A",
-      "name": "RING ABOVE"
+      "name": "Ring Above"
     },
     {
       "char": "ő",
       "code": "&#779;",
       "css": "\\030B",
-      "name": "DOUBLE ACUTE ACCENT"
+      "name": "Double Acute Accent"
     },
     {
       "char": "ǒ",
       "code": "&#780;",
       "css": "\\030C",
-      "name": "CARON"
+      "name": "Caron"
     },
     {
       "char": "o̍",
       "code": "&#781;",
       "css": "\\030D",
-      "name": "VERTICAL LINE ABOVE"
+      "name": "Vertical Line Above"
     },
     {
       "char": "o̎",
       "code": "&#782;",
       "css": "\\030E",
-      "name": "DOUBLE VERTICAL LINE ABOVE"
+      "name": "Double Vertical Line Above"
     },
     {
       "char": "ȍ",
       "code": "&#783;",
       "css": "\\030F",
-      "name": "DOUBLE GRAVE ACCENT"
+      "name": "Double Grave Accent"
     },
     {
       "char": "o̐",
       "code": "&#784;",
       "css": "\\0310",
-      "name": "CANDRABINDU"
+      "name": "Candrabindu"
     },
     {
       "char": "ȏ",
       "code": "&#785;",
       "css": "\\0311",
-      "name": "INVERTED BREVE"
+      "name": "Inverted Breve"
     },
     {
       "char": "o̒",
       "code": "&#786;",
       "css": "\\0312",
-      "name": "TURNED COMMA ABOVE"
+      "name": "Turned Comma Above"
     },
     {
       "char": "o̓",
       "code": "&#787;",
       "css": "\\0313",
-      "name": "COMMA ABOVE"
+      "name": "Comma Above"
     },
     {
       "char": "o̔",
       "code": "&#788;",
       "css": "\\0314",
-      "name": "REVERSED COMMA ABOVE"
+      "name": "Reversed Comma Above"
     },
     {
       "char": "o̕",
       "code": "&#789;",
       "css": "\\0315",
-      "name": "COMMA ABOVE RIGHT"
+      "name": "Comma Above Right"
     },
     {
       "char": "o̖",
       "code": "&#790;",
       "css": "\\0316",
-      "name": "GRAVE ACCENT BELOW"
+      "name": "Grave Accent Below"
     },
     {
       "char": "o̗",
       "code": "&#791;",
       "css": "\\0317",
-      "name": "ACUTE ACCENT BELOW"
+      "name": "Acute Accent Below"
     },
     {
       "char": "o̘",
       "code": "&#792;",
       "css": "\\0318",
-      "name": "LEFT TACK BELOW"
+      "name": "Left Tack Below"
     },
     {
       "char": "o̙",
       "code": "&#793;",
       "css": "\\0319",
-      "name": "RIGHT TACK BELOW"
+      "name": "Right Tack Below"
     },
     {
       "char": "o̚",
       "code": "&#794;",
       "css": "\\031A",
-      "name": "LEFT ANGLE ABOVE"
+      "name": "Left Angle Above"
     },
     {
       "char": "ơ",
       "code": "&#795;",
       "css": "\\031B",
-      "name": "HORN"
+      "name": "Horn"
     },
     {
       "char": "o̜",
       "code": "&#796;",
       "css": "\\031C",
-      "name": "LEFT HALF RING BELOW"
+      "name": "Left Half Ring Below"
     },
     {
       "char": "o̝",
       "code": "&#797;",
       "css": "\\031D",
-      "name": "UP TACK BELOW"
+      "name": "Up Tack Below"
     },
     {
       "char": "o̞",
       "code": "&#798;",
       "css": "\\031E",
-      "name": "DOWN TACK BELOW"
+      "name": "Down Tack Below"
     },
     {
       "char": "o̟",
       "code": "&#799;",
       "css": "\\031F",
-      "name": "PLUS SIGN BELOW"
+      "name": "Plus Sign Below"
     },
     {
       "char": "o̠",
       "code": "&#800;",
       "css": "\\0320",
-      "name": "MINUS SIGN BELOW"
+      "name": "Minus Sign Below"
     },
     {
       "char": "o̡",
       "code": "&#801;",
       "css": "\\0321",
-      "name": "PALATALIZED HOOK BELOW"
+      "name": "Palatalized Hook Below"
     },
     {
       "char": "o̢",
       "code": "&#802;",
       "css": "\\0322",
-      "name": "RETROFLEX HOOK BELOW"
+      "name": "Retroflex Hook Below"
     },
     {
       "char": "ọ",
       "code": "&#803;",
       "css": "\\0323",
-      "name": "DOT BELOW"
+      "name": "Dot Below"
     },
     {
       "char": "o̤",
       "code": "&#804;",
       "css": "\\0324",
-      "name": "DIAERESIS BELOW"
+      "name": "Diaeresis Below"
     },
     {
       "char": "o̥",
       "code": "&#805;",
       "css": "\\0325",
-      "name": "RING BELOW"
+      "name": "Ring Below"
     },
     {
       "char": "o̦",
       "code": "&#806;",
       "css": "\\0326",
-      "name": "COMMA BELOW"
+      "name": "Comma Below"
     },
     {
       "char": "o̧",
       "code": "&#807;",
       "css": "\\0327",
-      "name": "CEDILLA"
+      "name": "Cedilla"
     },
     {
       "char": "ǫ",
       "code": "&#808;",
       "css": "\\0328",
-      "name": "OGONEK"
+      "name": "Ogonek"
     },
     {
       "char": "o̩",
       "code": "&#809;",
       "css": "\\0329",
-      "name": "VERTICAL LINE BELOW"
+      "name": "Vertical Line Below"
     },
     {
       "char": "o̪",
       "code": "&#810;",
       "css": "\\032A",
-      "name": "BRIDGE BELOW"
+      "name": "Bridge Below"
     },
     {
       "char": "o̫",
       "code": "&#811;",
       "css": "\\032B",
-      "name": "INVERTED DOUBLE ARCH BELOW"
+      "name": "Inverted Double Arch Below"
     },
     {
       "char": "o̬",
       "code": "&#812;",
       "css": "\\032C",
-      "name": "CARON BELOW"
+      "name": "Caron Below"
     },
     {
       "char": "o̭",
       "code": "&#813;",
       "css": "\\032D",
-      "name": "CIRCUMFLEX ACCENT BELOW"
+      "name": "Circumflex Accent Below"
     },
     {
       "char": "o̮",
       "code": "&#814;",
       "css": "\\032E",
-      "name": "BREVE BELOW"
+      "name": "Breve Below"
     },
     {
       "char": "o̯",
       "code": "&#815;",
       "css": "\\032F",
-      "name": "INVERTED BREVE BELOW"
+      "name": "Inverted Breve Below"
     },
     {
       "char": "o̰",
       "code": "&#816;",
       "css": "\\0330",
-      "name": "TILDE BELOW"
+      "name": "Tilde Below"
     },
     {
       "char": "o̱",
       "code": "&#817;",
       "css": "\\0331",
-      "name": "MACRON BELOW"
+      "name": "Macron Below"
     },
     {
       "char": "o̲",
       "code": "&#818;",
       "css": "\\0332",
-      "name": "LOW LINE"
+      "name": "Low Line"
     },
     {
       "char": "o̳",
       "code": "&#819;",
       "css": "\\0333",
-      "name": "DOUBLE LOW LINE"
+      "name": "Double Low Line"
     },
     {
       "char": "o̴",
       "code": "&#820;",
       "css": "\\0334",
-      "name": "TILDE OVERLAY"
+      "name": "Tilde Overlay"
     },
     {
       "char": "o̵",
       "code": "&#821;",
       "css": "\\0335",
-      "name": "SHORT STROKE OVERLAY"
+      "name": "Short Stroke Overlay"
     },
     {
       "char": "o̶",
       "code": "&#822;",
       "css": "\\0336",
-      "name": "LONG STROKE OVERLAY"
+      "name": "Long Stroke Overlay"
     },
     {
       "char": "o̷",
       "code": "&#823;",
       "css": "\\0337",
-      "name": "SHORT SOLIDUS OVERLAY"
+      "name": "Short Solidus Overlay"
     },
     {
       "char": "o̸",
       "code": "&#824;",
       "css": "\\0338",
-      "name": "LONG SOLIDUS OVERLAY"
+      "name": "Long Solidus Overlay"
     },
     {
       "char": "o̹",
       "code": "&#825;",
       "css": "\\0339",
-      "name": "RIGHT HALF RING BELOW"
+      "name": "Right Half Ring Below"
     },
     {
       "char": "o̺",
       "code": "&#826;",
       "css": "\\033A",
-      "name": "INVERTED BRIDGE BELOW"
+      "name": "Inverted Bridge Below"
     },
     {
       "char": "o̻",
       "code": "&#827;",
       "css": "\\033B",
-      "name": "SQUARE BELOW"
+      "name": "Square Below"
     },
     {
       "char": "o̼",
       "code": "&#828;",
       "css": "\\033C",
-      "name": "SEAGULL BELOW"
+      "name": "Seagull Below"
     },
     {
       "char": "o̽",
       "code": "&#829;",
       "css": "\\033D",
-      "name": "X ABOVE"
+      "name": "X Above"
     },
     {
       "char": "o̾",
       "code": "&#830;",
       "css": "\\033E",
-      "name": "VERTICAL TILDE"
+      "name": "Vertical Tilde"
     },
     {
       "char": "o̿",
       "code": "&#831;",
       "css": "\\033F",
-      "name": "DOUBLE OVERLINE"
+      "name": "Double Overline"
     },
     {
       "char": "ò",
       "code": "&#832;",
       "css": "\\0340",
-      "name": "GRAVE TONE MARK"
+      "name": "Grave Tone Mark"
     },
     {
       "char": "ó",
       "code": "&#833;",
       "css": "\\0341",
-      "name": "ACUTE TONE MARK"
+      "name": "Acute Tone Mark"
     },
     {
       "char": "o͂",
       "code": "&#834;",
       "css": "\\0342",
-      "name": "GREEK PERISPOMENI (combined with theta)"
+      "name": "Greek Perispomeni (Combined With Theta)"
     },
     {
       "char": "o̓",
       "code": "&#835;",
       "css": "\\0343",
-      "name": "GREEK KORONIS (combined with theta)"
+      "name": "Greek Koronis (Combined With Theta)"
     },
     {
       "char": "ö́",
       "code": "&#836;",
       "css": "\\0344",
-      "name": "GREEK DIALYTIKA TONOS (combined with theta)"
+      "name": "Greek Dialytika Tonos (Combined With Theta)"
     },
     {
       "char": "oͅ",
       "code": "&#837;",
       "css": "\\0345",
-      "name": "GREEK YPOGEGRAMMENI (combined with theta)"
+      "name": "Greek Ypogegrammeni (Combined With Theta)"
     },
     {
       "char": "o͆",
       "code": "&#838;",
       "css": "\\0346",
-      "name": "BRIDGE ABOVE"
+      "name": "Bridge Above"
     },
     {
       "char": "o͇",
       "code": "&#839;",
       "css": "\\0347",
-      "name": "EQUALS SIGN BELOW"
+      "name": "Equals Sign Below"
     },
     {
       "char": "o͈",
       "code": "&#840;",
       "css": "\\0348",
-      "name": "DOUBLE VERTICAL LINE BELOW"
+      "name": "Double Vertical Line Below"
     },
     {
       "char": "o͉",
       "code": "&#841;",
       "css": "\\0349",
-      "name": "LEFT ANGLE BELOW"
+      "name": "Left Angle Below"
     },
     {
       "char": "o͊",
       "code": "&#842;",
       "css": "\\034A",
-      "name": "NOT TILDE ABOVE"
+      "name": "Not Tilde Above"
     },
     {
       "char": "o͋",
       "code": "&#843;",
       "css": "\\034B",
-      "name": "HOMOTHETIC ABOVE"
+      "name": "Homothetic Above"
     },
     {
       "char": "o͌",
       "code": "&#844;",
       "css": "\\034C",
-      "name": "ALMOST EQUAL TO ABOVE"
+      "name": "Almost Equal To Above"
     },
     {
       "char": "o͍",
       "code": "&#845;",
       "css": "\\034D",
-      "name": "LEFT RIGHT ARROW BELOW"
+      "name": "Left Right Arrow Below"
     },
     {
       "char": "o͎",
       "code": "&#846;",
       "css": "\\034E",
-      "name": "UPWARDS ARROW BELOW"
+      "name": "Upwards Arrow Below"
     },
     {
       "char": "o͏",
       "code": "&#847;",
       "css": "\\034F",
-      "name": "GRAPHEME JOINER"
+      "name": "Grapheme Joiner"
     },
     {
       "char": "o͐",
       "code": "&#848;",
       "css": "\\0350",
-      "name": "RIGHT ARROWHEAD ABOVE"
+      "name": "Right Arrowhead Above"
     },
     {
       "char": "o͑",
       "code": "&#849;",
       "css": "\\0351",
-      "name": "LEFT HALF RING ABOVE"
+      "name": "Left Half Ring Above"
     },
     {
       "char": "o͒",
       "code": "&#850;",
       "css": "\\0352",
-      "name": "FERMATA"
+      "name": "Fermata"
     },
     {
       "char": "o͓",
       "code": "&#851;",
       "css": "\\0353",
-      "name": "X BELOW"
+      "name": "X Below"
     },
     {
       "char": "o͔",
       "code": "&#852;",
       "css": "\\0354",
-      "name": "LEFT ARROWHEAD BELOW"
+      "name": "Left Arrowhead Below"
     },
     {
       "char": "o͕",
       "code": "&#853;",
       "css": "\\0355",
-      "name": "RIGHT ARROWHEAD BELOW"
+      "name": "Right Arrowhead Below"
     },
     {
       "char": "o͖",
       "code": "&#854;",
       "css": "\\0356",
-      "name": "RIGHT ARROWHEAD AND UP ARROWHEAD BELOW"
+      "name": "Right Arrowhead And Up Arrowhead Below"
     },
     {
       "char": "o͗",
       "code": "&#855;",
       "css": "\\0357",
-      "name": "RIGHT HALF RING ABOVE"
+      "name": "Right Half Ring Above"
     },
     {
       "char": "o͘",
       "code": "&#856;",
       "css": "\\0358",
-      "name": "DOT ABOVE RIGHT"
+      "name": "Dot Above Right"
     },
     {
       "char": "o͙",
       "code": "&#857;",
       "css": "\\0359",
-      "name": "ASTERISK BELOW"
+      "name": "Asterisk Below"
     },
     {
       "char": "o͚",
       "code": "&#858;",
       "css": "\\035A",
-      "name": "DOUBLE RING BELOW"
+      "name": "Double Ring Below"
     },
     {
       "char": "o͛",
       "code": "&#859;",
       "css": "\\035B",
-      "name": "ZIGZAG ABOVE"
+      "name": "Zigzag Above"
     },
     {
       "char": "o",
       "code": "&#860;",
       "css": "\\035C",
-      "name": "DOUBLE BREVE BELOW"
+      "name": "Double Breve Below"
     },
-    { "char": "o", "code": "&#861;", "css": "\\035D", "name": "DOUBLE BREVE" },
-    { "char": "o", "code": "&#862;", "css": "\\035E", "name": "DOUBLE MACRON" },
+    {
+      "char": "o",
+      "code": "&#861;",
+      "css": "\\035D",
+      "name": "Double Breve"
+    },
+    {
+      "char": "o",
+      "code": "&#862;",
+      "css": "\\035E",
+      "name": "Double Macron"
+    },
     {
       "char": "o",
       "code": "&#863;",
       "css": "\\035F",
-      "name": "DOUBLE MACRON BELOW"
+      "name": "Double Macron Below"
     },
     {
       "char": "o",
       "code": "&#864;",
       "css": "\\0360",
-      "name": "DOUBLE TILDE"
+      "name": "Double Tilde"
     },
     {
       "char": "o",
       "code": "&#865;",
       "css": "\\0361",
-      "name": "DOUBLE INVERTED BREVE"
+      "name": "Double Inverted Breve"
     },
     {
       "char": "o",
       "code": "&#866;",
       "css": "\\0362",
-      "name": "DOUBLE RIGHTWARDS ARROW BELOW"
+      "name": "Double Rightwards Arrow Below"
     },
     {
       "char": "oͣ",
       "code": "&#867;",
       "css": "\\0363",
-      "name": "LATIN SMALL LETTER A"
+      "name": "Latin Small Letter A"
     },
     {
       "char": "oͤ",
       "code": "&#868;",
       "css": "\\0364",
-      "name": "LATIN SMALL LETTER E"
+      "name": "Latin Small Letter E"
     },
     {
       "char": "oͥ",
       "code": "&#869;",
       "css": "\\0365",
-      "name": "LATIN SMALL LETTER I"
+      "name": "Latin Small Letter I"
     },
     {
       "char": "oͦ",
       "code": "&#870;",
       "css": "\\0366",
-      "name": "LATIN SMALL LETTER O"
+      "name": "Latin Small Letter O"
     },
     {
       "char": "oͧ",
       "code": "&#871;",
       "css": "\\0367",
-      "name": "LATIN SMALL LETTER U"
+      "name": "Latin Small Letter U"
     },
     {
       "char": "oͨ",
       "code": "&#872;",
       "css": "\\0368",
-      "name": "LATIN SMALL LETTER C"
+      "name": "Latin Small Letter C"
     },
     {
       "char": "oͩ",
       "code": "&#873;",
       "css": "\\0369",
-      "name": "LATIN SMALL LETTER D"
+      "name": "Latin Small Letter D"
     },
     {
       "char": "oͪ",
       "code": "&#874;",
       "css": "\\036A",
-      "name": "LATIN SMALL LETTER H"
+      "name": "Latin Small Letter H"
     },
     {
       "char": "oͫ",
       "code": "&#875;",
       "css": "\\036B",
-      "name": "LATIN SMALL LETTER M"
+      "name": "Latin Small Letter M"
     },
     {
       "char": "oͬ",
       "code": "&#876;",
       "css": "\\036C",
-      "name": "LATIN SMALL LETTER R"
+      "name": "Latin Small Letter R"
     },
     {
       "char": "oͭ",
       "code": "&#877;",
       "css": "\\036D",
-      "name": "LATIN SMALL LETTER T"
+      "name": "Latin Small Letter T"
     },
     {
       "char": "oͮ",
       "code": "&#878;",
       "css": "\\036E",
-      "name": "LATIN SMALL LETTER V"
+      "name": "Latin Small Letter V"
     },
     {
       "char": "oͯ",
       "code": "&#879;",
       "css": "\\036F",
-      "name": "LATIN SMALL LETTER X"
+      "name": "Latin Small Letter X"
     }
   ]
 }

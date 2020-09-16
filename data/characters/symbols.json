@@ -578,7 +578,7 @@
     },
     {
       "char": "♠",
-      "code": "&spades;;",
+      "code": "&spades;",
       "css": "\\2660",
       "name": "Black Spade Suit"
     },
@@ -596,7 +596,7 @@
     },
     {
       "char": "♣",
-      "code": "&clubs;;",
+      "code": "&clubs;",
       "css": "\\2663",
       "name": "Black Club Suit"
     },
@@ -608,13 +608,13 @@
     },
     {
       "char": "♥",
-      "code": "&hearts;;",
+      "code": "&hearts;",
       "css": "\\2665",
       "name": "Black Heart Suit"
     },
     {
       "char": "♦",
-      "code": "&diams;;",
+      "code": "&diams;",
       "css": "\\2666",
       "name": "Black Diamond Suit"
     },

@@ -62,7 +62,7 @@
     },
     {
       "char": "Ċ",
-      "code": "&Cdod;",
+      "code": "&Cdot;",
       "css": "\\010A",
       "name": "Latin Capital Letter C With Dot Above"
     },
@@ -212,7 +212,7 @@
     },
     {
       "char": "ģ",
-      "code": "&gcedil;",
+      "code": "&#291;",
       "css": "\\0123",
       "name": "Latin Small Letter G With Cedilla"
     },
@@ -302,7 +302,7 @@
     },
     {
       "char": "Ĳ",
-      "code": "&IJlog;",
+      "code": "&IJlig;",
       "css": "\\0132",
       "name": "Latin Capital Ligature Ij"
     },
@@ -332,7 +332,7 @@
     },
     {
       "char": "ķ",
-      "code": "&kcedli;",
+      "code": "&kcedil;",
       "css": "\\0137",
       "name": "Latin Small Letter K With Cedilla"
     },
@@ -380,7 +380,7 @@
     },
     {
       "char": "Ŀ",
-      "code": "&Lmodot;",
+      "code": "&Lmidot;",
       "css": "\\013F",
       "name": "Latin Capital Letter L With Middle Dot"
     },
