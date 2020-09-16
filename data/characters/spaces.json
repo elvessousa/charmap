@@ -1,0 +1,137 @@
+{
+  "characters": [
+    {
+      "char": "tab",
+      "code": "&Tab;",
+      "css": "-",
+      "type": "space",
+      "name": "Tab"
+    },
+    {
+      "char": "newline",
+      "code": "&NewLine;",
+      "css": "-",
+      "type": "space",
+      "name": "New line"
+    },
+    {
+      "char": " ",
+      "code": "&nbsp;",
+      "css": " ",
+      "type": "space",
+      "name": "Non-breaking space"
+    },
+    {
+      "char": "shy",
+      "code": "&shy;",
+      "css": "s",
+      "type": "space",
+      "name": "Soft hyphen"
+    },
+    {
+      "char": " ",
+      "code": "&ensp;",
+      "css": "\\2002",
+      "type": "space",
+      "name": "En space"
+    },
+    {
+      "char": " ",
+      "code": "&emsp;",
+      "css": "\\2003",
+      "type": "space",
+      "name": "Em space"
+    },
+    {
+      "char": " ",
+      "code": "&emsp13;",
+      "css": "\\2004",
+      "type": "space",
+      "name": "Three-per-em space"
+    },
+    {
+      "char": " ",
+      "code": "&emsp14;",
+      "css": "\\2005",
+      "type": "space",
+      "name": "Four-per-em space"
+    },
+    {
+      "char": " ",
+      "code": "&numsp;",
+      "css": "\\2007",
+      "type": "space",
+      "name": "Figure space"
+    },
+    {
+      "char": " ",
+      "code": "&puncsp;",
+      "css": "\\2008",
+      "type": "space",
+      "name": "Punctuation space"
+    },
+    {
+      "char": " ",
+      "code": "&thinsp;",
+      "css": "\\2009",
+      "type": "space",
+      "name": "Thin space"
+    },
+    {
+      "char": " ",
+      "code": "&hairsp;",
+      "css": "\\200A",
+      "type": "space",
+      "name": "Very thin space"
+    },
+    {
+      "char": "​",
+      "code": "&ZeroWidthSpace;",
+      "css": "\\200B",
+      "type": "space",
+      "name": "Zero width space"
+    },
+    {
+      "char": "‌",
+      "code": "&zwnj;",
+      "css": "\\200C",
+      "type": "space",
+      "name": "Zero width non-joiner"
+    },
+    {
+      "char": "‍",
+      "code": "&zwj;",
+      "css": "\\200D",
+      "type": "space",
+      "name": "Zero width non-joiner"
+    },
+    {
+      "char": "‎",
+      "code": "&lrm;",
+      "css": "\\200E",
+      "type": "space",
+      "name": "Left-to-right mark"
+    },
+    {
+      "char": "‏",
+      "code": "&rlm;",
+      "css": "\\200F",
+      "type": "space",
+      "name": "Right-to-left mark"
+    },
+    {
+      "char": " ",
+      "code": "&MediumSpace;",
+      "css": "\\205F",
+      "type": "space",
+      "name": "Medium mathematical space"
+    },
+    {
+      "char": "⁠",
+      "code": "&NoBreak;",
+      "css": "\\2060",
+      "type": "space",
+      "name": "Word joiner"
+    }
+  ]
+}
