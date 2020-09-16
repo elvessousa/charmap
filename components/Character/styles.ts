@@ -1,21 +1,25 @@
 import styled from "styled-components";
 
 export const colors = {
+  arrows: "#241f31",
+  blocks: "#000",
+  boxes: "#000",
+  currency: "#2ec27e",
+  cyrillic: "#c01c28",
+  "cyrillic-sup": "#c01c28",
+  diacritical: "#a51d2d",
+  dingbats: "#e66100",
+  extended: "#a51d2d",
+  extended2: "#a51d2d",
+  "latin-mod": "#a51d2d",
   greek: "#1c71d8",
   hebrew: "#1a5fb4",
-  cyrillic: "#c01c28",
-  extended: "#a51d2d",
-  dingbats: "#e66100",
   math: "#c64600",
-  currency: "#2ec27e",
-  symbols: "#26a269",
   punctuation: "#813d9c",
-  typography: "#613583",
-  space: "#3d3846",
-  arrows: "#241f31",
-  box: "#000",
-  blocks: "#000",
   shapes: "#f5c211",
+  space: "#3d3846",
+  symbols: "#26a269",
+  typography: "#613583",
 };
 
 export const Card = styled.div`
