@@ -18,7 +18,7 @@ export const colors = {
   math: "#c64600",
   punctuation: "#813d9c",
   shapes: "#f5c211",
-  space: "#3d3846",
+  spaces: "#3d3846",
   symbols: "#26a269",
   typography: "#613583",
 };
@@ -54,7 +54,7 @@ export const Letter = styled.button<LetterProps>`
     font-size: 5em;
     margin: 0;
     text-decoration: ${(props) =>
-      props.category === "space" ? "underline" : "none"};
+      props.category === "spaces" ? "underline" : "none"};
   }
 
   dfn {

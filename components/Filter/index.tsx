@@ -20,7 +20,7 @@ const Filter: React.FC = () => {
     { category: "math", symbol: "&#8731;" },
     { category: "punctuation", symbol: "&#8277;" },
     { category: "shapes", symbol: "&#9639;" },
-    { category: "space", symbol: "&empty;" },
+    { category: "spaces", symbol: "&empty;" },
     { category: "symbols", symbol: "&#9728;" },
     { category: "typography", symbol: "&para;" },
     // { category: "yellow", symbol: "#f5c211" },
