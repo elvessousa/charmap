@@ -1,36 +1,42 @@
 import styled from "styled-components";
 
 export const FilterNavigation = styled.nav`
-  width: 45em;
-  margin: 2em auto;
-
-  @media screen and (min-width: 15em) and (max-width: 47em) {
-    display: none;
-  }
-
-  a,
-  button {
-    background: transparent;
-    border: 0;
-    cursor: pointer;
-    font-weight: bold;
-    font-size: 1.5em;
-    width: 2em;
-    border-radius: 0.15em;
-    padding: 0.3em;
-    transition: all 0.2s ease-in-out;
-
-    &:hover {
-      background: #000;
-      color: #fff;
-    }
-  }
+  width: 100%;
 
   ul {
     list-style: none;
     display: flex;
+    flex-direction: column;
     padding: 0;
-    align-items: center;
-    justify-content: space-between;
+    margin: 0;
+  }
+
+  li {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  a {
+    padding: 0 1em;
+    display: block;
+    transition: all 0.2s ease-in-out;
+
+    span {
+      background: transparent;
+      border: 0;
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 1.5em;
+      width: 45px;
+      text-align: center;
+      display: inline-block;
+      border-radius: 0.15em;
+      padding: 0.3em;
+      opacity: 0.7;
+    }
+
+    &:hover {
+      background: #eee;
+      opacity: 1;
+    }
   }
 `;

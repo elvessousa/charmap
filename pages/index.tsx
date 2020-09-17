@@ -19,7 +19,6 @@ interface Character {
 
 const Home: NextPage<PageProps> = ({ chars }) => {
   const symbols = chars.filter((char) => char.type === "space");
-  console.log(symbols);
 
   return (
     <Layout title="Charmap">

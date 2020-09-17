@@ -20,7 +20,6 @@ interface Character {
 const Dingbats: NextPage<PageProps> = ({ category, chars }) => {
   return (
     <Layout title="Charmap">
-      <h1>Charmap</h1>
       <Filter />
       <div className="characters">
         {chars.map((char: Character) => (

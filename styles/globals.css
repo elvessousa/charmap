@@ -14,6 +14,22 @@ body {
   scroll-behavior: smooth;
 }
 
+main {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 300px 1fr 1fr;
+  grid-template-areas:
+    "site title title"
+    "nav chars chars"
+    "footer footer footer";
+  overflow: scroll;
+}
+
+main > nav {
+  grid-area: nav;
+  border-right: 1px solid #eee;
+}
+
 button {
   font-family: "Inter", sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -34,6 +50,10 @@ h1 {
   font-weight: 900;
   text-align: center;
   text-transform: uppercase;
+  grid-area: title;
+  margin: 0;
+  place-items: center;
+  display: grid;
 }
 
 h2 {
@@ -42,16 +62,41 @@ h2 {
   text-transform: capitalize;
 }
 
+.logo {
+  background: #000;
+  color: #fff;
+  display: grid;
+  place-items: center;
+  height: 30vh;
+}
+
 .characters {
   display: grid;
   grid-gap: 1em;
   max-width: 50em;
-  margin: auto;
+  margin: 2em auto;
   grid-template-columns: repeat(4, 1fr);
+  grid-area: chars;
+}
+
+.menu-button {
+  border-radius: 3em;
+  border: 2px solid #eee;
+  bottom: 1em;
+  font-size: 2em;
+  height: 1em;
+  line-height: 0;
+  padding: 1em 0;
+  position: fixed;
+  right: 1em;
+  text-align: center;
+  width: 2em;
 }
 
 footer {
-  padding-block: 2em;
+  border-top: 1px solid #eee;
+  grid-area: footer;
+  padding-block: 1em;
   text-align: center;
 }
 
