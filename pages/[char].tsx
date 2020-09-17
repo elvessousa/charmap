@@ -3,6 +3,7 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Character from "../components/Character";
 import Filter from "../components/Filter";
 import Layout from "../components/Layout";
+import { navigation } from "../lib/navigation";
 
 interface PageProps {
   category: string;
@@ -18,8 +19,10 @@ interface Character {
 }
 
 const Dingbats: NextPage<PageProps> = ({ category, chars }) => {
+  const title = navigation.filter((item) => item.category === category);
+
   return (
-    <Layout title="Charmap">
+    <Layout title={title[0].name}>
       <Filter />
       <div className="characters">
         {chars.map((char: Character) => (

@@ -1,4 +1,6 @@
 import Head from "next/head";
+import Link from "next/link";
+import Header from "../Header";
 
 interface LayoutProps {
   title: string;
@@ -15,9 +17,7 @@ const Layout: React.FC<LayoutProps> = ({ title, children }) => {
       </Head>
 
       <main>
-        <div className="logo">
-          <p>Charmap</p>
-        </div>
+        <Header />
         <h1>{title}</h1>
         {children}
         <footer>

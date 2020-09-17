@@ -20,11 +20,14 @@ const Home: NextPage<PageProps> = ({ chars }) => {
   const symbols = chars.filter((char) => char.type === "space");
 
   return (
-    <Layout title="Charmap">
-      <h1>Charmap</h1>
+    <Layout title="Welcome to Charmap">
+      <p className="text">
+        This site is a simple tool for coping those hard to type to your
+        clipboard in order to use it in your documents or projects.
+      </p>
       <Filter />
       <div className="characters">
-        {symbols.map((char: Character) => (
+        {chars.map((char: Character) => (
           <Character
             key={char.code}
             entity={char.code}
@@ -39,7 +42,7 @@ const Home: NextPage<PageProps> = ({ chars }) => {
 };
 
 export const getStaticProps: GetStaticProps = async () => {
-  const data = await import(`../data/chars.json`);
+  const data = await import(`../data/home.json`);
 
   return {
     props: {

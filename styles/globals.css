@@ -19,7 +19,9 @@ main {
   display: grid;
   grid-template-columns: 300px 1fr 1fr;
   grid-template-areas:
-    "site title title"
+    "nav title title"
+    "nav sub sub"
+    "nav desc desc"
     "nav chars chars"
     "footer footer footer";
   overflow: scroll;
@@ -46,11 +48,10 @@ strong {
 }
 
 h1 {
-  font-size: 7vw;
+  font-size: 3vw;
   font-weight: 900;
   text-align: center;
-  text-transform: uppercase;
-  grid-area: title;
+  grid-area: sub;
   margin: 0;
   place-items: center;
   display: grid;
@@ -63,13 +64,34 @@ h2 {
 }
 
 .logo {
-  background: #000;
-  color: #fff;
+  background-color: #000;
+  color: #000;
   display: grid;
   place-items: center;
-  height: 30vh;
+  height: 40vh;
   margin: 1em;
   border-radius: 0.5em;
+  grid-area: title;
+}
+
+.logo img {
+  width: 10vh;
+}
+
+.logo h2 {
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 2em;
+  line-height: 1;
+  margin-top: -0.5em;
+}
+
+.text {
+  grid-area: desc;
+  max-width: 40em;
+  margin: 0 auto 2em;
+  opacity: 0.7;
 }
 
 .characters {
@@ -101,9 +123,31 @@ footer {
   text-align: center;
 }
 
+footer a {
+  font-weight: bold;
+}
+
 @media screen and (min-width: 15em) and (max-width: 47em) {
   h1 {
-    font-size: 15vw;
+    font-size: 5vw;
+  }
+
+  main {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "title"
+      "sub"
+      "desc"
+      "chars"
+      "footer";
+  }
+
+  main > nav {
+    display: none;
+  }
+
+  .text {
+    margin: 2em;
   }
 
   .characters {

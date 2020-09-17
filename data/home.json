@@ -1,0 +1,144 @@
+{
+  "characters": [
+    {
+      "char": "≡",
+      "code": "&equiv;",
+      "css": "\\2261",
+      "type": "math",
+      "name": "Identical to"
+    },
+    {
+      "char": "™",
+      "code": "&trade;",
+      "css": "\\2122",
+      "type": "typography",
+      "name": "Trade mark sign"
+    },
+    {
+      "char": "®",
+      "code": "&reg;",
+      "css": "\\00AE",
+      "type": "typography",
+      "name": "Registered sign"
+    },
+    {
+      "char": "@",
+      "code": "&#64;",
+      "css": "\\0040",
+      "type": "latin",
+      "name": "Commercial At"
+    },
+    {
+      "char": "∅",
+      "code": "&empty;",
+      "css": "\\2205",
+      "type": "math",
+      "name": "Empty"
+    },
+    {
+      "char": "▧",
+      "code": "&#9639;",
+      "css": "\\25A7",
+      "type": "shapes",
+      "name": "Square With Upper Left To Lower Right Fill"
+    },
+    {
+      "char": "×",
+      "code": "&times;",
+      "css": "\\00D7",
+      "type": "math",
+      "name": "Times"
+    },
+    {
+      "char": "▣",
+      "code": "&#9635;",
+      "css": "\\25A3",
+      "type": "shapes",
+      "name": "White Square Containing Black Small Square"
+    },
+    {
+      "char": "▓",
+      "code": "&#9619;",
+      "css": "\\2593",
+      "type": "blocks",
+      "name": "Dark Shade"
+    },
+    {
+      "char": "☀",
+      "code": "&#9728;",
+      "css": "\\2600",
+      "type": "symbols",
+      "name": "Black Sun With Rays"
+    },
+    {
+      "char": "§",
+      "code": "&sect;",
+      "css": "\\00A7",
+      "type": "typography",
+      "name": "Section sign"
+    },
+    {
+      "char": "₨",
+      "code": "&#8360;",
+      "css": "\\20A8",
+      "type": "currency",
+      "name": "Rupee Sign"
+    },
+    {
+      "char": "₽",
+      "code": "&#8381;",
+      "css": "\\20BD",
+      "type": "currency",
+      "name": "Ruble Sign"
+    },
+    {
+      "char": "Ω",
+      "code": "&Omega;",
+      "css": "\\03A9",
+      "type": "greek",
+      "name": "Omega"
+    },
+    {
+      "char": "α",
+      "code": "&alpha;",
+      "css": "\\03B1",
+      "type": "greek",
+      "name": "Alpha"
+    },
+    {
+      "char": "№",
+      "code": "&numero;",
+      "css": "\\2116",
+      "type": "typography",
+      "name": "Numero"
+    },
+    {
+      "char": "ß",
+      "code": "&szlig;",
+      "css": "\\00DF",
+      "type": "extended",
+      "name": "Sharp S / German S"
+    },
+    {
+      "char": "©",
+      "code": "&copy;",
+      "css": "\\00A9",
+      "type": "typography",
+      "name": "Copyright sign"
+    },
+    {
+      "char": "€",
+      "code": "&euro;",
+      "css": "\\20AC",
+      "type": "currency",
+      "name": "Euro sign"
+    },
+    {
+      "char": "»",
+      "code": "&raquo;",
+      "css": "\\00BB",
+      "type": "punctuation",
+      "name": "Left double angle quotation mark"
+    }
+  ]
+}
