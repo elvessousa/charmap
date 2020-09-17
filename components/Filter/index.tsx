@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { navigation } from "../../data/navigation";
+import { navigation } from "../../lib/navigation";
 import { FilterNavigation } from "./styles";
 
 const Filter: React.FC = () => {

@@ -1,5 +1,4 @@
 import { GetStaticProps, NextPage } from "next";
-import Head from "next/head";
 
 import Character from "../components/Character";
 import Filter from "../components/Filter";

@@ -27,7 +27,6 @@ main {
 
 main > nav {
   grid-area: nav;
-  border-right: 1px solid #eee;
 }
 
 button {
@@ -39,6 +38,7 @@ button {
 a {
   color: inherit;
   text-decoration: none;
+  outline: none;
 }
 
 strong {
@@ -68,6 +68,8 @@ h2 {
   display: grid;
   place-items: center;
   height: 30vh;
+  margin: 1em;
+  border-radius: 0.5em;
 }
 
 .characters {
@@ -94,7 +96,6 @@ h2 {
 }
 
 footer {
-  border-top: 1px solid #eee;
   grid-area: footer;
   padding-block: 1em;
   text-align: center;

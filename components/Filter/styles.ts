@@ -12,13 +12,14 @@ export const FilterNavigation = styled.nav`
   }
 
   li {
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    /* border-top: 1px solid rgba(0, 0, 0, 0.1); */
   }
 
   a {
     padding: 0 1em;
     display: block;
     transition: all 0.2s ease-in-out;
+    opacity: 0.7;
 
     span {
       background: transparent;
@@ -35,7 +36,6 @@ export const FilterNavigation = styled.nav`
     }
 
     &:hover {
-      background: #eee;
       opacity: 1;
     }
   }
