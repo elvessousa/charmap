@@ -6,6 +6,14 @@ const Filter: React.FC = () => {
   return (
     <FilterNavigation>
       <ul>
+        <li>
+          <Link href={`/`}>
+            <a>
+              <span dangerouslySetInnerHTML={{ __html: "&#10026;" }} />
+              Home
+            </a>
+          </Link>
+        </li>
         {navigation.map((item, index) => (
           <li key={index}>
             <Link href={`/[chars]`} as={`/${item.category}`}>
