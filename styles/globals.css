@@ -52,7 +52,7 @@ h1 {
   font-weight: 900;
   text-align: center;
   grid-area: sub;
-  margin: 0;
+  margin: 1em 0 0.5em;
   place-items: center;
   display: grid;
 }
@@ -61,6 +61,31 @@ h2 {
   text-align: center;
   font-size: 2.5em;
   text-transform: capitalize;
+}
+
+.brand {
+  margin-bottom: 1em;
+}
+
+.brand h4 {
+  font-size: 2em;
+  font-weight: 900;
+  letter-spacing: -0.05em;
+  line-height: 1;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.brand h4::before {
+  background: url(/logo.svg) no-repeat;
+  background-size: contain;
+  content: "";
+  display: inline-block;
+  filter: invert();
+  height: 1em;
+  position: relative;
+  top: 0.1em;
+  width: 1em;
 }
 
 .logo {
@@ -92,6 +117,7 @@ h2 {
   max-width: 40em;
   margin: 0 auto 2em;
   opacity: 0.7;
+  text-align: center;
 }
 
 .characters {
@@ -103,18 +129,9 @@ h2 {
   grid-area: chars;
 }
 
+.menu,
 .menu-button {
-  border-radius: 3em;
-  border: 2px solid #eee;
-  bottom: 1em;
-  font-size: 2em;
-  height: 1em;
-  line-height: 0;
-  padding: 1em 0;
-  position: fixed;
-  right: 1em;
-  text-align: center;
-  width: 2em;
+  display: none;
 }
 
 footer {
@@ -144,6 +161,41 @@ footer a {
 
   main > nav {
     display: none;
+  }
+
+  .menu {
+    display: grid;
+    place-items: center;
+    position: fixed;
+    overflow: scroll;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #fff;
+  }
+
+  .menu nav {
+    width: auto;
+  }
+
+  .menu-button {
+    background: #fff;
+    border-radius: 3em;
+    border: 2px solid #eee;
+    bottom: 10px;
+    font-size: 3em;
+    font-weight: bold;
+    height: 0em;
+    line-height: 0;
+    outline: none;
+    padding: 0.7em 0.1em 0.8em;
+    position: fixed;
+    right: 10px;
+    text-align: center;
+    width: 1.5em;
+    z-index: 2;
   }
 
   .text {

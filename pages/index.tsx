@@ -20,7 +20,7 @@ const Home: NextPage<PageProps> = ({ chars }) => {
   const symbols = chars.filter((char) => char.type === "space");
 
   return (
-    <Layout title="Welcome to Charmap">
+    <Layout title="Welcome to Charmap" showHeader>
       <p className="text">
         This site is a simple tool for coping those hard to type to your
         clipboard in order to use it in your documents or projects.

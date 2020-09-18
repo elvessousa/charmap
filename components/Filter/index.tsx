@@ -8,9 +8,8 @@ const Filter: React.FC = () => {
       <ul>
         <li>
           <Link href={`/`}>
-            <a>
-              <span dangerouslySetInnerHTML={{ __html: "&#10026;" }} />
-              Home
+            <a className="brand">
+              <h4>Charmap</h4>
             </a>
           </Link>
         </li>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88.875mm" height="114.37mm" version="1.1" viewBox="0 0 88.875 114.37" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-59.828 -45.509)">
+  <g fill="#000">
+   <path d="m110.94 55.783c-20.784-2e-6 -37.766 16.981-37.766 37.766 0 20.784 16.981 37.768 37.766 37.768 20.784 0 37.768-16.983 37.768-37.768 0-20.784-16.983-37.766-37.768-37.766zm0 12.41c14.077 0 25.355 11.279 25.355 25.355 0 14.077-11.279 25.355-25.355 25.355-14.077 0-25.355-11.279-25.355-25.355 0-14.077 11.279-25.355 25.355-25.355z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <path d="m72.703 59.694c-18.628 21.02-16.755 53.302 4.214 72.022 20.969 18.72 53.256 16.933 72.036-3.9513l-6.8596-6.1237c-15.47 17.177-41.791 18.626-59.053 3.2154-17.262-15.41-18.797-41.727-3.4781-59.038z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <rect x="104.32" y="124.9" width="9.0714" height="34.985" stop-color="#000000"/>
+   <rect x="86.541" y="150.43" width="43.483" height="9.4494" stop-color="#000000"/>
+  </g>
+  <g fill="#000" transform="translate(-.88965 -.99428)" stroke-width="1.2654" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="#">
+   <path d="m122.25 90.9-0.86044 7.2884h6.3267v6.5292h-7.1366l-0.96166 7.5415h-6.8835l0.96167-7.5415h-6.2255l-0.96166 7.5415h-6.8835l0.96166-7.5415h-6.3773v-6.5292h7.1872l0.86044-7.2884h-6.3773v-6.5292h7.1872l0.96166-7.5415h6.8835l-0.96167 7.5415h6.2255l0.96166-7.5415h6.8835l-0.96166 7.5415h6.3773v6.5292zm-6.8835 0h-6.2255l-0.86043 7.2884h6.2255z" stroke-width="1.2654" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+  </g>
+ </g>
+</svg>

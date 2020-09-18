@@ -58,10 +58,11 @@ export const Letter = styled.button<LetterProps>`
   }
 
   dfn {
+    bottom: 0;
     display: block;
     font-style: normal;
     opacity: 0.5;
-    padding: 0 1em;
+    padding: 0 0 1em;
     text-align: center;
     text-transform: capitalize;
     transition: opacity 0.2s ease-in-out;
