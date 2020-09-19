@@ -2,6 +2,7 @@ import { GetStaticProps, NextPage } from "next";
 
 import Character from "../components/Character";
 import Filter from "../components/Filter";
+import Header from "../components/Header";
 import Layout from "../components/Layout";
 
 interface PageProps {
@@ -21,10 +22,14 @@ const Home: NextPage<PageProps> = ({ chars }) => {
 
   return (
     <Layout title="Welcome to Charmap" showHeader>
-      <p className="text">
-        This site is a simple tool for coping those hard to type to your
-        clipboard in order to use it in your documents or projects.
-      </p>
+      <Header>
+        <h1>Welcome to Charmap</h1>
+        <p className="text">
+          This site is a simple tool for coping those hard to type to your
+          clipboard in order to use it in your documents or projects.
+        </p>
+      </Header>
+
       <Filter />
       <div className="characters">
         {chars.map((char: Character) => (

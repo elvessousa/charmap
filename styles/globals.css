@@ -88,30 +88,6 @@ h2 {
   width: 1em;
 }
 
-.logo {
-  background-color: #000;
-  color: #000;
-  display: grid;
-  place-items: center;
-  height: 40vh;
-  margin: 1em;
-  border-radius: 0.5em;
-  grid-area: title;
-}
-
-.logo img {
-  width: 10vh;
-}
-
-.logo h2 {
-  margin: 0;
-  text-transform: uppercase;
-  font-weight: 900;
-  font-size: 2em;
-  line-height: 1;
-  margin-top: -0.5em;
-}
-
 .text {
   grid-area: desc;
   max-width: 40em;
@@ -146,7 +122,7 @@ footer a {
 
 @media screen and (min-width: 15em) and (max-width: 47em) {
   h1 {
-    font-size: 5vw;
+    font-size: 8vw;
   }
 
   main {
@@ -187,6 +163,7 @@ footer a {
     bottom: 10px;
     font-size: 3em;
     font-weight: bold;
+    display: initial;
     height: 0em;
     line-height: 0;
     outline: none;

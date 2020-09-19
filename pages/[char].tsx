@@ -23,6 +23,7 @@ const Dingbats: NextPage<PageProps> = ({ category, chars }) => {
 
   return (
     <Layout title={title[0].name}>
+      <h1>{title[0].name}</h1>
       <Filter />
       <div className="characters">
         {chars.map((char: Character) => (

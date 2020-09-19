@@ -11,10 +11,6 @@ export const FilterNavigation = styled.nav`
     margin: 1em;
   }
 
-  li {
-    /* border-top: 1px solid rgba(0, 0, 0, 0.1); */
-  }
-
   a {
     padding: 0 1em;
     display: block;

@@ -1,6 +1,5 @@
 import Head from "next/head";
 
-import Header from "../Header";
 import MobileMenu from "../MobileMenu";
 
 interface LayoutProps {
@@ -19,9 +18,6 @@ const Layout: React.FC<LayoutProps> = ({ title, children, showHeader }) => {
       </Head>
 
       <main>
-        {showHeader && <Header />}
-        <h1>{title}</h1>
-
         {children}
 
         <MobileMenu />

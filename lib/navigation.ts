@@ -1,7 +1,7 @@
 export const navigation = [
   { name: "Arrows", category: "arrows", symbol: "&darr;" },
-  { name: "Block Elements", category: "blocks", symbol: "&#9626;" },
-  { name: "Box Drawing", category: "boxes", symbol: "&marker;" },
+  { name: "Block Elements", category: "blocks", symbol: "&#9703;" },
+  { name: "Box Drawing", category: "boxes", symbol: "&#9707;" },
   { name: "Currency", category: "currency", symbol: "&euro;" },
   { name: "Cyrillic", category: "cyrillic", symbol: "&ZHcy;" },
   { name: "Cyrillic Suplements", category: "cyrillic-sup", symbol: "&#1304;" },

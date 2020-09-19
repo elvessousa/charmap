@@ -46,6 +46,7 @@ export const Letter = styled.button<LetterProps>`
   text-align: center;
   width: 100%;
   height: 130px;
+  overflow: hidden;
   padding: 1em;
   position: relative;
   transition: all 0.2s ease-in-out;
@@ -58,14 +59,10 @@ export const Letter = styled.button<LetterProps>`
   }
 
   dfn {
-    bottom: 0;
-    display: block;
-    font-style: normal;
-    opacity: 0.5;
-    padding: 0 0 1em;
-    text-align: center;
-    text-transform: capitalize;
+    opacity: 0;
+    bottom: -5em;
     transition: opacity 0.2s ease-in-out;
+    padding: 0.5em;
   }
 
   span {
@@ -99,6 +96,18 @@ export const Letter = styled.button<LetterProps>`
 
     dfn {
       opacity: 1;
+      bottom: 0;
+      right: 0;
+      left: 0;
+      display: block;
+      font-size: 0.9em;
+      font-style: normal;
+      opacity: 0.5;
+      padding: 0 0 1em;
+      position: absolute;
+      pointer-events: none;
+      text-align: center;
+      text-transform: capitalize;
     }
   }
 `;
@@ -119,6 +128,7 @@ export const Code = styled.div`
     border-left: 1px solid #eee;
     border-bottom: 1px solid #eee;
     cursor: pointer;
+    outline: none;
     transition: all 0.2s ease-in-out;
 
     &:hover {
