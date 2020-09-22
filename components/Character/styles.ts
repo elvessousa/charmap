@@ -62,7 +62,15 @@ export const Letter = styled.button<LetterProps>`
     opacity: 0;
     bottom: -5em;
     transition: opacity 0.2s ease-in-out;
-    padding: 0.5em;
+    display: block;
+    font-size: 0.9em;
+    font-style: normal;
+    opacity: 0.5;
+    padding: 0 0 1em;
+    position: relative;
+    pointer-events: none;
+    text-align: center;
+    text-transform: capitalize;
   }
 
   span {
@@ -99,15 +107,6 @@ export const Letter = styled.button<LetterProps>`
       bottom: 0;
       right: 0;
       left: 0;
-      display: block;
-      font-size: 0.9em;
-      font-style: normal;
-      opacity: 0.5;
-      padding: 0 0 1em;
-      position: absolute;
-      pointer-events: none;
-      text-align: center;
-      text-transform: capitalize;
     }
   }
 `;
