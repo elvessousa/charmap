@@ -18,7 +18,7 @@ const Layout: React.FC<LayoutProps> = ({
   const pageTitle = title || "Character Map";
   const siteName = config.sitename;
   const baseUrl = config.siteurl;
-  const thumb = image ? `${baseUrl}/${image}` : `${baseUrl}/img/elvessousa.jpg`;
+  const thumb = image ? `${baseUrl}/${image}` : `${baseUrl}/img/charmap.jpg`;
   const desc = description || config.description;
 
   return (
