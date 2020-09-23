@@ -52,7 +52,6 @@ h1 {
   font-weight: 900;
   text-align: center;
   grid-area: sub;
-  margin: 1em 0 0.5em;
   place-items: center;
   display: grid;
 }
@@ -67,16 +66,18 @@ h2 {
   margin-bottom: 1em;
 }
 
-.brand h4 {
+.brand .name {
   font-size: 2em;
   font-weight: 900;
   letter-spacing: -0.05em;
   line-height: 1;
   margin: 0;
+  display: block;
+  width: 100%;
   text-transform: uppercase;
 }
 
-.brand h4::before {
+.brand .name::before {
   background: url(/logo.svg) no-repeat;
   background-size: contain;
   content: "";

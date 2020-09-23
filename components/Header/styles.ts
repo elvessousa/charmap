@@ -12,6 +12,10 @@ export const Hero = styled.header`
   grid-area: title;
   text-align: center;
 
+  @media screen and (min-width: 15em) and (max-width: 47em) {
+    min-height: 90vh;
+  }
+
   img {
     width: 10vh;
     margin: auto;

@@ -74,15 +74,16 @@ export const Letter = styled.button<LetterProps>`
   }
 
   span {
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.1);
     border-bottom-right-radius: 0.5em;
+    font-weight: bold;
     color: #fff;
     opacity: 0.8;
     display: block;
     position: absolute;
     top: 0;
     left: 0;
-    font-size: 1em;
+    font-size: 0.8em;
     padding: 0.5em 1em;
     text-transform: uppercase;
   }

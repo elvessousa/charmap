@@ -9,7 +9,7 @@ const Filter: React.FC = () => {
         <li>
           <Link href={`/`}>
             <a className="brand">
-              <h4>Charmap</h4>
+              <span className="name">Charmap</span>
             </a>
           </Link>
         </li>

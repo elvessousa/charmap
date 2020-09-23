@@ -15,7 +15,7 @@ export const FilterNavigation = styled.nav`
     padding: 0 1em;
     display: block;
     transition: all 0.2s ease-in-out;
-    opacity: 0.7;
+    opacity: 0.9;
 
     span {
       background: transparent;
