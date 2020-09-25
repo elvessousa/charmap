@@ -24,8 +24,9 @@ const Home: NextPage<PageProps> = ({ chars }) => {
     <Layout title="Welcome to Charmap">
       <Header title="Welcome to Charmap">
         <p className="text">
-          This site is a simple tool for coping those hard to type to your
-          clipboard in order to use it in your documents or projects.
+          A simple tool for coping those hard-to-type characters to your
+          clipboard.
+          <br /> Just click to copy!
         </p>
       </Header>
 
